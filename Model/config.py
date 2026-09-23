@@ -1,5 +1,6 @@
 # 设置训练参数
 # 后续分成NER和RE两部分，单独参数！
+import os
 import torch
 
 
@@ -35,7 +36,8 @@ class BertConfig(object):
     hidden_size = 768
     num_hidden_layers = 12
     num_attention_heads = 12
-    path = "/root/autodl-tmp/bert_CN"
+    # 优先从环境变量 BERT_PATH 读取预训练模型路径/名称，默认 fallback 到 autodl 路径
+    path = os.getenv("BERT_PATH", "/root/autodl-tmp/bert_CN")
     lr = 3e-5
 
 

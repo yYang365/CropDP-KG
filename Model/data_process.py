@@ -11,8 +11,9 @@ def build_NER(split, tag2id):
     assert split.lower() in ["train", "dev", "test"]
     word_lists = []
     tag_lists = []
-    dir_name = "./medicine_data_NER/" + split + ".txt"
-    with open(dir_name, 'r', encoding='utf-8') as f:
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(base_dir, "crop_disease_NER", f"{split}.txt")
+    with open(file_path, 'r', encoding='utf-8') as f:
         word_list = []
         tag_list = []
         for line in f:

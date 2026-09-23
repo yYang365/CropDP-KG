@@ -1,5 +1,5 @@
+import os
 import torch
-from numpy.f2py import __version__
 from torch.utils.data import DataLoader
 from transformers import BertTokenizer
 
@@ -19,7 +19,8 @@ def get_tag2id(tag_file):
 
 
 def get_NER_dataloader():
-    tag2id = get_tag2id("medicine_data_NER/NER_labels.txt")
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    tag2id = get_tag2id(os.path.join(base_dir, "crop_disease_NER", "NER_labels.txt"))
     id2tag = {v: k for k, v in tag2id.items()}
     entity_tag_size = len(tag2id)
     print("entity_tag_size", entity_tag_size)

@@ -1,0 +1,2034 @@
+number,Chinese entity name,entity binomial scientific name,Chinese condition,English condition,Chinese relation,English relation
+1,斜纹夜蛾,Spodoptera litura,相对湿度75%～80%,Relative humidity 75%～80%,适宜发生条件,ConditionIs
+2,斜纹夜蛾,Spodoptera litura,田间水肥好,Good water and fertilizer in the field,适宜发生条件,ConditionIs
+3,草莓枯萎病,Fusarium oxysporum f. sp. fragariae,土质粘重,Heavy soil,适宜发生条件,ConditionIs
+4,草莓枯萎病,Fusarium oxysporum f. sp. fragariae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+5,草莓枯萎病,Fusarium oxysporum f. sp. fragariae,排水不良,Poor drainage,适宜发生条件,ConditionIs
+6,草莓枯萎病,Fusarium oxysporum f. sp. fragariae,地温低,Low ground temperature,适宜发生条件,ConditionIs
+7,草莓枯萎病,Fusarium oxysporum f. sp. fragariae,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+8,草莓枯萎病,Fusarium oxysporum f. sp. fragariae,土壤过酸,Soil is too acidic,适宜发生条件,ConditionIs
+9,草莓枯萎病,Fusarium oxysporum f. sp. fragariae,施肥不足,Insufficient fertilization,适宜发生条件,ConditionIs
+10,草莓枯萎病,Fusarium oxysporum f. sp. fragariae,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+11,草莓根腐病,Phytophthora fragariae,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+12,草莓根腐病,Phytophthora fragariae,地力下降,Land fertility decline,适宜发生条件,ConditionIs
+13,草莓根腐病,Phytophthora fragariae,土壤湿度过大,Excessive soil moisture,适宜发生条件,ConditionIs
+14,草莓炭疽病,Colletotrichum fragariae,凉爽,cool,适宜发生条件,ConditionIs
+15,草莓白粉病,Podosphaera aphanis,空气湿度为80%,Air humidity is 80%,适宜发生条件,ConditionIs
+16,草莓白粉病,Podosphaera aphanis,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+17,草莓灰霉病,Botrytis cinerea,温暖湿润,Warm and humid,适宜发生条件,ConditionIs
+18,草莓青枯病,Ralstonia solanacearum,状态，湿度小,"State, low humidity",适宜发生条件,ConditionIs
+19,草莓畸形果,Strawberry malformed fruit,低温,Low temperature,适宜发生条件,ConditionIs
+20,枣桃六点天蛾,Marumba gaschkewitschii,多雨高湿,Rainy and humid,适宜发生条件,ConditionIs
+21,柿炭疽病,Colletotrichum gloeosporioides,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+22,柿炭疽病,Colletotrichum gloeosporioides,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+23,柿灰霉病,Botrytis cinerea,通风条件差,Poor ventilation,适宜发生条件,ConditionIs
+24,柿灰霉病,Botrytis cinerea,施氮肥多,Apply more nitrogen fertilizer,适宜发生条件,ConditionIs
+25,柿圆斑病,Mycosphaerella nawae,土地瘠薄,Barren land,适宜发生条件,ConditionIs
+26,柿圆斑病,Mycosphaerella nawae,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+27,石榴干腐病,Zythia versoniana,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+28,石榴干腐病,Zythia versoniana,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+29,石榴干腐病,Zythia versoniana,管理不良,Poor management,适宜发生条件,ConditionIs
+30,石榴干腐病,Zythia versoniana,树势弱,Weak tree,适宜发生条件,ConditionIs
+31,石榴干腐病,Zythia versoniana,降雨不均,Uneven rainfall,适宜发生条件,ConditionIs
+32,石榴疮痂病,Sphaceloma punicae,多雨湿度大,Rainy and humid,适宜发生条件,ConditionIs
+33,柑橘脂点黄斑病,Mycosphaerella citri,湿度大,High humidity,适宜发生条件,ConditionIs
+34,柑橘炭疽病,Colletotrichum gloeosporioides,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+35,柑橘疫霉病,Phytophthora spp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+36,柑橘疫霉病,Phytophthora spp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+37,柑橘疫霉病,Phytophthora spp.,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+38,柑橘疫霉病,Phytophthora spp.,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+39,柑橘疫霉病,Phytophthora spp.,土壤干湿,Soil dryness,适宜发生条件,ConditionIs
+40,柑橘黄龙病,Candidatus Liberibacter asiaticus,施肥不足,Insufficient fertilization,适宜发生条件,ConditionIs
+41,柑橘黄龙病,Candidatus Liberibacter asiaticus,排水不良,Poor drainage,适宜发生条件,ConditionIs
+42,柑橘黄龙病,Candidatus Liberibacter asiaticus,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+43,柑橘赤衣病,Erythricium salmonicolor,潮湿,Wet,适宜发生条件,ConditionIs
+44,柑橘黑腐病,Alternaria citri,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+45,柑橘青霉病,Penicillium italicum,温高湿度大,High temperature and humidity,适宜发生条件,ConditionIs
+46,柑橘始叶螨,Eotetranychus kankitus,晴天多,Sunny days,适宜发生条件,ConditionIs
+47,柑橘始叶螨,Eotetranychus kankitus,湿度低,Low humidity,适宜发生条件,ConditionIs
+48,荔枝霜疫霉病,Peronophythora litchii,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+49,荔枝霜疫霉病,Peronophythora litchii,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+50,荔枝霜疫霉病,Peronophythora litchii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+51,荔枝霜疫霉病,Peronophythora litchii,荫蔽度大,Large shade,适宜发生条件,ConditionIs
+52,荔枝藻斑病,Cephaleuros virescens,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+53,荔枝藻斑病,Cephaleuros virescens,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+54,荔枝叶斑病,Coniothyrium litchii,湿度高,High humidity,适宜发生条件,ConditionIs
+55,荔枝叶斑病,Coniothyrium litchii,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+56,荔枝叶斑病,Coniothyrium litchii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+57,荔枝壳二孢叶斑病,Ascochyta litchii,荫蔽潮湿,Shaded and moist,适宜发生条件,ConditionIs
+58,荔枝裂果,Litchi fruit cracking,湿度低,Low humidity,适宜发生条件,ConditionIs
+59,龙眼灰斑病,Pestalotiopsis sp.,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+60,龙眼酸腐病,Geotrichum candidum,高温,high temperature,适宜发生条件,ConditionIs
+61,龙眼酸腐病,Geotrichum candidum,高湿,High humidity,适宜发生条件,ConditionIs
+62,芒果炭疽病,Colletotrichum gloeosporioides,空气湿度大,High humidity,适宜发生条件,ConditionIs
+63,芒果细菌性黑斑病,Xanthomonas campestris pv. mangiferaeindicae,湿度大于90%,Humidity greater than 90%,适宜发生条件,ConditionIs
+64,芒果白粉病,Oidium mangiferae,土壤比较潮湿,The soil is relatively moist,适宜发生条件,ConditionIs
+65,枇杷灰斑病,Pestalotia funerea,排水不良,Poor drainage,适宜发生条件,ConditionIs
+66,枇杷灰斑病,Pestalotia funerea,树冠郁密,Dense tree crown,适宜发生条件,ConditionIs
+67,枇杷灰斑病,Pestalotia funerea,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+68,枇杷炭疽病,Colletotrichum gloeosporioides,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+69,枇杷胡麻色斑点病,Entomosporium eriobotryae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+70,枇杷胡麻色斑点病,Entomosporium eriobotryae,排水不良,Poor drainage,适宜发生条件,ConditionIs
+71,枇杷胡麻色斑点病,Entomosporium eriobotryae,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+72,枇杷胡麻色斑点病,Entomosporium eriobotryae,透气性差,Poor air permeability,适宜发生条件,ConditionIs
+73,草莓疫霉果腐病,Phytophthora cactorum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+74,草莓疫霉果腐病,Phytophthora cactorum,土壤粘重,Heavy soil,适宜发生条件,ConditionIs
+75,香蕉巴拿马枯萎病,Fusarium oxysporum f. sp. cubense,高温,high temperature,适宜发生条件,ConditionIs
+76,香蕉巴拿马枯萎病,Fusarium oxysporum f. sp. cubense,土壤湿,Soil wet,适宜发生条件,ConditionIs
+77,香蕉灰纹病,Cercospora musae,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+78,香蕉灰纹病,Cercospora musae,排水不良,Poor drainage,适宜发生条件,ConditionIs
+79,香蕉煤纹病,Helminthosporium torulosum,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+80,香蕉煤纹病,Helminthosporium torulosum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+81,香蕉黑星病,Macrophoma musae,多雨高湿,Rainy and humid,适宜发生条件,ConditionIs
+82,香蕉黑星病,Macrophoma musae,重氮缺钾,Heavy nitrogen deficiency,适宜发生条件,ConditionIs
+83,香蕉轴腐病,Banana spindle rot,温暖高湿,Warm and humid,适宜发生条件,ConditionIs
+84,香蕉花叶心腐病,Cucumber mosaic virus,雨日少,Few rainy days,适宜发生条件,ConditionIs
+85,香蕉花叶心腐病,Cucumber mosaic virus,日光充足,Plenty of daylight,适宜发生条件,ConditionIs
+86,香蕉花叶心腐病,Cucumber mosaic virus,霜雪少,Frost and snow,适宜发生条件,ConditionIs
+87,香蕉花叶心腐病,Cucumber mosaic virus,春雨偏迟,Spring rain is late,适宜发生条件,ConditionIs
+88,香蕉束顶病,Banana bunchy top virus,晴天干燥,Sunny and dry,适宜发生条件,ConditionIs
+89,樱桃褐腐病,Monilinia fructicola,透光通风差,Poor light transmission and ventilation,适宜发生条件,ConditionIs
+90,樱桃灰霉病,Botrytis cinerea,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+91,樱桃灰霉病,Botrytis cinerea,光照不足,Insufficient light,适宜发生条件,ConditionIs
+92,樱桃斑流胶病,Cherry gummy stem blight,施肥不当,Improper fertilization,适宜发生条件,ConditionIs
+93,梅溃疡病,Plum canker,地势低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+94,梅叶炭疽病,Colletotrichum spp.,多雨潮湿,Rainy and humid,适宜发生条件,ConditionIs
+95,梅黑星病,Venturia nashicola,地势低湿,Low and wet terrain,适宜发生条件,ConditionIs
+96,葡萄黑腐病,Guignardia bidwellii,高湿,High humidity,适宜发生条件,ConditionIs
+97,葡萄黑腐病,Guignardia bidwellii,管理粗放,Extensive management,适宜发生条件,ConditionIs
+98,葡萄黑腐病,Guignardia bidwellii,肥水不足,Insufficient fertilizer and water,适宜发生条件,ConditionIs
+99,葡萄黑腐病,Guignardia bidwellii,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+100,葡萄黑腐病,Guignardia bidwellii,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+101,葡萄黑腐病,Guignardia bidwellii,通风排水不良,Poor ventilation and drainage,适宜发生条件,ConditionIs
+102,葡萄白腐病,Coniothyrium diplodiella,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+103,葡萄白腐病,Coniothyrium diplodiella,管理粗放,Extensive management,适宜发生条件,ConditionIs
+104,葡萄白腐病,Coniothyrium diplodiella,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+105,葡萄白腐病,Coniothyrium diplodiella,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+106,葡萄白腐病,Coniothyrium diplodiella,排水不良,Poor drainage,适宜发生条件,ConditionIs
+107,葡萄白腐病,Coniothyrium diplodiella,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+108,葡萄白腐病,Coniothyrium diplodiella,杂草丛生,Overgrown,适宜发生条件,ConditionIs
+109,葡萄穗轴褐枯病,Botryosphaeria dothidea,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+110,葡萄穗轴褐枯病,Botryosphaeria dothidea,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+111,葡萄穗轴褐枯病,Botryosphaeria dothidea,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+112,葡萄穗轴褐枯病,Botryosphaeria dothidea,管理不善,Poor management,适宜发生条件,ConditionIs
+113,葡萄炭疽病,Colletotrichum gloeosporioides,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+114,葡萄炭疽病,Colletotrichum gloeosporioides,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+115,葡萄炭疽病,Colletotrichum gloeosporioides,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+116,葡萄炭疽病,Colletotrichum gloeosporioides,空气不流通,Poor air circulation,适宜发生条件,ConditionIs
+117,葡萄大房枯病,Macrophoma kawatsukai,高温潮湿多雨,"Hot, humid and rainy",适宜发生条件,ConditionIs
+118,葡萄黑痘病,Elsino? ampelina,高湿,High humidity,适宜发生条件,ConditionIs
+119,葡萄黑痘病,Elsino? ampelina,多雨,Rainy,适宜发生条件,ConditionIs
+120,葡萄黑痘病,Elsino? ampelina,果园低洼,Orchard Lowlands,适宜发生条件,ConditionIs
+121,葡萄黑痘病,Elsino? ampelina,排水不良,Poor drainage,适宜发生条件,ConditionIs
+122,葡萄黑痘病,Elsino? ampelina,管理粗放,Extensive management,适宜发生条件,ConditionIs
+123,葡萄黑痘病,Elsino? ampelina,枝叶郁闭,Closed branches and leaves,适宜发生条件,ConditionIs
+124,葡萄黑痘病,Elsino? ampelina,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+125,葡萄霜霉病,Plasmopara viticola,冷凉,Cool,适宜发生条件,ConditionIs
+126,葡萄霜霉病,Plasmopara viticola,多雨,Rainy,适宜发生条件,ConditionIs
+127,葡萄霜霉病,Plasmopara viticola,秋季冷凉,Cool autumn,适宜发生条件,ConditionIs
+128,葡萄霜霉病,Plasmopara viticola,潮湿,Wet,适宜发生条件,ConditionIs
+129,葡萄霜霉病,Plasmopara viticola,降雨多,Heavy rainfall,适宜发生条件,ConditionIs
+130,葡萄霜霉病,Plasmopara viticola,雾重,Heavy fog,适宜发生条件,ConditionIs
+131,葡萄霜霉病,Plasmopara viticola,田间郁闭,Field closure,适宜发生条件,ConditionIs
+132,葡萄灰霉病,Botrytis cinerea,空气潮湿,Humid air,适宜发生条件,ConditionIs
+133,葡萄白粉病,Uncinula necator,施氮肥过多,Excessive nitrogen fertilizer application,适宜发生条件,ConditionIs
+134,葡萄白粉病,Uncinula necator,果园郁闭,Orchard Closure,适宜发生条件,ConditionIs
+135,葡萄白粉病,Uncinula necator,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+136,葡萄根癌病,Agrobacterium tumefaciens,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+137,葡萄根癌病,Agrobacterium tumefaciens,排水不良,Poor drainage,适宜发生条件,ConditionIs
+138,葡萄根癌病,Agrobacterium tumefaciens,土质疏松,Loose soil,适宜发生条件,ConditionIs
+139,葡萄根癌病,Agrobacterium tumefaciens,排水良好,Good drainage,适宜发生条件,ConditionIs
+140,葡萄缺铁病,Iron deficiency in grapevine,管理粗放,Extensive management,适宜发生条件,ConditionIs
+141,猕猴桃褐色麻斑病,Kiwi brown speckle disease,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+142,核桃树腐烂病,Cytospora juglandis,光照不良,Poor lighting,适宜发生条件,ConditionIs
+143,核桃树腐烂病,Cytospora juglandis,土层瘠薄,Thin soil,适宜发生条件,ConditionIs
+144,核桃树腐烂病,Cytospora juglandis,土壤粘重,Heavy soil,适宜发生条件,ConditionIs
+145,核桃树腐烂病,Cytospora juglandis,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+146,核桃树腐烂病,Cytospora juglandis,排水不良,Poor drainage,适宜发生条件,ConditionIs
+147,核桃树腐烂病,Cytospora juglandis,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+148,核桃黑斑病,Xanthomonas arboricola pv. juglandis,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+149,核桃炭疽病,Colletotrichum gloeosporioides,通风透光,Ventilation and light transmission,适宜发生条件,ConditionIs
+150,核桃褐斑病,Marssonina juglandis,雨水多,Heavy rain,适宜发生条件,ConditionIs
+151,核桃褐斑病,Marssonina juglandis,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+152,枣锈病,Phakopsora ziziphi - vulgaris,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+153,枣锈病,Phakopsora ziziphi - vulgaris,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+154,枣锈病,Phakopsora ziziphi - vulgaris,行间郁闭,Line closure,适宜发生条件,ConditionIs
+155,枣焦叶病,Jujube leaf scorch disease,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+156,枣炭疽病,Colletotrichum gloeosporioides,管理粗放,Extensive management,适宜发生条件,ConditionIs
+157,枣树枝枯病,Jujube branch blight,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+158,枣树枝枯病,Jujube branch blight,果园积水,Waterlogging in orchards,适宜发生条件,ConditionIs
+159,枣树枝枯病,Jujube branch blight,管理粗放,Extensive management,适宜发生条件,ConditionIs
+160,枣苗茎腐病,Jujube seedling stem rot,高温,high temperature,适宜发生条件,ConditionIs
+161,枣苗茎腐病,Jujube seedling stem rot,高湿,High humidity,适宜发生条件,ConditionIs
+162,枣树根朽病,Armillaria mellea,下雨积水多,Lots of water when it rains,适宜发生条件,ConditionIs
+163,枣树根朽病,Armillaria mellea,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+164,枣树腐烂病,Jujube tree canker,管理粗放,Extensive management,适宜发生条件,ConditionIs
+165,枣缩果病,Jujube fruit shrink disease,高温,high temperature,适宜发生条件,ConditionIs
+166,枣缩果病,Jujube fruit shrink disease,高湿,High humidity,适宜发生条件,ConditionIs
+167,枣树根癌病,Agrobacterium tumefaciens,土壤潮湿温暖,The soil is moist and warm,适宜发生条件,ConditionIs
+168,枣白腐病,Jujube white rot,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+169,枣裂果病,Jujube fruit cracking,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+170,枣疯病,Jujube witches' - broom,土壤干旱瘠薄,Dry and barren soil,适宜发生条件,ConditionIs
+171,枣疯病,Jujube witches' - broom,肥水条件差,Poor fertilizer and water conditions,适宜发生条件,ConditionIs
+172,枣疯病,Jujube witches' - broom,管理粗放,Extensive management,适宜发生条件,ConditionIs
+173,山楂白粉病,Podosphaera oxyacanthae,夏季有雨凉爽,Summer is cool with rain,适宜发生条件,ConditionIs
+174,山楂立枯病,Rhizoctonia solani,潮湿低温,Humidity and low temperature,适宜发生条件,ConditionIs
+175,桃褐斑穿孔病,Cercospora circumscissa,低温多雨,Low temperature and heavy rain,适宜发生条件,ConditionIs
+176,桃褐斑穿孔病,Cercospora circumscissa,低温多湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+177,桃缩叶病,Taphrina deformans,低温多湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+178,桃霉斑穿孔病,Cladosporium carpophilum,低温多雨,Low temperature and heavy rain,适宜发生条件,ConditionIs
+179,桃黑星病,Venturia carpophila,通风透光,Ventilation and light transmission,适宜发生条件,ConditionIs
+180,桃炭疽病,Colletotrichum gloeosporioides,多云,partly cloudy,适宜发生条件,ConditionIs
+181,桃炭疽病,Colletotrichum gloeosporioides,多雾,Foggy,适宜发生条件,ConditionIs
+182,桃炭疽病,Colletotrichum gloeosporioides,高湿,High humidity,适宜发生条件,ConditionIs
+183,桃细菌性穿孔病,Xanthomonas arboricola pv. pruni,雨水频,Frequent rain,适宜发生条件,ConditionIs
+184,桃细菌性穿孔病,Xanthomonas arboricola pv. pruni,果园郁闭,Orchard Closure,适宜发生条件,ConditionIs
+185,桃细菌性穿孔病,Xanthomonas arboricola pv. pruni,排水不良,Poor drainage,适宜发生条件,ConditionIs
+186,桃细菌性穿孔病,Xanthomonas arboricola pv. pruni,土壤瘠薄板结,Thin and hard soil,适宜发生条件,ConditionIs
+187,桃细菌性穿孔病,Xanthomonas arboricola pv. pruni,缺肥,Lack of fertilizer,适宜发生条件,ConditionIs
+188,桃树非侵染性流胶病,Non - infectious gummosis of peach tree,土壤偏碱,Soil is alkaline,适宜发生条件,ConditionIs
+189,桃树非侵染性流胶病,Non - infectious gummosis of peach tree,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+190,桃树侵染性流胶病,Infectious gummosis of peach tree,土质瘠薄,Poor soil,适宜发生条件,ConditionIs
+191,桃树侵染性流胶病,Infectious gummosis of peach tree,肥水不足,Insufficient fertilizer and water,适宜发生条件,ConditionIs
+192,桃树根朽病,Armillaria mellea,土壤透气性,Soil permeability,适宜发生条件,ConditionIs
+193,桃褐腐病,Monilinia fructicola,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+194,桃褐腐病,Monilinia fructicola,通风透光较差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+195,桃白锈病,Albugo japonica,多雨潮湿,Rainy and humid,适宜发生条件,ConditionIs
+196,桃白锈病,Albugo japonica,排水不良,Poor drainage,适宜发生条件,ConditionIs
+197,桃灰霉病,Botrytis cinerea,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+198,桃灰霉病,Botrytis cinerea,枝梢徒长郁闭,Branches grow too long and become dense,适宜发生条件,ConditionIs
+199,桃灰霉病,Botrytis cinerea,杂草丛生,Overgrown,适宜发生条件,ConditionIs
+200,桃灰霉病,Botrytis cinerea,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+201,桃白纹羽病,Rosellinia necatrix,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+202,桃白纹羽病,Rosellinia necatrix,排水不良,Poor drainage,适宜发生条件,ConditionIs
+203,桃树白绢病,Sclerotium rolfsii,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+204,桃树白绢病,Sclerotium rolfsii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+205,桃树白绢病,Sclerotium rolfsii,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+206,桃园根结线虫病,Meloidogyne spp.,地势高而干燥,High and dry terrain,适宜发生条件,ConditionIs
+207,桃园根结线虫病,Meloidogyne spp.,结构疏松,Loose structure,适宜发生条件,ConditionIs
+208,桃园根结线虫病,Meloidogyne spp.,含盐量低,Low salt content,适宜发生条件,ConditionIs
+209,桃树缺氮症,Peach nitrogen deficiency,杂草多,Lots of weeds,适宜发生条件,ConditionIs
+210,桃树缺氮症,Peach nitrogen deficiency,氮肥施用不足,Insufficient nitrogen fertilizer application,适宜发生条件,ConditionIs
+211,桃树缺磷症,Peach phosphorus deficiency,土壤水分少,Low soil moisture,适宜发生条件,ConditionIs
+212,桃树缺钾症,Peach potassium deficiency,地温偏低,Low ground temperature,适宜发生条件,ConditionIs
+213,桃树缺钾症,Peach potassium deficiency,土壤酸性,Soil acidity,适宜发生条件,ConditionIs
+214,桃树缺钾症,Peach potassium deficiency,土壤过湿,Soil too wet,适宜发生条件,ConditionIs
+215,桃树缺锌症,Peach zinc deficiency,土壤pH值偏高或偏低,Soil pH is high or low,适宜发生条件,ConditionIs
+216,桃树缺钙症,Peach calcium deficiency,土壤pH值偏高或偏低,Soil pH is high or low,适宜发生条件,ConditionIs
+217,桃树缺锰症,Peach manganese deficiency,土壤呈碱性,The soil is alkaline,适宜发生条件,ConditionIs
+218,桃树缺硼症,Peach boron deficiency,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+219,李红点病,Polystigma rubrum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+220,李红点病,Polystigma rubrum,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+221,李红点病,Polystigma rubrum,管理粗放,Extensive management,适宜发生条件,ConditionIs
+222,李细菌性穿孔病,Xanthomonas arboricola pv. pruni,管理粗放,Extensive management,适宜发生条件,ConditionIs
+223,李树流胶病,Plum gummosis,施肥不当,Improper fertilization,适宜发生条件,ConditionIs
+224,杏树腐烂病,Valsa mali,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+225,杏树腐烂病,Valsa mali,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+226,杏树腐烂病,Valsa mali,施肥不,Fertilization is not,适宜发生条件,ConditionIs
+227,杏树腐烂病,Valsa mali,磷钾肥不足,Insufficient phosphorus and potassium fertilizers,适宜发生条件,ConditionIs
+228,杏树腐烂病,Valsa mali,氮肥过多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+229,杏树腐烂病,Valsa mali,树体郁闭,Tree closure,适宜发生条件,ConditionIs
+230,杏褐腐病,Monilinia laxa,多雨高湿,Rainy and humid,适宜发生条件,ConditionIs
+231,杏树流胶病,Apricot gummosis,施肥不当,Improper fertilization,适宜发生条件,ConditionIs
+232,杏树流胶病,Apricot gummosis,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+233,杏树流胶病,Apricot gummosis,土壤酸性过强,Soil is too acidic,适宜发生条件,ConditionIs
+234,杏细菌性穿孔病,Xanthomonas arboricola pv. pruni,相对湿度70％,Relative humidity 70%,适宜发生条件,ConditionIs
+235,杏细菌性穿孔病,Xanthomonas arboricola pv. pruni,湿度小,Low humidity,适宜发生条件,ConditionIs
+236,杏细菌性穿孔病,Xanthomonas arboricola pv. pruni,雨水频,Frequent rain,适宜发生条件,ConditionIs
+237,杏细菌性穿孔病,Xanthomonas arboricola pv. pruni,排水不良,Poor drainage,适宜发生条件,ConditionIs
+238,杏细菌性穿孔病,Xanthomonas arboricola pv. pruni,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+239,杏细菌性穿孔病,Xanthomonas arboricola pv. pruni,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+240,苹果轮纹病,Botryosphaeria berengeriana f. sp. piricola,管理粗放,Extensive management,适宜发生条件,ConditionIs
+241,苹果轮纹病,Botryosphaeria berengeriana f. sp. piricola,树势衰弱,Tree weakness,适宜发生条件,ConditionIs
+242,苹果轮纹病,Botryosphaeria berengeriana f. sp. piricola,黏重壤土,Heavy clay loam,适宜发生条件,ConditionIs
+243,苹果轮纹病,Botryosphaeria berengeriana f. sp. piricola,偏酸,Acidic,适宜发生条件,ConditionIs
+244,苹果灰斑病,Cercospora mali,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+245,苹果灰斑病,Cercospora mali,降雨多,Heavy rainfall,适宜发生条件,ConditionIs
+246,苹果白星病,Phyllosticta mali,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+247,苹果白星病,Phyllosticta mali,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+248,苹果白星病,Phyllosticta mali,排水不良,Poor drainage,适宜发生条件,ConditionIs
+249,苹果轮斑病,Alternaria alternata f. sp. mali,管理粗放,Extensive management,适宜发生条件,ConditionIs
+250,苹果树枝溃疡病,Nectria galligena,潮湿,Wet,适宜发生条件,ConditionIs
+251,苹果树枝溃疡病,Nectria galligena,湿度大,High humidity,适宜发生条件,ConditionIs
+252,苹果树枝溃疡病,Nectria galligena,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+253,苹果树枝溃疡病,Nectria galligena,土壤较黏重,Heavy clay soil,适宜发生条件,ConditionIs
+254,苹果霉心病,Alternaria alternata,矿质营养不,Mineral nutrition is not,适宜发生条件,ConditionIs
+255,苹果霉心病,Alternaria alternata,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+256,苹果霉心病,Alternaria alternata,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+257,苹果霉心病,Alternaria alternata,树势衰弱,Tree weakness,适宜发生条件,ConditionIs
+258,苹果花腐病,Monilinia mali,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+259,苹果花腐病,Monilinia mali,排水不良,Poor drainage,适宜发生条件,ConditionIs
+260,苹果炭疽病,Colletotrichum gloeosporioides,高温,high temperature,适宜发生条件,ConditionIs
+261,苹果炭疽病,Colletotrichum gloeosporioides,高湿,High humidity,适宜发生条件,ConditionIs
+262,苹果炭疽病,Colletotrichum gloeosporioides,排水不良,Poor drainage,适宜发生条件,ConditionIs
+263,苹果炭疽病,Colletotrichum gloeosporioides,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+264,苹果疫腐病,Phytophthora cactorum,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+265,苹果疫腐病,Phytophthora cactorum,树体郁闭,Tree closure,适宜发生条件,ConditionIs
+266,苹果疫腐病,Phytophthora cactorum,杂草丛生,Overgrown,适宜发生条件,ConditionIs
+267,苹果疫腐病,Phytophthora cactorum,树势较弱,Weak tree vigor,适宜发生条件,ConditionIs
+268,苹果疫腐病,Phytophthora cactorum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+269,苹果煤污病,Capnodium spp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+270,苹果煤污病,Capnodium spp.,修剪不当,Improper pruning,适宜发生条件,ConditionIs
+271,苹果煤污病,Capnodium spp.,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+272,苹果煤污病,Capnodium spp.,树冠过密,Too dense tree crown,适宜发生条件,ConditionIs
+273,苹果煤污病,Capnodium spp.,果园杂草高,Orchard weeds high,适宜发生条件,ConditionIs
+274,苹果蝇粪病,Schizothyrium pomi,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+275,苹果蝇粪病,Schizothyrium pomi,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+276,苹果蝇粪病,Schizothyrium pomi,树冠过密,Too dense tree crown,适宜发生条件,ConditionIs
+277,苹果黑点病,Alternaria alternata apple pathotype,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+278,苹果疱性溃疡病,Diplodia seriata,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+279,苹果褐斑病,Marssonina coronaria,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+280,苹果褐斑病,Marssonina coronaria,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+281,苹果斑点落叶病,Alternaria alternata f. sp. mali,空气湿度大,High humidity,适宜发生条件,ConditionIs
+282,苹果斑点落叶病,Alternaria alternata f. sp. mali,高温闷热,Hot and muggy,适宜发生条件,ConditionIs
+283,苹果斑点落叶病,Alternaria alternata f. sp. mali,果园密植,Orchard dense planting,适宜发生条件,ConditionIs
+284,苹果斑点落叶病,Alternaria alternata f. sp. mali,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+285,苹果斑点落叶病,Alternaria alternata f. sp. mali,杂草丛生,Overgrown,适宜发生条件,ConditionIs
+286,苹果斑点落叶病,Alternaria alternata f. sp. mali,树势较弱,Weak tree vigor,适宜发生条件,ConditionIs
+287,苹果斑点落叶病,Alternaria alternata f. sp. mali,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+288,苹果白粉病,Podosphaera leucotricha,春季温暖干旱,Warm and dry spring,适宜发生条件,ConditionIs
+289,苹果白粉病,Podosphaera leucotricha,夏季多雨凉爽,Rainy and cool summer,适宜发生条件,ConditionIs
+290,苹果白粉病,Podosphaera leucotricha,秋季晴朗,Autumn sunny,适宜发生条件,ConditionIs
+291,苹果白粉病,Podosphaera leucotricha,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+292,苹果白粉病,Podosphaera leucotricha,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+293,苹果白粉病,Podosphaera leucotricha,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+294,苹果环纹叶枯病,Diplodia mali,多雨潮湿,Rainy and humid,适宜发生条件,ConditionIs
+295,苹果环纹叶枯病,Diplodia mali,冷凉,Cool,适宜发生条件,ConditionIs
+296,苹果银叶病,Chondrostereum purpureum,阴雨连绵,Continuous rain,适宜发生条件,ConditionIs
+297,苹果银叶病,Chondrostereum purpureum,排水良好,Good drainage,适宜发生条件,ConditionIs
+298,苹果银叶病,Chondrostereum purpureum,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+299,苹果银叶病,Chondrostereum purpureum,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+300,苹果银叶病,Chondrostereum purpureum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+301,苹果树赤衣病,Erythricium salmonicolor,温暖,warmth,适宜发生条件,ConditionIs
+302,苹果树赤衣病,Erythricium salmonicolor,多雨,Rainy,适宜发生条件,ConditionIs
+303,苹果树赤衣病,Erythricium salmonicolor,潮湿,Wet,适宜发生条件,ConditionIs
+304,苹果树赤衣病,Erythricium salmonicolor,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+305,苹果树地衣病,Lichen spp.,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+306,苹果树紫纹羽病,Helicobasidium mompa,土壤干旱,Soil drought,适宜发生条件,ConditionIs
+307,苹果树紫纹羽病,Helicobasidium mompa,排水不良,Poor drainage,适宜发生条件,ConditionIs
+308,苹果树紫纹羽病,Helicobasidium mompa,酸性土壤,Acidic soil,适宜发生条件,ConditionIs
+309,苹果树紫纹羽病,Helicobasidium mompa,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+310,苹果树紫纹羽病,Helicobasidium mompa,杂草丛生,Overgrown,适宜发生条件,ConditionIs
+311,苹果树紫纹羽病,Helicobasidium mompa,树冠郁闭,Closed canopy,适宜发生条件,ConditionIs
+312,苹果树紫纹羽病,Helicobasidium mompa,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+313,苹果树白绢病,Sclerotium rolfsii,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+314,苹果树白绢病,Sclerotium rolfsii,排水不畅,Poor drainage,适宜发生条件,ConditionIs
+315,苹果圆斑根腐病,Phytophthora cactorum,土壤干旱,Soil drought,适宜发生条件,ConditionIs
+316,苹果圆斑根腐病,Phytophthora cactorum,水土大,Water and soil,适宜发生条件,ConditionIs
+317,苹果圆斑根腐病,Phytophthora cactorum,质地板,Quality floor,适宜发生条件,ConditionIs
+318,苹果圆斑根腐病,Phytophthora cactorum,通气性不好,Poor ventilation,适宜发生条件,ConditionIs
+319,苹果苗立枯病,Rhizoctonia solani,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+320,苹果苗立枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+321,苹果苗立枯病,Rhizoctonia solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+322,苹果苗立枯病,Rhizoctonia solani,阴湿多雨,Wet and rainy,适宜发生条件,ConditionIs
+323,苹果泡斑病,Apple blister canker,气温高,High temperature,适宜发生条件,ConditionIs
+324,苹果泡斑病,Apple blister canker,湿度大,High humidity,适宜发生条件,ConditionIs
+325,苹果泡斑病,Apple blister canker,多雨,Rainy,适宜发生条件,ConditionIs
+326,苹果粗皮果病,Apple rough skin disease,潮湿多阴,Humid and cloudy,适宜发生条件,ConditionIs
+327,苹果花叶病,Apple mosaic virus,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+328,苹果花叶病,Apple mosaic virus,土壤干旱,Soil drought,适宜发生条件,ConditionIs
+329,苹果花叶病,Apple mosaic virus,水肥不足,Insufficient water and fertilizer,适宜发生条件,ConditionIs
+330,苹果树再植病,Apple replant disease,土壤结构不良,Poor soil structure,适宜发生条件,ConditionIs
+331,苹果树再植病,Apple replant disease,通气性差,Poor ventilation,适宜发生条件,ConditionIs
+332,苹果树再植病,Apple replant disease,干旱,drought,适宜发生条件,ConditionIs
+333,苹果树再植病,Apple replant disease,营养失衡,Nutritional imbalance,适宜发生条件,ConditionIs
+334,苹果缺铁黄化症,Apple iron deficiency chlorosis,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+335,苹果缺铁黄化症,Apple iron deficiency chlorosis,排水差,Poor drainage,适宜发生条件,ConditionIs
+336,苹果缺铁黄化症,Apple iron deficiency chlorosis,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+337,苹果缺铁黄化症,Apple iron deficiency chlorosis,春季多雨,Spring is rainy,适宜发生条件,ConditionIs
+338,苹果缺氮症,Apple nitrogen deficiency,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+339,苹果缺氮症,Apple nitrogen deficiency,管理粗放,Extensive management,适宜发生条件,ConditionIs
+340,苹果缺钾症,Apple potassium deficiency,土壤过湿,Soil too wet,适宜发生条件,ConditionIs
+341,苹果缺钙症,Apple calcium deficiency,土壤干燥,Dry soil,适宜发生条件,ConditionIs
+342,苹果缺钙症,Apple calcium deficiency,湿度低,Low humidity,适宜发生条件,ConditionIs
+343,苹果果锈,Apple russeting,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+344,苹果果锈,Apple russeting,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+345,苹果果锈,Apple russeting,树势衰弱,Tree weakness,适宜发生条件,ConditionIs
+346,二斑叶螨,Tetranychus urticae,高温,high temperature,适宜发生条件,ConditionIs
+347,二斑叶螨,Tetranychus urticae,低湿,Low humidity,适宜发生条件,ConditionIs
+348,梨黑星病,Venturia nashicola,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+349,梨黑星病,Venturia nashicola,树冠密,Density of tree crown,适宜发生条件,ConditionIs
+350,梨黑星病,Venturia nashicola,通风不好,Poor ventilation,适宜发生条件,ConditionIs
+351,梨树干枯病,Pear trunk blight,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+352,梨火疫病,Erwinia amylovora,久旱遇雨,"Long drought, rain",适宜发生条件,ConditionIs
+353,梨火疫病,Erwinia amylovora,浇水过度,Overwatering,适宜发生条件,ConditionIs
+354,梨火疫病,Erwinia amylovora,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+355,梨锈水病,Pear rusty water disease,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+356,梨白粉病,Phyllactinia pyri,夏季有雨凉爽,Summer is cool with rain,适宜发生条件,ConditionIs
+357,梨白粉病,Phyllactinia pyri,密，土壤,"dense, soil",适宜发生条件,ConditionIs
+358,梨白粉病,Phyllactinia pyri,重，肥料,"Heavy, Fertilizer",适宜发生条件,ConditionIs
+359,梨白粉病,Phyllactinia pyri,其是钾肥,Potash fertilizer,适宜发生条件,ConditionIs
+360,梨树疫病,Phytophthora cactorum,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+361,梨炭疽病,Colletotrichum gloeosporioides,相对湿度大于70%,Relative humidity greater than 70%,适宜发生条件,ConditionIs
+362,梨炭疽病,Colletotrichum gloeosporioides,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+363,梨炭疽病,Colletotrichum gloeosporioides,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+364,梨炭疽病,Colletotrichum gloeosporioides,排水不良,Poor drainage,适宜发生条件,ConditionIs
+365,梨褐斑病,Cercospora kikuchii,雨水早,Early Rain,适宜发生条件,ConditionIs
+366,梨黑斑病,Alternaria kikuchiana,排水不良,Poor drainage,适宜发生条件,ConditionIs
+367,梨煤污病,Capnodium spp.,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+368,梨煤污病,Capnodium spp.,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+369,梨褐腐病,Monilinia fructigena,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+370,梨白纹羽病,Rosellinia necatrix,管理粗放,Extensive management,适宜发生条件,ConditionIs
+371,梨白纹羽病,Rosellinia necatrix,低洼渍水,Low-lying waterlogging,适宜发生条件,ConditionIs
+372,梨白纹羽病,Rosellinia necatrix,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+373,梨顶腐病,Pear tip rot,土壤干燥,Dry soil,适宜发生条件,ConditionIs
+374,梨顶腐病,Pear tip rot,地势低注,Low terrain,适宜发生条件,ConditionIs
+375,蘑菇绿霉病,Trichoderma viride,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+376,蘑菇菌盖斑点病,Mushroom cap spot disease,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+377,蘑菇菌盖斑点病,Mushroom cap spot disease,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+378,蘑菇软腐病,Mushroom soft rot,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+379,蘑菇菌丝徒长,Mushroom mycelium overgrowth,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+380,蘑菇菌丝徒长,Mushroom mycelium overgrowth,空气湿度大,High humidity,适宜发生条件,ConditionIs
+381,蘑菇畸形,Mushroom malformation,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+382,草菇折翅菌蚊,Lycoriella ingenua,于高温高,At high temperature,适宜发生条件,ConditionIs
+383,食菌瘿蚊,Mycophila speyeri,相对湿度在70～80%,Relative humidity 70-80%,适宜发生条件,ConditionIs
+384,食菌瘿蚊,Mycophila speyeri,相对湿度68%,Relative humidity 68%,适宜发生条件,ConditionIs
+385,平菇软腐病,Oyster mushroom soft rot,高温,high temperature,适宜发生条件,ConditionIs
+386,平菇软腐病,Oyster mushroom soft rot,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+387,平菇萎菇,Oyster mushroom wilt,空气湿度过低,Air humidity is too low,适宜发生条件,ConditionIs
+388,香菇蛛网丝枝霉病,Lentinula edodes cobweb disease,菇房高温高湿,High temperature and high humidity in mushroom house,适宜发生条件,ConditionIs
+389,香菇蛛网丝枝霉病,Lentinula edodes cobweb disease,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+390,香菇绿霉病,Trichoderma spp.,高温高湿度,High temperature and high humidity,适宜发生条件,ConditionIs
+391,香菇畸形菇,Lentinula edodes malformed mushroom,光照不足,Insufficient light,适宜发生条件,ConditionIs
+392,香菇畸形菇,Lentinula edodes malformed mushroom,温度不够,Not warm enough,适宜发生条件,ConditionIs
+393,香菇畸形菇,Lentinula edodes malformed mushroom,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+394,鸡腿菇绿霉病,Coprinus comatus green mold,通气不良,Poor ventilation,适宜发生条件,ConditionIs
+395,杏鲍菇畸形,Pleurotus eryngii malformation,湿度过低,Humidity is too low,适宜发生条件,ConditionIs
+396,木霉,Trichoderma spp.,通气不良,Poor ventilation,适宜发生条件,ConditionIs
+397,黄瘤孢霉,Sepedonium chrysospermum,高湿,High humidity,适宜发生条件,ConditionIs
+398,粘菌,Myxomycetes spp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+399,粘菌,Myxomycetes spp.,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+400,鬼伞,Coprinus spp.,喜高温,Likes high temperature,适宜发生条件,ConditionIs
+401,地碗菌,Russula integra,通风不畅,Poor ventilation,适宜发生条件,ConditionIs
+402,西瓜蔓枯病,Mycosphaerella melonis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+403,西瓜蔓枯病,Mycosphaerella melonis,雨后积水,Water after rain,适宜发生条件,ConditionIs
+404,西瓜蔓枯病,Mycosphaerella melonis,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+405,西瓜蔓枯病,Mycosphaerella melonis,湿度过高,Humidity is too high,适宜发生条件,ConditionIs
+406,西瓜枯萎病,Fusarium oxysporum f. sp. niveum,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+407,西瓜炭疽病,Colletotrichum orbiculare,相对湿度90%,Relative humidity 90%,适宜发生条件,ConditionIs
+408,西瓜炭疽病,Colletotrichum orbiculare,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+409,西瓜炭疽病,Colletotrichum orbiculare,排水不良,Poor drainage,适宜发生条件,ConditionIs
+410,西瓜炭疽病,Colletotrichum orbiculare,氮肥过多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+411,西瓜炭疽病,Colletotrichum orbiculare,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+412,西瓜叶枯病,Alternaria cucumerina,相对湿度高于90%,Relative humidity above 90%,适宜发生条件,ConditionIs
+413,西瓜绵腐病,Pythium aphanidermatum,土温低,Low soil temperature,适宜发生条件,ConditionIs
+414,西瓜绵腐病,Pythium aphanidermatum,高湿,High humidity,适宜发生条件,ConditionIs
+415,西瓜细菌性果斑病,Acidovorax avenae subsp. citrulli,多雨,Rainy,适宜发生条件,ConditionIs
+416,西瓜细菌性果斑病,Acidovorax avenae subsp. citrulli,高湿,High humidity,适宜发生条件,ConditionIs
+417,西瓜细菌性果斑病,Acidovorax avenae subsp. citrulli,大水漫灌,Flood irrigation,适宜发生条件,ConditionIs
+418,西瓜病毒病,Watermelon mosaic virus,干旱,drought,适宜发生条件,ConditionIs
+419,西瓜病毒病,Watermelon mosaic virus,光照充足,Adequate lighting,适宜发生条件,ConditionIs
+420,西瓜猝倒病,Pythium ultimum,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+421,西瓜白粉病,Podosphaera xanthii,旱与高温,Drought and heat,适宜发生条件,ConditionIs
+422,西瓜镰刀菌根腐病,Fusarium solani,低温,Low temperature,适宜发生条件,ConditionIs
+423,西瓜镰刀菌根腐病,Fusarium solani,高湿,High humidity,适宜发生条件,ConditionIs
+424,西瓜粘菌病,Myxomycetes spp.,潮湿,Wet,适宜发生条件,ConditionIs
+425,西瓜粘菌病,Myxomycetes spp.,雨水多,Heavy rain,适宜发生条件,ConditionIs
+426,西瓜缺素症,Watermelon nutrient deficiency,地温低,Low ground temperature,适宜发生条件,ConditionIs
+427,西瓜缺素症,Watermelon nutrient deficiency,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+428,西瓜沤根,Watermelon root rot,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+429,西瓜沤根,Watermelon root rot,土壤含水量高,High soil moisture content,适宜发生条件,ConditionIs
+430,西瓜沤根,Watermelon root rot,排水不良,Poor drainage,适宜发生条件,ConditionIs
+431,西瓜沤根,Watermelon root rot,土壤高温高湿,High temperature and high humidity of soil,适宜发生条件,ConditionIs
+432,西瓜粗蔓病,Watermelon thick vine disease,雨水过量,Excessive rain,适宜发生条件,ConditionIs
+433,西瓜粗蔓病,Watermelon thick vine disease,阳光不充足,Not enough sunlight,适宜发生条件,ConditionIs
+434,西瓜煤污病,Capnodium spp.,光照弱,Low light,适宜发生条件,ConditionIs
+435,西瓜煤污病,Capnodium spp.,空气湿度大,High humidity,适宜发生条件,ConditionIs
+436,西瓜煤污病,Capnodium spp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+437,斜纹夜蛾,Spodoptera litura,相对湿度75％～80%,Relative humidity 75%～80%,适宜发生条件,ConditionIs
+438,棉铃虫,Helicoverpa armigera,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+439,棉铃虫,Helicoverpa armigera,水肥条件好,Good water and fertilizer conditions,适宜发生条件,ConditionIs
+440,茶黄螨,Polyphagotarsonemus latus,相对湿度80%,Relative humidity 80%,适宜发生条件,ConditionIs
+441,朱砂叶螨,Tetranychus cinnabarinus,最适相对湿度为35%,The optimum relative humidity is 35%,适宜发生条件,ConditionIs
+442,小地老虎,Agrotis ipsilon,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+443,甜瓜白粉病,Podosphaera xanthii,温暖湿闷,Warm and humid,适宜发生条件,ConditionIs
+444,甜瓜霜霉病,Pseudoperonospora cubensis,浇水过量,Overwatering,适宜发生条件,ConditionIs
+445,甜瓜霜霉病,Pseudoperonospora cubensis,浇水后下雨,Watering after rain,适宜发生条件,ConditionIs
+446,甜瓜霜霉病,Pseudoperonospora cubensis,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+447,甜瓜疫病,Phytophthora melonis,围内,Within,适宜发生条件,ConditionIs
+448,甜瓜疫病,Phytophthora melonis,高湿,High humidity,适宜发生条件,ConditionIs
+449,甜瓜猝倒病,Pythium ultimum,土温低,Low soil temperature,适宜发生条件,ConditionIs
+450,甜瓜猝倒病,Pythium ultimum,高湿,High humidity,适宜发生条件,ConditionIs
+451,甜瓜炭疽病,Colletotrichum orbiculare,湿度90%左右,Humidity around 90%,适宜发生条件,ConditionIs
+452,甜瓜炭疽病,Colletotrichum orbiculare,氮肥过量,Excessive nitrogen fertilizer,适宜发生条件,ConditionIs
+453,甜瓜叶枯病,Alternaria cucumerina,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+454,甜瓜蔓枯病,Mycosphaerella melonis,高温,high temperature,适宜发生条件,ConditionIs
+455,甜瓜蔓枯病,Mycosphaerella melonis,高湿,High humidity,适宜发生条件,ConditionIs
+456,甜瓜蔓枯病,Mycosphaerella melonis,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+457,甜瓜枯萎病,Fusarium oxysporum f. sp. melonis,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+458,甜瓜枯萎病,Fusarium oxysporum f. sp. melonis,地势低,Low lying,适宜发生条件,ConditionIs
+459,甜瓜枯萎病,Fusarium oxysporum f. sp. melonis,排水不良,Poor drainage,适宜发生条件,ConditionIs
+460,甜瓜枯萎病,Fusarium oxysporum f. sp. melonis,管理粗,Management rough,适宜发生条件,ConditionIs
+461,甜瓜炭腐病,Macrophomina phaseolina,高温,high temperature,适宜发生条件,ConditionIs
+462,甜瓜炭腐病,Macrophomina phaseolina,高湿,High humidity,适宜发生条件,ConditionIs
+463,甜瓜黑斑病,Alternaria alternata,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+464,甜瓜红粉病,Trichothecium roseum,光照不足,Insufficient light,适宜发生条件,ConditionIs
+465,甜瓜红粉病,Trichothecium roseum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+466,甜瓜镰刀菌果腐病,Fusarium spp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+467,甜瓜煤污病,Capnodium spp.,光照弱,Low light,适宜发生条件,ConditionIs
+468,甜瓜煤污病,Capnodium spp.,空气湿度大,High humidity,适宜发生条件,ConditionIs
+469,甜瓜煤污病,Capnodium spp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+470,甜瓜瓜笄霉果腐病,Choanephora cucurbitarum,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+471,甜瓜瓜笄霉果腐病,Choanephora cucurbitarum,高湿,High humidity,适宜发生条件,ConditionIs
+472,甜瓜瓜笄霉果腐病,Choanephora cucurbitarum,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+473,甜瓜瓜笄霉果腐病,Choanephora cucurbitarum,雨后积水,Water after rain,适宜发生条件,ConditionIs
+474,苹果树干腐病,Apple trunk rot disease,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+475,豌豆炭疽病,Colletotrichum pisi,排水不良,Poor drainage,适宜发生条件,ConditionIs
+476,豆秆黑潜蝇,Melanagromyza sojae,多雨多湿,Rainy and wet,适宜发生条件,ConditionIs
+477,花蓟马,Frankliniella intonsa,潮湿,Wet,适宜发生条件,ConditionIs
+478,豌豆修尾蚜,Megoura japonica,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+479,豌豆修尾蚜,Megoura japonica,排水不良,Poor drainage,适宜发生条件,ConditionIs
+480,豌豆修尾蚜,Megoura japonica,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+481,豌豆修尾蚜,Megoura japonica,管理粗放,Extensive management,适宜发生条件,ConditionIs
+482,豌豆修尾蚜,Megoura japonica,干旱,drought,适宜发生条件,ConditionIs
+483,豌豆修尾蚜,Megoura japonica,少雨,Little rain,适宜发生条件,ConditionIs
+484,扁豆褐斑病,Septoria dolichi,高温,high temperature,适宜发生条件,ConditionIs
+485,扁豆褐斑病,Septoria dolichi,高湿,High humidity,适宜发生条件,ConditionIs
+486,扁豆花腐病,Ascochyta lablab,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+487,扁豆炭疽病,Colletotrichum lindemuthianum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+488,扁豆茎枯病,Fusarium oxysporum f. sp. lablab,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+489,扁豆茎枯病,Fusarium oxysporum f. sp. lablab,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+490,扁豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+491,扁豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,大水漫灌,Flood irrigation,适宜发生条件,ConditionIs
+492,扁豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+493,扁豆立枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+494,扁豆立枯病,Rhizoctonia solani,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+495,扁豆红斑病,Cercospora dolichi,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+496,扁豆黑斑病,Alternaria alternata,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+497,扁豆淡褐斑病,Septoria glycines,多雨,Rainy,适宜发生条件,ConditionIs
+498,扁豆绵疫病,Phytophthora phaseoli,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+499,扁豆绵疫病,Phytophthora phaseoli,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+500,扁豆绵疫病,Phytophthora phaseoli,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+501,扁豆枯萎病,Fusarium oxysporum f. sp. tracheiphilum,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+502,扁豆枯萎病,Fusarium oxysporum f. sp. tracheiphilum,土质粘重,Heavy soil,适宜发生条件,ConditionIs
+503,蚕豆锈病,Uromyces fabae,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+504,蚕豆锈病,Uromyces fabae,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+505,蚕豆锈病,Uromyces fabae,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+506,蚕豆赤斑病,Botrytis fabae,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+507,蚕豆赤斑病,Botrytis fabae,温度适宜,Suitable temperature,适宜发生条件,ConditionIs
+508,蚕豆白粉病,Erysiphe polygoni,多雨,Rainy,适宜发生条件,ConditionIs
+509,蚕豆炭疽病,Colletotrichum lindemuthianum,温凉多湿,Cool and humid,适宜发生条件,ConditionIs
+510,蚕豆炭疽病,Colletotrichum lindemuthianum,多雨多露,Rainy and dewy,适宜发生条件,ConditionIs
+511,蚕豆炭疽病,Colletotrichum lindemuthianum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+512,蚕豆炭疽病,Colletotrichum lindemuthianum,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+513,蚕豆茎疫病,Phytophthora megasperma,低温多湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+514,蚕豆茎疫病,Phytophthora megasperma,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+515,蚕豆茎疫病,Phytophthora megasperma,种植粗放,Extensive planting,适宜发生条件,ConditionIs
+516,蚕豆茎疫病,Phytophthora megasperma,土壤肥力差,Poor soil fertility,适宜发生条件,ConditionIs
+517,蚕豆轮纹病,Ascochyta fabae,多雨潮湿,Rainy and humid,适宜发生条件,ConditionIs
+518,蚕豆轮纹病,Ascochyta fabae,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+519,蚕豆轮纹病,Ascochyta fabae,排水不良,Poor drainage,适宜发生条件,ConditionIs
+520,蚕豆立枯病,Rhizoctonia solani,土壤过湿或过干,Soil is too wet or too dry,适宜发生条件,ConditionIs
+521,蚕豆修尾蚜,Megoura japonica,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+522,蚕豆修尾蚜,Megoura japonica,排水不良,Poor drainage,适宜发生条件,ConditionIs
+523,蚕豆修尾蚜,Megoura japonica,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+524,蚕豆修尾蚜,Megoura japonica,管理粗放,Extensive management,适宜发生条件,ConditionIs
+525,蚕豆修尾蚜,Megoura japonica,干旱,drought,适宜发生条件,ConditionIs
+526,蚕豆修尾蚜,Megoura japonica,少雨,Little rain,适宜发生条件,ConditionIs
+527,黄花菜锈病,Puccinia hemerocallidis,温暖湿润,Warm and humid,适宜发生条件,ConditionIs
+528,黄花菜锈病,Puccinia hemerocallidis,肥水不均,Uneven fertilizer and water,适宜发生条件,ConditionIs
+529,黄花菜锈病,Puccinia hemerocallidis,光照不足,Insufficient light,适宜发生条件,ConditionIs
+530,黄花菜白绢病,Sclerotium rolfsii,湿度大,High humidity,适宜发生条件,ConditionIs
+531,黄花菜白绢病,Sclerotium rolfsii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+532,黄花菜黑斑病,Alternaria hemerocallidis,温暖多雨,Warm and rainy,适宜发生条件,ConditionIs
+533,黄花菜霉杆病,Botrytis cinerea,土壤粘重,Heavy soil,适宜发生条件,ConditionIs
+534,黄花菜根腐病,Fusarium solani,土温低,Low soil temperature,适宜发生条件,ConditionIs
+535,黄花菜根腐病,Fusarium solani,湿度大,High humidity,适宜发生条件,ConditionIs
+536,黄花菜根腐病,Fusarium solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+537,枸杞白粉病,Erysiphe betae,郁闭透光性差,Poor light transmittance,适宜发生条件,ConditionIs
+538,枸杞灰斑病,Septoria lycii,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+539,枸杞灰斑病,Septoria lycii,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+540,枸杞灰斑病,Septoria lycii,空气潮湿,Humid air,适宜发生条件,ConditionIs
+541,枸杞灰斑病,Septoria lycii,土壤缺肥,Soil lack of fertilizer,适宜发生条件,ConditionIs
+542,枸杞根腐病,Fusarium solani,地势低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+543,枸杞根腐病,Fusarium solani,土壤粘重,Heavy soil,适宜发生条件,ConditionIs
+544,枸杞根腐病,Fusarium solani,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+545,马铃薯瓢虫,Henosepilachna vigintioctopunctata,湿度适中,Moderate humidity,适宜发生条件,ConditionIs
+546,三点盲蝽,Adelphocoris fasciaticollis,相对湿度为60%,Relative humidity: 60%,适宜发生条件,ConditionIs
+547,芦笋立枯病,Rhizoctonia solani,土壤过湿,Soil too wet,适宜发生条件,ConditionIs
+548,芦笋紫纹羽病,Helicobasidium mompa,低洼潮湿,Low-lying and humid,适宜发生条件,ConditionIs
+549,甘蓝夜蛾,Mamestra brassicae,相对湿度70%,Relative humidity 70%,适宜发生条件,ConditionIs
+550,莲藕腐败病,Fusarium oxysporum f. sp. nelumbicola,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+551,莲藕腐败病,Fusarium oxysporum f. sp. nelumbicola,通气性差,Poor ventilation,适宜发生条件,ConditionIs
+552,莲藕尾孢褐斑病,Cercospora nymphaeacea,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+553,莲藕褐纹病,Cercospora nymphaeacea,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+554,莲藕炭疽病,Colletotrichum gloeosporioides,高湿高温,High humidity and high temperature,适宜发生条件,ConditionIs
+555,莲藕叶疫病,Phytophthora nicotianae var. parasitica,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+556,莲藕叶疫病,Phytophthora nicotianae var. parasitica,空气潮湿,Humid air,适宜发生条件,ConditionIs
+557,莲缢管蚜,Rhopalosiphum nymphaeae,温度高湿,High temperature and humidity,适宜发生条件,ConditionIs
+558,莲缢管蚜,Rhopalosiphum nymphaeae,高温干燥,High temperature drying,适宜发生条件,ConditionIs
+559,茭白纹枯病,Thanatephorus cucumeris,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+560,茭白纹枯病,Thanatephorus cucumeris,降雨多,Heavy rainfall,适宜发生条件,ConditionIs
+561,茭白纹枯病,Thanatephorus cucumeris,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+562,茭白瘟病,Pyricularia zizaniae,土壤温度低,Low soil temperature,适宜发生条件,ConditionIs
+563,茭白瘟病,Pyricularia zizaniae,连阴雨,Continuous rain,适宜发生条件,ConditionIs
+564,茭白瘟病,Pyricularia zizaniae,光照不足,Insufficient light,适宜发生条件,ConditionIs
+565,茭白黑粉病,Ustilago esculenta,高温,high temperature,适宜发生条件,ConditionIs
+566,茭白黑粉病,Ustilago esculenta,多雨,Rainy,适宜发生条件,ConditionIs
+567,茭白黑粉病,Ustilago esculenta,郁闷高湿,Depression and high humidity,适宜发生条件,ConditionIs
+568,茭白黑粉病,Ustilago esculenta,灌水不当,Improper watering,适宜发生条件,ConditionIs
+569,慈姑黑粉病,Ustilago esculenta var. zizaniae,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+570,慈姑斑纹病,Cercospora sagittariae,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+571,慈姑褐斑病,Alternaria zizaniae,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+572,荸荠杆枯病,Fusarium oxysporum f. sp. eleocharidis,雨水多,Heavy rain,适宜发生条件,ConditionIs
+573,荸荠杆枯病,Fusarium oxysporum f. sp. eleocharidis,湿度大,High humidity,适宜发生条件,ConditionIs
+574,荸荠茎腐病,Fusarium oxysporum f. sp. eleocharidis,土质瘠薄,Poor soil,适宜发生条件,ConditionIs
+575,荸荠茎腐病,Fusarium oxysporum f. sp. eleocharidis,土层浅或缺肥,Shallow soil or lack of fertilizer,适宜发生条件,ConditionIs
+576,荸荠茎腐病,Fusarium oxysporum f. sp. eleocharidis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+577,荸荠茎腐病,Fusarium oxysporum f. sp. eleocharidis,灌水过深,Too deep watering,适宜发生条件,ConditionIs
+578,蘑菇褐腐病,Trichoderma viride,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+579,蘑菇褐腐病,Trichoderma viride,通风不畅,Poor ventilation,适宜发生条件,ConditionIs
+580,蘑菇褐斑病,Mycogone perniciosa,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+581,蘑菇褐斑病,Mycogone perniciosa,通风不畅,Poor ventilation,适宜发生条件,ConditionIs
+582,蘑菇猝倒病,Rhizoctonia solani,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+583,佛手瓜蔓枯病,Mycosphaerella citrullina,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+584,佛手瓜叶点病,Phyllosticta cucurbitacearum,通风不好,Poor ventilation,适宜发生条件,ConditionIs
+585,佛手瓜叶点病,Phyllosticta cucurbitacearum,光照不足,Insufficient light,适宜发生条件,ConditionIs
+586,佛手瓜叶点病,Phyllosticta cucurbitacearum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+587,佛手瓜叶点病,Phyllosticta cucurbitacearum,株间湿度大,High humidity between plants,适宜发生条件,ConditionIs
+588,苦瓜白斑病,Cercospora momordicae,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+589,苦瓜霜霉病,Pseudoperonospora cubensis,低温阴雨,Low temperature and rainy weather,适宜发生条件,ConditionIs
+590,苦瓜霜霉病,Pseudoperonospora cubensis,雨水多,Heavy rain,适宜发生条件,ConditionIs
+591,苦瓜炭疽病,Colletotrichum orbiculare,通风条件差,Poor ventilation,适宜发生条件,ConditionIs
+592,苦瓜炭疽病,Colletotrichum orbiculare,施氮肥过多,Excessive nitrogen fertilizer application,适宜发生条件,ConditionIs
+593,苦瓜炭疽病,Colletotrichum orbiculare,大水漫灌,Flood irrigation,适宜发生条件,ConditionIs
+594,苦瓜叶枯病,Alternaria cucumerina,雨量大,Heavy rainfall,适宜发生条件,ConditionIs
+595,苦瓜叶枯病,Alternaria cucumerina,相对湿度高于90%,Relative humidity above 90%,适宜发生条件,ConditionIs
+596,苦瓜叶枯病,Alternaria cucumerina,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+597,苦瓜叶枯病,Alternaria cucumerina,排水不良,Poor drainage,适宜发生条件,ConditionIs
+598,苦瓜叶枯病,Alternaria cucumerina,湿气滞留,Moisture Retention,适宜发生条件,ConditionIs
+599,苦瓜斑点病,Cercospora momordicae,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+600,苦瓜斑点病,Cercospora momordicae,田间郁蔽,Field shade,适宜发生条件,ConditionIs
+601,苦瓜枯萎病,Fusarium oxysporum f. sp. momordicae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+602,苦瓜根腐病,Fusarium solani,高温,high temperature,适宜发生条件,ConditionIs
+603,苦瓜根腐病,Fusarium solani,高湿,High humidity,适宜发生条件,ConditionIs
+604,苦瓜白绢病,Sclerotium rolfsii,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+605,苦瓜白绢病,Sclerotium rolfsii,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+606,苦瓜白绢病,Sclerotium rolfsii,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+607,苦瓜猝倒病,Pythium ultimum,低温,Low temperature,适宜发生条件,ConditionIs
+608,苦瓜猝倒病,Pythium ultimum,高湿,High humidity,适宜发生条件,ConditionIs
+609,苦瓜猝倒病,Pythium ultimum,光照不足,Insufficient light,适宜发生条件,ConditionIs
+610,苦瓜猝倒病,Pythium ultimum,湿度偏大,Humidity is too high,适宜发生条件,ConditionIs
+611,苦瓜菌核病,Sclerotinia sclerotiorum,低温,Low temperature,适宜发生条件,ConditionIs
+612,苦瓜菌核病,Sclerotinia sclerotiorum,湿度大,High humidity,适宜发生条件,ConditionIs
+613,苦瓜蔓枯病,Mycosphaerella melonis,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+614,苦瓜蔓枯病,Mycosphaerella melonis,种植过密,Too dense planting,适宜发生条件,ConditionIs
+615,苦瓜蔓枯病,Mycosphaerella melonis,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+616,苦瓜立枯病,Rhizoctonia solani,光照不足,Insufficient light,适宜发生条件,ConditionIs
+617,苦瓜立枯病,Rhizoctonia solani,高温,high temperature,适宜发生条件,ConditionIs
+618,苦瓜立枯病,Rhizoctonia solani,高湿,High humidity,适宜发生条件,ConditionIs
+619,苦瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,相对湿度为70%以上,Relative humidity is above 70%,适宜发生条件,ConditionIs
+620,苦瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+621,苦瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,排水不良,Poor drainage,适宜发生条件,ConditionIs
+622,苦瓜病毒病,Watermelon mosaic virus,高温,high temperature,适宜发生条件,ConditionIs
+623,苦瓜病毒病,Watermelon mosaic virus,干旱,drought,适宜发生条件,ConditionIs
+624,菜豆红斑病,Cercospora canescens,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+625,菜豆白绢病,Sclerotium rolfsii,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+626,菜豆炭腐病,Macrophomina phaseolina,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+627,菜豆炭腐病,Macrophomina phaseolina,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+628,菜豆炭腐病,Macrophomina phaseolina,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+629,菜豆锈病,Uromyces appendiculatus,排水不良,Poor drainage,适宜发生条件,ConditionIs
+630,菜豆锈病,Uromyces appendiculatus,种植过密,Too dense planting,适宜发生条件,ConditionIs
+631,菜豆锈病,Uromyces appendiculatus,通风不畅,Poor ventilation,适宜发生条件,ConditionIs
+632,菜豆炭疽病,Colletotrichum lindemuthianum,地势低洼窝风,Low-lying terrain,适宜发生条件,ConditionIs
+633,菜豆黑斑病,Alternaria brassicae,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+634,菜豆褐斑病,Septoria glycines,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+635,菜豆根腐病,Fusarium solani,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+636,菜豆枯萎病,Fusarium oxysporum f. sp. phaseoli,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+637,菜豆枯萎病,Fusarium oxysporum f. sp. phaseoli,灌水频繁,Frequent watering,适宜发生条件,ConditionIs
+638,菜豆枯萎病,Fusarium oxysporum f. sp. phaseoli,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+639,菜豆枯萎病,Fusarium oxysporum f. sp. phaseoli,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+640,菜豆枯萎病,Fusarium oxysporum f. sp. phaseoli,管理粗放,Extensive management,适宜发生条件,ConditionIs
+641,菜豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+642,菜豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,温度高,High temperature,适宜发生条件,ConditionIs
+643,菜豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,湿度大,High humidity,适宜发生条件,ConditionIs
+644,菜豆细菌性晕疫病,Pseudomonas syringae pv. aptata,潮湿,Wet,适宜发生条件,ConditionIs
+645,菜豆斑点病,Cercospora canescens,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+646,菜豆白粉病,Erysiphe polygoni,潮湿,Wet,适宜发生条件,ConditionIs
+647,菜豆白粉病,Erysiphe polygoni,多雨,Rainy,适宜发生条件,ConditionIs
+648,菜豆白粉病,Erysiphe polygoni,湿度高,High humidity,适宜发生条件,ConditionIs
+649,菜豆污煤病,Capnodium spp.,高温,high temperature,适宜发生条件,ConditionIs
+650,菜豆污煤病,Capnodium spp.,高湿,High humidity,适宜发生条件,ConditionIs
+651,菜豆根霉软腐病,Rhizopus stolonifer,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+652,菜豆根霉软腐病,Rhizopus stolonifer,阴雨连绵,Continuous rain,适宜发生条件,ConditionIs
+653,菜豆根霉软腐病,Rhizopus stolonifer,田间积水,Waterlogging in the fields,适宜发生条件,ConditionIs
+654,菜豆根霉软腐病,Rhizopus stolonifer,湿气滞留,Moisture Retention,适宜发生条件,ConditionIs
+655,菜豆(链格孢)黑斑病,Alternaria alternata,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+656,豆叶螨,Tetranychus urticae,天气干旱,Dry weather,适宜发生条件,ConditionIs
+657,截形叶螨,Tetranychus truncatus,高温低湿,High temperature and low humidity,适宜发生条件,ConditionIs
+658,豇豆疫病,Phytophthora vignae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+659,豇豆疫病,Phytophthora vignae,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+660,豇豆疫病,Phytophthora vignae,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+661,豇豆煤霉病,Peronospora manshurica,高温,high temperature,适宜发生条件,ConditionIs
+662,豇豆煤霉病,Peronospora manshurica,高湿,High humidity,适宜发生条件,ConditionIs
+663,豇豆枯萎病,Fusarium oxysporum f. sp. tracheiphilum,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+664,豇豆枯萎病,Fusarium oxysporum f. sp. tracheiphilum,土势低洼积水,Low-lying soil and waterlogging,适宜发生条件,ConditionIs
+665,豇豆锈病,Uromyces vignae,阴雨高湿度,Rainy and high humidity,适宜发生条件,ConditionIs
+666,豇豆锈病,Uromyces vignae,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+667,豇豆锈病,Uromyces vignae,种植过密,Too dense planting,适宜发生条件,ConditionIs
+668,豇豆锈病,Uromyces vignae,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+669,豇豆白粉病,Erysiphe polygoni,缺磷少钾,Phosphorus and potassium deficiency,适宜发生条件,ConditionIs
+670,豇豆白绢病,Sclerotium rolfsii,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+671,豇豆基腐病,Fusarium solani,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+672,豇豆根腐病,Fusarium solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+673,豇豆根腐病,Fusarium solani,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+674,豇豆褐斑病,Septoria glycines,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+675,豇豆褐斑病,Septoria glycines,栽植过密,Too dense planting,适宜发生条件,ConditionIs
+676,豇豆褐斑病,Septoria glycines,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+677,豇豆褐斑病,Septoria glycines,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+678,豇豆红斑病,Cercospora canescens,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+679,豇豆斑枯病,Septoria glycines,温暖高湿,Warm and humid,适宜发生条件,ConditionIs
+680,豇豆立枯病,Rhizoctonia solani,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+681,豇豆根结线虫病,Meloidogyne incognita,土壤不过干,The soil is not too dry,适宜发生条件,ConditionIs
+682,豇豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+683,豇豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,雾大露重,Heavy fog and dew,适宜发生条件,ConditionIs
+684,豇豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,大水漫灌,Flood irrigation,适宜发生条件,ConditionIs
+685,豇豆细菌性疫病,Xanthomonas axonopodis pv. phaseoli,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+686,豇豆炭疽病,Colletotrichum lindemuthianum,多雨,Rainy,适宜发生条件,ConditionIs
+687,豇豆炭疽病,Colletotrichum lindemuthianum,多露,Duolu,适宜发生条件,ConditionIs
+688,豇豆炭疽病,Colletotrichum lindemuthianum,多雾冷凉多湿,"Foggy, cold and wet",适宜发生条件,ConditionIs
+689,豇豆炭疽病,Colletotrichum lindemuthianum,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+690,豇豆轮纹病,Ascochyta fabae,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+691,豇豆茎枯病,Fusarium oxysporum f. sp. tracheiphilum,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+692,豇豆茎枯病,Fusarium oxysporum f. sp. tracheiphilum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+693,豇豆茎枯病,Fusarium oxysporum f. sp. tracheiphilum,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+694,豇豆灰斑病,Cercospora canescens,通风透气不良,Poor ventilation,适宜发生条件,ConditionIs
+695,豇豆类菌原体丛枝病,Phytoplasma sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+696,豇豆类菌原体丛枝病,Phytoplasma sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+697,豇豆类菌原体丛枝病,Phytoplasma sp.,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+698,豇豆类菌原体丛枝病,Phytoplasma sp.,偏酸,Acidic,适宜发生条件,ConditionIs
+699,豇豆类菌原体丛枝病,Phytoplasma sp.,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+700,毛豆疫病,Phytophthora sojae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+701,毛豆疫病,Phytophthora sojae,土壤为黏土,Soil is clay,适宜发生条件,ConditionIs
+702,毛豆疫病,Phytophthora sojae,排排水不良,Poor drainage,适宜发生条件,ConditionIs
+703,豆杆黑潜蝇,Melanagromyza sojae,多雨多湿,Rainy and wet,适宜发生条件,ConditionIs
+704,毛豆褐斑病,Cercospora sojina,温暖多雨,Warm and rainy,适宜发生条件,ConditionIs
+705,毛豆褐斑病,Cercospora sojina,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+706,毛豆褐斑病,Cercospora sojina,排水不良,Poor drainage,适宜发生条件,ConditionIs
+707,毛豆黑斑病,Alternaria alternata,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+708,毛豆霜霉病,Peronospora manshurica,低温,Low temperature,适宜发生条件,ConditionIs
+709,毛豆霜霉病,Peronospora manshurica,多雨,Rainy,适宜发生条件,ConditionIs
+710,毛豆根腐病,Fusarium solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+711,毛豆赤霉病,Gibberella zeae,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+712,毛豆赤霉病,Gibberella zeae,湿度大,High humidity,适宜发生条件,ConditionIs
+713,毛豆枯萎病,Fusarium oxysporum f. sp. tracheiphilum,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+714,毛豆枯萎病,Fusarium oxysporum f. sp. tracheiphilum,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+715,毛豆枯萎病,Fusarium oxysporum f. sp. tracheiphilum,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+716,毛豆病毒病,Watermelon mosaic virus,气候干旱,Drought,适宜发生条件,ConditionIs
+717,毛豆菌核病,Sclerotinia sclerotiorum,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+718,毛豆猝倒病,Pythium ultimum,土温低,Low soil temperature,适宜发生条件,ConditionIs
+719,毛豆猝倒病,Pythium ultimum,高湿,High humidity,适宜发生条件,ConditionIs
+720,毛豆立枯病,Rhizoctonia solani,低温多雨,Low temperature and heavy rain,适宜发生条件,ConditionIs
+721,毛豆立枯病,Rhizoctonia solani,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+722,毛豆立枯病,Rhizoctonia solani,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+723,毛豆立枯病,Rhizoctonia solani,光照不足,Insufficient light,适宜发生条件,ConditionIs
+724,毛豆茎枯病,Fusarium oxysporum f. sp. tracheiphilum,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+725,毛豆菌核疫病,Phytophthora nicotianae var. parasitica,潮湿,Wet,适宜发生条件,ConditionIs
+726,毛豆菌核疫病,Phytophthora nicotianae var. parasitica,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+727,毛豆菌核疫病,Phytophthora nicotianae var. parasitica,作物遮荫,Crop Shade,适宜发生条件,ConditionIs
+728,毛豆煤斑病,Capnodium spp.,田间高湿,High humidity in the field,适宜发生条件,ConditionIs
+729,毛豆煤斑病,Capnodium spp.,高温,high temperature,适宜发生条件,ConditionIs
+730,毛豆煤斑病,Capnodium spp.,多雨,Rainy,适宜发生条件,ConditionIs
+731,毛豆紫斑病,Alternaria alternata,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+732,豌豆褐纹病,Ascochyta pisi,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+733,豌豆褐纹病,Ascochyta pisi,湿度过大,Excessive humidity,适宜发生条件,ConditionIs
+734,豌豆褐纹病,Ascochyta pisi,氮肥过多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+735,豌豆白粉病,Erysiphe pisi,温暖干燥,Warm and dry,适宜发生条件,ConditionIs
+736,豌豆白粉病,Erysiphe pisi,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+737,豌豆基腐病,Fusarium solani,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+738,豌豆黑根病,Rhizoctonia solani,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+739,西葫芦灰霉病,Botrytis cinerea,光照不足,Insufficient light,适宜发生条件,ConditionIs
+740,西葫芦灰霉病,Botrytis cinerea,气温偏低,Low temperature,适宜发生条件,ConditionIs
+741,西葫芦枯萎病,Fusarium oxysporum f. sp. cucumerinum,空气湿度大,High humidity,适宜发生条件,ConditionIs
+742,西葫芦枯萎病,Fusarium oxysporum f. sp. cucumerinum,相对湿度小,Low relative humidity,适宜发生条件,ConditionIs
+743,西葫芦枯萎病,Fusarium oxysporum f. sp. cucumerinum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+744,西葫芦枯萎病,Fusarium oxysporum f. sp. cucumerinum,浇水过多,Overwatering,适宜发生条件,ConditionIs
+745,西葫芦枯萎病,Fusarium oxysporum f. sp. cucumerinum,土壤过分干旱,Soil is too dry,适宜发生条件,ConditionIs
+746,西葫芦枯萎病,Fusarium oxysporum f. sp. cucumerinum,土壤偏酸,Soil acidic,适宜发生条件,ConditionIs
+747,西葫芦蔓枯病,Mycosphaerella melonis,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+748,西葫芦蔓枯病,Mycosphaerella melonis,天气闷热,Hot and muggy weather,适宜发生条件,ConditionIs
+749,西葫芦蔓枯病,Mycosphaerella melonis,雨后积水,Water after rain,适宜发生条件,ConditionIs
+750,西葫芦蔓枯病,Mycosphaerella melonis,大水勤浇,Water frequently,适宜发生条件,ConditionIs
+751,西葫芦蔓枯病,Mycosphaerella melonis,缺肥,Lack of fertilizer,适宜发生条件,ConditionIs
+752,西葫芦蔓枯病,Mycosphaerella melonis,光照不足,Insufficient light,适宜发生条件,ConditionIs
+753,西葫芦蔓枯病,Mycosphaerella melonis,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+754,西葫芦绵腐病,Pythium aphanidermatum,土温低,Low soil temperature,适宜发生条件,ConditionIs
+755,西葫芦绵腐病,Pythium aphanidermatum,湿度大,High humidity,适宜发生条件,ConditionIs
+756,西葫芦菌核病,Sclerotinia sclerotiorum,低温,Low temperature,适宜发生条件,ConditionIs
+757,西葫芦菌核病,Sclerotinia sclerotiorum,湿度大,High humidity,适宜发生条件,ConditionIs
+758,西葫芦菌核病,Sclerotinia sclerotiorum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+759,西葫芦褐腐病,Monilinia fructicola,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+760,西葫芦褐腐病,Monilinia fructicola,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+761,西葫芦病毒病,Watermelon mosaic virus,高温,high temperature,适宜发生条件,ConditionIs
+762,西葫芦病毒病,Watermelon mosaic virus,高湿,High humidity,适宜发生条件,ConditionIs
+763,西葫芦曲霉病,Aspergillus spp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+764,西葫芦曲霉病,Aspergillus spp.,土壤温湿度变,Soil temperature and humidity changes,适宜发生条件,ConditionIs
+765,冬瓜白粉病,Erysiphe cichoracearum,雨后,After the Rain,适宜发生条件,ConditionIs
+766,冬瓜黑星病,Cladosporium cucumerinum,夜温低,Low night temperature,适宜发生条件,ConditionIs
+767,冬瓜炭疽病,Colletotrichum orbiculare,空气湿度大,High humidity,适宜发生条件,ConditionIs
+768,冬瓜叶斑病,Cercospora citrullina,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+769,冬瓜疫病,Phytophthora melonis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+770,冬瓜疫病,Phytophthora melonis,排水不良,Poor drainage,适宜发生条件,ConditionIs
+771,冬瓜蔓枯病,Mycosphaerella melonis,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+772,冬瓜褐腐病,Monilinia fructicola,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+773,冬瓜褐腐病,Monilinia fructicola,高湿,High humidity,适宜发生条件,ConditionIs
+774,冬瓜褐腐病,Monilinia fructicola,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+775,冬瓜褐腐病,Monilinia fructicola,雨后积水,Water after rain,适宜发生条件,ConditionIs
+776,冬瓜绵腐病,Pythium aphanidermatum,雨，湿,"Rain, wet",适宜发生条件,ConditionIs
+777,冬瓜(叶点霉)叶斑病,Phyllosticta cucurbitacearum,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+778,冬瓜裂果,Melon cracking,浇水不均,Uneven watering,适宜发生条件,ConditionIs
+779,冬瓜立枯病,Rhizoctonia solani,高湿,High humidity,适宜发生条件,ConditionIs
+780,冬瓜立枯病,Rhizoctonia solani,阴雨,Rainy,适宜发生条件,ConditionIs
+781,冬瓜立枯病,Rhizoctonia solani,光照不足,Insufficient light,适宜发生条件,ConditionIs
+782,冬瓜黑斑病,Alternaria alternata,田间管理粗放,Extensive field management,适宜发生条件,ConditionIs
+783,冬瓜菌核病,Sclerotinia sclerotiorum,相对湿度高于85%,Relative humidity above 85%,适宜发生条件,ConditionIs
+784,冬瓜根腐病,Fusarium solani,高温,high temperature,适宜发生条件,ConditionIs
+785,冬瓜根腐病,Fusarium solani,高湿,High humidity,适宜发生条件,ConditionIs
+786,瓠瓜霜霉病,Pseudoperonospora cubensis,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+787,瓠瓜霜霉病,Pseudoperonospora cubensis,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+788,瓠瓜霜霉病,Pseudoperonospora cubensis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+789,瓠瓜霜霉病,Pseudoperonospora cubensis,土壤质地差,Poor soil texture,适宜发生条件,ConditionIs
+790,瓠瓜霜霉病,Pseudoperonospora cubensis,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+791,瓠瓜霜霉病,Pseudoperonospora cubensis,栽培过密,Overcrowding,适宜发生条件,ConditionIs
+792,瓠瓜霜霉病,Pseudoperonospora cubensis,湿度过高,Humidity is too high,适宜发生条件,ConditionIs
+793,瓠瓜白粉病,Podosphaera xanthii,空气相对湿度45%,Relative humidity 45%,适宜发生条件,ConditionIs
+794,瓠瓜白粉病,Podosphaera xanthii,通风不好,Poor ventilation,适宜发生条件,ConditionIs
+795,瓠瓜白粉病,Podosphaera xanthii,光照不足,Insufficient light,适宜发生条件,ConditionIs
+796,瓠瓜白粉病,Podosphaera xanthii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+797,瓠瓜白粉病,Podosphaera xanthii,株间湿度大,High humidity between plants,适宜发生条件,ConditionIs
+798,瓠瓜炭疽病,Colletotrichum orbiculare,空气湿度大,High humidity,适宜发生条件,ConditionIs
+799,瓠瓜炭疽病,Colletotrichum orbiculare,氮肥过多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+800,瓠瓜炭疽病,Colletotrichum orbiculare,大水漫灌,Flood irrigation,适宜发生条件,ConditionIs
+801,瓠瓜炭疽病,Colletotrichum orbiculare,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+802,瓠瓜灰霉病,Botrytis cinerea,湿度大,High humidity,适宜发生条件,ConditionIs
+803,瓠瓜枯萎病,Fusarium oxysporum f. sp. lagenariae,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+804,瓠瓜枯萎病,Fusarium oxysporum f. sp. lagenariae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+805,瓠瓜枯萎病,Fusarium oxysporum f. sp. lagenariae,排水不良,Poor drainage,适宜发生条件,ConditionIs
+806,瓠瓜枯萎病,Fusarium oxysporum f. sp. lagenariae,地温低,Low ground temperature,适宜发生条件,ConditionIs
+807,瓠瓜枯萎病,Fusarium oxysporum f. sp. lagenariae,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+808,瓠瓜枯萎病,Fusarium oxysporum f. sp. lagenariae,土壤过酸,Soil is too acidic,适宜发生条件,ConditionIs
+809,瓠瓜褐腐病,Monilinia fructicola,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+810,瓠瓜褐腐病,Monilinia fructicola,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+811,瓠瓜褐腐病,Monilinia fructicola,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+812,瓠瓜褐腐病,Monilinia fructicola,雨后积水,Water after rain,适宜发生条件,ConditionIs
+813,瓠瓜绵腐病,Pythium aphanidermatum,雨，湿,"Rain, wet",适宜发生条件,ConditionIs
+814,瓠瓜褐斑病,Cercospora cucurbitae,湿度高,High humidity,适宜发生条件,ConditionIs
+815,瓠瓜褐斑病,Cercospora cucurbitae,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+816,瓠瓜褐斑病,Cercospora cucurbitae,光照少,Less light,适宜发生条件,ConditionIs
+817,瓠瓜蔓枯病,Mycosphaerella melonis,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+818,瓠瓜煤污病,Capnodium spp.,光照弱,Low light,适宜发生条件,ConditionIs
+819,瓠瓜煤污病,Capnodium spp.,空气湿度大,High humidity,适宜发生条件,ConditionIs
+820,瓠瓜煤污病,Capnodium spp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+821,丝瓜枯萎病,Fusarium oxysporum f. sp. luffae,土壤过分干旱,Soil is too dry,适宜发生条件,ConditionIs
+822,丝瓜枯萎病,Fusarium oxysporum f. sp. luffae,质地黏重,Heavy texture,适宜发生条件,ConditionIs
+823,丝瓜绵腐病,Pythium aphanidermatum,阴雨连绵,Continuous rain,适宜发生条件,ConditionIs
+824,丝瓜绵腐病,Pythium aphanidermatum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+825,丝瓜绵腐病,Pythium aphanidermatum,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+826,丝瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,适宜相对湿度70%以上,Suitable relative humidity is above 70%,适宜发生条件,ConditionIs
+827,丝瓜褐斑病,Cercospora cucurbitae,温暖高湿,Warm and humid,适宜发生条件,ConditionIs
+828,丝瓜疫病,Phytophthora melonis,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+829,丝瓜疫病,Phytophthora melonis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+830,南瓜疫病,Phytophthora capsici,通风透,Ventilation,适宜发生条件,ConditionIs
+831,南瓜白粉病,Sphaerotheca fuliginea,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+832,南瓜枯萎病,Fusarium oxysporum f. sp. niveum,土壤过分干旱,Soil is too dry,适宜发生条件,ConditionIs
+833,南瓜白绢病,Sclerotium rolfsii,不利菌丝生长,Unfavorable mycelial growth,适宜发生条件,ConditionIs
+834,南瓜斑点病,Cercospora cucurbitae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+835,南瓜斑点病,Cercospora cucurbitae,株间郁闭,Closed between plants,适宜发生条件,ConditionIs
+836,南瓜角斑病,Pseudomonas syringae pv. lachrymans,多雨,Rainy,适宜发生条件,ConditionIs
+837,南瓜角斑病,Pseudomonas syringae pv. lachrymans,高湿,High humidity,适宜发生条件,ConditionIs
+838,南瓜角斑病,Pseudomonas syringae pv. lachrymans,大水漫灌,Flood irrigation,适宜发生条件,ConditionIs
+839,南瓜斑枯病,Septoria cucurbitacearum,田间多雨,Rainy fields,适宜发生条件,ConditionIs
+840,南瓜褐腐病,Monilinia fructicola,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+841,南瓜褐腐病,Monilinia fructicola,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+842,南瓜化瓜,No specific scientific name for this condition,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+843,飞碟瓜褐腐病,Monilinia fructicola,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+844,飞碟瓜褐腐病,Monilinia fructicola,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+845,飞碟瓜灰霉病,Botrytis cinerea,湿度大,High humidity,适宜发生条件,ConditionIs
+846,飞碟瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,土壤过分干旱,Soil is too dry,适宜发生条件,ConditionIs
+847,飞碟瓜脐腐病,Blossom End Rot,湿度低,Low humidity,适宜发生条件,ConditionIs
+848,佛手瓜白粉病,Podosphaera xanthii,空气相对湿度45%,Relative humidity 45%,适宜发生条件,ConditionIs
+849,佛手瓜白粉病,Podosphaera xanthii,通风不好,Poor ventilation,适宜发生条件,ConditionIs
+850,佛手瓜白粉病,Podosphaera xanthii,光照不足,Insufficient light,适宜发生条件,ConditionIs
+851,佛手瓜白粉病,Podosphaera xanthii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+852,佛手瓜白粉病,Podosphaera xanthii,株间湿度大,High humidity between plants,适宜发生条件,ConditionIs
+853,佛手瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+854,佛手瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+855,佛手瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+856,佛手瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,地温低,Low ground temperature,适宜发生条件,ConditionIs
+857,佛手瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+858,佛手瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,土壤过酸,Soil is too acidic,适宜发生条件,ConditionIs
+859,辣椒枯萎病,Fusarium oxysporum f. sp. capsici,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+860,辣椒枯萎病,Fusarium oxysporum f. sp. capsici,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+861,辣椒枯萎病,Fusarium oxysporum f. sp. capsici,黏重,Heavy,适宜发生条件,ConditionIs
+862,辣椒枯萎病,Fusarium oxysporum f. sp. capsici,微酸,Slightly acidic,适宜发生条件,ConditionIs
+863,辣椒枯萎病,Fusarium oxysporum f. sp. capsici,排水不良,Poor drainage,适宜发生条件,ConditionIs
+864,辣椒猝倒病,Pythium ultimum,保温放风不当,Improper insulation and ventilation,适宜发生条件,ConditionIs
+865,辣椒猝倒病,Pythium ultimum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+866,辣椒猝倒病,Pythium ultimum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+867,辣椒立枯病,Rhizoctonia solani,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+868,辣椒立枯病,Rhizoctonia solani,浇水过多,Overwatering,适宜发生条件,ConditionIs
+869,辣椒根腐病,Fusarium solani,空气相对湿度较,Relative humidity of air,适宜发生条件,ConditionIs
+870,辣椒细菌性叶斑病,Xanthomonas campestris pv. vesicatoria,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+871,辣椒细菌性叶斑病,Xanthomonas campestris pv. vesicatoria,排水不良,Poor drainage,适宜发生条件,ConditionIs
+872,辣椒细菌性叶斑病,Xanthomonas campestris pv. vesicatoria,土壤贫瘠缺肥,Poor soil and lack of fertilizer,适宜发生条件,ConditionIs
+873,辣椒青枯病,Ralstonia solanacearum,缺钾肥,Potassium deficiency,适宜发生条件,ConditionIs
+874,辣椒病毒病,CMV (Cucumber Mosaic Virus) or other virus names depending on the virus type,湿度60%,Humidity 60%,适宜发生条件,ConditionIs
+875,辣椒病毒病,CMV (Cucumber Mosaic Virus) or other virus names depending on the virus type,高温,high temperature,适宜发生条件,ConditionIs
+876,辣椒病毒病,CMV (Cucumber Mosaic Virus) or other virus names depending on the virus type,干旱少雨,Drought and little rain,适宜发生条件,ConditionIs
+877,辣椒病毒病,CMV (Cucumber Mosaic Virus) or other virus names depending on the virus type,土壤缺肥,Soil lack of fertilizer,适宜发生条件,ConditionIs
+878,辣椒白斑病,No specific scientific name for this condition,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+879,辣椒枯顶病毒病,TYLCV (Tomato Yellow Leaf Curl Virus) or other virus names depending on the virus type,管理粗放,Extensive management,适宜发生条件,ConditionIs
+880,辣椒枯顶病毒病,TYLCV (Tomato Yellow Leaf Curl Virus) or other virus names depending on the virus type,缺水,Lack of water,适宜发生条件,ConditionIs
+881,辣椒枯顶病毒病,TYLCV (Tomato Yellow Leaf Curl Virus) or other virus names depending on the virus type,干旱,drought,适宜发生条件,ConditionIs
+882,辣椒日灼病,Pepper sunscald,土壤缺水,Soil lack of water,适宜发生条件,ConditionIs
+883,辣椒日灼病,Pepper sunscald,忽雨忽晴,Rainy and sunny,适宜发生条件,ConditionIs
+884,辣椒日灼病,Pepper sunscald,多雾,Foggy,适宜发生条件,ConditionIs
+885,辣椒高温病,Pepper high temperature injury,湿度低或,Low humidity or,适宜发生条件,ConditionIs
+886,辣椒高温病,Pepper high temperature injury,土壤缺水,Soil lack of water,适宜发生条件,ConditionIs
+887,茄子白粉病,Erysiphe cichoracearum,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+888,茄子白粉病,Erysiphe cichoracearum,低洼潮湿,Low-lying and humid,适宜发生条件,ConditionIs
+889,茄子白粉病,Erysiphe cichoracearum,株间郁闭,Closed between plants,适宜发生条件,ConditionIs
+890,茄子褐纹病,Phomopsis vexans,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+891,茄子褐纹病,Phomopsis vexans,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+892,茄子褐纹病,Phomopsis vexans,排水不良,Poor drainage,适宜发生条件,ConditionIs
+893,茄子褐纹病,Phomopsis vexans,夏季多雨,Rainy summer,适宜发生条件,ConditionIs
+894,茄子叶霉病,Fulvia fulva,管理粗放,Extensive management,适宜发生条件,ConditionIs
+895,茄子叶霉病,Fulvia fulva,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+896,茄子炭疽病,Colletotrichum melongenae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+897,茄子炭疽病,Colletotrichum melongenae,排水不良,Poor drainage,适宜发生条件,ConditionIs
+898,茄子炭疽病,Colletotrichum melongenae,氮肥过多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+899,茄子炭疽病,Colletotrichum melongenae,植株郁蔽,Plant shade,适宜发生条件,ConditionIs
+900,茄子炭疽病,Colletotrichum melongenae,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+901,茄子白绢病,Sclerotium rolfsii,整地不细,Poor land preparation,适宜发生条件,ConditionIs
+902,茄子白绢病,Sclerotium rolfsii,管理粗放,Extensive management,适宜发生条件,ConditionIs
+903,茄子白绢病,Sclerotium rolfsii,浇水过多,Overwatering,适宜发生条件,ConditionIs
+904,茄子白绢病,Sclerotium rolfsii,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+905,茄子白绢病,Sclerotium rolfsii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+906,茄子褐色圆星病,Eggplant Cercospora leaf spot,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+907,茄子褐色圆星病,Eggplant Cercospora leaf spot,低洼潮湿,Low-lying and humid,适宜发生条件,ConditionIs
+908,茄子褐色圆星病,Eggplant Cercospora leaf spot,株间郁闭,Closed between plants,适宜发生条件,ConditionIs
+909,茄子绵疫病,Phytophthora parasitica,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+910,茄子绵疫病,Phytophthora parasitica,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+911,茄子绵疫病,Phytophthora parasitica,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+912,茄子猝倒病,Pythium ultimum,低温,Low temperature,适宜发生条件,ConditionIs
+913,茄子猝倒病,Pythium ultimum,高湿,High humidity,适宜发生条件,ConditionIs
+914,茄子根腐病,Fusarium solani,高温,high temperature,适宜发生条件,ConditionIs
+915,茄子根腐病,Fusarium solani,高湿,High humidity,适宜发生条件,ConditionIs
+916,茄子根腐病,Fusarium solani,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+917,茄子青枯病,Ralstonia solanacearum,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+918,茄子病毒病,TMV (Tobacco Mosaic Virus) or other virus names depending on the virus type,高温干旱,High temperature and drought,适宜发生条件,ConditionIs
+919,茄子病毒病,TMV (Tobacco Mosaic Virus) or other virus names depending on the virus type,管理粗放,Extensive management,适宜发生条件,ConditionIs
+920,茄子病毒病,TMV (Tobacco Mosaic Virus) or other virus names depending on the virus type,田边杂草多,There are many weeds on the edge of the field,适宜发生条件,ConditionIs
+921,茄子交链孢果腐病,Alternaria alternata,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+922,茄子交链孢果腐病,Alternaria alternata,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+923,茄子交链孢果腐病,Alternaria alternata,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+924,茄子交链孢果腐病,Alternaria alternata,地势低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+925,茄子交链孢果腐病,Alternaria alternata,排水不良,Poor drainage,适宜发生条件,ConditionIs
+926,茄子交链孢果腐病,Alternaria alternata,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+927,茄子交链孢果腐病,Alternaria alternata,高温,high temperature,适宜发生条件,ConditionIs
+928,茄子交链孢果腐病,Alternaria alternata,高湿,High humidity,适宜发生条件,ConditionIs
+929,茄子交链孢果腐病,Alternaria alternata,多雨,Rainy,适宜发生条件,ConditionIs
+930,茄子交链孢果腐病,Alternaria alternata,多雾,Foggy,适宜发生条件,ConditionIs
+931,茄子交链孢果腐病,Alternaria alternata,重露,Heavy Dew,适宜发生条件,ConditionIs
+932,茄子交链孢果腐病,Alternaria alternata,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+933,茄子褐斑病,Eggplant Phyllosticta brown leaf spot,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+934,茄子黑枯病,Eggplant black rot,多湿,Humidity,适宜发生条件,ConditionIs
+935,茄子赤星病,Eggplant Septoria leaf spot,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+936,茄子细轮纹病,Eggplant Phoma leaf spot,排水不良,Poor drainage,适宜发生条件,ConditionIs
+937,茄子果实疫病,Phytophthora capsici,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+938,茄子果实疫病,Phytophthora capsici,排水不良,Poor drainage,适宜发生条件,ConditionIs
+939,茄子花腐病,Eggplant Choanephora blossom rot,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+940,茄子花腐病,Eggplant Choanephora blossom rot,高湿,High humidity,适宜发生条件,ConditionIs
+941,茄子花腐病,Eggplant Choanephora blossom rot,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+942,茄子花腐病,Eggplant Choanephora blossom rot,雨后积水,Water after rain,适宜发生条件,ConditionIs
+943,茄子黑根霉果腐病,Rhizopus stolonifer,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+944,茄子畸形果,Eggplant malformed fruit,氮肥施用过多,Excessive nitrogen fertilizer application,适宜发生条件,ConditionIs
+945,黄瓜霜霉病,Pseudoperonospora cubensis,湿度过高,Humidity is too high,适宜发生条件,ConditionIs
+946,黄瓜霜霉病,Pseudoperonospora cubensis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+947,黄瓜霜霉病,Pseudoperonospora cubensis,土壤质地差,Poor soil texture,适宜发生条件,ConditionIs
+948,黄瓜霜霉病,Pseudoperonospora cubensis,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+949,黄瓜霜霉病,Pseudoperonospora cubensis,栽培过密,Overcrowding,适宜发生条件,ConditionIs
+950,黄瓜霜霉病,Pseudoperonospora cubensis,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+951,黄瓜疫病,Phytophthora melonis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+952,黄瓜疫病,Phytophthora melonis,排水不良,Poor drainage,适宜发生条件,ConditionIs
+953,黄瓜疫病,Phytophthora melonis,浇水过多,Overwatering,适宜发生条件,ConditionIs
+954,黄瓜黑星病,Cladosporium cucumerinum,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+955,黄瓜黑星病,Cladosporium cucumerinum,光照少,Less light,适宜发生条件,ConditionIs
+956,黄瓜黑星病,Cladosporium cucumerinum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+957,黄瓜白粉病,Sphaerotheca fuliginea,相对湿度25%,Relative humidity 25%,适宜发生条件,ConditionIs
+958,黄瓜白粉病,Sphaerotheca fuliginea,最适相对湿度为75%,The optimum relative humidity is 75%,适宜发生条件,ConditionIs
+959,黄瓜白粉病,Sphaerotheca fuliginea,雨后干燥,Dry after rain,适宜发生条件,ConditionIs
+960,黄瓜黑斑病,Alternaria cucumerina,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+961,黄瓜黑斑病,Alternaria cucumerina,通风透气不良,Poor ventilation,适宜发生条件,ConditionIs
+962,黄瓜靶斑病,Corynespora cassiicola,通风透气不良,Poor ventilation,适宜发生条件,ConditionIs
+963,黄瓜靶斑病,Corynespora cassiicola,土壤肥沃,Fertile soil,适宜发生条件,ConditionIs
+964,黄瓜靶斑病,Corynespora cassiicola,底肥充足,Adequate base fertilizer,适宜发生条件,ConditionIs
+965,黄瓜靶斑病,Corynespora cassiicola,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+966,黄瓜靶斑病,Corynespora cassiicola,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+967,黄瓜红粉病,Trichothecium roseum,光照不足,Insufficient light,适宜发生条件,ConditionIs
+968,黄瓜红粉病,Trichothecium roseum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+969,黄瓜圆叶枯病,Cucumber Alternaria Leaf Spot,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+970,黄瓜圆叶枯病,Cucumber Alternaria Leaf Spot,菜地潮湿,The vegetable field is wet,适宜发生条件,ConditionIs
+971,黄瓜圆叶枯病,Cucumber Alternaria Leaf Spot,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+972,黄瓜圆叶枯病,Cucumber Alternaria Leaf Spot,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+973,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,空气湿度大,High humidity,适宜发生条件,ConditionIs
+974,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,相对湿度小,Low relative humidity,适宜发生条件,ConditionIs
+975,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+976,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,浇水过多,Overwatering,适宜发生条件,ConditionIs
+977,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,土壤过分干旱,Soil is too dry,适宜发生条件,ConditionIs
+978,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,土壤偏酸,Soil acidic,适宜发生条件,ConditionIs
+979,黄瓜蔓枯病,Mycosphaerella melonis,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+980,黄瓜蔓枯病,Mycosphaerella melonis,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+981,黄瓜蔓枯病,Mycosphaerella melonis,排水不良,Poor drainage,适宜发生条件,ConditionIs
+982,黄瓜蔓枯病,Mycosphaerella melonis,密度过大,Too high density,适宜发生条件,ConditionIs
+983,黄瓜蔓枯病,Mycosphaerella melonis,光照不足,Insufficient light,适宜发生条件,ConditionIs
+984,黄瓜猝倒病,Pythium ultimum,低温,Low temperature,适宜发生条件,ConditionIs
+985,黄瓜猝倒病,Pythium ultimum,高湿,High humidity,适宜发生条件,ConditionIs
+986,黄瓜猝倒病,Pythium ultimum,光照不足,Insufficient light,适宜发生条件,ConditionIs
+987,黄瓜猝倒病,Pythium ultimum,湿度偏大,Humidity is too high,适宜发生条件,ConditionIs
+988,黄瓜菌核病,Sclerotinia sclerotiorum,相对湿度高于85%,Relative humidity above 85%,适宜发生条件,ConditionIs
+989,黄瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,光照不足,Insufficient light,适宜发生条件,ConditionIs
+990,黄瓜根结线虫病,Meloidogyne incognita,地势高燥,High and dry terrain,适宜发生条件,ConditionIs
+991,黄瓜根结线虫病,Meloidogyne incognita,土壤疏松,Loose soil,适宜发生条件,ConditionIs
+992,黄瓜根结线虫病,Meloidogyne incognita,盐分低,Low salt,适宜发生条件,ConditionIs
+993,黄瓜炭疽病,Colletotrichum orbiculare,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+994,黄瓜炭疽病,Colletotrichum orbiculare,管理粗放,Extensive management,适宜发生条件,ConditionIs
+995,黄瓜炭疽病,Colletotrichum orbiculare,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+996,黄瓜灰霉病,Botrytis cinerea,高湿,High humidity,适宜发生条件,ConditionIs
+997,黄瓜灰霉病,Botrytis cinerea,相对湿度在90%左右,Relative humidity is around 90%,适宜发生条件,ConditionIs
+998,黄瓜根腐病,Fusarium solani,高温,high temperature,适宜发生条件,ConditionIs
+999,黄瓜根腐病,Fusarium solani,高湿,High humidity,适宜发生条件,ConditionIs
+1000,黄瓜细菌性枯萎病,Cucumber Bacterial Wilt,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1001,黄瓜细菌性枯萎病,Erwinia tracheiphila,通风换气不良,Poor ventilation,适宜发生条件,ConditionIs
+1002,黄瓜细菌性枯萎病,Erwinia tracheiphila,相对湿度在85%左右,Relative humidity is around 85%,适宜发生条件,ConditionIs
+1003,黄瓜病毒病,CMV (Cucumber Mosaic Virus) ,日照强,Strong sunshine,适宜发生条件,ConditionIs
+1004,黄瓜病毒病,CMV (Cucumber Mosaic Virus) ,干旱,drought,适宜发生条件,ConditionIs
+1005,黄瓜病毒病,CMV (Cucumber Mosaic Virus) ,缺水,Lack of water,适宜发生条件,ConditionIs
+1006,黄瓜病毒病,CMV (Cucumber Mosaic Virus) ,缺肥,Lack of fertilizer,适宜发生条件,ConditionIs
+1007,黄瓜斑点病,Spot disease of cucumber,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+1008,黄瓜花腐病,Flower rot of cucumber,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1009,黄瓜花腐病,Flower rot of cucumber,高湿,High humidity,适宜发生条件,ConditionIs
+1010,黄瓜花腐病,Flower rot of cucumber,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+1011,黄瓜花腐病,Flower rot of cucumber,雨后积水,Water after rain,适宜发生条件,ConditionIs
+1012,黄瓜软腐病,Erwinia carotovora subsp. carotovora,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1013,黄瓜叶烧病,Leaf scorch of cucumber,相对湿度高于85%,Relative humidity above 85%,适宜发生条件,ConditionIs
+1014,黄瓜缺素症,Nutrient deficiency of cucumber,地温低,Low ground temperature,适宜发生条件,ConditionIs
+1015,黄瓜缺素症,Nutrient deficiency of cucumber,土壤干旱,Soil drought,适宜发生条件,ConditionIs
+1016,黄瓜缺素症,Nutrient deficiency of cucumber,土壤多氮或多钾,Soil high in nitrogen or potassium,适宜发生条件,ConditionIs
+1017,黄瓜缺素症,Nutrient deficiency of cucumber,土壤酸性过重,Soil is too acidic,适宜发生条件,ConditionIs
+1018,黄瓜花打顶,Flower topping of cucumber,高温干旱,High temperature and drought,适宜发生条件,ConditionIs
+1019,黄瓜花打顶,Flower topping of cucumber,土壤缺水,Soil lack of water,适宜发生条件,ConditionIs
+1020,西葫芦黑星病,Cladosporium cucumerinum,右，相对湿度,"Right, relative humidity",适宜发生条件,ConditionIs
+1021,西葫芦黑星病,Cladosporium cucumerinum,植株郁闭,Plant closure,适宜发生条件,ConditionIs
+1022,西葫芦黑星病,Cladosporium cucumerinum,多湿,Humidity,适宜发生条件,ConditionIs
+1023,西葫芦白粉病,Sphaerotheca fuliginea,雨后干燥,Dry after rain,适宜发生条件,ConditionIs
+1024,西葫芦白粉病,Sphaerotheca fuliginea,高温干旱,High temperature and drought,适宜发生条件,ConditionIs
+1025,西葫芦炭疽病,Colletotrichum orbiculare,空气湿度大,High humidity,适宜发生条件,ConditionIs
+1026,西葫芦褐斑病,Brown spot of zucchini,高温,high temperature,适宜发生条件,ConditionIs
+1027,西葫芦褐斑病,Brown spot of zucchini,高湿,High humidity,适宜发生条件,ConditionIs
+1028,蕹菜炭疽病,Colletotrichum sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1029,蕹菜细菌性叶枯病,Xanthomonas campestris pv. oryzicola,雨量大,Heavy rainfall,适宜发生条件,ConditionIs
+1030,茴香菌核病,Sclerotinia sclerotiorum,植地低洼,Low-lying plantation,适宜发生条件,ConditionIs
+1031,茴香霜霉病,Peronospora sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1032,茴香霜霉病,Peronospora sp.,棚内高湿,High humidity in the shed,适宜发生条件,ConditionIs
+1033,茴香枯萎病,Fusarium oxysporum f. sp. Foeniculi,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1034,茴香猝倒病,Pythium sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1035,茴香猝倒病,Pythium sp.,积水地,Waterlogged Land,适宜发生条件,ConditionIs
+1036,茴香猝倒病,Pythium sp.,湿气滞留,Moisture Retention,适宜发生条件,ConditionIs
+1037,茴香白粉病,Powdery mildew of fennel,多露潮湿,Lots of moisture,适宜发生条件,ConditionIs
+1038,茴香灰斑病,Gray spot of fennel,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1039,茴香灰斑病,Gray spot of fennel,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1040,茴香细菌性疫病,Bacterial blight of fennel,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1041,茴香细菌性疫病,Bacterial blight of fennel,高温,high temperature,适宜发生条件,ConditionIs
+1042,茴香细菌性疫病,Bacterial blight of fennel,高湿,High humidity,适宜发生条件,ConditionIs
+1043,茼蒿炭疽病,Colletotrichum sp.,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1044,茼蒿霜霉病,Peronospora sp.,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1045,茼蒿霜霉病,Peronospora sp.,灌水过多,Too much water,适宜发生条件,ConditionIs
+1046,茼蒿霜霉病,Peronospora sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1047,茼蒿霜霉病,Peronospora sp.,田间湿度过大,Excessive humidity in the field,适宜发生条件,ConditionIs
+1048,茼蒿叶斑病,Leaf spot of garland chrysanthemum,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+1049,茼蒿叶斑病,Leaf spot of garland chrysanthemum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1050,茼蒿叶斑病,Leaf spot of garland chrysanthemum,种植过密,Too dense planting,适宜发生条件,ConditionIs
+1051,茼蒿叶斑病,Leaf spot of garland chrysanthemum,浇水过多,Overwatering,适宜发生条件,ConditionIs
+1052,茼蒿菌核病,Sclerotinia sclerotiorum,相对湿度高于85%,Relative humidity above 85%,适宜发生条件,ConditionIs
+1053,菜粉蝶,Pieris rapae,相对湿度76%左右,Relative humidity around 76%,适宜发生条件,ConditionIs
+1054,香芹斑枯病,Septoria petroselini,浇水多,Water more,适宜发生条件,ConditionIs
+1055,香芹斑枯病,Septoria petroselini,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1056,香芹斑枯病,Septoria petroselini,田间积水,Waterlogging in the fields,适宜发生条件,ConditionIs
+1057,香芹斑枯病,Septoria petroselini,土地贫瘠,Barren land,适宜发生条件,ConditionIs
+1058,香芹叶斑病,Leaf spot of parsley,温暖高湿,Warm and humid,适宜发生条件,ConditionIs
+1059,香芹根腐病,Fusarium solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1060,香芹根腐病,Fusarium solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1061,香芹根腐病,Fusarium solani,水肥管理不当,Improper water and fertilizer management,适宜发生条件,ConditionIs
+1062,芫荽灰霉病,Botrytis cinerea,浇水过多,Overwatering,适宜发生条件,ConditionIs
+1063,芫荽灰霉病,Botrytis cinerea,施用氮肥过量,Excessive nitrogen fertilizer application,适宜发生条件,ConditionIs
+1064,芫荽灰霉病,Botrytis cinerea,环境荫蔽,Environmental shading,适宜发生条件,ConditionIs
+1065,芫荽灰霉病,Botrytis cinerea,田间通风不良,Poor field ventilation,适宜发生条件,ConditionIs
+1066,芫荽细菌性疫病,Xanthomonas campestris pv. coriandri,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1067,芫荽细菌性疫病,Xanthomonas campestris pv. coriandri,高温,high temperature,适宜发生条件,ConditionIs
+1068,芫荽细菌性疫病,Xanthomonas campestris pv. coriandri,高湿,High humidity,适宜发生条件,ConditionIs
+1069,香芹根结线虫病,Meloidogyne sp.,地势高燥,High and dry terrain,适宜发生条件,ConditionIs
+1070,香芹根结线虫病,Meloidogyne sp.,土质中性沙质,Soil: neutral sandy,适宜发生条件,ConditionIs
+1071,芫荽叶斑病,Leaf spot of coriander,温暖高湿,Warm and humid,适宜发生条件,ConditionIs
+1072,芫荽株腐病,Stem rot of coriander,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1073,芫荽株腐病,Stem rot of coriander,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1074,芫荽株腐病,Stem rot of coriander,苗床低洼,Low-lying seedbed,适宜发生条件,ConditionIs
+1075,芫荽株腐病,Stem rot of coriander,浇水过量,Overwatering,适宜发生条件,ConditionIs
+1076,芫荽白粉病,Powdery mildew of coriander,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1077,芫荽白粉病,Powdery mildew of coriander,氮肥偏多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+1078,芫荽白粉病,Powdery mildew of coriander,缺钾,Potassium deficiency,适宜发生条件,ConditionIs
+1079,小地老虎,Agrotis ipsilon,旱涝、雨水,"Drought, flood, rain",适宜发生条件,ConditionIs
+1080,叶芥菜黑斑病,Alternaria brassicae,相对湿度为72%,Relative humidity: 72%,适宜发生条件,ConditionIs
+1081,叶芥菜黑腐病,Xanthomonas campestris pv. campestris,高温,high temperature,适宜发生条件,ConditionIs
+1082,叶芥菜黑腐病,Xanthomonas campestris pv. campestris,高湿,High humidity,适宜发生条件,ConditionIs
+1083,叶芥菜黑腐病,Xanthomonas campestris pv. campestris,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+1084,叶芥菜霜霉病,Peronospora parasitica,高湿多雨,High humidity and heavy rain,适宜发生条件,ConditionIs
+1085,番茄早疫病,Alternaria solani,基肥不足,Insufficient basal fertilizer,适宜发生条件,ConditionIs
+1086,番茄早疫病,Alternaria solani,灌水多,More water,适宜发生条件,ConditionIs
+1087,番茄早疫病,Alternaria solani,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1088,番茄晚疫病,Phytophthora infestans,以上，空气湿度,"Above, air humidity",适宜发生条件,ConditionIs
+1089,番茄晚疫病,Phytophthora infestans,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1090,番茄晚疫病,Phytophthora infestans,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1091,番茄叶霉病,Fulvia fulva,高湿适温,High humidity and suitable temperature,适宜发生条件,ConditionIs
+1092,番茄灰叶斑病,Stemphylium solani,湿度适宜,Suitable humidity,适宜发生条件,ConditionIs
+1093,番茄芝麻斑病,Corynespora cassiicola,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1094,番茄芝麻斑病,Corynespora cassiicola,多雨高温,Rainy and hot,适宜发生条件,ConditionIs
+1095,番茄芝麻斑病,Corynespora cassiicola,田间潮湿,Wet field,适宜发生条件,ConditionIs
+1096,番茄芝麻斑病,Corynespora cassiicola,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1097,番茄芝麻斑病,Corynespora cassiicola,施肥不足,Insufficient fertilization,适宜发生条件,ConditionIs
+1098,番茄灰霉病,Botrytis cinerea,温暖湿润,Warm and humid,适宜发生条件,ConditionIs
+1099,番茄灰霉病,Botrytis cinerea,相对湿度要求95%以上,Relative humidity requirement is above 95%,适宜发生条件,ConditionIs
+1100,番茄灰霉病,Botrytis cinerea,氮肥不足,Insufficient nitrogen fertilizer,适宜发生条件,ConditionIs
+1101,番茄白绢病,Sclerotium rolfsii,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1102,番茄绵疫病,Phytophthora parasitica,阴雨连绵,Continuous rain,适宜发生条件,ConditionIs
+1103,番茄绵疫病,Phytophthora parasitica,相对湿度在85%,Relative humidity at 85%,适宜发生条件,ConditionIs
+1104,番茄绵疫病,Phytophthora parasitica,份高温多,High temperature,适宜发生条件,ConditionIs
+1105,番茄绵疫病,Phytophthora parasitica,菜田低洼,Low-lying vegetable fields,适宜发生条件,ConditionIs
+1106,番茄绵疫病,Phytophthora parasitica,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1107,番茄绵疫病,Phytophthora parasitica,种植过密,Too dense planting,适宜发生条件,ConditionIs
+1108,番茄绵疫病,Phytophthora parasitica,田间通风透光性差,Poor field ventilation and light transmission,适宜发生条件,ConditionIs
+1109,番茄镰刀菌果腐病,Fusarium sp.,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1110,番茄镰刀菌果腐病,Fusarium sp.,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1111,番茄镰刀菌果腐病,Fusarium sp.,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+1112,番茄镰刀菌果腐病,Fusarium sp.,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+1113,番茄镰刀菌果腐病,Fusarium sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1114,番茄镰刀菌果腐病,Fusarium sp.,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1115,番茄镰刀菌果腐病,Fusarium sp.,温暖,warmth,适宜发生条件,ConditionIs
+1116,番茄镰刀菌果腐病,Fusarium sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1117,番茄镰刀菌果腐病,Fusarium sp.,多雨,Rainy,适宜发生条件,ConditionIs
+1118,番茄镰刀菌果腐病,Fusarium sp.,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+1119,番茄红粉病,Trichothecium roseum,湿度过大,Excessive humidity,适宜发生条件,ConditionIs
+1120,番茄红粉病,Trichothecium roseum,光照不足,Insufficient light,适宜发生条件,ConditionIs
+1121,番茄红粉病,Trichothecium roseum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1122,番茄猝倒病,Pythium sp.,光照不好,Poor lighting,适宜发生条件,ConditionIs
+1123,番茄猝倒病,Pythium sp.,通风不畅,Poor ventilation,适宜发生条件,ConditionIs
+1124,番茄立枯病,Rhizoctonia solani,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+1125,番茄立枯病,Rhizoctonia solani,播种过密,Too dense planting,适宜发生条件,ConditionIs
+1126,番茄立枯病,Rhizoctonia solani,浇水过多,Overwatering,适宜发生条件,ConditionIs
+1127,番茄枯萎病,Fusarium oxysporum f. sp. lycopersici,土壤湿度过低,Soil moisture is too low,适宜发生条件,ConditionIs
+1128,番茄茎基腐病,Fusarium solani,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1129,番茄茎基腐病,Fusarium solani,通风透光条件差,Poor ventilation and light conditions,适宜发生条件,ConditionIs
+1130,番茄菌核病,Sclerotinia sclerotiorum,右，相对湿度在,"Right, relative humidity",适宜发生条件,ConditionIs
+1131,番茄菌核病,Sclerotinia sclerotiorum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1132,番茄菌核病,Sclerotinia sclerotiorum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1133,番茄菌核病,Sclerotinia sclerotiorum,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+1134,番茄黄萎病,Verticillium dahliae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1135,番茄疫霉根腐病,Phytophthora sp.,高温,high temperature,适宜发生条件,ConditionIs
+1136,番茄疫霉根腐病,Phytophthora sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1137,番茄溃疡病,Clavibacter michiganensis subsp. michiganensis,高温,high temperature,适宜发生条件,ConditionIs
+1138,番茄溃疡病,Clavibacter michiganensis subsp. michiganensis,大雾,Heavy fog,适宜发生条件,ConditionIs
+1139,番茄溃疡病,Clavibacter michiganensis subsp. michiganensis,多雨,Rainy,适宜发生条件,ConditionIs
+1140,番茄溃疡病,Clavibacter michiganensis subsp. michiganensis,地块低洼,Low-lying land,适宜发生条件,ConditionIs
+1141,番茄溃疡病,Clavibacter michiganensis subsp. michiganensis,排水通风不良,Poor drainage and ventilation,适宜发生条件,ConditionIs
+1142,番茄青枯病,Ralstonia solanacearum,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1143,番茄青枯病,Ralstonia solanacearum,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1144,番茄青枯病,Ralstonia solanacearum,控水过重,Excessive water control,适宜发生条件,ConditionIs
+1145,番茄青枯病,Ralstonia solanacearum,干湿不均,Uneven wetness and dryness,适宜发生条件,ConditionIs
+1146,番茄疮痂病,Xanthomonas campestris pv. vesicatoria,高温,high temperature,适宜发生条件,ConditionIs
+1147,番茄疮痂病,Xanthomonas campestris pv. vesicatoria,高湿,High humidity,适宜发生条件,ConditionIs
+1148,番茄疮痂病,Xanthomonas campestris pv. vesicatoria,多雨,Rainy,适宜发生条件,ConditionIs
+1149,番茄细菌性髓部坏死病,Pseudomonas corrugata,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1150,番茄细菌性髓部坏死病,Pseudomonas corrugata,氮肥过量,Excessive nitrogen fertilizer,适宜发生条件,ConditionIs
+1151,番茄斑萎病毒病,TSWV (Tomato spotted wilt virus),高温,high temperature,适宜发生条件,ConditionIs
+1152,番茄蕨叶病毒病,ToMV (Tomato mosaic virus) ,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+1153,番茄根结线虫病,Meloidogyne sp.,地势高燥,High and dry terrain,适宜发生条件,ConditionIs
+1154,番茄根结线虫病,Meloidogyne sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1155,番茄(匍柄霉)斑点病,Stemphylium sp.,温暖高湿,Warm and humid,适宜发生条件,ConditionIs
+1156,番茄丝核菌果腐病,Rhizoctonia sp.,田间高温,High temperature in the field,适宜发生条件,ConditionIs
+1157,番茄丝核菌果腐病,Rhizoctonia sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1158,番茄筋腐病,Tomato striped rot,低温,Low temperature,适宜发生条件,ConditionIs
+1159,番茄筋腐病,Tomato striped rot,多湿,Humidity,适宜发生条件,ConditionIs
+1160,番茄筋腐病,Tomato striped rot,二氧化碳不足,Insufficient carbon dioxide,适宜发生条件,ConditionIs
+1161,番茄筋腐病,Tomato striped rot,土壤湿度过大,Excessive soil moisture,适宜发生条件,ConditionIs
+1162,番茄筋腐病,Tomato striped rot,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1163,番茄炭疽病,Colletotrichum coccodes,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1164,番茄炭疽病,Colletotrichum coccodes,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1165,番茄炭疽病,Colletotrichum coccodes,氮肥过多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+1166,番茄炭疽病,Colletotrichum coccodes,植株郁蔽,Plant shade,适宜发生条件,ConditionIs
+1167,番茄炭疽病,Colletotrichum coccodes,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1168,番茄根霉果腐病,Rhizopus sp.,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+1169,番茄根霉果腐病,Rhizopus sp.,湿度大,High humidity,适宜发生条件,ConditionIs
+1170,番茄茎枯病,Phoma sp.,高湿多雨,High humidity and heavy rain,适宜发生条件,ConditionIs
+1171,番茄黑点根腐病,Thielaviopsis basicola,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1172,番茄黑点根腐病,Thielaviopsis basicola,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1173,番茄黑点根腐病,Thielaviopsis basicola,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+1174,番茄黑点根腐病,Thielaviopsis basicola,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+1175,番茄黑点根腐病,Thielaviopsis basicola,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1176,番茄黑点根腐病,Thielaviopsis basicola,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1177,番茄黑点根腐病,Thielaviopsis basicola,温暖,warmth,适宜发生条件,ConditionIs
+1178,番茄黑点根腐病,Thielaviopsis basicola,高湿,High humidity,适宜发生条件,ConditionIs
+1179,番茄黑点根腐病,Thielaviopsis basicola,多雨,Rainy,适宜发生条件,ConditionIs
+1180,番茄黑点根腐病,Thielaviopsis basicola,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+1181,辣椒绵腐病,Pythium sp.,低温,Low temperature,适宜发生条件,ConditionIs
+1182,辣椒绵腐病,Pythium sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1183,辣椒绵腐病,Pythium sp.,光照不足,Insufficient light,适宜发生条件,ConditionIs
+1184,辣椒绵腐病,Pythium sp.,湿度偏大,Humidity is too high,适宜发生条件,ConditionIs
+1185,辣椒褐腐病,Monilinia sp.,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1186,辣椒褐腐病,Monilinia sp.,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+1187,辣椒褐腐病,Monilinia sp.,雨后积水,Water after rain,适宜发生条件,ConditionIs
+1188,番茄茶色果和绿背果,Tomato dark brown fruit and green back fruit,土壤干燥,Dry soil,适宜发生条件,ConditionIs
+1189,番茄网筋果,Vein browning of tomato,地温高,High ground temperature,适宜发生条件,ConditionIs
+1190,番茄网筋果,Vein browning of tomato,多肥,How fat,适宜发生条件,ConditionIs
+1191,番茄网筋果,Vein browning of tomato,土壤过干,Soil is too dry,适宜发生条件,ConditionIs
+1192,番茄网筋果,Vein browning of tomato,土壤粘重,Heavy soil,适宜发生条件,ConditionIs
+1193,番茄网筋果,Vein browning of tomato,土壤氮素多,Soil high in nitrogen,适宜发生条件,ConditionIs
+1194,辣椒斑枯病,Septoria lycopersici,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1195,辣椒白星病,Phyllosticta sp.,高温,high temperature,适宜发生条件,ConditionIs
+1196,辣椒白星病,Phyllosticta sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1197,辣椒疫病,Phytophthora capsici,高温,high temperature,适宜发生条件,ConditionIs
+1198,辣椒疫病,Phytophthora capsici,高湿,High humidity,适宜发生条件,ConditionIs
+1199,辣椒疫病,Phytophthora capsici,种植过密,Too dense planting,适宜发生条件,ConditionIs
+1200,辣椒疫病,Phytophthora capsici,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1201,辣椒灰霉病,Botrytis cinerea,低温,Low temperature,适宜发生条件,ConditionIs
+1202,辣椒灰霉病,Botrytis cinerea,高湿,High humidity,适宜发生条件,ConditionIs
+1203,辣椒炭疽病,Colletotrichum sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1204,辣椒炭疽病,Colletotrichum sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1205,辣椒炭疽病,Colletotrichum sp.,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1206,辣椒炭疽病,Colletotrichum sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1207,辣椒炭疽病,Colletotrichum sp.,施肥不足,Insufficient fertilization,适宜发生条件,ConditionIs
+1208,辣椒炭疽病,Colletotrichum sp.,氮肥过多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+1209,辣椒黑斑病,Alternaria sp.,高湿多雨,High humidity and heavy rain,适宜发生条件,ConditionIs
+1210,辣椒黄化条斑病毒病,TYLSV (Tomato yellow leaf streak virus),高温,high temperature,适宜发生条件,ConditionIs
+1211,辣椒苜蓿花叶病毒病,AMV (Alfalfa mosaic virus),地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1212,辣椒苜蓿花叶病毒病,AMV (Alfalfa mosaic virus),积水,Water accumulation,适宜发生条件,ConditionIs
+1213,辣椒苜蓿花叶病毒病,AMV (Alfalfa mosaic virus),土壤粘重,Heavy soil,适宜发生条件,ConditionIs
+1214,辣椒苜蓿花叶病毒病,AMV (Alfalfa mosaic virus),管理粗放,Extensive management,适宜发生条件,ConditionIs
+1215,辣椒苜蓿花叶病毒病,AMV (Alfalfa mosaic virus),缺水,Lack of water,适宜发生条件,ConditionIs
+1216,辣椒苜蓿花叶病毒病,AMV (Alfalfa mosaic virus),干旱,drought,适宜发生条件,ConditionIs
+1217,辣椒黑霉病,Aspergillus sp.,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+1218,辣椒黑霉病,Aspergillus sp.,田间管理粗放,Extensive field management,适宜发生条件,ConditionIs
+1219,辣椒叶霉病,Fulvia fulva,浇水过多,Overwatering,适宜发生条件,ConditionIs
+1220,辣椒叶霉病,Fulvia fulva,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1221,辣椒叶霉病,Fulvia fulva,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1222,辣椒芽枝果腐病,Cladosporium sp.,适宜空气湿度为85%,The suitable air humidity is 85%,适宜发生条件,ConditionIs
+1223,芹菜斑枯病,Septoria apiicola,浇水多,Water more,适宜发生条件,ConditionIs
+1224,芹菜斑枯病,Septoria apiicola,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1225,芹菜斑枯病,Septoria apiicola,田间积水,Waterlogging in the fields,适宜发生条件,ConditionIs
+1226,芹菜斑枯病,Septoria apiicola,种植过密,Too dense planting,适宜发生条件,ConditionIs
+1227,芹菜斑枯病,Septoria apiicola,土地贫瘠,Barren land,适宜发生条件,ConditionIs
+1228,芹菜早疫病,Alternaria sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1229,芹菜早疫病,Alternaria sp.,高温干旱,High temperature and drought,适宜发生条件,ConditionIs
+1230,芹菜早疫病,Alternaria sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1231,芹菜早疫病,Alternaria sp.,缺水缺肥,Lack of water and fertilizer,适宜发生条件,ConditionIs
+1232,芹菜早疫病,Alternaria sp.,灌水过多,Too much water,适宜发生条件,ConditionIs
+1233,芹菜早疫病,Alternaria sp.,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1234,芹菜黑腐病,Xanthomonas campestris pv. carotae,多雨潮湿,Rainy and humid,适宜发生条件,ConditionIs
+1235,芹菜菌核病,Sclerotinia sclerotiorum,低温潮湿,Cold and humid,适宜发生条件,ConditionIs
+1236,芹菜根结线虫病,Meloidogyne sp.,地势高燥,High and dry terrain,适宜发生条件,ConditionIs
+1237,芹菜根结线虫病,Meloidogyne sp.,土质中性沙质,Soil: neutral sandy,适宜发生条件,ConditionIs
+1238,芹菜叶斑病,Cercospora sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1239,芹菜叶斑病,Cercospora sp.,高温干旱,High temperature and drought,适宜发生条件,ConditionIs
+1240,芹菜叶斑病,Cercospora sp.,大水漫灌,Flood irrigation,适宜发生条件,ConditionIs
+1241,芹菜叶斑病,Cercospora sp.,田间积水,Waterlogging in the fields,适宜发生条件,ConditionIs
+1242,芹菜叶斑病,Cercospora sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1243,芹菜叶斑病,Cercospora sp.,缺水缺肥,Lack of water and fertilizer,适宜发生条件,ConditionIs
+1244,芹菜叶斑病,Cercospora sp.,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1245,野蛞蝓,Agriolimax agrestis,潮湿,Wet,适宜发生条件,ConditionIs
+1246,莴笋霜霉病,Peronospora lactucae,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1247,莴笋霜霉病,Peronospora lactucae,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1248,莴笋灰霉病,Botrytis cinerea,相对湿度高于94%,Relative humidity above 94%,适宜发生条件,ConditionIs
+1249,莴笋菌核病,Sclerotinia sclerotiorum,相对湿度高于85%,Relative humidity above 85%,适宜发生条件,ConditionIs
+1250,莴笋菌核病,Sclerotinia sclerotiorum,湿度低于70%,Humidity below 70%,适宜发生条件,ConditionIs
+1251,莴笋菌核病,Sclerotinia sclerotiorum,多雨,Rainy,适宜发生条件,ConditionIs
+1252,莴笋菌核病,Sclerotinia sclerotiorum,通风透光条件差,Poor ventilation and light conditions,适宜发生条件,ConditionIs
+1253,莴笋菌核病,Sclerotinia sclerotiorum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1254,莴笋叶焦病,"No specific scientific name, maybe Leaf scorch of lettuce",土壤干燥,Dry soil,适宜发生条件,ConditionIs
+1255,莴笋叶焦病,"No specific scientific name, maybe Leaf scorch of lettuce",盐份浓度高,High salt concentration,适宜发生条件,ConditionIs
+1256,莴笋白粉病,Erysiphe cichoracearum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1257,莴笋白粉病,Erysiphe cichoracearum,氮肥偏多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+1258,莴笋病毒病,Stem-cating lettuce virus disease,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+1259,莴笋病毒病,Stem-cating lettuce virus disease,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1260,莴笋黑斑病,Alternaria alternata,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+1261,莴笋锈病,Puccinia sp.,多雨,Rainy,适宜发生条件,ConditionIs
+1262,莴笋锈病,Puccinia sp.,气温低,Low temperature,适宜发生条件,ConditionIs
+1263,莴笋锈病,Puccinia sp.,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+1264,莴笋腐败病,"No specific scientific name, maybe Rot of lettuce",高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1265,莴笋腐败病,Stem-cating lettuce bacterial leaf spot,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1266,莴笋叶缘坏死病,Stem-cating lettuce leaf reason decays disease,气温低,Low temperature,适宜发生条件,ConditionIs
+1267,莴笋叶缘坏死病,Stem-cating lettuce leaf reason decays disease,湿度高湿,Humidity High humidity,适宜发生条件,ConditionIs
+1268,莴笋褐腐病,Stem-cating lettuce brown rot,湿度大,High humidity,适宜发生条件,ConditionIs
+1269,生菜霜霉病,Peronospora sp.,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1270,生菜霜霉病,Peronospora sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1271,生菜轮纹病,Asparagus lettuce and lettuce ship veins disease,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+1272,生菜灰霉病,Botrytis cinerea,相对湿度高于94%,Relative humidity above 94%,适宜发生条件,ConditionIs
+1273,生菜菌核病,Sclerotinia sclerotiorum,相对湿度高于85%,Relative humidity above 85%,适宜发生条件,ConditionIs
+1274,生菜菌核病,Sclerotinia sclerotiorum,多雨,Rainy,适宜发生条件,ConditionIs
+1275,生菜菌核病,Sclerotinia sclerotiorum,通风透光条件差,Poor ventilation and light conditions,适宜发生条件,ConditionIs
+1276,生菜菌核病,Sclerotinia sclerotiorum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1277,生菜腐败病,Head garden lettuce bacterial leaf spot,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1278,生菜腐败病,Head garden lettuce bacterial leaf spot,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1279,生菜叶焦病,Head garden lettuce leaf burnt and ill,土壤干燥,Dry soil,适宜发生条件,ConditionIs
+1280,生菜叶焦病,Head garden lettuce leaf burnt and ill,盐份浓度高,High salt concentration,适宜发生条件,ConditionIs
+1281,生菜病毒病,Asparagus lettuce and lettuce mosaic,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+1282,生菜病毒病,Asparagus lettuce and lettuce mosaic,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1283,生菜褐腐病,Head garden lettuce brown rot,湿度大,High humidity,适宜发生条件,ConditionIs
+1284,生菜褐腐病,Head garden lettuce brown rot,过高过低,"Too high, too low",适宜发生条件,ConditionIs
+1285,苋菜白锈病,Albugo bliti,阴雨连绵,Continuous rain,适宜发生条件,ConditionIs
+1286,苋菜白锈病,Albugo bliti,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1287,苋菜炭疽病,Colletotrichum sp.,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1288,苋菜斑点病,Amaranth leaf mold,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1289,苋菜黑斑病,Alternaria sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1290,苋菜黑斑病,Alternaria sp.,多雨,Rainy,适宜发生条件,ConditionIs
+1291,蚯蚓,Eisenia fetida ,宜的土壤湿度为,The optimum soil moisture is,适宜发生条件,ConditionIs
+1292,落葵紫斑病,Malabar spinach Ramularia leaf spot,相对湿度,Relative humidity,适宜发生条件,ConditionIs
+1293,落葵炭疽病,Colletotrichum sp.,湿度80%,Humidity 80%,适宜发生条件,ConditionIs
+1294,落葵黑斑病,Alternaria sp.,田间高湿,High humidity in the field,适宜发生条件,ConditionIs
+1295,落葵灰霉病,Botrytis cinerea,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1296,落葵灰霉病,Botrytis cinerea,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1297,落葵苗腐病,Malabar spinach seeding rot,田地低洼积水,Flooding in low-lying fields,适宜发生条件,ConditionIs
+1298,落葵苗腐病,Malabar spinach seeding rot,湿度高,High humidity,适宜发生条件,ConditionIs
+1299,落葵苗腐病,Malabar spinach seeding rot,密度大,High density,适宜发生条件,ConditionIs
+1300,落葵苗腐病,Malabar spinach seeding rot,施氮肥多,Apply more nitrogen fertilizer,适宜发生条件,ConditionIs
+1301,落葵花叶病,Malabar spinach mosaic disease,高温少雨,High temperature and little rain,适宜发生条件,ConditionIs
+1302,落葵根结线虫病,Meloidogyne sp.,相对湿度40%,Relative humidity 40%,适宜发生条件,ConditionIs
+1303,落葵根结线虫病,Meloidogyne sp.,其繁殖，,"Its reproduction,",适宜发生条件,ConditionIs
+1304,蕹菜白锈病,Albugo ipomoeae-panduratae,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+1305,蕹菜灰霉病,Botrytis cinerea,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1306,蕹菜猝倒病,Pythium sp.,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1307,蕹菜菌核病,Sclerotinia sclerotiorum,相对湿度高于85%,Relative humidity above 85%,适宜发生条件,ConditionIs
+1308,西葫芦绵疫病,Phytophthora sp.,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1309,西葫芦褐色腐败病,"No specific scientific name, maybe Brown rot of zucchini",高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1310,西葫芦叶点病,Phyllosticta sp.,高温,high temperature,适宜发生条件,ConditionIs
+1311,西葫芦叶点病,Phyllosticta sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1312,西葫芦叶点病,Phyllosticta sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1313,西葫芦叶点病,Phyllosticta sp.,植物郁闭,Plant canopy,适宜发生条件,ConditionIs
+1314,西葫芦叶点病,Phyllosticta sp.,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1315,豌豆锈病,Uromyces sp.,温暖潮湿,Warm and humid,适宜发生条件,ConditionIs
+1316,豌豆锈病,Uromyces sp.,空气湿度85%,Air humidity 85%,适宜发生条件,ConditionIs
+1317,豌豆锈病,Uromyces sp.,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1318,豌豆锈病,Uromyces sp.,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1319,豌豆尖镰刀孢萎凋病,Fusarium oxysporum f. sp. pisi,湿度过大,Excessive humidity,适宜发生条件,ConditionIs
+1320,豌豆芽枯病,"No specific scientific name, maybe Bud blight of pea",株间郁闭,Closed between plants,适宜发生条件,ConditionIs
+1321,豌豆芽枯病,"No specific scientific name, maybe Bud blight of pea",田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1322,葡萄轮斑病,Alternaria sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1323,葡萄轮斑病,Alternaria sp.,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1324,葡萄轮斑病,Alternaria sp.,植株郁闭,Plant closure,适宜发生条件,ConditionIs
+1325,葡萄轮斑病,Alternaria sp.,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1326,葡萄灰斑病,Cercospora sp.,多雨潮湿,Rainy and humid,适宜发生条件,ConditionIs
+1327,葡萄灰斑病,Cercospora sp.,冷凉,Cool,适宜发生条件,ConditionIs
+1328,葡萄根朽病,Armillaria sp.,雨后积水,Water after rain,适宜发生条件,ConditionIs
+1329,葡萄蔓割病,Botryosphaeria sp.,多雨,Rainy,适宜发生条件,ConditionIs
+1330,葡萄蔓割病,Botryosphaeria sp.,潮湿,Wet,适宜发生条件,ConditionIs
+1331,葡萄蔓割病,Botryosphaeria sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1332,葡萄蔓割病,Botryosphaeria sp.,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1333,葡萄蔓割病,Botryosphaeria sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1334,葡萄蔓割病,Botryosphaeria sp.,土层薄,Thin soil,适宜发生条件,ConditionIs
+1335,葡萄蔓割病,Botryosphaeria sp.,肥水不足,Insufficient fertilizer and water,适宜发生条件,ConditionIs
+1336,葡萄小褐斑病,"No specific scientific name, maybe Small brown spot of grape",田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1337,葡萄小褐斑病,"No specific scientific name, maybe Small brown spot of grape",管理粗放,Extensive management,适宜发生条件,ConditionIs
+1338,葡萄褐斑病,Cercospora sp.,浇水太多,Too much watering,适宜发生条件,ConditionIs
+1339,葡萄褐斑病,Cercospora sp.,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1340,葡萄褐斑病,Cercospora sp.,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1341,栗疫病,Cryphonectria parasitica,土壤肥力差,Poor soil fertility,适宜发生条件,ConditionIs
+1342,龙眼藻斑病,Cephaleuros sp.,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+1343,龙眼藻斑病,Cephaleuros sp.,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1344,龙眼藻斑病,Cephaleuros sp.,干旱或水涝,Drought or flooding,适宜发生条件,ConditionIs
+1345,龙眼藻斑病,Cephaleuros sp.,潮湿闷热,Hot and humid,适宜发生条件,ConditionIs
+1346,龙眼灰色叶枯病,"No specific scientific name, maybe Gray leaf blight of longan",高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1347,龙眼根腐病,Fusarium sp.,园因排水不畅,The garden is poorly drained,适宜发生条件,ConditionIs
+1348,蕹菜根腐病,Fusarium sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1349,甜菜丛根病,Beet necrotic yellow vein virus (BNYVV),沙土轻,Light sand,适宜发生条件,ConditionIs
+1350,甜菜苗腐病,"No specific scientific name, maybe Seedling rot of beet",地势低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1351,甜菜苗腐病,"No specific scientific name, maybe Seedling rot of beet",田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1352,甜菜细菌性斑枯病,Xanthomonas sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1353,甜菜象甲,Bothynoderes punctiventris,土质疏松,Loose soil,适宜发生条件,ConditionIs
+1354,甜菜象甲,Bothynoderes punctiventris,通透性良好,Good permeability,适宜发生条件,ConditionIs
+1355,甜菜象甲,Bothynoderes punctiventris,土温较高,Higher soil temperature,适宜发生条件,ConditionIs
+1356,茶饼病,Exobasidium vexans,湿度大,High humidity,适宜发生条件,ConditionIs
+1357,茶饼病,Exobasidium vexans,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1358,茶饼病,Exobasidium vexans,杂草多,Lots of weeds,适宜发生条件,ConditionIs
+1359,茶饼病,Exobasidium vexans,施肥不当,Improper fertilization,适宜发生条件,ConditionIs
+1360,茶网饼病,Exobasidium reticulatum,高湿,High humidity,适宜发生条件,ConditionIs
+1361,茶网饼病,Exobasidium reticulatum,高山多雾,High mountains and fog,适宜发生条件,ConditionIs
+1362,茶网饼病,Exobasidium reticulatum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1363,茶芽枯病,"No specific scientific name, maybe Bud blight of tea",低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1364,茶芽枯病,"No specific scientific name, maybe Bud blight of tea",相对湿度高,High relative humidity,适宜发生条件,ConditionIs
+1365,茶圆赤星病,Elsino? leucospila,平原低洼,Plain low lying,适宜发生条件,ConditionIs
+1366,茶圆赤星病,Elsino? leucospila,潮湿,Wet,适宜发生条件,ConditionIs
+1367,茶煤病,Capnodium sp.,荫蔽潮湿,Shaded and moist,适宜发生条件,ConditionIs
+1368,茶红锈藻病,Cephaleuros parasiticus,保水性差,Poor water retention,适宜发生条件,ConditionIs
+1369,茶膏药病,Septobasidium sp.,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1370,茶膏药病,Septobasidium sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1371,茶膏药病,Septobasidium sp.,荫蔽潮湿,Shaded and moist,适宜发生条件,ConditionIs
+1372,茶膏药病,Septobasidium sp.,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1373,茶白星病,Phyllosticta sp.,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+1374,茶白星病,Phyllosticta sp.,管理不善,Poor management,适宜发生条件,ConditionIs
+1375,茶轮斑病,Pestalotiopsis sp.,相对湿度85%,Relative humidity 85%,适宜发生条件,ConditionIs
+1376,茶轮斑病,Pestalotiopsis sp.,施肥不当,Improper fertilization,适宜发生条件,ConditionIs
+1377,茶轮斑病,Pestalotiopsis sp.,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+1378,茶轮斑病,Pestalotiopsis sp.,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+1379,茶炭疽病,Colletotrichum sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1380,茶褐色叶斑病,"No specific scientific name, maybe Brown leaf spot of tea",适温高湿,Suitable temperature and high humidity,适宜发生条件,ConditionIs
+1381,茶藻斑病,Cephaleuros sp.,荫蔽潮湿,Shaded and moist,适宜发生条件,ConditionIs
+1382,茶藻斑病,Cephaleuros sp.,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1383,茶苗白绢病,Sclerotium rolfsii,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1384,茶苗白绢病,Sclerotium rolfsii,土质偏酸,Soil acidic,适宜发生条件,ConditionIs
+1385,茶苗白绢病,Sclerotium rolfsii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1386,茶紫纹羽病,Helicobasidium purpureum,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1387,茶紫纹羽病,Helicobasidium purpureum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1388,茶紫纹羽病,Helicobasidium purpureum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1389,茶紫纹羽病,Helicobasidium purpureum,土壤黏重或过干,Soil is too heavy or too dry,适宜发生条件,ConditionIs
+1390,茶发毛病,Tea Hairy Disease,茶园茂密郁闭,The tea garden is dense and dense,适宜发生条件,ConditionIs
+1391,茶发毛病,Tea Hairy Disease,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1392,茶线腐病,Tea Epiphytic thread blight,阴凉多湿,Cool and humid,适宜发生条件,ConditionIs
+1393,茶线腐病,Tea Epiphytic thread blight,日照短,Short daylight hours,适宜发生条件,ConditionIs
+1394,茶线腐病,Tea Epiphytic thread blight,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1395,茶根癌病,Agrobacterium tumefaciens,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1396,茶根癌病,Agrobacterium tumefaciens,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1397,茶根癌病,Agrobacterium tumefaciens,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1398,茶胴枯病,Macrophoma sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1399,茶胴枯病,Macrophoma sp.,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1400,茶枝黑痣病,Phyllachora sp.,茶园郁闭,Tea garden closed,适宜发生条件,ConditionIs
+1401,茶枝黑痣病,Phyllachora sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1402,茶尺蠖,Ectropis obliqua,多雾多露,Foggy and dewy,适宜发生条件,ConditionIs
+1403,茶尺蠖,Ectropis obliqua,地势平坦,Flat terrain,适宜发生条件,ConditionIs
+1404,茶尺蠖,Ectropis obliqua,土壤湿润,Soil moist,适宜发生条件,ConditionIs
+1405,茶黑毒蛾,Dasychira baibarana,高温干旱,High temperature and drought,适宜发生条件,ConditionIs
+1406,茶蚕,Andraca bipunctata,高湿,High humidity,适宜发生条件,ConditionIs
+1407,茶蚕,Andraca bipunctata,凉爽,cool,适宜发生条件,ConditionIs
+1408,茶网蝽,Stephanitis sp.,相对湿度75%,Relative humidity 75%,适宜发生条件,ConditionIs
+1409,茶二叉蚜,Toxoptera aurantii,相对湿度70%,Relative humidity 70%,适宜发生条件,ConditionIs
+1410,茶芽瘿蚊,Contarinia sp.,日照较少阴凉,Less sunlight and cooler,适宜发生条件,ConditionIs
+1411,茶橙瘿螨,Acaphylla theae,相对湿度70%,Relative humidity 70%,适宜发生条件,ConditionIs
+1412,茶叶瘿螨,Calacarus carinatus,相对湿度70%,Relative humidity 70%,适宜发生条件,ConditionIs
+1413,茶短须螨,Brevipalpus sp.,高温,high temperature,适宜发生条件,ConditionIs
+1414,烟草炭疽病,Colletotrichum tabacum,阴雨连绵,Continuous rain,适宜发生条件,ConditionIs
+1415,烟草炭疽病,Colletotrichum tabacum,大水漫灌,Flood irrigation,适宜发生条件,ConditionIs
+1416,烟草炭疽病,Colletotrichum tabacum,烟苗过密,Too dense tobacco seedlings,适宜发生条件,ConditionIs
+1417,烟草炭疽病,Colletotrichum tabacum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1418,烟草猝倒病,Pythium sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1419,烟草猝倒病,Pythium sp.,烟苗过密,Too dense tobacco seedlings,适宜发生条件,ConditionIs
+1420,烟草猝倒病,Pythium sp.,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1421,烟草猝倒病,Pythium sp.,空气湿度大,High humidity,适宜发生条件,ConditionIs
+1422,烟草赤星病,Alternaria alternata,田间荫蔽,Field shade,适宜发生条件,ConditionIs
+1423,烟草蛙眼病,Cercospora nicotianae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1424,烟草蛙眼病,Cercospora nicotianae,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1425,烟草根黑腐病,Thielaviopsis basicola,低温多雨,Low temperature and heavy rain,适宜发生条件,ConditionIs
+1426,烟草白绢病,Sclerotium rolfsii,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1427,烟草菌核病,Sclerotinia sclerotiorum,烟田郁闭,Tobacco fields are closed,适宜发生条件,ConditionIs
+1428,烟草菌核病,Sclerotinia sclerotiorum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1429,烟草低头黑病,Colletotrichum sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1430,烟草低头黑病,Colletotrichum sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1431,烟草低头黑病,Colletotrichum sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1432,烟草灰霉病,Botrytis cinerea,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1433,烟草霜霉病,Peronospora tabacina,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1434,烟草霜霉病,Peronospora tabacina,低洼,Low-lying,适宜发生条件,ConditionIs
+1435,烟草霜霉病,Peronospora tabacina,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1436,烟草青枯病,Ralstonia solanacearum,高温,high temperature,适宜发生条件,ConditionIs
+1437,烟草青枯病,Ralstonia solanacearum,和高,He Gao,适宜发生条件,ConditionIs
+1438,烟草青枯病,Ralstonia solanacearum,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1439,烟草青枯病,Ralstonia solanacearum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1440,烟草青枯病,Ralstonia solanacearum,湿度过高,Humidity is too high,适宜发生条件,ConditionIs
+1441,烟草野火病,Pseudomonas syringae pv. tabaci,湿度过大,Excessive humidity,适宜发生条件,ConditionIs
+1442,烟草角斑病,Pseudomonas syringae pv. angulata,湿度过大,Excessive humidity,适宜发生条件,ConditionIs
+1443,烟草空胫病,"No specific scientific name, maybe Hollow shank of tobacco",高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1444,烟草普通花叶病毒病,TMV (Tobacco Mosaic Virus),气候干旱,Drought,适宜发生条件,ConditionIs
+1445,烟草甜菜曲顶病毒病,Beet curly top virus (BCTV),低温低湿,Low temperature and low humidity,适宜发生条件,ConditionIs
+1446,烟草曲叶病毒病,ToLCV (Tomato leaf curl virus),高温干旱,High temperature and drought,适宜发生条件,ConditionIs
+1447,烟草立枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1448,烟草立枯病,Rhizoctonia solani,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1449,烟草黑胫病,Phytophthora nicotianae,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1450,烟草黑胫病,Phytophthora nicotianae,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1451,烟草胞囊线虫病,Heterodera sp.,湿度在60%,Humidity at 60%,适宜发生条件,ConditionIs
+1452,烟草气候斑点病,Tobacco weather fleck,多雨,Rainy,适宜发生条件,ConditionIs
+1453,烟草气候斑点病,Tobacco weather fleck,土壤水分含量高,High soil moisture content,适宜发生条件,ConditionIs
+1454,烟草剑叶病,Tobacco frenching,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1455,烟草剑叶病,Tobacco frenching,通气性差,Poor ventilation,适宜发生条件,ConditionIs
+1456,烟草剑叶病,Tobacco frenching,排水不畅,Poor drainage,适宜发生条件,ConditionIs
+1457,烟草剑叶病,Tobacco frenching,氮素缺少,Nitrogen deficiency,适宜发生条件,ConditionIs
+1458,烟草剑叶病,Tobacco frenching,土壤结构不好,Poor soil structure,适宜发生条件,ConditionIs
+1459,烟草剑叶病,Tobacco frenching,整地粗糙,Rough ground preparation,适宜发生条件,ConditionIs
+1460,烟草剑叶病,Tobacco frenching,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1461,烟草蛀茎蛾,Phthorimaea operculella,土壤湿度低,Low soil moisture,适宜发生条件,ConditionIs
+1462,棉小造桥虫,Anomis flava,相对湿度为75％～90%,Relative humidity: 75% to 90%,适宜发生条件,ConditionIs
+1463,烟草粉螟,Ephestia elutella,间和相对湿度,Room and relative humidity,适宜发生条件,ConditionIs
+1464,花生黑斑病,Alternaria arachidis,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1465,花生锈病,Uromyces arachidis,高温,high temperature,适宜发生条件,ConditionIs
+1466,花生锈病,Uromyces arachidis,高湿,High humidity,适宜发生条件,ConditionIs
+1467,花生锈病,Uromyces arachidis,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1468,花生锈病,Uromyces arachidis,排水条件差,Poor drainage conditions,适宜发生条件,ConditionIs
+1469,花生疮痂病,Elsino? arachidis,低温阴雨,Low temperature and rainy weather,适宜发生条件,ConditionIs
+1470,花生冠腐病,Aspergillus niger,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1471,花生冠腐病,Aspergillus niger,管粗放理,Extensive management,适宜发生条件,ConditionIs
+1472,花生立枯病,Rhizoctonia solani,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1473,花生立枯病,Rhizoctonia solani,排水条件差,Poor drainage conditions,适宜发生条件,ConditionIs
+1474,花生立枯病,Rhizoctonia solani,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1475,花生炭疽病,Colletotrichum sp.,温暖高湿,Warm and humid,适宜发生条件,ConditionIs
+1476,花生焦斑病,Alternaria sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1477,花生焦斑病,Alternaria sp.,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1478,花生焦斑病,Alternaria sp.,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+1479,花生焦斑病,Alternaria sp.,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+1480,花生茎腐病,Fusarium sp.,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1481,花生茎腐病,Fusarium sp.,沙性强,Strong sand,适宜发生条件,ConditionIs
+1482,花生茎腐病,Fusarium sp.,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+1483,花生根腐病,Fusarium solani,低温阴雨,Low temperature and rainy weather,适宜发生条件,ConditionIs
+1484,花生根腐病,Fusarium solani,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1485,花生根腐病,Fusarium solani,通风透气不良,Poor ventilation,适宜发生条件,ConditionIs
+1486,花生菌核病,Sclerotinia sclerotiorum,高湿,High humidity,适宜发生条件,ConditionIs
+1487,花生白绢病,Sclerotium rolfsii,温暖高湿,Warm and humid,适宜发生条件,ConditionIs
+1488,花生白绢病,Sclerotium rolfsii,雨后骤停,After the rain,适宜发生条件,ConditionIs
+1489,花生白绢病,Sclerotium rolfsii,土壤粘重,Heavy soil,适宜发生条件,ConditionIs
+1490,花生白绢病,Sclerotium rolfsii,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1491,花生白绢病,Sclerotium rolfsii,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1492,花生青枯病,Ralstonia solanacearum,雨后骤晴,Sunshine after rain,适宜发生条件,ConditionIs
+1493,花生青枯病,Ralstonia solanacearum,有机质含量低,Low organic matter content,适宜发生条件,ConditionIs
+1494,花生青枯病,Ralstonia solanacearum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1495,花生青枯病,Ralstonia solanacearum,保水保肥差,Poor water and fertilizer retention,适宜发生条件,ConditionIs
+1496,花生黄花叶病毒病,Peanut yellow mosaic virus,温度偏低,Low temperature,适宜发生条件,ConditionIs
+1497,油菜黑胫病,Leptosphaeria biglobosa,高温,high temperature,适宜发生条件,ConditionIs
+1498,油菜黑胫病,Leptosphaeria biglobosa,高湿,High humidity,适宜发生条件,ConditionIs
+1499,油菜立枯病,Rhizoctonia solani,高温,high temperature,适宜发生条件,ConditionIs
+1500,油菜立枯病,Rhizoctonia solani,光照不足,Insufficient light,适宜发生条件,ConditionIs
+1501,油菜菌核病,Sclerotinia sclerotiorum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1502,油菜菌核病,Sclerotinia sclerotiorum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1503,油菜菌核病,Sclerotinia sclerotiorum,湿气滞留,Moisture Retention,适宜发生条件,ConditionIs
+1504,油菜霜霉病,Peronospora parasitica,雨水少,Less rain,适宜发生条件,ConditionIs
+1505,油菜霜霉病,Peronospora parasitica,雨水多,Heavy rain,适宜发生条件,ConditionIs
+1506,油菜霜霉病,Peronospora parasitica,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1507,油菜霜霉病,Peronospora parasitica,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1508,油菜白锈病,Albugo candida,雨日多,Many rainy days,适宜发生条件,ConditionIs
+1509,油菜白锈病,Albugo candida,相对湿度高,High relative humidity,适宜发生条件,ConditionIs
+1510,油菜白锈病,Albugo candida,时冷时暖,"Sometimes cold, sometimes warm",适宜发生条件,ConditionIs
+1511,油菜白锈病,Albugo candida,湿度较高,High humidity,适宜发生条件,ConditionIs
+1512,油菜炭疽病,Colletotrichum sp.,高温,high temperature,适宜发生条件,ConditionIs
+1513,油菜炭疽病,Colletotrichum sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1514,油菜黑斑病,Alternaria sp.,高温,high temperature,适宜发生条件,ConditionIs
+1515,油菜黑斑病,Alternaria sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1516,油菜黑斑病,Alternaria sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1517,油菜黑斑病,Alternaria sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1518,油菜白粉病,Erysiphe sp.,相对湿度25%～80%,Relative humidity 25%～80%,适宜发生条件,ConditionIs
+1519,油菜白粉病,Erysiphe sp.,时晴时雨,Sunny and rainy,适宜发生条件,ConditionIs
+1520,油菜白粉病,Erysiphe sp.,高温,high temperature,适宜发生条件,ConditionIs
+1521,油菜白粉病,Erysiphe sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1522,油菜黑腐病,Xanthomonas campestris pv. campestris,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1523,油菜黑腐病,Xanthomonas campestris pv. campestris,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1524,油菜黑腐病,Xanthomonas campestris pv. campestris,肥水管理不当,Improper fertilizer and water management,适宜发生条件,ConditionIs
+1525,油菜软腐病,Erwinia carotovora subsp. carotovora,或高温高,Or high temperature,适宜发生条件,ConditionIs
+1526,油菜萎缩不实病,Rapeseed Damping-Off,土壤碱性,Soil alkalinity,适宜发生条件,ConditionIs
+1527,甘蓝夜蛾,Mamestra brassicae,相对湿度70%,Relative humidity 70%,适宜发生条件,ConditionIs
+1528,芝麻立枯病,Rhizoctonia solani,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1529,芝麻茎点枯病,Macrophomina phaseolina,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+1530,芝麻茎点枯病,Macrophomina phaseolina,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1531,芝麻枯萎病,Fusarium oxysporum f. sp. sesame,土温高,High soil temperature,适宜发生条件,ConditionIs
+1532,芝麻枯萎病,Fusarium oxysporum f. sp. sesame,湿度大,High humidity,适宜发生条件,ConditionIs
+1533,芝麻叶枯病,Alternaria sp.,土壤高湿,High soil humidity,适宜发生条件,ConditionIs
+1534,芝麻叶斑病,Cercospora sp.,多雨潮湿,Rainy and humid,适宜发生条件,ConditionIs
+1535,芝麻白粉病,Erysiphe sp.,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+1536,芝麻褐斑病,Soybean brown spot,空气湿度90%,Air humidity 90%,适宜发生条件,ConditionIs
+1537,三点盲蝽,Adelphocoris fasciaticollis,左右，相对湿度,"About, relative humidity",适宜发生条件,ConditionIs
+1538,向日葵菌核病,Sclerotinia sclerotiorum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1539,向日葵菌核病,Sclerotinia sclerotiorum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1540,向日葵叶枯病,Alternaria sp.,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1541,向日葵叶枯病,Alternaria sp.,地势低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1542,向日葵叶枯病,Alternaria sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1543,向日葵叶枯病,Alternaria sp.,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1544,向日葵叶枯病,Alternaria sp.,低温,Low temperature,适宜发生条件,ConditionIs
+1545,向日葵叶枯病,Alternaria sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1546,蓖麻锈病,Uromyces sp.,高温,high temperature,适宜发生条件,ConditionIs
+1547,蓖麻锈病,Uromyces sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1548,蓖麻白绢病,Sclerotium rolfsii,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1549,蓖麻枯萎病,Fusarium oxysporum f. sp. ricini,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1550,蓖麻枯萎病,Fusarium oxysporum f. sp. ricini,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1551,蓖麻枯萎病,Fusarium oxysporum f. sp. ricini,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1552,蓖麻枯萎病,Fusarium oxysporum f. sp. ricini,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1553,甘蔗赤腐病,Colletotrichum falcatum,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1554,甘蔗凤梨病,Ceratocystis paradoxa,高温潮湿,Hot and humid,适宜发生条件,ConditionIs
+1555,甘蔗黄斑病,Sugarcane yellow spot,高温,high temperature,适宜发生条件,ConditionIs
+1556,甘蔗黄斑病,Sugarcane yellow spot,高湿,High humidity,适宜发生条件,ConditionIs
+1557,甘蔗黄斑病,Sugarcane yellow spot,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1558,甘蔗黄斑病,Sugarcane yellow spot,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+1559,甘蔗虎斑病,Sugarcane Rhizoctonia sheath and shoot rot,通透不良,Poor permeability,适宜发生条件,ConditionIs
+1560,甘蔗轮斑病,Leptosphaeria sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1561,甘蔗褐条病,Cercospora sp.,水湿充足,Sufficient water,适宜发生条件,ConditionIs
+1562,甘蔗绵蚜,Ceratovacuna lanigera,相对湿度70%,Relative humidity 70%,适宜发生条件,ConditionIs
+1563,甜菜立枯病,Rhizoctonia solani,土壤温度较低,Lower soil temperature,适宜发生条件,ConditionIs
+1564,甜菜立枯病,Rhizoctonia solani,湿度大,High humidity,适宜发生条件,ConditionIs
+1565,甜菜立枯病,Rhizoctonia solani,土壤酸性,Soil acidity,适宜发生条件,ConditionIs
+1566,甜菜立枯病,Rhizoctonia solani,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1567,甜菜立枯病,Rhizoctonia solani,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+1568,甜菜立枯病,Rhizoctonia solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1569,甜菜褐斑病,Cercospora beticola,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1570,甜菜褐斑病,Cercospora beticola,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1571,甜菜白粉病,Erysiphe sp.,干旱少雨,Drought and little rain,适宜发生条件,ConditionIs
+1572,甜菜白粉病,Erysiphe sp.,土壤干旱,Soil drought,适宜发生条件,ConditionIs
+1573,甜菜白粉病,Erysiphe sp.,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+1574,甜菜白粉病,Erysiphe sp.,氮肥过量,Excessive nitrogen fertilizer,适宜发生条件,ConditionIs
+1575,甜菜白粉病,Erysiphe sp.,土壤干旱缺水,Soil drought and water shortage,适宜发生条件,ConditionIs
+1576,棉红铃虫,Pectinophora gossypiella,高温,high temperature,适宜发生条件,ConditionIs
+1577,棉红铃虫,Pectinophora gossypiella,高湿,High humidity,适宜发生条件,ConditionIs
+1578,焦条丽夜蛾,Xestia c-nigrum,降雨量大,Heavy rainfall,适宜发生条件,ConditionIs
+1579,棉红蝽,Dysdercus sp.,相对湿度为40％～80％,Relative humidity: 40% to 80%,适宜发生条件,ConditionIs
+1580,棉红蝽,Dysdercus sp.,相对湿度37％以上,Relative humidity 37% or more,适宜发生条件,ConditionIs
+1581,棉根蚜,Smynthurodes betae,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1582,棉根蚜,Smynthurodes betae,通透性好,Good permeability,适宜发生条件,ConditionIs
+1583,二斑叶螨,Tetranychus urticae,干旱少雨,Drought and little rain,适宜发生条件,ConditionIs
+1584,油葫芦,Teleogryllus emma,土质疏松潮湿,Loose and moist soil,适宜发生条件,ConditionIs
+1585,亚麻斑点病,"No specific scientific name, maybe Spot disease of flax",地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1586,红麻、黄麻立枯病,Rhizoctonia solani,阴雨多湿,Rainy and wet,适宜发生条件,ConditionIs
+1587,红麻、黄麻立枯病,Rhizoctonia solani,春季低温,Spring low temperatures,适宜发生条件,ConditionIs
+1588,红麻、黄麻立枯病,Rhizoctonia solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1589,红麻、黄麻立枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1590,红麻炭疽病,Colletotrichum sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1591,红麻炭疽病,Colletotrichum sp.,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+1592,红麻斑点病,Kenaf brown leaf spot,多雨高湿,Rainy and humid,适宜发生条件,ConditionIs
+1593,红麻斑点病,Kenaf brown leaf spot,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1594,红麻叶霉病,Kenaf yellow leaf spot,麻田低洼,Matian Low-lying Area,适宜发生条件,ConditionIs
+1595,黄麻细菌性斑点病,Xanthomonas sp.,高温,high temperature,适宜发生条件,ConditionIs
+1596,黄麻细菌性斑点病,Xanthomonas sp.,多湿,Humidity,适宜发生条件,ConditionIs
+1597,苎麻炭疽病,Colletotrichum sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1598,苎麻疫病,Phytophthora sp.,多雨高湿,Rainy and humid,适宜发生条件,ConditionIs
+1599,苎麻茎腐病,Fusarium sp.,麻株过密,Too dense hemp plants,适宜发生条件,ConditionIs
+1600,苎麻茎腐病,Fusarium sp.,麻地积水,Waterlogging in Hempland,适宜发生条件,ConditionIs
+1601,苎麻茎腐病,Fusarium sp.,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1602,苎麻白纹羽病,Rosellinia necatrix,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1603,苎麻白纹羽病,Rosellinia necatrix,板结,harden,适宜发生条件,ConditionIs
+1604,苎麻白纹羽病,Rosellinia necatrix,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1605,苎麻白纹羽病,Rosellinia necatrix,杂草多,Lots of weeds,适宜发生条件,ConditionIs
+1606,苎麻白纹羽病,Rosellinia necatrix,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+1607,苎麻青枯病,Ralstonia solanacearum,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1608,苎麻青枯病,Ralstonia solanacearum,雨后骤晴,Sunshine after rain,适宜发生条件,ConditionIs
+1609,苎麻青枯病,Ralstonia solanacearum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1610,苎麻青枯病,Ralstonia solanacearum,保水保肥力差,Poor water and fertilizer retention,适宜发生条件,ConditionIs
+1611,苎麻青枯病,Ralstonia solanacearum,有机质含量低,Low organic matter content,适宜发生条件,ConditionIs
+1612,苎麻花叶病,Ramie mosaic virus,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+1613,苎麻花叶病,Ramie mosaic virus,钾肥不足,Insufficient potassium fertilizer,适宜发生条件,ConditionIs
+1614,苎麻花叶病,Ramie mosaic virus,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1615,苎麻花叶病,Ramie mosaic virus,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+1616,大豆霜霉病,Peronospora manshurica,低温,Low temperature,适宜发生条件,ConditionIs
+1617,大豆霜霉病,Peronospora manshurica,多雨,Rainy,适宜发生条件,ConditionIs
+1618,大豆霜霉病,Peronospora manshurica,土温低,Low soil temperature,适宜发生条件,ConditionIs
+1619,大豆霜霉病,Peronospora manshurica,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1620,大豆枯萎病,Fusarium oxysporum f. sp. glycines,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1621,大豆枯萎病,Fusarium oxysporum f. sp. glycines,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1622,大豆枯萎病,Fusarium oxysporum f. sp. glycines,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+1623,大豆疫霉根腐病,Phytophthora sojae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1624,大豆疫霉根腐病,Phytophthora sojae,土壤为黏土,Soil is clay,适宜发生条件,ConditionIs
+1625,大豆疫霉根腐病,Phytophthora sojae,排排水不良,Poor drainage,适宜发生条件,ConditionIs
+1626,大豆紫斑病,Cercospora kikuchii,高温,high temperature,适宜发生条件,ConditionIs
+1627,大豆紫斑病,Cercospora kikuchii,高湿,High humidity,适宜发生条件,ConditionIs
+1628,大豆紫斑病,Cercospora kikuchii,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1629,大豆灰斑病,Cercospora sojina,田间杂草多,Many weeds in the field,适宜发生条件,ConditionIs
+1630,大豆灰斑病,Cercospora sojina,植株郁蔽,Plant shade,适宜发生条件,ConditionIs
+1631,大豆灰斑病,Cercospora sojina,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1632,大豆褐斑病,Soybean brown spot,温暖多雨,Warm and rainy,适宜发生条件,ConditionIs
+1633,大豆褐斑病,Soybean brown spot,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1634,大豆褐斑病,Soybean brown spot,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1635,大豆立枯病,Rhizoctonia solani,低温多雨,Low temperature and heavy rain,适宜发生条件,ConditionIs
+1636,大豆立枯病,Rhizoctonia solani,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1637,大豆立枯病,Rhizoctonia solani,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1638,大豆立枯病,Rhizoctonia solani,光照不足,Insufficient light,适宜发生条件,ConditionIs
+1639,大豆纹枯病,Rhizoctonia solani,低温多雨,Low temperature and heavy rain,适宜发生条件,ConditionIs
+1640,大豆纹枯病,Rhizoctonia solani,低洼积水,Low-lying waterlogging,适宜发生条件,ConditionIs
+1641,大豆纹枯病,Rhizoctonia solani,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1642,大豆纹枯病,Rhizoctonia solani,光照不足,Insufficient light,适宜发生条件,ConditionIs
+1643,大豆黑痘病,Sphaceloma glycines,多雨湿,Rainy and wet,适宜发生条件,ConditionIs
+1644,大豆疫病,Phytophthora sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1645,大豆疫病,Phytophthora sp.,土壤为黏土,Soil is clay,适宜发生条件,ConditionIs
+1646,大豆疫病,Phytophthora sp.,排排水不良,Poor drainage,适宜发生条件,ConditionIs
+1647,大豆炭疽病,Colletotrichum sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1648,大豆菌核病,Sclerotinia sclerotiorum,相对湿度,Relative humidity,适宜发生条件,ConditionIs
+1649,大豆菌核病,Sclerotinia sclerotiorum,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1650,大豆茎枯病,Soybean Stem Rot,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1651,大豆菟丝子,Cuscuta sp.,土温25℃,Soil temperature 25℃,适宜发生条件,ConditionIs
+1652,大豆菟丝子,Cuscuta sp.,土壤含水量15%,Soil moisture content 15%,适宜发生条件,ConditionIs
+1653,大豆菟丝子,Cuscuta sp.,相对湿度70%,Relative humidity 70%,适宜发生条件,ConditionIs
+1654,大豆褐纹病,Soybean Brown Spot,温暖多雨,Warm and rainy,适宜发生条件,ConditionIs
+1655,大豆褐纹病,Soybean Brown Spot,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1656,大豆褐纹病,Soybean Brown Spot,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1657,大豆赤霉病,Fusarium sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1658,大豆赤霉病,Fusarium sp.,湿度大,High humidity,适宜发生条件,ConditionIs
+1659,大豆根腐病,Fusarium solani,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1660,大豆根腐病,Fusarium solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1661,大豆灰星病,Soybean Gray Leaf Spot,相对温度85%,Relative temperature 85%,适宜发生条件,ConditionIs
+1662,大豆菌核疫病,Soybean Sclerotinia Stem Rot,潮湿,Wet,适宜发生条件,ConditionIs
+1663,大豆菌核疫病,Soybean Sclerotinia Stem Rot,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1664,大豆菌核疫病,Soybean Sclerotinia Stem Rot,作物遮荫,Crop Shade,适宜发生条件,ConditionIs
+1665,大豆煤斑病,Soybean Anthracnose,田间高湿,High humidity in the field,适宜发生条件,ConditionIs
+1666,大豆煤斑病,Soybean Anthracnose,高温,high temperature,适宜发生条件,ConditionIs
+1667,大豆煤斑病,Soybean Anthracnose,多雨,Rainy,适宜发生条件,ConditionIs
+1668,斑须蝽,Dolycoris baccarum,相对湿度80％,Relative humidity 80%,适宜发生条件,ConditionIs
+1669,豆叶螨,Tetranychus sp.,干旱,drought,适宜发生条件,ConditionIs
+1670,豆叶螨,Tetranychus sp.,少雨,Little rain,适宜发生条件,ConditionIs
+1671,花生褐斑病,Peanut brown spot,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1672,高粱大斑病,Exserohilum turcicum,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1673,高粱大斑病,Exserohilum turcicum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1674,高粱大斑病,Exserohilum turcicum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1675,高粱叶点病,Phyllosticta sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1676,高粱豹纹病,Mycosphaerella sp.,低洼高湿,Low-lying and high-humidity,适宜发生条件,ConditionIs
+1677,高粱炭疽病,Colletotrichum sp.,低洼高湿,Low-lying and high-humidity,适宜发生条件,ConditionIs
+1678,高粱立枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1679,高粱立枯病,Rhizoctonia solani,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1680,高粱丝黑穗病,Sphacelotheca reiliana,墒情不好,Poor soil moisture,适宜发生条件,ConditionIs
+1681,高粱坚黑穗病,Sphacelotheca sorghi,湿度低,Low humidity,适宜发生条件,ConditionIs
+1682,高粱镰刀菌穗腐病,Fusarium sp.,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1683,高粱紫斑病,Cercospora sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1684,高粱纹枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1685,高粱纹枯病,Rhizoctonia solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1686,高粱纹枯病,Rhizoctonia solani,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1687,高粱紫轮病,Sorghum Ramulispora leaf spot,高温潮湿,Hot and humid,适宜发生条件,ConditionIs
+1688,高粱苗枯病,Sorghum seedling blight,昼暖夜凉,Warm days and cool nights,适宜发生条件,ConditionIs
+1689,高粱苗枯病,Sorghum seedling blight,植地低洼积水,Waterlogging in low-lying areas,适宜发生条件,ConditionIs
+1690,高粱苗枯病,Sorghum seedling blight,田间郁闭高湿,Field canopy and high humidity,适宜发生条件,ConditionIs
+1691,高粱黑束病,Sorghum black bundle,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1692,高粱黑束病,Sorghum black bundle,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1693,高粱黑束病,Sorghum black bundle,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1694,高粱黑束病,Sorghum black bundle,高温,high temperature,适宜发生条件,ConditionIs
+1695,高粱黑束病,Sorghum black bundle,高湿,High humidity,适宜发生条件,ConditionIs
+1696,高粱炭腐病,Macrophomina phaseolina,田间,field,适宜发生条件,ConditionIs
+1697,高粱炭腐病,Macrophomina phaseolina,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1698,高粱炭腐病,Macrophomina phaseolina,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1699,高粱炭腐病,Macrophomina phaseolina,土壤湿度,Soil moisture,适宜发生条件,ConditionIs
+1700,高粱长粒黑穗病,Sphacelotheca cruenta,土壤温度低,Low soil temperature,适宜发生条件,ConditionIs
+1701,高粱细菌性条纹病,Xanthomonas campestris pv. holcicola,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1702,高粱细菌性条纹病,Xanthomonas campestris pv. holcicola,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1703,高粱细菌性条纹病,Xanthomonas campestris pv. holcicola,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+1704,桃蛀野螟,Conogethes punctiferalis,多雨高湿,Rainy and humid,适宜发生条件,ConditionIs
+1705,黏虫,Mythimna separata,多雨,Rainy,适宜发生条件,ConditionIs
+1706,粟白发病,Sclerospora graminicola,地温低,Low ground temperature,适宜发生条件,ConditionIs
+1707,粟白发病,Sclerospora graminicola,湿度大,High humidity,适宜发生条件,ConditionIs
+1708,粟瘟病,Pyricularia setariae,日照不足,Insufficient sunlight,适宜发生条件,ConditionIs
+1709,粟瘟病,Pyricularia setariae,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1710,粟瘟病,Pyricularia setariae,田间湿度过高,Field humidity is too high,适宜发生条件,ConditionIs
+1711,粟瘟病,Pyricularia setariae,土壤湿,Soil wet,适宜发生条件,ConditionIs
+1712,粟瘟病,Pyricularia setariae,土质粘重,Heavy soil,适宜发生条件,ConditionIs
+1713,粟瘟病,Pyricularia setariae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1714,粟黑鞘病,Black sheath disease of foxtail millet,土质贫瘠,Poor soil,适宜发生条件,ConditionIs
+1715,粟黑鞘病,Black sheath disease of foxtail millet,水肥不足,Insufficient water and fertilizer,适宜发生条件,ConditionIs
+1716,粟锈病,Uromyces setariae-italicae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1717,粟纹枯病,Rhizoctonia solani,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1718,粟纹枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1719,粟纹枯病,Rhizoctonia solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1720,粟纹枯病,Rhizoctonia solani,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1721,粟粒线虫病,Aphelenchoides besseyi,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1722,粟粒线虫病,Aphelenchoides besseyi,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1723,粟粒线虫病,Aphelenchoides besseyi,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1724,粟苗枯病,Seedling blight of foxtail millet,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1725,粟苗枯病,Seedling blight of foxtail millet,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1726,粟胡麻斑病,Bipolaris setariae,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1727,粟胡麻斑病,Bipolaris setariae,砂质,Sandy,适宜发生条件,ConditionIs
+1728,粟胡麻斑病,Bipolaris setariae,保肥性差,Poor fertilizer retention,适宜发生条件,ConditionIs
+1729,粟叶斑病,Leaf spot of foxtail millet,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1730,粟假黑斑病,False black spot of foxtail millet,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1731,粟假黑斑病,False black spot of foxtail millet,高温,high temperature,适宜发生条件,ConditionIs
+1732,粟假黑斑病,False black spot of foxtail millet,高湿,High humidity,适宜发生条件,ConditionIs
+1733,粟条点病,Striped and dotted disease of foxtail millet,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1734,粟条点病,Striped and dotted disease of foxtail millet,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+1735,粟条点病,Striped and dotted disease of foxtail millet,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1736,粟条点病,Striped and dotted disease of foxtail millet,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1737,粟条点病,Striped and dotted disease of foxtail millet,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1738,粟条点病,Striped and dotted disease of foxtail millet,干旱,drought,适宜发生条件,ConditionIs
+1739,粟条点病,Striped and dotted disease of foxtail millet,重雾,Heavy fog,适宜发生条件,ConditionIs
+1740,粟条点病,Striped and dotted disease of foxtail millet,重露,Heavy Dew,适宜发生条件,ConditionIs
+1741,粟条点病,Striped and dotted disease of foxtail millet,高湿,High humidity,适宜发生条件,ConditionIs
+1742,粟条点病,Striped and dotted disease of foxtail millet,多雨,Rainy,适宜发生条件,ConditionIs
+1743,粟黑粉病,Ustilago crameri,土壤过干,Soil is too dry,适宜发生条件,ConditionIs
+1744,粟细菌性条斑病,Xanthomonas sp.,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1745,粟细菌性条斑病,Xanthomonas sp.,肥力不足,Insufficient fertility,适宜发生条件,ConditionIs
+1746,粟细菌性条斑病,Xanthomonas sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1747,粟细菌性条斑病,Xanthomonas sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1748,粟细菌性条斑病,Xanthomonas sp.,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1749,粟细菌性条斑病,Xanthomonas sp.,干旱,drought,适宜发生条件,ConditionIs
+1750,粟细菌性条斑病,Xanthomonas sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1751,粟细菌性条斑病,Xanthomonas sp.,多雨,Rainy,适宜发生条件,ConditionIs
+1752,甘薯黑斑病,Ceratocystis fimbriata,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1753,甘薯黑斑病,Ceratocystis fimbriata,土壤粘重,Heavy soil,适宜发生条件,ConditionIs
+1754,甘薯黑斑病,Ceratocystis fimbriata,湿度大,High humidity,适宜发生条件,ConditionIs
+1755,甘薯黑斑病,Ceratocystis fimbriata,通风不好,Poor ventilation,适宜发生条件,ConditionIs
+1756,甘薯软腐病,Rhizopus stolonifer,相对湿度76％,Relative humidity 76%,适宜发生条件,ConditionIs
+1757,甘薯瘟病,Pseudomonas solanacearum,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1758,甘薯瘟病,Pseudomonas solanacearum,平地洼地,Flat land,适宜发生条件,ConditionIs
+1759,甘薯根腐病,Fusarium solani,高温,high temperature,适宜发生条件,ConditionIs
+1760,甘薯紫纹羽病,Helicobasidium purpureum,潮湿,Wet,适宜发生条件,ConditionIs
+1761,甘薯紫纹羽病,Helicobasidium purpureum,低洼潮湿,Low-lying and humid,适宜发生条件,ConditionIs
+1762,甘薯茎线虫病,Ditylenchus destructor,湿润,Wet,适宜发生条件,ConditionIs
+1763,甘薯茎线虫病,Ditylenchus destructor,疏松,loose,适宜发生条件,ConditionIs
+1764,甘薯黑痣病,Phyllachora batatas,土质粘重,Heavy soil,适宜发生条件,ConditionIs
+1765,甘薯黑痣病,Phyllachora batatas,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1766,甘薯黑痣病,Phyllachora batatas,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1767,马铃薯癌肿病,Synchytrium endobioticum,日照短,Short daylight hours,适宜发生条件,ConditionIs
+1768,马铃薯癌肿病,Synchytrium endobioticum,气候凉爽,Cool climate,适宜发生条件,ConditionIs
+1769,马铃薯早疫病,Alternaria solani,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1770,马铃薯早疫病,Alternaria solani,阴雨多雾,Rainy and foggy,适宜发生条件,ConditionIs
+1771,马铃薯晚疫病,Phytophthora infestans,日暖夜凉高湿,"Warm days, cool nights, high humidity",适宜发生条件,ConditionIs
+1772,马铃薯晚疫病,Phytophthora infestans,空气潮湿,Humid air,适宜发生条件,ConditionIs
+1773,马铃薯晚疫病,Phytophthora infestans,温暖多雾,Warm and foggy,适宜发生条件,ConditionIs
+1774,马铃薯黑胫病,Erwinia carotovora subsp. atroseptica,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1775,马铃薯黑胫病,Erwinia carotovora subsp. atroseptica,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1776,马铃薯黑胫病,Erwinia carotovora subsp. atroseptica,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1777,马铃薯环腐病,Clavibacter michiganensis subsp. sepedonicus,阴雨连绵,Continuous rain,适宜发生条件,ConditionIs
+1778,马铃薯环腐病,Clavibacter michiganensis subsp. sepedonicus,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1779,马铃薯粉痂病,Spongospora subterranea,夏季凉爽,Cool in summer,适宜发生条件,ConditionIs
+1780,马铃薯茎基腐病,Fusarium sp.,土壤水分多,High soil moisture,适宜发生条件,ConditionIs
+1781,马铃薯茎基腐病,Fusarium sp.,光线不足,Low light,适宜发生条件,ConditionIs
+1782,马铃薯软腐病,Erwinia carotovora subsp. carotovora,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1783,马铃薯软腐病,Erwinia carotovora subsp. carotovora,湿度过大,Excessive humidity,适宜发生条件,ConditionIs
+1784,马铃薯早死病,Early death disease of potato,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1785,黄胫小车蝗,Oedaleus infernalis,低洼易涝,Low-lying and flood-prone,适宜发生条件,ConditionIs
+1786,黄胫小车蝗,Oedaleus infernalis,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+1787,马铃薯二十八星瓢虫,Henosepilachna vigintioctopunctata,相对湿度在80～85%,Relative humidity 80-85%,适宜发生条件,ConditionIs
+1788,棉苗立枯病,Rhizoctonia solani,阴雨多湿,Rainy and wet,适宜发生条件,ConditionIs
+1789,棉苗立枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1790,棉苗立枯病,Rhizoctonia solani,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1791,棉苗立枯病,Rhizoctonia solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1792,棉花炭疽病,Colletotrichum sp.,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1793,棉花红腐病,Fusarium sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1794,棉花枯萎病,Fusarium oxysporum f. sp. vasinfectum,整地粗放,Extensive land preparation,适宜发生条件,ConditionIs
+1795,棉花枯萎病,Fusarium oxysporum f. sp. vasinfectum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1796,棉花疫病,Phytophthora sp.,相对湿度30%,Relative humidity 30%,适宜发生条件,ConditionIs
+1797,棉花疫病,Phytophthora sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1798,棉花疫病,Phytophthora sp.,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1799,棉花疫病,Phytophthora sp.,棉田潮湿郁闭,Cotton fields are damp and dense,适宜发生条件,ConditionIs
+1800,棉铃红粉病,Trichothecium roseum,土壤黏重,Heavy soil,适宜发生条件,ConditionIs
+1801,棉铃红粉病,Trichothecium roseum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1802,棉铃软腐病,Erwinia carotovora subsp. carotovora,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1803,棉铃灰霉病,Botrytis cinerea,湿度大,High humidity,适宜发生条件,ConditionIs
+1804,棉铃灰霉病,Botrytis cinerea,相对湿度高于90%,Relative humidity above 90%,适宜发生条件,ConditionIs
+1805,棉花褐斑病,Brown spot of cotton,阴雨,Rainy,适宜发生条件,ConditionIs
+1806,棉花褐斑病,Brown spot of cotton,空气湿度高,High humidity,适宜发生条件,ConditionIs
+1807,棉花轮纹病,Ring spot of cotton,阴湿多雨,Wet and rainy,适宜发生条件,ConditionIs
+1808,棉花轮纹病,Ring spot of cotton,低温,Low temperature,适宜发生条件,ConditionIs
+1809,麦叶蜂,Dolerus tritici,土壤水分充足,Sufficient soil moisture,适宜发生条件,ConditionIs
+1810,大麦网斑病,Pyrenophora teres,低温,Low temperature,适宜发生条件,ConditionIs
+1811,大麦网斑病,Pyrenophora teres,高湿,High humidity,适宜发生条件,ConditionIs
+1812,玉米大斑病,Exserohilum turcicum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1813,玉米大斑病,Exserohilum turcicum,郁闭,Closure,适宜发生条件,ConditionIs
+1814,玉米大斑病,Exserohilum turcicum,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1815,玉米弯孢霉叶斑病,Curvularia lunata,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+1816,玉米灰斑病,Cercospora zeae-maydis,相对湿度高,High relative humidity,适宜发生条件,ConditionIs
+1817,玉米镰刀菌苗枯病,Fusarium sp.,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1818,玉米镰刀菌苗枯病,Fusarium sp.,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+1819,玉米镰刀菌苗枯病,Fusarium sp.,通透性差,Poor permeability,适宜发生条件,ConditionIs
+1820,玉米镰刀菌苗枯病,Fusarium sp.,土壤供氧不足,Insufficient soil oxygen,适宜发生条件,ConditionIs
+1821,玉米镰刀菌苗枯病,Fusarium sp.,雨后土壤板结,Soil compaction after rain,适宜发生条件,ConditionIs
+1822,黄麻苗枯病,Seedling blight of jute,低温多雨,Low temperature and heavy rain,适宜发生条件,ConditionIs
+1823,黄麻苗枯病,Seedling blight of jute,光照不足,Insufficient light,适宜发生条件,ConditionIs
+1824,黄麻苗枯病,Seedling blight of jute,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1825,黄麻苗枯病,Seedling blight of jute,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1826,黄麻苗枯病,Seedling blight of jute,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+1827,黄麻苗枯病,Seedling blight of jute,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1828,黄麻黑点炭疽病,Colletotrichum sp.,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+1829,黄麻黑点炭疽病,Colletotrichum sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1830,黄麻黑点炭疽病,Colletotrichum sp.,湿气滞留,Moisture Retention,适宜发生条件,ConditionIs
+1831,黄麻叶枯病,Leaf blight of jute,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1832,黄麻叶枯病,Leaf blight of jute,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1833,黄麻叶枯病,Leaf blight of jute,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1834,黄麻茎斑病,Stem spot of jute,土壤干燥,Dry soil,适宜发生条件,ConditionIs
+1835,玉米纹枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1836,玉米纹枯病,Rhizoctonia solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1837,玉米纹枯病,Rhizoctonia solani,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1838,玉米锈病,Puccinia sp.,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1839,玉米锈病,Puccinia sp.,多雾,Foggy,适宜发生条件,ConditionIs
+1840,玉米锈病,Puccinia sp.,光照不足,Insufficient light,适宜发生条件,ConditionIs
+1841,玉米褐斑病,Brown spot of maize,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1842,玉米褐斑病,Brown spot of maize,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+1843,玉米疯顶病,Crazy top disease of maize,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1844,玉米疯顶病,Crazy top disease of maize,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1845,玉米疯顶病,Crazy top disease of maize,地势较高,Higher ground,适宜发生条件,ConditionIs
+1846,玉米疯顶病,Crazy top disease of maize,排水良好,Good drainage,适宜发生条件,ConditionIs
+1847,玉米疯顶病,Crazy top disease of maize,土壤湿度较低,Low soil moisture,适宜发生条件,ConditionIs
+1848,玉米茎腐病,Fusarium sp.,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1849,玉米茎腐病,Fusarium sp.,田间郁闭,Field closure,适宜发生条件,ConditionIs
+1850,玉米茎腐病,Fusarium sp.,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1851,玉米圆斑病,Helminthosporium carbonum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1852,玉米圆斑病,Helminthosporium carbonum,田间通风透光不良,Poor field ventilation and light transmission,适宜发生条件,ConditionIs
+1853,玉米丝黑穗病,Sphacelotheca reiliana,土壤含水量12％,Soil moisture content 12%,适宜发生条件,ConditionIs
+1854,黄麻立枯病,Rhizoctonia solani,阴雨多湿,Rainy and wet,适宜发生条件,ConditionIs
+1855,黄麻立枯病,Rhizoctonia solani,春季低温,Spring low temperatures,适宜发生条件,ConditionIs
+1856,黄麻立枯病,Rhizoctonia solani,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1857,黄麻立枯病,Rhizoctonia solani,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1858,黄麻炭疽病,Colletotrichum sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1859,黄麻枯腐病,Wilt and rot disease of jute,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1860,黄麻枯腐病,Wilt and rot disease of jute,湿度大,High humidity,适宜发生条件,ConditionIs
+1861,黄麻枯萎病,Fusarium sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1862,黄麻枯萎病,Fusarium sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1863,黄麻枯萎病,Fusarium sp.,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+1864,黄麻枯萎病,Fusarium sp.,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+1865,向日葵褐斑病,Brown spot of sunflower,湿度大,High humidity,适宜发生条件,ConditionIs
+1866,向日葵褐斑病,Brown spot of sunflower,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1867,向日葵褐斑病,Brown spot of sunflower,田间通风透光差,Poor field ventilation and light transmission,适宜发生条件,ConditionIs
+1868,向日葵褐斑病,Brown spot of sunflower,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1869,向日葵白粉病,Erysiphe sp.,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+1870,向日葵白粉病,Erysiphe sp.,氮肥偏多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+1871,向日葵霜霉病,Plasmopara halstedii,低温高湿,Low temperature and high humidity,适宜发生条件,ConditionIs
+1872,向日葵霜霉病,Plasmopara halstedii,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+1873,向日葵根茎腐病,Root and stem rot of sunflower,田间,field,适宜发生条件,ConditionIs
+1874,向日葵根茎腐病,Root and stem rot of sunflower,高温多湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1875,向日葵根茎腐病,Root and stem rot of sunflower,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1876,向日葵根茎腐病,Root and stem rot of sunflower,土壤湿度,Soil moisture,适宜发生条件,ConditionIs
+1877,向日葵白绢病,Sclerotium rolfsii,高温,high temperature,适宜发生条件,ConditionIs
+1878,向日葵白绢病,Sclerotium rolfsii,高湿,High humidity,适宜发生条件,ConditionIs
+1879,向日葵细菌性茎腐病,Bacterial stem rot of sunflower,雨水多,Heavy rain,适宜发生条件,ConditionIs
+1880,向日葵细菌性茎腐病,Bacterial stem rot of sunflower,湿度大,High humidity,适宜发生条件,ConditionIs
+1881,向日葵细菌性茎腐病,Bacterial stem rot of sunflower,管理粗放,Extensive management,适宜发生条件,ConditionIs
+1882,向日葵细菌性茎腐病,Bacterial stem rot of sunflower,氮肥施用不当,Improper nitrogen fertilizer application,适宜发生条件,ConditionIs
+1883,向日葵细菌性茎腐病,Bacterial stem rot of sunflower,地势地洼,Low-lying terrain,适宜发生条件,ConditionIs
+1884,魔芋软腐病,Erwinia carotovora subsp. carotovora,土壤湿度过大,Excessive soil moisture,适宜发生条件,ConditionIs
+1885,魔芋炭疽病,Colletotrichum sp.,温暖多湿,Warm and humid,适宜发生条件,ConditionIs
+1886,魔芋炭疽病,Colletotrichum sp.,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+1887,姜枯萎病,Fusarium sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1888,姜枯萎病,Fusarium sp.,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1889,青花菜细菌性黑斑病,Pseudomonas syringae pv. maculicola,高湿,High humidity,适宜发生条件,ConditionIs
+1890,葱炭疽病,Colletotrichum sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1891,葱黄矮病,Yellow dwarf disease of onion,高温干旱,High temperature and drought,适宜发生条件,ConditionIs
+1892,大白菜霜霉病,Peronospora parasitica,高湿多雨,High humidity and heavy rain,适宜发生条件,ConditionIs
+1893,大白菜炭疽病,Colletotrichum sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1894,大白菜炭疽病,Colletotrichum sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1895,大白菜炭疽病,Colletotrichum sp.,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1896,大白菜褐腐病,Brown rot of Chinese cabbage,培土过多过湿,Too much soil and too wet,适宜发生条件,ConditionIs
+1897,大白菜黑斑病,Alternaria sp.,相对湿度为72%,Relative humidity: 72%,适宜发生条件,ConditionIs
+1898,青花菜黑胫病,Blackleg disease of broccoli,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1899,青花菜黑胫病,Blackleg disease of broccoli,雨后高温,High temperature after rain,适宜发生条件,ConditionIs
+1900,大白菜黑胫病,Blackleg disease of Chinese cabbage,潮湿多雨,Wet and rainy,适宜发生条件,ConditionIs
+1901,大白菜黑胫病,Blackleg disease of Chinese cabbage,雨后高温,High temperature after rain,适宜发生条件,ConditionIs
+1902,青花菜霜霉病,Peronospora sp.,高温高湿度,High temperature and high humidity,适宜发生条件,ConditionIs
+1903,青花菜霜霉病,Peronospora sp.,光照不足,Insufficient light,适宜发生条件,ConditionIs
+1904,青花菜霜霉病,Peronospora sp.,空气湿度,Air humidity,适宜发生条件,ConditionIs
+1905,玉米霜霉病,Peronospora sp.,气候潮湿,Wet climate,适宜发生条件,ConditionIs
+1906,玉米霜霉病,Peronospora sp.,雨水充沛,Plenty of rain,适宜发生条件,ConditionIs
+1907,玉米霜霉病,Peronospora sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1908,玉米链格孢菌叶枯病,Alternaria sp.,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1909,玉米链格孢菌叶枯病,Alternaria sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1910,玉米链格孢菌叶枯病,Alternaria sp.,土壤潮湿,Moist soil,适宜发生条件,ConditionIs
+1911,玉米链格孢菌叶枯病,Alternaria sp.,高温,high temperature,适宜发生条件,ConditionIs
+1912,玉米链格孢菌叶枯病,Alternaria sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1913,玉米斑枯病,Spot blight of maize,冷凉潮湿,Cool and humid,适宜发生条件,ConditionIs
+1914,玉米炭疽病,Colletotrichum sp.,高温,high temperature,适宜发生条件,ConditionIs
+1915,玉米炭疽病,Colletotrichum sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1916,玉米立枯丝核菌根腐病,Rhizoctonia solani,土温低,Low soil temperature,适宜发生条件,ConditionIs
+1917,玉米立枯丝核菌根腐病,Rhizoctonia solani,湿度大,High humidity,适宜发生条件,ConditionIs
+1918,玉米平脐蠕孢茎基腐病,Fusarium sp.,高湿,High humidity,适宜发生条件,ConditionIs
+1919,玉米平脐蠕孢茎基腐病,Fusarium sp.,雨后骤晴,Sunshine after rain,适宜发生条件,ConditionIs
+1920,玉米平脐蠕孢茎基腐病,Fusarium sp.,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1921,玉米平脐蠕孢茎基腐病,Fusarium sp.,田间郁闭,Field closure,适宜发生条件,ConditionIs
+1922,玉米平脐蠕孢茎基腐病,Fusarium sp.,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1923,玉米种子霉烂,Seed mold of maize,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1924,玉米种子霉烂,Seed mold of maize,温及土壤湿,Warm and moist soil,适宜发生条件,ConditionIs
+1925,玉米全蚀病,Take-all disease of maize,高温,high temperature,适宜发生条件,ConditionIs
+1926,玉米全蚀病,Take-all disease of maize,高湿,High humidity,适宜发生条件,ConditionIs
+1927,玉米细菌性条纹病,Xanthomonas sp.,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1928,玉米细菌性条纹病,Xanthomonas sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1929,玉米细菌性条纹病,Xanthomonas sp.,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+1930,玉米细菌性茎腐病,Fusarium sp.,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1931,玉米细菌性茎腐病,Fusarium sp.,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1932,玉米细菌性茎腐病,Fusarium sp.,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1933,玉米细菌性茎腐病,Fusarium sp.,土壤板结,Soil compaction,适宜发生条件,ConditionIs
+1934,稻瘟病,Pyricularia oryzae,适温高湿,Suitable temperature and high humidity,适宜发生条件,ConditionIs
+1935,稻瘟病,Pyricularia oryzae,雨天多,Many rainy days,适宜发生条件,ConditionIs
+1936,稻瘟病,Pyricularia oryzae,多雨,Rainy,适宜发生条件,ConditionIs
+1937,水稻云形病,Gerlachia oryzae,连绵阴雨,Continuous rain,适宜发生条件,ConditionIs
+1938,水稻云形病,Gerlachia oryzae,适温多湿,Suitable temperature and humidity,适宜发生条件,ConditionIs
+1939,水稻菌核秆腐病,Sclerotium oryzae-sativae,排水不好,Poor drainage,适宜发生条件,ConditionIs
+1940,水稻纹枯病,Rhizoctonia solani,雨，田间湿度在,"Rain, field humidity",适宜发生条件,ConditionIs
+1941,水稻纹枯病,Rhizoctonia solani,田间郁闭,Field closure,适宜发生条件,ConditionIs
+1942,水稻纹枯病,Rhizoctonia solani,湿度大,High humidity,适宜发生条件,ConditionIs
+1943,水稻胡麻斑病,Bipolaris oryzae,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+1944,水稻胡麻斑病,Bipolaris oryzae,土壤酸性,Soil acidity,适宜发生条件,ConditionIs
+1945,水稻胡麻斑病,Bipolaris oryzae,砂质,Sandy,适宜发生条件,ConditionIs
+1946,水稻胡麻斑病,Bipolaris oryzae,保肥性差,Poor fertilizer retention,适宜发生条件,ConditionIs
+1947,稻螟蛉,Naranga aenescens,阴雨天多,Many rainy days,适宜发生条件,ConditionIs
+1948,水稻叶鞘腐败病,Sclerotium oryzae-sativae,田间湿度高,High humidity in the field,适宜发生条件,ConditionIs
+1949,水稻叶鞘腐败病,Sclerotium oryzae-sativae,通透性,Permeability,适宜发生条件,ConditionIs
+1950,水稻紫鞘病,Purple sheath disease of rice,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+1951,水稻窄条斑病,Narrow stripe disease of rice,缺磷,Phosphorus deficiency,适宜发生条件,ConditionIs
+1952,水稻窄条斑病,Narrow stripe disease of rice,土壤通气性差,Poor soil aeration,适宜发生条件,ConditionIs
+1953,稻曲病,Ustilaginoidea virens,田间郁,Tian Jianyu,适宜发生条件,ConditionIs
+1954,稻曲病,Ustilaginoidea virens,通风透光差,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1955,稻曲病,Ustilaginoidea virens,相对湿度高,High relative humidity,适宜发生条件,ConditionIs
+1956,稻粒黑粉病,Neovossia horrida,通风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1957,水稻白叶枯病,Xanthomonas oryzae pv. oryzae,多雨,Rainy,适宜发生条件,ConditionIs
+1958,水稻白叶枯病,Xanthomonas oryzae pv. oryzae,田间郁闭,Field closure,适宜发生条件,ConditionIs
+1959,水稻白叶枯病,Xanthomonas oryzae pv. oryzae,湿度大,High humidity,适宜发生条件,ConditionIs
+1960,水稻白叶枯病,Xanthomonas oryzae pv. oryzae,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1961,水稻白叶枯病,Xanthomonas oryzae pv. oryzae,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1962,水稻细菌性褐条病,Acidovorax avenae subsp. avenae,高温,high temperature,适宜发生条件,ConditionIs
+1963,水稻细菌性褐条病,Acidovorax avenae subsp. avenae,高湿,High humidity,适宜发生条件,ConditionIs
+1964,水稻细菌性褐条病,Acidovorax avenae subsp. avenae,阴雨,Rainy,适宜发生条件,ConditionIs
+1965,水稻细菌性褐斑病,Pseudomonas syringae pv. syringae,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+1966,水稻橙叶病,Orange leaf disease of rice,素：高温,Vegetarian: High temperature,适宜发生条件,ConditionIs
+1967,水稻细菌性基腐病,Dickeya zeae,地势低,Low lying,适宜发生条件,ConditionIs
+1968,水稻条纹叶枯病,Rice stripe virus,降雨少,Little rainfall,适宜发生条件,ConditionIs
+1969,水稻赤枯病,Red withered disease of rice,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1970,直纹稻弄蝶,Parnara guttata,温度低,Low temperature,适宜发生条件,ConditionIs
+1971,直纹稻弄蝶,Parnara guttata,高温低湿,High temperature and low humidity,适宜发生条件,ConditionIs
+1972,直纹稻弄蝶,Parnara guttata,气温32,Temperature 32,适宜发生条件,ConditionIs
+1973,直纹稻弄蝶,Parnara guttata,盛夏不热,Summer is not hot,适宜发生条件,ConditionIs
+1974,稻秆潜蝇,Chlorops oryzae,阳光不足,Lack of sunlight,适宜发生条件,ConditionIs
+1975,稻秆潜蝇,Chlorops oryzae,环境潮湿,Wet environment,适宜发生条件,ConditionIs
+1976,稻秆潜蝇,Chlorops oryzae,田水温度低,Low field water temperature,适宜发生条件,ConditionIs
+1977,褐飞虱,Nilaparvata lugens,、湿度8,、Humidity 8,适宜发生条件,ConditionIs
+1978,褐飞虱,Nilaparvata lugens,晚秋不冷,Late autumn is not cold,适宜发生条件,ConditionIs
+1979,褐飞虱,Nilaparvata lugens,夏秋多雨,Rainy summer and autumn,适宜发生条件,ConditionIs
+1980,白背飞虱,Sogatella furcifera,相对湿度为80％～90%,Relative humidity: 80% to 90%,适宜发生条件,ConditionIs
+1981,白背飞虱,Sogatella furcifera,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1982,白背飞虱,Sogatella furcifera,氮肥过多,Too much nitrogen fertilizer,适宜发生条件,ConditionIs
+1983,白背飞虱,Sogatella furcifera,田间郁闭,Field closure,适宜发生条件,ConditionIs
+1984,灰飞虱,Laodelphax striatellus,郁闭,Closure,适宜发生条件,ConditionIs
+1985,灰飞虱,Laodelphax striatellus,透风透光不良,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+1986,白翅叶蝉,Erythroneura subrufa,相对湿对85%～90%,Relative humidity: 85%～90%,适宜发生条件,ConditionIs
+1987,小麦秆枯病,Gibellina cerealis,施肥不足,Insufficient fertilization,适宜发生条件,ConditionIs
+1988,小麦秆枯病,Gibellina cerealis,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+1989,小麦全蚀病,Gaeumannomyces graminis,土质疏松,Loose soil,适宜发生条件,ConditionIs
+1990,小麦全蚀病,Gaeumannomyces graminis,肥力低,Low fertility,适宜发生条件,ConditionIs
+1991,小麦炭疽病,Colletotrichum graminicola,肥料不足,Insufficient fertilizer,适宜发生条件,ConditionIs
+1992,小麦炭疽病,Colletotrichum graminicola,土壤碱,Soil Alkalinity,适宜发生条件,ConditionIs
+1993,小麦白粉病,Blumeria graminis,相对湿度大,High relative humidity,适宜发生条件,ConditionIs
+1994,小麦秆锈病,Puccinia graminis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+1995,小麦秆锈病,Puccinia graminis,土质黏重,Heavy soil,适宜发生条件,ConditionIs
+1996,小麦秆锈病,Puccinia graminis,排水不良,Poor drainage,适宜发生条件,ConditionIs
+1997,小麦叶锈病,Puccinia recondita,雪层厚,Snow thickness,适宜发生条件,ConditionIs
+1998,小麦叶锈病,Puccinia recondita,土壤湿度大,High soil moisture,适宜发生条件,ConditionIs
+1999,小麦纹枯病,Rhizoctonia cerealis,田间湿度过大,Excessive humidity in the field,适宜发生条件,ConditionIs
+2000,小麦霜霉病,Peronospora graminis,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+2001,小麦霜霉病,Peronospora graminis,耕作粗放,Extensive farming,适宜发生条件,ConditionIs
+2002,小麦雪霉叶枯病,Microdochium nivale,低温湿度,Low temperature and humidity,适宜发生条件,ConditionIs
+2003,小麦雪霉叶枯病,Microdochium nivale,潮湿多雨,Wet and rainy,适宜发生条件,ConditionIs
+2004,小麦雪霉叶枯病,Microdochium nivale,地下水位高,High groundwater level,适宜发生条件,ConditionIs
+2005,小麦雪霉叶枯病,Microdochium nivale,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+2006,小麦白秆病,Fusarium graminearum,低温多雨,Low temperature and heavy rain,适宜发生条件,ConditionIs
+2007,小麦白秆病,Fusarium graminearum,田间湿度大,High humidity in the field,适宜发生条件,ConditionIs
+2008,小麦根腐病,Bipolaris sorokiniana,土温20℃上,Soil temperature 20℃ or above,适宜发生条件,ConditionIs
+2009,小麦根腐病,Bipolaris sorokiniana,土质贫瘠,Poor soil,适宜发生条件,ConditionIs
+2010,小麦根腐病,Bipolaris sorokiniana,水肥不足,Insufficient water and fertilizer,适宜发生条件,ConditionIs
+2011,小麦赤霉病,Fusarium graminearum,高温高湿,High temperature and high humidity,适宜发生条件,ConditionIs
+2012,小麦赤霉病,Fusarium graminearum,潮湿多雾,Wet and foggy,适宜发生条件,ConditionIs
+2013,小麦赤霉病,Fusarium graminearum,地势低洼,Low-lying terrain,适宜发生条件,ConditionIs
+2014,小麦赤霉病,Fusarium graminearum,排水不良,Poor drainage,适宜发生条件,ConditionIs
+2015,小麦赤霉病,Fusarium graminearum,土质粘重,Heavy soil,适宜发生条件,ConditionIs
+2016,小麦赤霉病,Fusarium graminearum,偏施氮肥,Partial nitrogen fertilizer,适宜发生条件,ConditionIs
+2017,小麦赤霉病,Fusarium graminearum,田间潮湿郁闭,Wet and humid fields,适宜发生条件,ConditionIs
+2018,小麦颖枯病,Stagonospora nodorum,高温多雨,Hot and rainy,适宜发生条件,ConditionIs
+2019,小麦颖枯病,Stagonospora nodorum,土质贫瘠,Poor soil,适宜发生条件,ConditionIs
+2020,小麦斑枯病,Septoria tritici,低温,Low temperature,适宜发生条件,ConditionIs
+2021,小麦斑枯病,Septoria tritici,高湿,High humidity,适宜发生条件,ConditionIs
+2022,小麦斑枯病,Septoria tritici,土壤瘠薄,Poor soil,适宜发生条件,ConditionIs
+2023,小麦斑枯病,Septoria tritici,施氮过多,Excessive nitrogen application,适宜发生条件,ConditionIs
+2024,小麦链格孢叶枯病,Alternaria alternata,低洼潮湿,Low-lying and humid,适宜发生条件,ConditionIs
+2025,小麦黑颖病,Xanthomonas translucens,通风不良,Poor ventilation,适宜发生条件,ConditionIs
+2026,小麦黑颖病,Xanthomonas translucens,整地不平,Uneven ground preparation,适宜发生条件,ConditionIs
+2027,小麦梭条斑花叶病,Wheat spindle streak mosaic virus,土壤湿度较低,Low soil moisture,适宜发生条件,ConditionIs
+2028,小麦细菌性条斑病,Xanthomonas campestris,通风透光不好,Poor ventilation and light transmission,适宜发生条件,ConditionIs
+2029,小麦黄矮病,Barley yellow dwarf virus,干旱,drought,适宜发生条件,ConditionIs
+2030,小麦黄矮病,Barley yellow dwarf virus,土壤贫瘠,Poor soil,适宜发生条件,ConditionIs
+2031,小麦黄矮病,Barley yellow dwarf virus,管理粗放,Extensive management,适宜发生条件,ConditionIs
+2032,小麦禾谷胞囊线虫病,Heterodera avenae,沙壤土较粘土,Sandy loam to clay soil,适宜发生条件,ConditionIs
+2033,大麦白粉病,Blumeria graminis f. sp. hordei,相对湿度大,High relative humidity,适宜发生条件,ConditionIs

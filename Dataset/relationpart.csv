@@ -1,0 +1,1322 @@
+number,Chinese entity name,entity binomial scientific name,Chinese part,English part,Chinese relation,English relation
+1,草莓根腐病,Phytophthora fragariae,草莓,strawberry,危害部位,InflictHarmPart
+2,草莓革腐病,Phytophthora fragariae,果实,fruit,危害部位,InflictHarmPart
+3,草莓革腐病,Phytophthora fragariae,小苗,Seedling,危害部位,InflictHarmPart
+4,柿疯病,Persimmon witches broom,枝干,Branches,危害部位,InflictHarmPart
+5,柿炭疽病,Kaki Persimmon anthracnose,枝干,Branches,危害部位,InflictHarmPart
+6,柿炭疽病,Kaki Persimmon anthracnose,叶片,blade,危害部位,InflictHarmPart
+7,柿炭疽病,Kaki Persimmon anthracnose,果实,fruit,危害部位,InflictHarmPart
+8,柿灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+9,柿灰霉病,Botrytis cinerea,果实,fruit,危害部位,InflictHarmPart
+10,柿角斑病,Cercospora kaki,叶片,blade,危害部位,InflictHarmPart
+11,柿角斑病,Cercospora kaki,果实,fruit,危害部位,InflictHarmPart
+12,柿圆斑病,Mycosphaerella nawae,叶片,blade,危害部位,InflictHarmPart
+13,柿圆斑病,Mycosphaerella nawae,果实,fruit,危害部位,InflictHarmPart
+14,柿黑星病,Fusicladium kaki,枝干,Branches,危害部位,InflictHarmPart
+15,柿黑星病,Fusicladium kaki,叶片,blade,危害部位,InflictHarmPart
+16,柿黑星病,Fusicladium kaki,果实,fruit,危害部位,InflictHarmPart
+17,石榴干腐病,Botryosphaeria dothidea,枝干,Branches,危害部位,InflictHarmPart
+18,石榴干腐病,Botryosphaeria dothidea,花器,Flower vases,危害部位,InflictHarmPart
+19,石榴干腐病,Botryosphaeria dothidea,果实,fruit,危害部位,InflictHarmPart
+20,石榴黑斑病,Alternaria alternata,叶片,blade,危害部位,InflictHarmPart
+21,柑橘疮痂病,Elsino? fawcettii,枝干,Branches,危害部位,InflictHarmPart
+22,柑橘疮痂病,Elsino? fawcettii,叶片,blade,危害部位,InflictHarmPart
+23,柑橘疮痂病,Elsino? fawcettii,花器,Flower vases,危害部位,InflictHarmPart
+24,柑橘疮痂病,Elsino? fawcettii,果实,fruit,危害部位,InflictHarmPart
+25,柑橘炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+26,柑橘炭疽病,Colletotrichum gloeosporioides,枝干,Branches,危害部位,InflictHarmPart
+27,柑橘炭疽病,Colletotrichum gloeosporioides,果实,fruit,危害部位,InflictHarmPart
+28,柑橘裂皮病,Citrus exocortis viroid,枝干,Branches,危害部位,InflictHarmPart
+29,柑橘裂皮病,Citrus exocortis viroid,叶片,blade,危害部位,InflictHarmPart
+30,柑橘裂皮病,Citrus exocortis viroid,花器,Flower vases,危害部位,InflictHarmPart
+31,柑橘裂皮病,Citrus exocortis viroid,果实,fruit,危害部位,InflictHarmPart
+32,柑橘裂皮病,Citrus exocortis viroid,全株,Whole plant,危害部位,InflictHarmPart
+33,柑橘黄龙病,Citrus exocortis viroid,根系,Root system,危害部位,InflictHarmPart
+34,柑橘黄龙病,Citrus exocortis viroid,枝干,Branches,危害部位,InflictHarmPart
+35,柑橘黄龙病,Citrus exocortis viroid,叶片,blade,危害部位,InflictHarmPart
+36,柑橘黄龙病,Citrus exocortis viroid,果实,fruit,危害部位,InflictHarmPart
+37,柑橘溃疡病,Xanthomonas citri subsp. citri,叶片,blade,危害部位,InflictHarmPart
+38,柑橘溃疡病,Xanthomonas citri subsp. citri,枝梢,Branches,危害部位,InflictHarmPart
+39,柑橘溃疡病,Xanthomonas citri subsp. citri,果实,fruit,危害部位,InflictHarmPart
+40,柑橘树脂病,Diaporthe citri,枝干,Branches,危害部位,InflictHarmPart
+41,柑橘树脂病,Diaporthe citri,叶片,blade,危害部位,InflictHarmPart
+42,柑橘树脂病,Diaporthe citri,果实,fruit,危害部位,InflictHarmPart
+43,荔枝霜疫霉病,Peronophythora litchii,枝干,Branches,危害部位,InflictHarmPart
+44,荔枝霜疫霉病,Peronophythora litchii,叶片,blade,危害部位,InflictHarmPart
+45,荔枝霜疫霉病,Peronophythora litchii,果实,fruit,危害部位,InflictHarmPart
+46,荔枝炭疽病,Colletotrichum gloeosporioides,枝干,Branches,危害部位,InflictHarmPart
+47,荔枝炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+48,荔枝炭疽病,Colletotrichum gloeosporioides,果实,fruit,危害部位,InflictHarmPart
+49,荔枝藻斑病,Cephaleuros virescens,叶片,blade,危害部位,InflictHarmPart
+50,荔枝藻斑病,Cephaleuros virescens,树皮,Bark,危害部位,InflictHarmPart
+51,枇杷灰斑病,Pestalotia funerea,叶片,blade,危害部位,InflictHarmPart
+52,枇杷灰斑病,Pestalotia funerea,果实,fruit,危害部位,InflictHarmPart
+53,枇杷斑点病,Loquat spotted disease,叶片,blade,危害部位,InflictHarmPart
+54,香蕉黑星病,Macrophoma musae,叶片,blade,危害部位,InflictHarmPart
+55,香蕉黑星病,Macrophoma musae,果实,fruit,危害部位,InflictHarmPart
+56,香蕉束顶病,Banana bunchy top virus,根系,Root system,危害部位,InflictHarmPart
+57,香蕉束顶病,Banana bunchy top virus,叶片,blade,危害部位,InflictHarmPart
+58,香蕉束顶病,Banana bunchy top virus,花器,Flower vases,危害部位,InflictHarmPart
+59,香蕉束顶病,Banana bunchy top virus,果实,fruit,危害部位,InflictHarmPart
+60,香蕉束顶病,Banana bunchy top virus,植株,Plant,危害部位,InflictHarmPart
+61,樱桃褐腐病,Monilinia fructicola,叶部,Leaf,危害部位,InflictHarmPart
+62,樱桃褐腐病,Monilinia fructicola,花朵,Flowers,危害部位,InflictHarmPart
+63,樱桃褐腐病,Monilinia fructicola,果实,fruit,危害部位,InflictHarmPart
+64,樱桃炭疽病,Colletotrichum acutatum,叶部,Leaf,危害部位,InflictHarmPart
+65,樱桃炭疽病,Colletotrichum acutatum,果实,fruit,危害部位,InflictHarmPart
+66,梅灰霉病,Botrytis cinerea,花器,Flower vases,危害部位,InflictHarmPart
+67,梅灰霉病,Botrytis cinerea,果实,fruit,危害部位,InflictHarmPart
+68,梅溃疡病,Ume plum canker,枝干,Branches,危害部位,InflictHarmPart
+69,梅溃疡病,Ume plum canker,叶片,blade,危害部位,InflictHarmPart
+70,梅溃疡病,Ume plum canker,果实,fruit,危害部位,InflictHarmPart
+71,梅黑星病,Venturia nashicola,枝干,Branches,危害部位,InflictHarmPart
+72,梅黑星病,Venturia nashicola,叶片,blade,危害部位,InflictHarmPart
+73,梅黑星病,Venturia nashicola,果实,fruit,危害部位,InflictHarmPart
+74,葡萄白腐病,Coniothyrium diplodiella,枝干,Branches,危害部位,InflictHarmPart
+75,葡萄白腐病,Coniothyrium diplodiella,叶片,blade,危害部位,InflictHarmPart
+76,葡萄白腐病,Coniothyrium diplodiella,果实,fruit,危害部位,InflictHarmPart
+77,葡萄大房枯病,Macrophoma fauriei,枝干,Branches,危害部位,InflictHarmPart
+78,葡萄黑痘病,Elsino? ampelina,枝蔓,Tendrils,危害部位,InflictHarmPart
+79,葡萄黑痘病,Elsino? ampelina,叶片,blade,危害部位,InflictHarmPart
+80,葡萄黑痘病,Elsino? ampelina,果实,fruit,危害部位,InflictHarmPart
+81,葡萄白粉病,Uncinula necator,枝蔓,Tendrils,危害部位,InflictHarmPart
+82,葡萄白粉病,Uncinula necator,叶片,blade,危害部位,InflictHarmPart
+83,葡萄白粉病,Uncinula necator,果实,fruit,危害部位,InflictHarmPart
+84,葡萄皮尔斯病,Xylella fastidiosa,根部,Root,危害部位,InflictHarmPart
+85,葡萄根癌病,Agrobacterium tumefaciens,根部,Root,危害部位,InflictHarmPart
+86,葡萄扇叶病,Grapevine fanleaf virus,黄化,Yellowing,危害部位,InflictHarmPart
+87,葡萄栓皮病,Grape corky bark virus,枝干,Branches,危害部位,InflictHarmPart
+88,葡萄茎痘病,Grapevine stem pitting - associated virus,枝干,Branches,危害部位,InflictHarmPart
+89,葡萄黄金病,Grape yellow leaf,枝干,Branches,危害部位,InflictHarmPart
+90,葡萄花叶病,spotted wilt virus,叶片,blade,危害部位,InflictHarmPart
+91,葡萄花叶病,spotted wilt virus,果实,fruit,危害部位,InflictHarmPart
+92,葡萄花叶病,spotted wilt virus,植株,Plant,危害部位,InflictHarmPart
+93,葡萄根结线虫病,Grape root-knot nematode,根部,Root,危害部位,InflictHarmPart
+94,葡萄缺铁病, Grape iron deficiency disease,根部,Root,危害部位,InflictHarmPart
+95,葡萄缺镁病,Grape magnesium deficiency disease,叶部,Leaf,危害部位,InflictHarmPart
+96,葡萄缺钾病,Grape potassium deficiency disease,叶部,Leaf,危害部位,InflictHarmPart
+97,葡萄缺锌病, Grape zinc deficiency disease,叶部,Leaf,危害部位,InflictHarmPart
+98,猕猴桃褐腐病,Botryosphaeria dothidea,枝干,Branches,危害部位,InflictHarmPart
+99,猕猴桃灰霉病,Botrytis cinerea,叶部,Leaf,危害部位,InflictHarmPart
+100,猕猴桃溃疡病,Pseudomonas syringae pv. actinidiae,枝干,Branches,危害部位,InflictHarmPart
+101,栗白粉病,Phyllactinia corylea,枝干,Branches,危害部位,InflictHarmPart
+102,栗炭疽病,Colletotrichum gloeosporioides,枝干,Branches,危害部位,InflictHarmPart
+103,栗炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+104,栗炭疽病,Colletotrichum gloeosporioides,果实,fruit,危害部位,InflictHarmPart
+105,核桃树腐烂病,Cytospora juglandis,幼树,Saplings,危害部位,InflictHarmPart
+106,核桃树腐烂病,Cytospora juglandis,枝条,branch,危害部位,InflictHarmPart
+107,核桃炭疽病,Colletotrichum gloeosporioides,叶部,Leaf,危害部位,InflictHarmPart
+108,核桃褐斑病,Marssonina juglandis,枝干,Branches,危害部位,InflictHarmPart
+109,枣焦叶病,Jujube leaf scorch disease,叶片,blade,危害部位,InflictHarmPart
+110,枣焦叶病,Jujube leaf scorch disease,果实,fruit,危害部位,InflictHarmPart
+111,枣焦叶病,Jujube leaf scorch disease,植株,Plant,危害部位,InflictHarmPart
+112,枣炭疽病,Colletotrichum gloeosporioides,果实,fruit,危害部位,InflictHarmPart
+113,枣炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+114,枣轮纹病,Botryosphaeria berengeriana f. sp. piricola,枝干,Branches,危害部位,InflictHarmPart
+115,枣轮纹病,Botryosphaeria berengeriana f. sp. piricola,果实,fruit,危害部位,InflictHarmPart
+116,枣树根朽病,Armillaria mellea,根系,Root system,危害部位,InflictHarmPart
+117,枣树根朽病,Armillaria mellea,叶片,blade,危害部位,InflictHarmPart
+118,枣树根癌病,Agrobacterium tumefaciens,根部,Root,危害部位,InflictHarmPart
+119,枣树根癌病,Agrobacterium tumefaciens,植株,Plant,危害部位,InflictHarmPart
+120,枣疯病,Jujube witches' - broom disease,根部,Root,危害部位,InflictHarmPart
+121,枣疯病,Jujube witches' - broom disease,枝条,branch,危害部位,InflictHarmPart
+122,枣疯病,Jujube witches' - broom disease,叶片,blade,危害部位,InflictHarmPart
+123,枣疯病,Jujube witches' - broom disease,花器,Flower vases,危害部位,InflictHarmPart
+124,枣疯病,Jujube witches' - broom disease,全株,Whole plant,危害部位,InflictHarmPart
+125,山楂花腐病,Monilinia johnsonii,枝干,Branches,危害部位,InflictHarmPart
+126,山楂花腐病,Monilinia johnsonii,叶片,blade,危害部位,InflictHarmPart
+127,山楂花腐病,Monilinia johnsonii,果实,fruit,危害部位,InflictHarmPart
+128,桃褐斑穿孔病,Mycosphaerella cerasella,叶片,blade,危害部位,InflictHarmPart
+129,桃褐斑穿孔病,Mycosphaerella cerasella,枝梢 , Branches,危害部位,InflictHarmPart
+130,桃褐斑穿孔病,Mycosphaerella cerasella,果实,fruit,危害部位,InflictHarmPart
+131,桃缩叶病,Taphrina deformans,枝干,Branches,危害部位,InflictHarmPart
+132,桃缩叶病,Taphrina deformans,叶片,blade,危害部位,InflictHarmPart
+133,桃缩叶病,Taphrina deformans,花器,Flower vases,危害部位,InflictHarmPart
+134,桃缩叶病,Taphrina deformans,果实,fruit,危害部位,InflictHarmPart
+135,桃霉斑穿孔病,Clasterosporium carpophilum,枝干,Branches,危害部位,InflictHarmPart
+136,桃霉斑穿孔病,Clasterosporium carpophilum,叶片,blade,危害部位,InflictHarmPart
+137,桃霉斑穿孔病,Clasterosporium carpophilum,花器,Flower vases,危害部位,InflictHarmPart
+138,桃霉斑穿孔病,Clasterosporium carpophilum,果实,fruit,危害部位,InflictHarmPart
+139,桃黑星病,Venturia carpophila,枝干,Branches,危害部位,InflictHarmPart
+140,桃黑星病,Venturia carpophila,叶片,blade,危害部位,InflictHarmPart
+141,桃黑星病,Venturia carpophila,果实,fruit,危害部位,InflictHarmPart
+142,桃疫腐病,Phytophthora cactorum,枝干,Branches,危害部位,InflictHarmPart
+143,桃炭疽病,Colletotrichum gloeosporioides,枝干,Branches,危害部位,InflictHarmPart
+144,桃炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+145,桃炭疽病,Colletotrichum gloeosporioides,果实,fruit,危害部位,InflictHarmPart
+146,桃细菌性穿孔病,Xanthomonas arboricola pv. pruni,枝干,Branches,危害部位,InflictHarmPart
+147,桃细菌性穿孔病,Xanthomonas arboricola pv. pruni,叶片,blade,危害部位,InflictHarmPart
+148,桃细菌性穿孔病,Xanthomonas arboricola pv. pruni,果实,fruit,危害部位,InflictHarmPart
+149,桃白粉病,Podosphaera tridactyla,枝干,Branches,危害部位,InflictHarmPart
+150,桃白粉病,Podosphaera tridactyla,叶片,blade,危害部位,InflictHarmPart
+151,桃白粉病,Podosphaera tridactyla,果实,fruit,危害部位,InflictHarmPart
+152,桃树非侵染性流胶病,Peach non - infectious gummosis,枝干,Branches,危害部位,InflictHarmPart
+153,桃树非侵染性流胶病,Peach non - infectious gummosis,叶片,blade,危害部位,InflictHarmPart
+154,桃树非侵染性流胶病,Peach non - infectious gummosis,果实,fruit,危害部位,InflictHarmPart
+155,桃树侵染性流胶病,Botryosphaeria dothidea,枝干,Branches,危害部位,InflictHarmPart
+156,桃树侵染性流胶病,Botryosphaeria dothidea,果实,fruit,危害部位,InflictHarmPart
+157,桃树侵染性流胶病,Botryosphaeria dothidea,植株,Plant,危害部位,InflictHarmPart
+158,桃煤污病,Capnodium sp.,枝干,Branches,危害部位,InflictHarmPart
+159,桃煤污病,Capnodium sp.,叶片,blade,危害部位,InflictHarmPart
+160,桃煤污病,Capnodium sp.,果实,fruit,危害部位,InflictHarmPart
+161,桃树木腐病,Schizophyllum commune,枝干,Branches,危害部位,InflictHarmPart
+162,桃树木腐病,Schizophyllum commune,叶片,blade,危害部位,InflictHarmPart
+163,桃树木腐病,Schizophyllum commune,植株,Plant,危害部位,InflictHarmPart
+164,桃树根朽病,Armillaria mellea,根系,Root system,危害部位,InflictHarmPart
+165,桃树根朽病,Armillaria mellea,枝干,Branches,危害部位,InflictHarmPart
+166,桃树根朽病,Armillaria mellea,叶片,blade,危害部位,InflictHarmPart
+167,桃树根朽病,Armillaria mellea,果实,fruit,危害部位,InflictHarmPart
+168,桃树根朽病,Armillaria mellea,植株,Plant,危害部位,InflictHarmPart
+169,桃褐腐病,Monilinia fructicola,枝干,Branches,危害部位,InflictHarmPart
+170,桃褐腐病,Monilinia fructicola,叶片,blade,危害部位,InflictHarmPart
+171,桃褐腐病,Monilinia fructicola,花器,Flower vases,危害部位,InflictHarmPart
+172,桃褐腐病,Monilinia fructicola,果实,fruit,危害部位,InflictHarmPart
+173,桃褐锈病,Tranzschelia discolor,枝干,Branches,危害部位,InflictHarmPart
+174,桃褐锈病,Tranzschelia discolor,叶片,blade,危害部位,InflictHarmPart
+175,桃褐锈病,Tranzschelia discolor,果实,fruit,危害部位,InflictHarmPart
+176,桃灰霉病,Botrytis cinerea,枝干,Branches,危害部位,InflictHarmPart
+177,桃白纹羽病,Rosellinia necatrix,根系,Root system,危害部位,InflictHarmPart
+178,桃白纹羽病,Rosellinia necatrix,植株,Plant,危害部位,InflictHarmPart
+179,桃树白绢病,Sclerotium rolfsii,根部,Root,危害部位,InflictHarmPart
+180,桃树白绢病,Sclerotium rolfsii,茎部,Stem,危害部位,InflictHarmPart
+181,桃树白绢病,Sclerotium rolfsii,叶片,blade,危害部位,InflictHarmPart
+182,桃树白绢病,Sclerotium rolfsii,果实,fruit,危害部位,InflictHarmPart
+183,桃树白绢病,Sclerotium rolfsii,全株,Whole plant,危害部位,InflictHarmPart
+184,桃根癌病,Agrobacterium tumefaciens,根部,Root,危害部位,InflictHarmPart
+185,桃根癌病,Agrobacterium tumefaciens,茎部,Stem,危害部位,InflictHarmPart
+186,桃根癌病,Agrobacterium tumefaciens,植株,Plant,危害部位,InflictHarmPart
+187,桃潜隐花叶病,Peach latent mosaic virus,枝干,Branches,危害部位,InflictHarmPart
+188,桃树红叶病,Peach red leaf disease,叶片,blade,危害部位,InflictHarmPart
+189,桃树红叶病,Peach red leaf disease,枝干,Branches,危害部位,InflictHarmPart
+190,桃树红叶病,Peach red leaf disease,果实,fruit,危害部位,InflictHarmPart
+191,桃坏死环斑病,Prunus necrotic ringspot virus,叶部,Leaf,危害部位,InflictHarmPart
+192,桃坏死环斑病,Prunus necrotic ringspot virus,果实,fruit,危害部位,InflictHarmPart
+193,桃园根结线虫病,Meloidogyne sp.,根部,Root,危害部位,InflictHarmPart
+194,桃瘿螨畸果病,Aceria fockeui,枝干,Branches,危害部位,InflictHarmPart
+195,桃树缺氮症,Peach nitrogen deficiency,枝干,Branches,危害部位,InflictHarmPart
+196,桃树缺磷症,Peach phosphorus deficiency,枝干,Branches,危害部位,InflictHarmPart
+197,桃树缺钾症,Peach potassium deficiency,枝干,Branches,危害部位,InflictHarmPart
+198,桃树缺钾症,Peach potassium deficiency,叶片,blade,危害部位,InflictHarmPart
+199,桃树缺钾症,Peach potassium deficiency,果实,fruit,危害部位,InflictHarmPart
+200,桃树缺钾症,Peach potassium deficiency,全株,Whole plant,危害部位,InflictHarmPart
+201,桃树缺铁症,Peach iron deficiency,枝干,Branches,危害部位,InflictHarmPart
+202,桃树缺铁症,Peach iron deficiency,叶片,blade,危害部位,InflictHarmPart
+203,桃树缺铁症,Peach iron deficiency,果实,fruit,危害部位,InflictHarmPart
+204,桃树缺铁症,Peach iron deficiency,全株,Whole plant,危害部位,InflictHarmPart
+205,桃树缺锌症,Peach zinc deficiency,枝干,Branches,危害部位,InflictHarmPart
+206,桃树缺锌症,Peach zinc deficiency,叶片,blade,危害部位,InflictHarmPart
+207,桃树缺锌症,Peach zinc deficiency,果实,fruit,危害部位,InflictHarmPart
+208,桃树缺锌症,Peach zinc deficiency,全株,Whole plant,危害部位,InflictHarmPart
+209,桃树缺钙症,Peach calcium deficiency,根部,Root,危害部位,InflictHarmPart
+210,桃树缺钙症,Peach calcium deficiency,叶片,blade,危害部位,InflictHarmPart
+211,桃树缺钙症,Peach calcium deficiency,果实,fruit,危害部位,InflictHarmPart
+212,桃树缺铜症,Peach calcium deficiency,枝干,Branches,危害部位,InflictHarmPart
+213,桃树缺铜症,Peach copper deficiency,叶片,blade,危害部位,InflictHarmPart
+214,桃树缺铜症,Peach copper deficiency,果实,fruit,危害部位,InflictHarmPart
+215,桃树缺锰症,Peach manganese deficiency,枝干,Branches,危害部位,InflictHarmPart
+216,桃树缺锰症,Peach manganese deficiency,叶片,blade,危害部位,InflictHarmPart
+217,桃树缺锰症,Peach manganese deficiency,果实,fruit,危害部位,InflictHarmPart
+218,桃树缺硼症,Peach boron deficiency,枝干,Branches,危害部位,InflictHarmPart
+219,李袋果病,Taphrina pruni,枝干,Branches,危害部位,InflictHarmPart
+220,李袋果病,Taphrina pruni,叶片,blade,危害部位,InflictHarmPart
+221,李袋果病,Taphrina pruni,果实,fruit,危害部位,InflictHarmPart
+222,李红点病,Polystigma rubrum,叶片,blade,危害部位,InflictHarmPart
+223,李红点病,Polystigma rubrum,果实,fruit,危害部位,InflictHarmPart
+224,李褐腐病,Monilinia fructicola,果实,fruit,危害部位,InflictHarmPart
+225,李细菌性穿孔病,Xanthomonas arboricola pv. pruni,枝干,Branches,危害部位,InflictHarmPart
+226,李细菌性穿孔病,Xanthomonas arboricola pv. pruni,叶片,blade,危害部位,InflictHarmPart
+227,李细菌性穿孔病,Xanthomonas arboricola pv. pruni,果实,fruit,危害部位,InflictHarmPart
+228,李线纹病,Plum line pattern disease,叶脉带状,Leaf veins,危害部位,InflictHarmPart
+229,李线纹病,Plum line pattern disease,线纹斑,Line pattern,危害部位,InflictHarmPart
+230,李线纹病,Plum line pattern disease,花叶斑,Mosaic,危害部位,InflictHarmPart
+231,李树流胶病,Botryosphaeria dothidea,枝干,Branches,危害部位,InflictHarmPart
+232,李树流胶病,Botryosphaeria dothidea,果实,fruit,危害部位,InflictHarmPart
+233,杏疔病,Apricot witches' - broom disease,枝干,Branches,危害部位,InflictHarmPart
+234,杏疔病,Apricot witches' - broom disease,叶片,blade,危害部位,InflictHarmPart
+235,杏疔病,Apricot witches' - broom disease,果实,fruit,危害部位,InflictHarmPart
+236,杏疔病,Apricot witches' - broom disease,全株,Whole plant,危害部位,InflictHarmPart
+237,苹果轮纹病,Botryosphaeria berengeriana f. sp. piricola,枝干,Branches,危害部位,InflictHarmPart
+238,苹果轮纹病,Botryosphaeria berengeriana f. sp. piricola,叶片,blade,危害部位,InflictHarmPart
+239,苹果轮纹病,Botryosphaeria berengeriana f. sp. piricola,果实,fruit,危害部位,InflictHarmPart
+240,苹果灰斑病,Phyllosticta pirina,枝干,Branches,危害部位,InflictHarmPart
+241,苹果灰斑病,Phyllosticta pirina,叶片,blade,危害部位,InflictHarmPart
+242,苹果灰斑病,Phyllosticta pirina,果实,fruit,危害部位,InflictHarmPart
+243,苹果轮斑病,Alternaria mali,叶片,blade,危害部位,InflictHarmPart
+244,苹果轮斑病,Alternaria mali,果实,fruit,危害部位,InflictHarmPart
+245,苹果锈病,Gymnosporangium yamadae,枝干,Branches,危害部位,InflictHarmPart
+246,苹果锈病,Gymnosporangium yamadae,叶片,blade,危害部位,InflictHarmPart
+247,苹果锈病,Gymnosporangium yamadae,果实,fruit,危害部位,InflictHarmPart
+248,苹果花腐病,Monilinia mali,枝干,Branches,危害部位,InflictHarmPart
+249,苹果花腐病,Monilinia mali,叶片,blade,危害部位,InflictHarmPart
+250,苹果花腐病,Monilinia mali,花器,Flower vases,危害部位,InflictHarmPart
+251,苹果花腐病,Monilinia mali,果实,fruit,危害部位,InflictHarmPart
+252,苹果疫腐病,Phytophthora cactorum,根系,Root system,危害部位,InflictHarmPart
+253,苹果疫腐病,Phytophthora cactorum,枝干,Branches,危害部位,InflictHarmPart
+254,苹果疫腐病,Phytophthora cactorum,叶片,blade,危害部位,InflictHarmPart
+255,苹果疫腐病,Phytophthora cactorum,果实,fruit,危害部位,InflictHarmPart
+256,苹果煤污病,Capnodium sp.,枝干,Branches,危害部位,InflictHarmPart
+257,苹果煤污病,Capnodium sp.,果实,fruit,危害部位,InflictHarmPart
+258,苹果圆斑病,Mycosphaerella pomi,枝干,Branches,危害部位,InflictHarmPart
+259,苹果圆斑病,Mycosphaerella pomi,叶片,blade,危害部位,InflictHarmPart
+260,苹果圆斑病,Mycosphaerella pomi,果实,fruit,危害部位,InflictHarmPart
+261,苹果黑点病,Apple black spot disease,枝干,Branches,危害部位,InflictHarmPart
+262,苹果黑点病,Apple black spot disease,叶片,blade,危害部位,InflictHarmPart
+263,苹果黑点病,Apple black spot disease,果实,fruit,危害部位,InflictHarmPart
+264,苹果黑腐病,Botryosphaeria obtusa,枝干,Branches,危害部位,InflictHarmPart
+265,苹果黑腐病,Botryosphaeria obtusa,叶片,blade,危害部位,InflictHarmPart
+266,苹果黑腐病,Botryosphaeria obtusa,花器,Flower vases,危害部位,InflictHarmPart
+267,苹果黑腐病,Botryosphaeria obtusa,果实,fruit,危害部位,InflictHarmPart
+268,苹果黑星病,Venturia inaequalis,枝干,Branches,危害部位,InflictHarmPart
+269,苹果黑星病,Venturia inaequalis,叶片,blade,危害部位,InflictHarmPart
+270,苹果黑星病,Venturia inaequalis,花器,Flower vases,危害部位,InflictHarmPart
+271,苹果黑星病,Venturia inaequalis,果实,fruit,危害部位,InflictHarmPart
+272,苹果褐斑病,Marssonina coronaria,叶片,blade,危害部位,InflictHarmPart
+273,苹果褐斑病,Marssonina coronaria,果实,fruit,危害部位,InflictHarmPart
+274,苹果斑点落叶病,Alternaria alternata f. sp. mali,叶片,blade,危害部位,InflictHarmPart
+275,苹果斑点落叶病,Alternaria alternata f. sp. mali,枝干,Branches,危害部位,InflictHarmPart
+276,苹果斑点落叶病,Alternaria alternata f. sp. mali,果实,fruit,危害部位,InflictHarmPart
+277,苹果白粉病,Podosphaera leucotricha,枝干,Branches,危害部位,InflictHarmPart
+278,苹果白粉病,Podosphaera leucotricha,叶片,blade,危害部位,InflictHarmPart
+279,苹果白粉病,Podosphaera leucotricha,花朵,Flowers,危害部位,InflictHarmPart
+280,苹果白粉病,Podosphaera leucotricha,果实,fruit,危害部位,InflictHarmPart
+281,苹果银叶病,Chondrostereum purpureum,枝干,Branches,危害部位,InflictHarmPart
+282,苹果银叶病,Chondrostereum purpureum,叶片,blade,危害部位,InflictHarmPart
+283,苹果银叶病,Chondrostereum purpureum,果实,fruit,危害部位,InflictHarmPart
+284,苹果银叶病,Chondrostereum purpureum,全株,Whole plant,危害部位,InflictHarmPart
+285,苹果褐腐病,Monilinia fructigena,枝干,Branches,危害部位,InflictHarmPart
+286,苹果褐腐病,Monilinia fructigena,果实,fruit,危害部位,InflictHarmPart
+287,苹果丛枝病,Apple witches' - broom disease,根部,Root,危害部位,InflictHarmPart
+288,苹果丛枝病,Apple witches' - broom disease,茎部,Stem,危害部位,InflictHarmPart
+289,苹果丛枝病,Apple witches' - broom disease,叶片,blade,危害部位,InflictHarmPart
+290,苹果丛枝病,Apple witches' - broom disease,花朵,Flowers,危害部位,InflictHarmPart
+291,苹果丛枝病,Apple witches' - broom disease,果实,fruit,危害部位,InflictHarmPart
+292,苹果丛枝病,Apple witches' - broom disease,全株,Whole plant,危害部位,InflictHarmPart
+293,苹果缺磷症,Apple phosphorus deficiency,枝干,Branches,危害部位,InflictHarmPart
+294,苹果缺磷症,Apple phosphorus deficiency,叶片,blade,危害部位,InflictHarmPart
+295,苹果树根朽病,Armillaria mellea,根系,Root system,危害部位,InflictHarmPart
+296,苹果树根朽病,Armillaria mellea,枝干,Branches,危害部位,InflictHarmPart
+297,苹果树根朽病,Armillaria mellea,叶片,blade,危害部位,InflictHarmPart
+298,苹果树根朽病,Armillaria mellea,果实,fruit,危害部位,InflictHarmPart
+299,苹果树紫纹羽病,Helicobasidium mompa,根部,Root,危害部位,InflictHarmPart
+300,苹果树紫纹羽病,Helicobasidium mompa,茎部,Stem,危害部位,InflictHarmPart
+301,苹果树紫纹羽病,Helicobasidium mompa,叶片,blade,危害部位,InflictHarmPart
+302,苹果树紫纹羽病,Helicobasidium mompa,全株,Whole plant,危害部位,InflictHarmPart
+303,苹果树白绢病,Rosellinia necatrix (Hart.) berl.,根部,Root,危害部位,InflictHarmPart
+304,苹果树白绢病,Rosellinia necatrix (Hart.) berl.,茎部,Stem,危害部位,InflictHarmPart
+305,苹果树白绢病,Rosellinia necatrix (Hart.) berl.,叶片,blade,危害部位,InflictHarmPart
+306,苹果树白绢病,Rosellinia necatrix (Hart.) berl.,果实,fruit,危害部位,InflictHarmPart
+307,苹果树白绢病,Rosellinia necatrix (Hart.) berl.,全株,Whole plant,危害部位,InflictHarmPart
+308,苹果圆斑根腐病,Fusarium oxysporum Schl.,根部,Root,危害部位,InflictHarmPart
+309,苹果泡斑病,Pseudomonas syringae pv. papulans,叶片,blade,危害部位,InflictHarmPart
+310,苹果根癌病,Agrobacterium tumefaciens Smith and Townsend Conn.,根部,Root,危害部位,InflictHarmPart
+311,苹果根癌病,Agrobacterium tumefaciens Smith and Townsend Conn.,叶片,blade,危害部位,InflictHarmPart
+312,苹果根癌病,Agrobacterium tumefaciens Smith and Townsend Conn.,果实,fruit,危害部位,InflictHarmPart
+313,苹果根癌病,Agrobacterium tumefaciens Smith and Townsend Conn.,全株,Whole plant,危害部位,InflictHarmPart
+314,苹果花叶病,Apple mosaic virus,花叶型,Mosaic,危害部位,InflictHarmPart
+315,苹果皱叶病,Apple leaf pucker,枝干,Branches,危害部位,InflictHarmPart
+316,苹果皱叶病,Apple leaf pucker,叶片,blade,危害部位,InflictHarmPart
+317,苹果皱叶病,Apple leaf pucker,花,flower,危害部位,InflictHarmPart
+318,苹果皱叶病,Apple leaf pucker,果实,fruit,危害部位,InflictHarmPart
+319,苹果扁枝病,Agrobacterium tumefaciens,枝干,Branches,危害部位,InflictHarmPart
+320,苹果扁枝病,Agrobacterium tumefaciens,果实,fruit,危害部位,InflictHarmPart
+321,苹果高接衰退病,Apple high - grafting decline,根部,Root,危害部位,InflictHarmPart
+322,苹果高接衰退病,Apple high - grafting decline,茎部,Stem,危害部位,InflictHarmPart
+323,苹果高接衰退病,Apple high - grafting decline,叶片,blade,危害部位,InflictHarmPart
+324,苹果高接衰退病,Apple high - grafting decline,花朵,Flowers,危害部位,InflictHarmPart
+325,苹果高接衰退病,Apple high - grafting decline,果实,fruit,危害部位,InflictHarmPart
+326,苹果高接衰退病,Apple high - grafting decline,全株,Whole plant,危害部位,InflictHarmPart
+327,苹果锈果病,Apple scar skin viroid,叶片,blade,危害部位,InflictHarmPart
+328,苹果锈果病,Apple scar skin viroid,茎干,Stem,危害部位,InflictHarmPart
+329,苹果锈果病,Apple scar skin viroid,果实,fruit,危害部位,InflictHarmPart
+330,苹果褪绿叶斑病,Apple chlorotic leaf spot virus,叶片,blade,危害部位,InflictHarmPart
+331,苹果褪绿叶斑病,Apple chlorotic leaf spot virus,果实,fruit,危害部位,InflictHarmPart
+332,苹果根结线虫病,Meloidogyne spp.,根部,Root,危害部位,InflictHarmPart
+333,苹果根结线虫病,Meloidogyne spp.,茎部,Stem,危害部位,InflictHarmPart
+334,苹果根结线虫病,Meloidogyne spp.,叶片,blade,危害部位,InflictHarmPart
+335,苹果根结线虫病,Meloidogyne spp.,果实,fruit,危害部位,InflictHarmPart
+336,苹果根结线虫病,Meloidogyne spp.,全株,Whole plant,危害部位,InflictHarmPart
+337,苹果树再植病,Apple replant disease,根部,Root,危害部位,InflictHarmPart
+338,苹果树再植病,Apple replant disease,茎部,Stem,危害部位,InflictHarmPart
+339,苹果树再植病,Apple replant disease,叶片,blade,危害部位,InflictHarmPart
+340,苹果树再植病,Apple replant disease,全株,Whole plant,危害部位,InflictHarmPart
+341,苹果小果病,Apple small fruit disease,枝干,Branches,危害部位,InflictHarmPart
+342,苹果小果病,Apple small fruit disease,叶片,blade,危害部位,InflictHarmPart
+343,苹果小果病,Apple small fruit disease,果实,fruit,危害部位,InflictHarmPart
+344,苹果小果病,Apple small fruit disease,全株,Whole plant,危害部位,InflictHarmPart
+345,苹果树粗皮病,Apple rough bark disease,枝干,Branches,危害部位,InflictHarmPart
+346,苹果树粗皮病,Apple rough bark disease,叶片,blade,危害部位,InflictHarmPart
+347,苹果树粗皮病,Apple rough bark disease,果实,fruit,危害部位,InflictHarmPart
+348,苹果缺铁黄化症,Apple iron - deficiency chlorosis,枝干,Branches,危害部位,InflictHarmPart
+349,苹果缺铁黄化症,Apple iron - deficiency chlorosis,叶片,blade,危害部位,InflictHarmPart
+350,苹果苦痘症,Apple bitter pit,叶片,blade,危害部位,InflictHarmPart
+351,苹果苦痘症,Apple bitter pit,果实,fruit,危害部位,InflictHarmPart
+352,苹果软枝病,Apple soft shoot disease,枝干,Branches,危害部位,InflictHarmPart
+353,苹果软枝病,Apple soft shoot disease,果实,fruit,危害部位,InflictHarmPart
+354,苹果软枝病,Apple soft shoot disease,植株,Plant,危害部位,InflictHarmPart
+355,苹果缺氮症,Apple nitrogen deficiency,枝干,Branches,危害部位,InflictHarmPart
+356,苹果缺氮症,Apple nitrogen deficiency,叶片,blade,危害部位,InflictHarmPart
+357,苹果缺氮症,Apple nitrogen deficiency,花器,Flower vases,危害部位,InflictHarmPart
+358,苹果缺氮症,Apple nitrogen deficiency,果实,fruit,危害部位,InflictHarmPart
+359,苹果缺钾症,Apple potassium deficiency,枝干,Branches,危害部位,InflictHarmPart
+360,苹果缺钾症,Apple potassium deficiency,叶片,blade,危害部位,InflictHarmPart
+361,苹果缺硼缩果症,Apple boron - deficiency fruit shrinkage,根部,Root,危害部位,InflictHarmPart
+362,苹果缺硼缩果症,Apple boron - deficiency fruit shrinkage,枝叶,branches and leaves,危害部位,InflictHarmPart
+363,苹果缺硼缩果症,Apple boron - deficiency fruit shrinkage,果实,fruit,危害部位,InflictHarmPart
+364,苹果缺钙症,Apple calcium deficiency,根部,Root,危害部位,InflictHarmPart
+365,苹果缺钙症,Apple calcium deficiency,叶片,blade,危害部位,InflictHarmPart
+366,梨黑星病,Venturia pirina,枝干,Branches,危害部位,InflictHarmPart
+367,梨树干枯病,Pear trunk blight,枝干,Branches,危害部位,InflictHarmPart
+368,梨树干腐病,Botryosphaeria berengeriana f. sp. piricola,枝干,Branches,危害部位,InflictHarmPart
+369,梨树干腐病,Botryosphaeria berengeriana f. sp. piricola,果实,fruit,危害部位,InflictHarmPart
+370,梨火疫病,Erwinia amylovora,枝干,Branches,危害部位,InflictHarmPart
+371,梨火疫病,Erwinia amylovora,叶片,blade,危害部位,InflictHarmPart
+372,梨火疫病,Erwinia amylovora,花器,Flower vases,危害部位,InflictHarmPart
+373,梨火疫病,Erwinia amylovora,果实,fruit,危害部位,InflictHarmPart
+374,梨锈水病,Pear rusty water,枝干,Branches,危害部位,InflictHarmPart
+375,梨锈水病,Pear rusty water,叶片,blade,危害部位,InflictHarmPart
+376,梨锈水病,Pear rusty water,果实,fruit,危害部位,InflictHarmPart
+377,梨锈病,Gymnosporangium haraeanum,叶片,blade,危害部位,InflictHarmPart
+378,梨锈病,Gymnosporangium haraeanum,新梢,New shoots,危害部位,InflictHarmPart
+379,梨锈病,Gymnosporangium haraeanum,果实,fruit,危害部位,InflictHarmPart
+380,梨树疫病,Phytophthora cactorum,枝干,Branches,危害部位,InflictHarmPart
+381,梨树疫病,Phytophthora cactorum,幼树,Saplings,危害部位,InflictHarmPart
+382,梨炭疽病,Colletotrichum gloeosporioides,枝干,Branches,危害部位,InflictHarmPart
+383,梨炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+384,梨炭疽病,Colletotrichum gloeosporioides,果实,fruit,危害部位,InflictHarmPart
+385,梨褐斑病,Mycosphaerella sentina,叶片,blade,危害部位,InflictHarmPart
+386,梨褐斑病,Mycosphaerella sentina,果实,fruit,危害部位,InflictHarmPart
+387,梨叶疫病,Phyllosticta pirina,枝干,Branches,危害部位,InflictHarmPart
+388,梨叶疫病,Phyllosticta pirina,叶片,blade,危害部位,InflictHarmPart
+389,梨叶疫病,Phyllosticta pirina,果实,fruit,危害部位,InflictHarmPart
+390,梨叶疫病,Phyllosticta pirina,植株,Plant,危害部位,InflictHarmPart
+391,梨轮纹病,Botryosphaeria berengeriana f. sp. piricola,枝干,Branches,危害部位,InflictHarmPart
+392,梨轮纹病,Botryosphaeria berengeriana f. sp. piricola,叶片,blade,危害部位,InflictHarmPart
+393,梨轮纹病,Botryosphaeria berengeriana f. sp. piricola,果实,fruit,危害部位,InflictHarmPart
+394,梨黑斑病,Alternaria kikuchiana,枝干,Branches,危害部位,InflictHarmPart
+395,梨黑斑病,Alternaria kikuchiana,叶片,blade,危害部位,InflictHarmPart
+396,梨黑斑病,Alternaria kikuchiana,果实,fruit,危害部位,InflictHarmPart
+397,梨黑腐病,Botryosphaeria obtusa,枝干,Branches,危害部位,InflictHarmPart
+398,梨黑腐病,Botryosphaeria obtusa,叶片,blade,危害部位,InflictHarmPart
+399,梨黑腐病,Botryosphaeria obtusa,果实,fruit,危害部位,InflictHarmPart
+400,梨煤污病,Capnodium sp.,枝干,Branches,危害部位,InflictHarmPart
+401,梨煤污病,Capnodium sp.,果实,fruit,危害部位,InflictHarmPart
+402,梨白纹羽病,Rosellinia necatrix,根系,Root system,危害部位,InflictHarmPart
+403,梨白纹羽病,Rosellinia necatrix,枝干,Branches,危害部位,InflictHarmPart
+404,梨白纹羽病,Rosellinia necatrix,叶片,blade,危害部位,InflictHarmPart
+405,梨白纹羽病,Rosellinia necatrix,果实,fruit,危害部位,InflictHarmPart
+406,梨白纹羽病,Rosellinia necatrix,植株,Plant,危害部位,InflictHarmPart
+407,梨紫纹羽病,Helicobasidium mompa,根系,Root system,危害部位,InflictHarmPart
+408,梨紫纹羽病,Helicobasidium mompa,叶片,blade,危害部位,InflictHarmPart
+409,梨紫纹羽病,Helicobasidium mompa,植株,Plant,危害部位,InflictHarmPart
+410,梨根朽病,Armillaria mellea,根部,Root,危害部位,InflictHarmPart
+411,梨树根腐病,Pear root rot,根部,Root,危害部位,InflictHarmPart
+412,梨树根癌病,Agrobacterium tumefaciens,根颈,Root neck,危害部位,InflictHarmPart
+413,梨树根癌病,Agrobacterium tumefaciens,枝干,Branches,危害部位,InflictHarmPart
+414,梨树根癌病,Agrobacterium tumefaciens,叶片,blade,危害部位,InflictHarmPart
+415,梨树根癌病,Agrobacterium tumefaciens,植株,Plant,危害部位,InflictHarmPart
+416,梨石痘病,Pear stone pock,枝干,Branches,危害部位,InflictHarmPart
+417,梨石痘病,Pear stone pock,叶片,blade,危害部位,InflictHarmPart
+418,梨石痘病,Pear stone pock,果实,fruit,危害部位,InflictHarmPart
+419,梨环纹花叶病,Pear ring pattern mosaic,叶部,Leaf,危害部位,InflictHarmPart
+420,梨叶脉黄化病,Pear vein yellowing,枝干,Branches,危害部位,InflictHarmPart
+421,梨叶脉黄化病,Pear vein yellowing,叶片,blade,危害部位,InflictHarmPart
+422,梨叶脉黄化病,Pear vein yellowing,植株,Plant,危害部位,InflictHarmPart
+423,梨根结线虫病,Meloidogyne spp.,根系,Root system,危害部位,InflictHarmPart
+424,梨根结线虫病,Meloidogyne spp.,枝干,Branches,危害部位,InflictHarmPart
+425,梨根结线虫病,Meloidogyne spp.,叶片,blade,危害部位,InflictHarmPart
+426,梨根结线虫病,Meloidogyne spp.,花器,Flower vases,危害部位,InflictHarmPart
+427,梨根结线虫病,Meloidogyne spp.,植株,Plant,危害部位,InflictHarmPart
+428,梨细菌性花腐病,Pear bacterial blossom rot,叶片,blade,危害部位,InflictHarmPart
+429,梨细菌性花腐病,Pear bacterial blossom rot,花器,Flower vases,危害部位,InflictHarmPart
+430,梨裂果病,Pear fruit cracking,枝干,Branches,危害部位,InflictHarmPart
+431,梨裂果病,Pear fruit cracking,叶片,blade,危害部位,InflictHarmPart
+432,梨裂果病,Pear fruit cracking,果实,fruit,危害部位,InflictHarmPart
+433,西瓜蔓枯病,Watermelon gummy stem blight,幼苗,seedling,危害部位,InflictHarmPart
+434,西瓜蔓枯病,Watermelon gummy stem blight,成株,Adult plant,危害部位,InflictHarmPart
+435,西瓜枯萎病,Watermelon Fusarium wilt,苗期,Seedling stage,危害部位,InflictHarmPart
+436,西瓜枯萎病,Watermelon Fusarium wilt,成株,Adult plant,危害部位,InflictHarmPart
+437,西瓜炭疽病,Colletotrichum gloeosporioides,幼苗,seedling,危害部位,InflictHarmPart
+438,西瓜炭疽病,Colletotrophicum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+439,西瓜炭疽病,Colletotrichum gloeosporioides,叶柄,Petiole,危害部位,InflictHarmPart
+440,西瓜炭疽病,Colletotrichum gloeosporioides,果实,fruit,危害部位,InflictHarmPart
+441,西瓜疫病,Phytophthora cactorum,叶片,blade,危害部位,InflictHarmPart
+442,西瓜疫病,Phytophthora cactorum,茎蔓,Stem,危害部位,InflictHarmPart
+443,西瓜疫病,Phytophthora cactorum,果实,fruit,危害部位,InflictHarmPart
+444,西瓜叶枯病,Watermelon leaf blight,子叶,Cotyledon,危害部位,InflictHarmPart
+445,西瓜叶枯病,Watermelon leaf blight,叶片,blade,危害部位,InflictHarmPart
+446,西瓜叶枯病,Watermelon leaf blight,茎蔓,Stem,危害部位,InflictHarmPart
+447,西瓜叶枯病,Watermelon leaf blight,果实,fruit,危害部位,InflictHarmPart
+448,西瓜褐色腐败病,Watermelon brown rot,苗期,Seedling stage,危害部位,InflictHarmPart
+449,西瓜褐色腐败病,Watermelon brown rot,叶片,blade,危害部位,InflictHarmPart
+450,西瓜褐色腐败病,Watermelon brown rot,茎部,Stem,危害部位,InflictHarmPart
+451,西瓜褐色腐败病,Watermelon brown rot,果实,fruit,危害部位,InflictHarmPart
+452,西瓜褐腐病,Watermelon brown rot,叶片,blade,危害部位,InflictHarmPart
+453,西瓜褐腐病,Watermelon Sclerotinia rot,果实,fruit,危害部位,InflictHarmPart
+454,西瓜菌核病,Watermelon Sclerotinia rot,子叶,Cotyledon,危害部位,InflictHarmPart
+455,西瓜菌核病,Xanthomonas cucurbitae,果实,fruit,危害部位,InflictHarmPart
+456,西瓜细菌性角斑病,Xanthomonas cucurbitae,子叶,Cotyledon,危害部位,InflictHarmPart
+457,西瓜细菌性角斑病,Xanthomonas cucurbitae,叶片,blade,危害部位,InflictHarmPart
+458,西瓜细菌性角斑病,Xanthomonas cucurbitae,叶柄,Petiole,危害部位,InflictHarmPart
+459,西瓜细菌性角斑病,Xanthomonas cucurbitae,果实,fruit,危害部位,InflictHarmPart
+460,西瓜细菌性果斑病,Watermelon bacterial fruit blotch,子叶,Cotyledon,危害部位,InflictHarmPart
+461,西瓜细菌性果斑病,Watermelon bacterial fruit blotch,叶片,blade,危害部位,InflictHarmPart
+462,西瓜细菌性果斑病,Watermelon bacterial fruit blotch,果实,fruit,危害部位,InflictHarmPart
+463,西瓜细菌性果斑病,Watermelon bacterial fruit blotch,瓜蔓,Melon vine,危害部位,InflictHarmPart
+464,西瓜病毒病,Watermelon virus,花叶型,Mosaic,危害部位,InflictHarmPart
+465,西瓜病毒病,Watermelon virus,蕨叶,Fern leaves,危害部位,InflictHarmPart
+466,西瓜黑斑病,Watermelon black spot,叶片,blade,危害部位,InflictHarmPart
+467,西瓜黑斑病,Watermelon black spot,果实,fruit,危害部位,InflictHarmPart
+468,西瓜白绢病,Watermelon southern blight,茎基部,Stem base,危害部位,InflictHarmPart
+469,西瓜白绢病,Watermelon southern blight,果实,fruit,危害部位,InflictHarmPart
+470,甜瓜大斑病,Melon large spot,叶片,blade,危害部位,InflictHarmPart
+471,甜瓜大斑病,Melon large spot,果实,fruit,危害部位,InflictHarmPart
+472,甜瓜黑星病,Melon scab,叶,leaf,危害部位,InflictHarmPart
+473,甜瓜黑星病,Melon scab,茎,stem,危害部位,InflictHarmPart
+474,甜瓜霜霉病,Melon downy mildew,叶片,blade,危害部位,InflictHarmPart
+475,甜瓜霜霉病,Melon downy mildew,瓜蔓,Melon vine,危害部位,InflictHarmPart
+476,甜瓜疫病,Phytophthora cactorum,茎蔓,Stem,危害部位,InflictHarmPart
+477,甜瓜疫病,Phytophthora cactorum,叶片,blade,危害部位,InflictHarmPart
+478,甜瓜疫病,Phytophthora cactorum,果实,fruit,危害部位,InflictHarmPart
+479,甜瓜炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+480,甜瓜炭疽病,Colletotrichum gloeosporioides,茎和,Stem and,危害部位,InflictHarmPart
+481,甜瓜炭疽病,Colletotrichum gloeosporioides,叶柄,Petiole,危害部位,InflictHarmPart
+482,甜瓜炭疽病,Colletotrichum gloeosporioides,果实,fruit,危害部位,InflictHarmPart
+483,甜瓜蔓枯病,Melon gummy stem blight,茎蔓,Stem,危害部位,InflictHarmPart
+484,甜瓜蔓枯病,Melon gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+485,甜瓜蔓枯病,Melon gummy stem blight,果实,fruit,危害部位,InflictHarmPart
+486,甜瓜病毒病,Melon virus,花叶型,Mosaic,危害部位,InflictHarmPart
+487,甜瓜黑斑病,Melon black spot,叶片,blade,危害部位,InflictHarmPart
+488,甜瓜黑斑病,Melon black spot,茎蔓,Stem,危害部位,InflictHarmPart
+489,甜瓜黑斑病,Melon black spot,果实,fruit,危害部位,InflictHarmPart
+490,甜瓜红粉病,Melon red powder,叶片,blade,危害部位,InflictHarmPart
+491,甜瓜红粉病,Melon red powder,果实,fruit,危害部位,InflictHarmPart
+492,甜瓜镰刀菌果腐病,Melon Fusarium fruit rot,瓜果,Fruits,危害部位,InflictHarmPart
+493,甜瓜镰刀菌果腐病,Melon Fusarium fruit rot,茎蔓,Stem,危害部位,InflictHarmPart
+494,甜瓜镰刀菌果腐病,Melon Fusarium fruit rot,叶柄,Petiole,危害部位,InflictHarmPart
+495,甜瓜细菌性角斑病,Xanthomonas cucurbitae,叶片,blade,危害部位,InflictHarmPart
+496,甜瓜细菌性角斑病,Xanthomonas cucurbitae,叶柄,Petiole,危害部位,InflictHarmPart
+497,甜瓜细菌性角斑病,Xanthomonas cucurbitae,卷须,tendril,危害部位,InflictHarmPart
+498,甜瓜细菌性角斑病,Xanthomonas cucurbitae,果实,fruit,危害部位,InflictHarmPart
+499,苹果树腐烂病,Apple tree canker,枝干,Branches,危害部位,InflictHarmPart
+500,苹果树腐烂病,Apple tree canker,果实,fruit,危害部位,InflictHarmPart
+501,豌豆炭疽病,Colletotrichum pisi,叶片,blade,危害部位,InflictHarmPart
+502,豌豆炭疽病,Colletotrichum pisi,茎蔓,Stem,危害部位,InflictHarmPart
+503,豌豆炭疽病,Colletotrichum pisi,豆荚,pod,危害部位,InflictHarmPart
+504,豌豆细菌性叶斑病,Pseudomonas syringae pv. pisi,叶片,blade,危害部位,InflictHarmPart
+505,豌豆细菌性叶斑病,Pseudomonas syringae pv. pisi,茎部,Stem,危害部位,InflictHarmPart
+506,豌豆细菌性叶斑病,Pseudomonas syringae pv. pisi,花梗,Pedicels,危害部位,InflictHarmPart
+507,扁豆炭疽病,Colletotrichum lindemuthianum,子叶,Cotyledon,危害部位,InflictHarmPart
+508,扁豆炭疽病,Colletotrichum lindemuthianum,叶片,blade,危害部位,InflictHarmPart
+509,扁豆炭疽病,Colletotrichum lindemuthianum,叶柄,Petiole,危害部位,InflictHarmPart
+510,扁豆炭疽病,Colletotrichum lindemuthianum,茎蔓,Stem,危害部位,InflictHarmPart
+511,扁豆炭疽病,Colletotrichum lindemuthianum,豆荚,pod,危害部位,InflictHarmPart
+512,扁豆细菌性疫病,Xanthomonas campestris pv. phaseoli,幼苗,seedling,危害部位,InflictHarmPart
+513,扁豆细菌性疫病,Xanthomonas campestris pv. phaseoli,成株,Adult plant,危害部位,InflictHarmPart
+514,扁豆细菌性疫病,Xanthomonas campestris pv. phaseoli,茎部,Stem,危害部位,InflictHarmPart
+515,扁豆细菌性疫病,Xanthomonas campestris pv. phaseoli,豆荚,pod,危害部位,InflictHarmPart
+516,扁豆红斑病,Phaseolus vulgaris red spot,叶片,blade,危害部位,InflictHarmPart
+517,扁豆红斑病,Phaseolus vulgaris red spot,豆荚,pod,危害部位,InflictHarmPart
+518,蚕豆褐斑病,Vicia faba brown spot,叶部,Leaf,危害部位,InflictHarmPart
+519,蚕豆枯萎病,Fusarium oxysporum f. sp. fabae,叶片,blade,危害部位,InflictHarmPart
+520,蚕豆枯萎病,Fusarium oxysporum f. sp. fabae,茎基,Stem base,危害部位,InflictHarmPart
+521,蚕豆枯萎病,Fusarium oxysporum f. sp. fabae,根系,Root system,危害部位,InflictHarmPart
+522,蚕豆炭疽病,Colletotrichum lindemuthianum,叶片,blade,危害部位,InflictHarmPart
+523,蚕豆炭疽病,Colletotrichum lindemuthianum,茎杆,Stem,危害部位,InflictHarmPart
+524,蚕豆炭疽病,Colletotrichum lindemuthianum,叶柄,Petiole,危害部位,InflictHarmPart
+525,蚕豆炭疽病,Colletotrichum lindemuthianum,豆荚,pod,危害部位,InflictHarmPart
+526,蚕豆轮纹病,Vicia faba ring spot,叶片,blade,危害部位,InflictHarmPart
+527,蚕豆轮纹病,Vicia faba ring spot,叶柄,Petiole,危害部位,InflictHarmPart
+528,蚕豆轮纹病,Vicia faba ring spot,豆荚,pod,危害部位,InflictHarmPart
+529,蚕豆立枯病,Vicia faba damping-off,茎基,Stem base,危害部位,InflictHarmPart
+530,蚕豆立枯病,Vicia faba damping-off,籽粒,Grains,危害部位,InflictHarmPart
+531,蚕豆叶烧病,Vicia faba damping-off,叶片,blade,危害部位,InflictHarmPart
+532,蚕豆叶烧病,Vicia faba leaf scorch,叶柄,Petiole,危害部位,InflictHarmPart
+533,蚕豆叶烧病,Vicia faba leaf scorch,茎部,Stem,危害部位,InflictHarmPart
+534,莲藕尾孢褐斑病,Vicia faba leaf scorch,叶片,blade,危害部位,InflictHarmPart
+535,莲藕褐纹病,Cercospora nelumbonis,叶片,blade,危害部位,InflictHarmPart
+536,莲藕炭疽病,Nelumbo nucifera brown stripe,叶片,blade,危害部位,InflictHarmPart
+537,茭白瘟病,Nelumbo nucifera anthracnose,叶片,blade,危害部位,InflictHarmPart
+538,茭白瘟病,Zizania latifolia blast,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+539,茭白胡麻斑病,Zizania latifolia blast,叶片,blade,危害部位,InflictHarmPart
+540,茭白胡麻斑病,Zizania latifolia sesame spot,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+541,茭白黑粉病,Zizania latifolia sesame spot,叶片,blade,危害部位,InflictHarmPart
+542,茭白黑粉病,Ustilago esculenta,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+543,茭白黑粉病,Ustilago esculenta,茭肉,Wild Rice,危害部位,InflictHarmPart
+544,佛手瓜蔓枯病,Ustilago esculenta,叶片,blade,危害部位,InflictHarmPart
+545,佛手瓜蔓枯病,Sechium edule gummy stem blight,茎蔓,Stem,危害部位,InflictHarmPart
+546,佛手瓜蔓枯病,Sechium edule gummy stem blight,果实,fruit,危害部位,InflictHarmPart
+547,苦瓜炭疽病,Sechium edule gummy stem blight,幼苗,seedling,危害部位,InflictHarmPart
+548,苦瓜炭疽病,Colletotrichum orbiculare,成株,Adult plant,危害部位,InflictHarmPart
+549,苦瓜疫病,Colletotrichum orbiculare,叶片,blade,危害部位,InflictHarmPart
+550,苦瓜疫病,Phytophthora capsici,茎基,Stem base,危害部位,InflictHarmPart
+551,苦瓜疫病,Phytophthora capsici,瓜条,Melon Strips,危害部位,InflictHarmPart
+552,苦瓜菌核病,Phytophthora capsici,茎蔓,Stem,危害部位,InflictHarmPart
+553,苦瓜蔓枯病,Sclerotinia sclerotiorum,瓜蔓,Melon vine,危害部位,InflictHarmPart
+554,苦瓜蔓枯病,Momordica charantia gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+555,苦瓜蔓枯病,Momordica charantia gummy stem blight,果实,fruit,危害部位,InflictHarmPart
+556,苦瓜细菌性角斑病,Momordica charantia gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+557,苦瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,茎,stem,危害部位,InflictHarmPart
+558,苦瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,果实,fruit,危害部位,InflictHarmPart
+559,菜豆红斑病,Pseudomonas syringae pv. lachrymans,叶片,blade,危害部位,InflictHarmPart
+560,菜豆红斑病,Phaseolus vulgaris red spot,豆荚,pod,危害部位,InflictHarmPart
+561,菜豆灰霉病,Phaseolus vulgaris red spot,苗期,Seedling stage,危害部位,InflictHarmPart
+562,菜豆灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+563,菜豆灰霉病,Botrytis cinerea,根茎,rhizome,危害部位,InflictHarmPart
+564,菜豆灰霉病,Botrytis cinerea,豆荚,pod,危害部位,InflictHarmPart
+565,菜豆炭疽病,Botrytis cinerea,子叶,Cotyledon,危害部位,InflictHarmPart
+566,菜豆炭疽病,Colletotrichum lindemuthianum,叶片,blade,危害部位,InflictHarmPart
+567,菜豆炭疽病,Colletotrichum lindemuthianum,叶柄,Petiole,危害部位,InflictHarmPart
+568,菜豆炭疽病,Colletotrichum lindemuthianum,茎部,Stem,危害部位,InflictHarmPart
+569,菜豆炭疽病,Colletotrichum lindemuthianum,豆荚,pod,危害部位,InflictHarmPart
+570,菜豆炭疽病,Colletotrichum lindemuthianum,种子,seed,危害部位,InflictHarmPart
+571,菜豆枯萎病,Colletotrichum lindemuthianum,叶片,blade,危害部位,InflictHarmPart
+572,菜豆枯萎病,Fusarium oxysporum f. sp. phaseoli,根、茎,rhizome,危害部位,InflictHarmPart
+573,菜豆细菌性疫病,Fusarium oxysporum f. sp. phaseoli,幼苗,seedling,危害部位,InflictHarmPart
+574,菜豆细菌性疫病,Xanthomonas campestris pv. phaseoli,叶片,blade,危害部位,InflictHarmPart
+575,菜豆细菌性疫病,Xanthomonas campestris pv. phaseoli,茎蔓,Stem,危害部位,InflictHarmPart
+576,菜豆细菌性疫病,Xanthomonas campestris pv. phaseoli,豆荚,pod,危害部位,InflictHarmPart
+577,菜豆细菌性疫病,Xanthomonas campestris pv. phaseoli,种子,seed,危害部位,InflictHarmPart
+578,菜豆细菌性晕疫病,Xanthomonas campestris pv. phaseoli,叶片,blade,危害部位,InflictHarmPart
+579,菜豆细菌性晕疫病,Phaseolus vulgaris bacterial halo blight,茎部,Stem,危害部位,InflictHarmPart
+580,菜豆细菌性晕疫病,Phaseolus vulgaris bacterial halo blight,果荚,Fruit Pods,危害部位,InflictHarmPart
+581,菜豆花叶病,Phaseolus vulgaris bacterial halo blight,叶片,blade,危害部位,InflictHarmPart
+582,菜豆花叶病,Phaseolus vulgaris mosaic,豆荚,pod,危害部位,InflictHarmPart
+583,菜豆花叶病,Phaseolus vulgaris mosaic,植株,Plant,危害部位,InflictHarmPart
+584,菜豆细菌性叶斑病,Phaseolus vulgaris mosaic,叶片,blade,危害部位,InflictHarmPart
+585,菜豆细菌性叶斑病,Phaseolus vulgaris bacterial leaf spot,茎和,Stem and,危害部位,InflictHarmPart
+586,菜豆细菌性叶斑病,Phaseolus vulgaris bacterial leaf spot,叶柄,Petiole,危害部位,InflictHarmPart
+587,菜豆细菌性叶斑病,Phaseolus vulgaris bacterial leaf spot,种子,seed,危害部位,InflictHarmPart
+588,豇豆疫病,Phytophthora vignae,根颈,Root neck,危害部位,InflictHarmPart
+589,豇豆疫病,Phytophthora vignae,蔓茎,Vines,危害部位,InflictHarmPart
+590,豇豆疫病,Phytophthora vignae,叶片,blade,危害部位,InflictHarmPart
+591,豇豆疫病,Phytophthora vignae,叶柄,Petiole,危害部位,InflictHarmPart
+592,豇豆疫病,Phytophthora vignae,花梗,Pedicels,危害部位,InflictHarmPart
+593,豇豆疫病,Phytophthora vignae,豆荚,pod,危害部位,InflictHarmPart
+594,豇豆枯萎病,Fusarium oxysporum f. sp. vignae,叶片,blade,危害部位,InflictHarmPart
+595,豇豆枯萎病,Fusarium oxysporum f. sp. vignae,根茎,rhizome,危害部位,InflictHarmPart
+596,豇豆锈病,Uromyces vignae,叶片,blade,危害部位,InflictHarmPart
+597,豇豆锈病,Uromyces vignae,叶脉,vein,危害部位,InflictHarmPart
+598,豇豆基腐病,Cowpea basal rot,子叶,Cotyledon,危害部位,InflictHarmPart
+599,豇豆基腐病,Cowpea basal rot,茎基,Stem base,危害部位,InflictHarmPart
+600,豇豆灰霉病,Botrytis cinerea,茎蔓,Stem,危害部位,InflictHarmPart
+601,豇豆灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+602,豇豆灰霉病,Botrytis cinerea,豆荚,pod,危害部位,InflictHarmPart
+603,豇豆细菌性疫病,Xanthomonas campestris pv. vignae,叶片,blade,危害部位,InflictHarmPart
+604,豇豆细菌性疫病,Xanthomonas campestris pv. vignae,茎蔓,Stem,危害部位,InflictHarmPart
+605,豇豆细菌性疫病,Xanthomonas campestris pv. vignae,豆荚,pod,危害部位,InflictHarmPart
+606,豇豆炭疽病,Colletotrichum lindemuthianum,苗期,Seedling stage,危害部位,InflictHarmPart
+607,豇豆炭疽病,Colletotrichum lindemuthianum,叶片,blade,危害部位,InflictHarmPart
+608,豇豆炭疽病,Colletotrichum lindemuthianum,茎部,Stem,危害部位,InflictHarmPart
+609,豇豆轮纹病,Cowpea ring pattern,叶片,blade,危害部位,InflictHarmPart
+610,豇豆轮纹病,Cowpea ring pattern,茎蔓,Stem,危害部位,InflictHarmPart
+611,豇豆轮纹病,Cowpea ring pattern,豆荚,pod,危害部位,InflictHarmPart
+612,豇豆角斑病,Cowpea angular leaf spot,叶片,blade,危害部位,InflictHarmPart
+613,豇豆茎枯病,Cowpea stem blight,苗期,Seedling stage,危害部位,InflictHarmPart
+614,豇豆茎枯病,Cowpea stem blight,成株,Adult plant,危害部位,InflictHarmPart
+615,毛豆锈病,Phakopsora pachyrhizi,叶片,blade,危害部位,InflictHarmPart
+616,毛豆锈病,Phakopsora pachyrhizi,叶柄和茎,Petiole and stem,危害部位,InflictHarmPart
+617,毛豆疫病,Phytophthora sojae,苗期,Seedling stage,危害部位,InflictHarmPart
+618,毛豆疫病,Phytophthora sojae,成株,Adult plant,危害部位,InflictHarmPart
+619,毛豆疫病,Phytophthora sojae,豆荚,pod,危害部位,InflictHarmPart
+620,毛豆褐斑病,Soybean brown spot,子叶,Cotyledon,危害部位,InflictHarmPart
+621,毛豆褐斑病,Soybean brown spot,叶片,blade,危害部位,InflictHarmPart
+622,毛豆褐斑病,Soybean brown spot,茎和,Stem and,危害部位,InflictHarmPart
+623,毛豆褐斑病,Soybean brown spot,叶柄,Petiole,危害部位,InflictHarmPart
+624,毛豆黑斑病,Soybean black spot,叶片,blade,危害部位,InflictHarmPart
+625,毛豆黑斑病,Soybean black spot,豆荚,pod,危害部位,InflictHarmPart
+626,毛豆灰斑病,Soybean grey spot,幼苗,seedling,危害部位,InflictHarmPart
+627,毛豆霜霉病,Peronospora manshurica,幼苗,seedling,危害部位,InflictHarmPart
+628,毛豆霜霉病,Peronospora manshurica,豆荚,pod,危害部位,InflictHarmPart
+629,毛豆耙点病,Soybean rake spot,叶片,blade,危害部位,InflictHarmPart
+630,毛豆耙点病,Soybean rake spot,叶柄,Petiole,危害部位,InflictHarmPart
+631,毛豆耙点病,Soybean rake spot,茎蔓,Stem,危害部位,InflictHarmPart
+632,毛豆耙点病,Soybean rake spot,豆荚,pod,危害部位,InflictHarmPart
+633,毛豆炭疽病,Colletotrichum lindemuthianum,茎杆,Stem,危害部位,InflictHarmPart
+634,毛豆炭疽病,Colletotrichum lindemuthianum,豆荚,pod,危害部位,InflictHarmPart
+635,毛豆炭疽病,Colletotrichum lindemuthianum,子叶,Cotyledon,危害部位,InflictHarmPart
+636,毛豆炭疽病,Colletotrichum lindemuthianum,叶片,blade,危害部位,InflictHarmPart
+637,毛豆炭疽病,Colletotrichum lindemuthianum,叶柄,Petiole,危害部位,InflictHarmPart
+638,毛豆荚枯病,Soybean pod blight,豆荚,pod,危害部位,InflictHarmPart
+639,毛豆荚枯病,Soybean pod blight,茎杆,Stem,危害部位,InflictHarmPart
+640,毛豆荚枯病,Soybean pod blight,叶柄,Petiole,危害部位,InflictHarmPart
+641,毛豆枯萎病,Fusarium oxysporum f. sp. glycines,整株,Whole plant,危害部位,InflictHarmPart
+642,毛豆枯萎病,Fusarium oxysporum f. sp. glycines,根系,Root system,危害部位,InflictHarmPart
+643,毛豆枯萎病,Fusarium oxysporum f. sp. glycines,茎部,Stem,危害部位,InflictHarmPart
+644,毛豆细菌斑疹病,Soybean bacterial pustule,叶片,blade,危害部位,InflictHarmPart
+645,毛豆细菌斑疹病,Soybean bacterial pustule,豆荚,pod,危害部位,InflictHarmPart
+646,毛豆菌核病,Sclerotinia sclerotiorum,苗期,Seedling stage,危害部位,InflictHarmPart
+647,毛豆菌核病,Sclerotinia sclerotiorum,叶片,blade,危害部位,InflictHarmPart
+648,毛豆菌核病,Sclerotinia sclerotiorum,茎杆,Stem,危害部位,InflictHarmPart
+649,毛豆菌核病,Sclerotinia sclerotiorum,豆荚,pod,危害部位,InflictHarmPart
+650,毛豆猝倒病,Soybean damping - off,根,root,危害部位,InflictHarmPart
+651,毛豆黑点病,Soybean black dot,茎杆,Stem,危害部位,InflictHarmPart
+652,毛豆黑点病,Soybean black dot,豆荚,pod,危害部位,InflictHarmPart
+653,毛豆黑点病,Soybean black dot,籽粒,Grains,危害部位,InflictHarmPart
+654,毛豆轮纹病,Soybean ring pattern,子叶,Cotyledon,危害部位,InflictHarmPart
+655,毛豆轮纹病,Soybean ring pattern,叶片,blade,危害部位,InflictHarmPart
+656,毛豆轮纹病,Soybean ring pattern,叶柄,Petiole,危害部位,InflictHarmPart
+657,毛豆轮纹病,Soybean ring pattern,茎部,Stem,危害部位,InflictHarmPart
+658,毛豆细菌性斑点病,Soybean bacterial spot,幼苗,seedling,危害部位,InflictHarmPart
+659,毛豆细菌性斑点病,Soybean bacterial spot,叶片,blade,危害部位,InflictHarmPart
+660,毛豆细菌性斑点病,Soybean bacterial spot,茎和,Stem and,危害部位,InflictHarmPart
+661,毛豆细菌性斑点病,Soybean bacterial spot,叶柄,Petiole,危害部位,InflictHarmPart
+662,毛豆细菌性斑点病,Soybean bacterial spot,豆荚,pod,危害部位,InflictHarmPart
+663,毛豆细菌性斑点病,Soybean bacterial spot,籽粒,Grains,危害部位,InflictHarmPart
+664,毛豆羞萎病,Soybean shy wilt,幼苗,seedling,危害部位,InflictHarmPart
+665,毛豆羞萎病,Soybean shy wilt,叶片,blade,危害部位,InflictHarmPart
+666,毛豆羞萎病,Soybean shy wilt,叶柄,Petiole,危害部位,InflictHarmPart
+667,毛豆羞萎病,Soybean shy wilt,茎杆,Stem,危害部位,InflictHarmPart
+668,毛豆羞萎病,Soybean shy wilt,豆荚,pod,危害部位,InflictHarmPart
+669,毛豆紫斑病,Soybean purple spot,子叶,Cotyledon,危害部位,InflictHarmPart
+670,毛豆紫斑病,Soybean purple spot,叶片,blade,危害部位,InflictHarmPart
+671,毛豆紫斑病,Soybean purple spot,茎杆,Stem,危害部位,InflictHarmPart
+672,毛豆紫斑病,Soybean purple spot,豆荚,pod,危害部位,InflictHarmPart
+673,毛豆紫斑病,Soybean purple spot,种子,seed,危害部位,InflictHarmPart
+674,豌豆褐斑病,Pea brown spot,叶片,blade,危害部位,InflictHarmPart
+675,豌豆褐纹病,Pea brown stripe,叶片,blade,危害部位,InflictHarmPart
+676,豌豆褐纹病,Pea brown stripe,叶柄及茎,Petiole and stem,危害部位,InflictHarmPart
+677,豌豆白粉病,Pea powdery mildew,叶片,blade,危害部位,InflictHarmPart
+678,豌豆白粉病,Pea powdery mildew,茎荚,Stem Pods,危害部位,InflictHarmPart
+679,豌豆基腐病,Pea basal rot,种子,seed,危害部位,InflictHarmPart
+680,豌豆基腐病,Pea basal rot,幼苗,seedling,危害部位,InflictHarmPart
+681,西葫芦枯萎病,Fusarium oxysporum f. sp. cucurbitae,幼苗,seedling,危害部位,InflictHarmPart
+682,西葫芦枯萎病,Fusarium oxysporum f. sp. cucurbitae,成株,Adult plant,危害部位,InflictHarmPart
+683,西葫芦蔓枯病,Zucchini gummy stem blight,苗期,Seedling stage,危害部位,InflictHarmPart
+684,西葫芦蔓枯病,Zucchini gummy stem blight,成株,Adult plant,危害部位,InflictHarmPart
+685,西葫芦绵腐病,Pythium aphanidermatum,果实,fruit,危害部位,InflictHarmPart
+686,西葫芦绵腐病,Pythium aphanidermatum,叶片,blade,危害部位,InflictHarmPart
+687,西葫芦软腐病,Zucchini soft rot,根茎,rhizome,危害部位,InflictHarmPart
+688,西葫芦软腐病,Zucchini soft rot,果实,fruit,危害部位,InflictHarmPart
+689,西葫芦病毒病,Zucchini virus,花叶型,Mosaic,危害部位,InflictHarmPart
+690,西葫芦病毒病,Zucchini virus,蕨叶,Fern leaves,危害部位,InflictHarmPart
+691,冬瓜黑星病,Wax gourd scab,幼苗,seedling,危害部位,InflictHarmPart
+692,冬瓜黑星病,Wax gourd scab,嫩茎,Tender stem,危害部位,InflictHarmPart
+693,冬瓜黑星病,Wax gourd scab,叶柄,Petiole,危害部位,InflictHarmPart
+694,冬瓜黑星病,Wax gourd scab,瓜蔓,Melon vine,危害部位,InflictHarmPart
+695,冬瓜炭疽病,Colletotrichum orbiculare,果实,fruit,危害部位,InflictHarmPart
+696,冬瓜炭疽病,Colletotrichum orbiculare,叶片,blade,危害部位,InflictHarmPart
+697,冬瓜叶斑病,Wax gourd leaf spot,葫芦,gourd,危害部位,InflictHarmPart
+698,冬瓜疫病,Phytophthora capsici,茎部,Stem,危害部位,InflictHarmPart
+699,冬瓜疫病,Phytophthora capsici,叶片,blade,危害部位,InflictHarmPart
+700,冬瓜疫病,Phytophthora capsici,果实,fruit,危害部位,InflictHarmPart
+701,冬瓜枯萎病,Fusarium oxysporum f. sp. cucurbitae,幼苗,seedling,危害部位,InflictHarmPart
+702,冬瓜枯萎病,Fusarium oxysporum f. sp. cucurbitae,成株,Adult plant,危害部位,InflictHarmPart
+703,冬瓜蔓枯病,Wax gourd gummy stem blight,茎蔓,Stem,危害部位,InflictHarmPart
+704,冬瓜蔓枯病,Wax gourd gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+705,冬瓜细菌性角斑病,Wax gourd bacterial angular leaf spot,叶片,blade,危害部位,InflictHarmPart
+706,冬瓜细菌性角斑病,Wax gourd bacterial angular leaf spot,果实,fruit,危害部位,InflictHarmPart
+707,冬瓜细菌性角斑病,Wax gourd bacterial angular leaf spot,卷须,tendril,危害部位,InflictHarmPart
+708,冬瓜灰斑病,Wax gourd grey spot,叶片,blade,危害部位,InflictHarmPart
+709,冬瓜菌核病,Sclerotinia sclerotiorum,果实,fruit,危害部位,InflictHarmPart
+710,冬瓜菌核病,Sclerotinia sclerotiorum,茎蔓,Stem,危害部位,InflictHarmPart
+711,冬瓜菌核病,Sclerotinia sclerotiorum,叶柄,Petiole,危害部位,InflictHarmPart
+712,冬瓜菌核病,Sclerotinia sclerotiorum,幼果,Young fruit,危害部位,InflictHarmPart
+713,瓠瓜白粉病,Calabash gourd powdery mildew,叶片,blade,危害部位,InflictHarmPart
+714,瓠瓜白粉病,Calabash gourd powdery mildew,茎蔓,Stem,危害部位,InflictHarmPart
+715,瓠瓜白粉病,Calabash gourd powdery mildew,叶柄,Petiole,危害部位,InflictHarmPart
+716,瓠瓜炭疽病,Colletotrichum orbiculare,叶片,blade,危害部位,InflictHarmPart
+717,瓠瓜炭疽病,Colletotrichum orbiculare,茎蔓,Stem,危害部位,InflictHarmPart
+718,瓠瓜炭疽病,Colletotrichum orbiculare,叶柄,Petiole,危害部位,InflictHarmPart
+719,瓠瓜炭疽病,Colletotrichum orbiculare,果实,fruit,危害部位,InflictHarmPart
+720,瓠瓜灰霉病,Botrytis cinerea,花和,Flowers and,危害部位,InflictHarmPart
+721,瓠瓜灰霉病,Botrytis cinerea,茎蔓,Stem,危害部位,InflictHarmPart
+722,瓠瓜灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+723,瓠瓜细菌性角斑病,Calabash gourd bacterial angular leaf spot,叶片,blade,危害部位,InflictHarmPart
+724,瓠瓜细菌性角斑病,Calabash gourd bacterial angular leaf spot,果实,fruit,危害部位,InflictHarmPart
+725,瓠瓜蔓枯病,Calabash gourd gummy stem blight,茎蔓,Stem,危害部位,InflictHarmPart
+726,瓠瓜蔓枯病,Calabash gourd gummy stem blight,叶柄,Petiole,危害部位,InflictHarmPart
+727,瓠瓜蔓枯病,Calabash gourd gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+728,丝瓜枯萎病,Fusarium oxysporum f. sp. luffae,苗期,Seedling stage,危害部位,InflictHarmPart
+729,丝瓜枯萎病,Fusarium oxysporum f. sp. luffae,成株,Adult plant,危害部位,InflictHarmPart
+730,丝瓜蔓枯病,Sponge gourd gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+731,丝瓜蔓枯病,Sponge gourd gummy stem blight,茎蔓,Stem,危害部位,InflictHarmPart
+732,丝瓜蔓枯病,Sponge gourd gummy stem blight,果实,fruit,危害部位,InflictHarmPart
+733,丝瓜绵腐病,Pythium aphanidermatum,苗期,Seedling stage,危害部位,InflictHarmPart
+734,丝瓜绵腐病,Pythium aphanidermatum,成株,Adult plant,危害部位,InflictHarmPart
+735,丝瓜细菌性角斑病,Sponge gourd bacterial angular leaf spot,叶片,blade,危害部位,InflictHarmPart
+736,丝瓜细菌性角斑病,Sponge gourd bacterial angular leaf spot,茎和,Stem and,危害部位,InflictHarmPart
+737,丝瓜细菌性角斑病,Sponge gourd bacterial angular leaf spot,果实,fruit,危害部位,InflictHarmPart
+738,丝瓜炭疽病,Colletotrichum orbiculare,叶片,blade,危害部位,InflictHarmPart
+739,丝瓜炭疽病,Colletotrichum orbiculare,叶柄,Petiole,危害部位,InflictHarmPart
+740,丝瓜炭疽病,Colletotrichum orbiculare,茎蔓,Stem,危害部位,InflictHarmPart
+741,丝瓜炭疽病,Colletotrichum orbiculare,果实,fruit,危害部位,InflictHarmPart
+742,丝瓜疫病,Phytophthora capsici,果实,fruit,危害部位,InflictHarmPart
+743,丝瓜疫病,Phytophthora capsici,茎蔓,Stem,危害部位,InflictHarmPart
+744,丝瓜疫病,Phytophthora capsici,叶片,blade,危害部位,InflictHarmPart
+745,南瓜黑星病,Pumpkin scab,幼苗,seedling,危害部位,InflictHarmPart
+746,南瓜黑星病,Pumpkin scab,叶片,blade,危害部位,InflictHarmPart
+747,南瓜黑星病,Pumpkin scab,茎蔓,Stem,危害部位,InflictHarmPart
+748,南瓜黑星病,Pumpkin scab,果实,fruit,危害部位,InflictHarmPart
+749,南瓜疫病,Phytophthora capsici,茎部,Stem,危害部位,InflictHarmPart
+750,南瓜疫病,Phytophthora capsici,叶片,blade,危害部位,InflictHarmPart
+751,南瓜疫病,Phytophthora capsici,根部,Root,危害部位,InflictHarmPart
+752,南瓜疫病,Phytophthora capsici,果实,fruit,危害部位,InflictHarmPart
+753,南瓜枯萎病,Fusarium oxysporum f. sp. cucurbitae,幼苗,seedling,危害部位,InflictHarmPart
+754,南瓜枯萎病,Fusarium oxysporum f. sp. cucurbitae,成株,Adult plant,危害部位,InflictHarmPart
+755,南瓜病毒病,Pumpkin virus,花叶型,Mosaic,危害部位,InflictHarmPart
+756,南瓜病毒病,Pumpkin virus,蕨叶,Fern leaves,危害部位,InflictHarmPart
+757,南瓜斑点病,Pumpkin spots,叶片,blade,危害部位,InflictHarmPart
+758,南瓜斑点病,Pumpkin spots,花轴,Flower axis,危害部位,InflictHarmPart
+759,南瓜黑斑病,Pumpkin black spot,叶片,blade,危害部位,InflictHarmPart
+760,南瓜黑斑病,Pumpkin black spot,果实,fruit,危害部位,InflictHarmPart
+761,南瓜炭疽病,Colletotrichum orbiculare,幼苗,seedling,危害部位,InflictHarmPart
+762,南瓜炭疽病,Colletotrichum orbiculare,茎或,stem or,危害部位,InflictHarmPart
+763,南瓜炭疽病,Colletotrichum orbiculare,叶柄,Petiole,危害部位,InflictHarmPart
+764,南瓜炭疽病,Colletotrichum orbiculare,果实,fruit,危害部位,InflictHarmPart
+765,南瓜蔓枯病,Pumpkin gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+766,南瓜蔓枯病,Pumpkin gummy stem blight,茎蔓,Stem,危害部位,InflictHarmPart
+767,南瓜蔓枯病,Pumpkin gummy stem blight,果实,fruit,危害部位,InflictHarmPart
+768,南瓜银叶病,Pumpkin silver leaf,叶片,blade,危害部位,InflictHarmPart
+769,南瓜银叶病,Pumpkin silver leaf,果实,fruit,危害部位,InflictHarmPart
+770,飞碟瓜蔓枯病,Pattypan squash gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+771,飞碟瓜蔓枯病,Pattypan squash gummy stem blight,茎蔓,Stem,危害部位,InflictHarmPart
+772,飞碟瓜蔓枯病,Pattypan squash gummy stem blight,果实,fruit,危害部位,InflictHarmPart
+773,辣椒立枯病,Pepper damping - off,幼苗,seedling,危害部位,InflictHarmPart
+774,辣椒根腐病,Pepper root rot,种子,seed,危害部位,InflictHarmPart
+775,辣椒疮痂病,Xanthomonas campestris pv. vesicatoria,幼苗,seedling,危害部位,InflictHarmPart
+776,辣椒疮痂病,Xanthomonas campestris pv. vesicatoria,成株,Adult plant,危害部位,InflictHarmPart
+777,辣椒病毒病,Pepper virus,花叶型,Mosaic,危害部位,InflictHarmPart
+778,辣椒白斑病,Pepper white spot,叶片,blade,危害部位,InflictHarmPart
+779,辣椒白斑病,Pepper white spot,茎部,Stem,危害部位,InflictHarmPart
+780,辣椒霜霉病,Pepper downy mildew,叶片,blade,危害部位,InflictHarmPart
+781,辣椒霜霉病,Pepper downy mildew,叶柄,Petiole,危害部位,InflictHarmPart
+782,辣椒霜霉病,Pepper downy mildew,嫩茎,Tender stem,危害部位,InflictHarmPart
+783,茄子棒孢叶斑病,Corynespora cassiicola,叶片,blade,危害部位,InflictHarmPart
+784,茄子棒孢叶斑病,Corynespora cassiicola,茎基部,Stem base,危害部位,InflictHarmPart
+785,茄子棒孢叶斑病,Corynespora cassiicola,果实,fruit,危害部位,InflictHarmPart
+786,茄子褐纹病,Eggplant brown stripe,苗期,Seedling stage,危害部位,InflictHarmPart
+787,茄子褐纹病,Eggplant brown stripe,成株,Adult plant,危害部位,InflictHarmPart
+788,茄子褐纹病,Eggplant brown stripe,茎枝,Stem,危害部位,InflictHarmPart
+789,茄子褐纹病,Eggplant brown stripe,果实,fruit,危害部位,InflictHarmPart
+790,茄子褐纹病,Eggplant brown stripe,种子,seed,危害部位,InflictHarmPart
+791,茄子叶霉病,Eggplant leaf mold,叶片,blade,危害部位,InflictHarmPart
+792,茄子叶霉病,Eggplant leaf mold,叶柄,Petiole,危害部位,InflictHarmPart
+793,茄子叶霉病,Eggplant leaf mold,茎部,Stem,危害部位,InflictHarmPart
+794,茄子叶霉病,Eggplant leaf mold,果实,fruit,危害部位,InflictHarmPart
+795,茄子灰霉病,Botrytis cinerea,苗期,Seedling stage,危害部位,InflictHarmPart
+796,茄子灰霉病,Botrytis cinerea,成株,Adult plant,危害部位,InflictHarmPart
+797,茄子菌核病,Sclerotinia sclerotiorum,苗期,Seedling stage,危害部位,InflictHarmPart
+798,茄子菌核病,Sclerotinia sclerotiorum,叶片,blade,危害部位,InflictHarmPart
+799,茄子菌核病,Sclerotinia sclerotiorum,茎部,Stem,危害部位,InflictHarmPart
+800,茄子菌核病,Sclerotinia sclerotiorum,花蕾,bud,危害部位,InflictHarmPart
+801,茄子菌核病,Sclerotinia sclerotiorum,花柄,Flower stalk,危害部位,InflictHarmPart
+802,茄子菌核病,Sclerotinia sclerotiorum,果实,fruit,危害部位,InflictHarmPart
+803,茄子绵疫病,Phytophthora parasitica,幼苗,seedling,危害部位,InflictHarmPart
+804,茄子绵疫病,Phytophthora parasitica,果实,fruit,危害部位,InflictHarmPart
+805,茄子绵疫病,Phytophthora parasitica,叶片,blade,危害部位,InflictHarmPart
+806,茄子绵疫病,Phytophthora parasitica,嫩枝,Twigs,危害部位,InflictHarmPart
+807,茄子青枯病,Ralstonia solanacearum,整株,Whole plant,危害部位,InflictHarmPart
+808,茄子青枯病,Ralstonia solanacearum,茎基部,Stem base,危害部位,InflictHarmPart
+809,茄子黑枯病,Eggplant black blight,叶片,blade,危害部位,InflictHarmPart
+810,茄子黑枯病,Eggplant black blight,果梗,Fruit stalk,危害部位,InflictHarmPart
+811,茄子黑枯病,Eggplant black blight,果实,fruit,危害部位,InflictHarmPart
+812,茄子拟黑斑病,Eggplant pseudo - black spot,叶片,blade,危害部位,InflictHarmPart
+813,茄子拟黑斑病,Eggplant pseudo - black spot,果实,fruit,危害部位,InflictHarmPart
+814,茄子果实疫病,Eggplant fruit blight,苗期,Seedling stage,危害部位,InflictHarmPart
+815,茄子果实疫病,Eggplant fruit blight,果实,fruit,危害部位,InflictHarmPart
+816,茄子花腐病,Eggplant flower rot,果实,fruit,危害部位,InflictHarmPart
+817,茄子细菌性褐斑病,Pseudomonas cichorii,叶片,blade,危害部位,InflictHarmPart
+818,茄子细菌性褐斑病,Pseudomonas cichorii,花蕾,bud,危害部位,InflictHarmPart
+819,茄子细菌性褐斑病,Pseudomonas cichorii,嫩枝,Twigs,危害部位,InflictHarmPart
+820,茄子细菌性褐斑病,Pseudomonas cichorii,果实,fruit,危害部位,InflictHarmPart
+821,黄瓜霜霉病,Pseudoperonospora cubensis,子叶,Cotyledon,危害部位,InflictHarmPart
+822,黄瓜霜霉病,Pseudoperonospora cubensis,叶片,blade,危害部位,InflictHarmPart
+823,黄瓜疫病,Phytophthora drechsleri,茎基部,Stem base,危害部位,InflictHarmPart
+824,黄瓜黑星病,Cladosporium cucumerinum,叶片,blade,危害部位,InflictHarmPart
+825,黄瓜黑星病,Cladosporium cucumerinum,茎蔓,Stem,危害部位,InflictHarmPart
+826,黄瓜黑星病,Cladosporium cucumerinum,瓜条,Melon Strips,危害部位,InflictHarmPart
+827,黄瓜黑星病,Cladosporium cucumerinum,卷须,tendril,危害部位,InflictHarmPart
+828,黄瓜黑星病,Cladosporium cucumerinum,整株,Whole plant,危害部位,InflictHarmPart
+829,黄瓜灰色疫病,Cucumber grey blight,叶片,blade,危害部位,InflictHarmPart
+830,黄瓜灰色疫病,Cucumber grey blight,茎蔓,Stem,危害部位,InflictHarmPart
+831,黄瓜灰色疫病,Cucumber grey blight,瓜条,Melon Strips,危害部位,InflictHarmPart
+832,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,幼苗,seedling,危害部位,InflictHarmPart
+833,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,叶片,blade,危害部位,InflictHarmPart
+834,黄瓜枯萎病,Fusarium oxysporum f. sp. cucumerinum,根和茎,Roots and stems,危害部位,InflictHarmPart
+835,黄瓜蔓枯病,Cucumber gummy stem blight,茎蔓,Stem,危害部位,InflictHarmPart
+836,黄瓜蔓枯病,Cucumber gummy stem blight,叶片,blade,危害部位,InflictHarmPart
+837,黄瓜蔓枯病,Cucumber gummy stem blight,果实,fruit,危害部位,InflictHarmPart
+838,黄瓜猝倒病,Pythium aphanidermatum,幼苗,seedling,危害部位,InflictHarmPart
+839,黄瓜猝倒病,Pythium aphanidermatum,瓜条,Melon Strips,危害部位,InflictHarmPart
+840,黄瓜立枯病,Rhizoctonia solani,茎基部,Stem base,危害部位,InflictHarmPart
+841,黄瓜立枯病,Rhizoctonia solani,根部,Root,危害部位,InflictHarmPart
+842,黄瓜立枯病,Rhizoctonia solani,整株,Whole plant,危害部位,InflictHarmPart
+843,黄瓜菌核病,Sclerotinia sclerotiorum,茎蔓,Stem,危害部位,InflictHarmPart
+844,黄瓜菌核病,Sclerotinia sclerotiorum,叶柄,Petiole,危害部位,InflictHarmPart
+845,黄瓜菌核病,Sclerotinia sclerotiorum,幼果,Young fruit,危害部位,InflictHarmPart
+846,黄瓜菌核病,Sclerotinia sclerotiorum,瓜条,Melon Strips,危害部位,InflictHarmPart
+847,黄瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,叶片,blade,危害部位,InflictHarmPart
+848,黄瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,果实,fruit,危害部位,InflictHarmPart
+849,黄瓜细菌性角斑病,Pseudomonas syringae pv. lachrymans,卷须,tendril,危害部位,InflictHarmPart
+850,黄瓜炭疽病,Colletotrichum orbiculare,幼苗,seedling,危害部位,InflictHarmPart
+851,黄瓜炭疽病,Colletotrichum orbiculare,成株,Adult plant,危害部位,InflictHarmPart
+852,黄瓜灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+853,黄瓜根腐病,Cucumber root rot,根和,Root and,危害部位,InflictHarmPart
+854,黄瓜根腐病,Cucumber root rot,根茎部,Rhizome,危害部位,InflictHarmPart
+855,黄瓜细菌性缘枯病,Pseudomonas marginalis,叶片,blade,危害部位,InflictHarmPart
+856,黄瓜细菌性缘枯病,Pseudomonas marginalis,叶柄,Petiole,危害部位,InflictHarmPart
+857,黄瓜细菌性缘枯病,Pseudomonas marginalis,卷须,tendril,危害部位,InflictHarmPart
+858,黄瓜细菌性缘枯病,Pseudomonas marginalis,瓜条,Melon Strips,危害部位,InflictHarmPart
+859,黄瓜病毒病,Cucumber virus,叶片,blade,危害部位,InflictHarmPart
+860,黄瓜病毒病,Cucumber virus,植株,Plant,危害部位,InflictHarmPart
+861,黄瓜幼苗腐霉根腐病,Cucumber seedling Pythium root rot,幼苗期,Seedling stage,危害部位,InflictHarmPart
+862,西葫芦黑星病,Zucchini scab,叶片,blade,危害部位,InflictHarmPart
+863,西葫芦黑星病,Zucchini scab,果实,fruit,危害部位,InflictHarmPart
+864,茼蒿炭疽病,Chrysanthemum coronarium anthracnose,叶片,blade,危害部位,InflictHarmPart
+865,芫荽立枯病,Rhizoctonia solani,幼苗,seedling,危害部位,InflictHarmPart
+866,芫荽立枯病,Rhizoctonia solani,大苗,Big seedling,危害部位,InflictHarmPart
+867,芫荽叶斑病,Coriander leaf spot,叶片,blade,危害部位,InflictHarmPart
+868,芫荽叶斑病,Coriander leaf spot,叶柄,Petiole,危害部位,InflictHarmPart
+869,芫荽株腐病,Coriander stem rot,苗期,Seedling stage,危害部位,InflictHarmPart
+870,芫荽白粉病,Coriander powdery mildew,叶片,blade,危害部位,InflictHarmPart
+871,番茄早疫病,Alternaria solani,叶片,blade,危害部位,InflictHarmPart
+872,番茄早疫病,Alternaria solani,叶柄,Petiole,危害部位,InflictHarmPart
+873,番茄早疫病,Alternaria solani,茎部,Stem,危害部位,InflictHarmPart
+874,番茄早疫病,Alternaria solani,果实,fruit,危害部位,InflictHarmPart
+875,番茄晚疫病,Phytophthora infestans,叶片,blade,危害部位,InflictHarmPart
+876,番茄晚疫病,Phytophthora infestans,茎部,Stem,危害部位,InflictHarmPart
+877,番茄晚疫病,Phytophthora infestans,果实,fruit,危害部位,InflictHarmPart
+878,番茄叶霉病,Fulvia fulva,叶片,blade,危害部位,InflictHarmPart
+879,番茄叶霉病,Fulvia fulva,茎部,Stem,危害部位,InflictHarmPart
+880,番茄叶霉病,Fulvia fulva,花果,Flowers and Fruits,危害部位,InflictHarmPart
+881,番茄灰叶斑病,Stemphylium solani,叶片,blade,危害部位,InflictHarmPart
+882,番茄灰叶斑病,Stemphylium solani,花朵,Flowers,危害部位,InflictHarmPart
+883,番茄灰叶斑病,Stemphylium solani,果实,fruit,危害部位,InflictHarmPart
+884,番茄灰斑病,Tomato grey spot,叶部,Leaf,危害部位,InflictHarmPart
+885,番茄灰斑病,Tomato grey spot,茎部,Stem,危害部位,InflictHarmPart
+886,番茄灰斑病,Tomato grey spot,果实,fruit,危害部位,InflictHarmPart
+887,番茄煤污病,Tomato sooty mold,叶片,blade,危害部位,InflictHarmPart
+888,番茄煤污病,Tomato sooty mold,果实,fruit,危害部位,InflictHarmPart
+889,番茄斑枯病,Septoria lycopersici,叶片,blade,危害部位,InflictHarmPart
+890,番茄斑枯病,Septoria lycopersici,叶柄和茎,Petiole and stem,危害部位,InflictHarmPart
+891,番茄斑枯病,Septoria lycopersici,果实,fruit,危害部位,InflictHarmPart
+892,番茄灰霉病,Botrytis cinerea,幼苗,seedling,危害部位,InflictHarmPart
+893,番茄灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+894,番茄灰霉病,Botrytis cinerea,茎部,Stem,危害部位,InflictHarmPart
+895,番茄灰霉病,Botrytis cinerea,果实,fruit,危害部位,InflictHarmPart
+896,番茄灰霉病,Botrytis cinerea,花萼,calyx,危害部位,InflictHarmPart
+897,番茄白绢病,Sclerotium rolfsii,茎基部,Stem base,危害部位,InflictHarmPart
+898,番茄白绢病,Sclerotium rolfsii,果实,fruit,危害部位,InflictHarmPart
+899,番茄绵疫病,Phytophthora parasitica,果实,fruit,危害部位,InflictHarmPart
+900,番茄绵疫病,Phytophthora parasitica,叶片,blade,危害部位,InflictHarmPart
+901,番茄红粉病,Trichothecium roseum,果实,fruit,危害部位,InflictHarmPart
+902,番茄红粉病,Trichothecium roseum,叶片,blade,危害部位,InflictHarmPart
+903,番茄茎基腐病,Fusarium solani,苗期,Seedling stage,危害部位,InflictHarmPart
+904,番茄丛枝病,Tomato witches' - broom,植株,Plant,危害部位,InflictHarmPart
+905,番茄丛枝病,Tomato witches' - broom,叶片,blade,危害部位,InflictHarmPart
+906,番茄丛枝病,Tomato witches' - broom,果实,fruit,危害部位,InflictHarmPart
+907,番茄菌核病,Sclerotinia sclerotiorum,叶部,Leaf,危害部位,InflictHarmPart
+908,番茄菌核病,Sclerotinia sclerotiorum,茎部,Stem,危害部位,InflictHarmPart
+909,番茄菌核病,Sclerotinia sclerotiorum,果实,fruit,危害部位,InflictHarmPart
+910,番茄疫霉根腐病,Phytophthora parasitica,苗期,Seedling stage,危害部位,InflictHarmPart
+911,番茄细菌性斑疹病,Xanthomonas vesicatoria,叶部,Leaf,危害部位,InflictHarmPart
+912,番茄细菌性斑疹病,Xanthomonas vesicatoria,果实,fruit,危害部位,InflictHarmPart
+913,番茄细菌性斑疹病,Xanthomonas vesicatoria,花蕾,bud,危害部位,InflictHarmPart
+914,番茄细菌性斑疹病,Xanthomonas vesicatoria,茎部,Stem,危害部位,InflictHarmPart
+915,番茄细菌性斑疹病,Xanthomonas vesicatoria,叶柄,Petiole,危害部位,InflictHarmPart
+916,番茄溃疡病,Clavibacter michiganensis subsp. michiganensis,幼苗,seedling,危害部位,InflictHarmPart
+917,番茄溃疡病,Clavibacter michiganensis subsp. michiganensis,成株,Adult plant,危害部位,InflictHarmPart
+918,番茄溃疡病,Clavibacter michiganensis subsp. michiganensis,果实,fruit,危害部位,InflictHarmPart
+919,番茄青枯病,Ralstonia solanacearum,叶片,blade,危害部位,InflictHarmPart
+920,番茄青枯病,Ralstonia solanacearum,茎部,Stem,危害部位,InflictHarmPart
+921,番茄疮痂病,Xanthomonas campestris pv. vesicatoria,叶部,Leaf,危害部位,InflictHarmPart
+922,番茄疮痂病,Xanthomonas campestris pv. vesicatoria,茎部,Stem,危害部位,InflictHarmPart
+923,番茄疮痂病,Xanthomonas campestris pv. vesicatoria,果实,fruit,危害部位,InflictHarmPart
+924,番茄细菌性髓部坏死病,Tomato bacterial pith necrosis,叶片,blade,危害部位,InflictHarmPart
+925,番茄细菌性髓部坏死病,Tomato bacterial pith necrosis,茎部,Stem,危害部位,InflictHarmPart
+926,番茄细菌性髓部坏死病,Tomato bacterial pith necrosis,果实,fruit,危害部位,InflictHarmPart
+927,番茄软腐病,Erwinia carotovora subsp. carotovora,果实,fruit,危害部位,InflictHarmPart
+928,番茄软腐病,Erwinia carotovora subsp. carotovora,茎杆,Stem,危害部位,InflictHarmPart
+929,番茄条斑病毒病,Tomato streak virus,叶片,blade,危害部位,InflictHarmPart
+930,番茄条斑病毒病,Tomato streak virus,茎杆,Stem,危害部位,InflictHarmPart
+931,番茄条斑病毒病,Tomato streak virus,果实,fruit,危害部位,InflictHarmPart
+932,番茄斑萎病毒病,Tomato spotted wilt virus（TSWV）,苗期,Seedling stage,危害部位,InflictHarmPart
+933,番茄斑萎病毒病,Tomato spotted wilt virus（TSWV）,果实,fruit,危害部位,InflictHarmPart
+934,番茄根结线虫病,Meloidogyne spp.,根部,Root,危害部位,InflictHarmPart
+935,番茄圆纹病,Tomato ring pattern,叶片,blade,危害部位,InflictHarmPart
+936,番茄圆纹病,Tomato ring pattern,果实,fruit,危害部位,InflictHarmPart
+937,番茄茎枯病,Tomato stem blight,茎部,Stem,危害部位,InflictHarmPart
+938,番茄茎枯病,Tomato stem blight,果实,fruit,危害部位,InflictHarmPart
+939,番茄茎枯病,Tomato stem blight,叶片,blade,危害部位,InflictHarmPart
+940,番茄变形果,Tomato deformed fruit,多蕊果,Multifruit,危害部位,InflictHarmPart
+941,番茄变形果,Tomato deformed fruit,椭圆形果,Oval fruit,危害部位,InflictHarmPart
+942,番茄低温障碍和冻害,Tomato low - temperature disorder and freezing injury,幼苗,seedling,危害部位,InflictHarmPart
+943,番茄低温障碍和冻害,Tomato low - temperature disorder and freezing injury,成株,Adult plant,危害部位,InflictHarmPart
+944,番茄低温障碍和冻害,Tomato low - temperature disorder and freezing injury,果实,fruit,危害部位,InflictHarmPart
+945,番茄高温障碍,Tomato high - temperature disorder,叶片,blade,危害部位,InflictHarmPart
+946,番茄高温障碍,Tomato high - temperature disorder,花果,Flowers and Fruits,危害部位,InflictHarmPart
+947,番茄细菌性褐斑病,Pseudomonas cichorii,叶部,Leaf,危害部位,InflictHarmPart
+948,番茄细菌性褐斑病,Pseudomonas cichorii,果实,fruit,危害部位,InflictHarmPart
+949,番茄细菌性褐斑病,Pseudomonas cichorii,花蕾,bud,危害部位,InflictHarmPart
+950,番茄细菌性褐斑病,Pseudomonas cichorii,茎部,Stem,危害部位,InflictHarmPart
+951,番茄细菌性褐斑病,Pseudomonas cichorii,叶柄,Petiole,危害部位,InflictHarmPart
+952,辣椒疫病,Phytophthora capsici,叶片,blade,危害部位,InflictHarmPart
+953,辣椒疫病,Phytophthora capsici,果实,fruit,危害部位,InflictHarmPart
+954,辣椒早疫病,Alternaria solani,苗期,Seedling stage,危害部位,InflictHarmPart
+955,辣椒早疫病,Alternaria solani,叶片,blade,危害部位,InflictHarmPart
+956,辣椒灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+957,辣椒灰霉病,Botrytis cinerea,花器,Flower vases,危害部位,InflictHarmPart
+958,辣椒灰霉病,Botrytis cinerea,果实,fruit,危害部位,InflictHarmPart
+959,辣椒菌核病,Sclerotinia sclerotiorum,幼苗,seedling,危害部位,InflictHarmPart
+960,菠菜病毒病,Spinach virus,花叶型,Mosaic,危害部位,InflictHarmPart
+961,芹菜病毒病,Celery virus,苗期,Seedling stage,危害部位,InflictHarmPart
+962,芹菜黄萎病,Fusarium oxysporum f. sp. apii,苗期,Seedling stage,危害部位,InflictHarmPart
+963,芹菜叶斑病,Celery leaf spot,叶片,blade,危害部位,InflictHarmPart
+964,芹菜叶斑病,Celery leaf spot,茎或,stem or,危害部位,InflictHarmPart
+965,芹菜叶斑病,Celery leaf spot,叶柄,Petiole,危害部位,InflictHarmPart
+966,莴笋灰霉病,Botrytis cinerea,苗期,Seedling stage,危害部位,InflictHarmPart
+967,莴笋灰霉病,Botrytis cinerea,成株,Adult plant,危害部位,InflictHarmPart
+968,莴笋菌核病,Sclerotinia sclerotiorum,叶片,blade,危害部位,InflictHarmPart
+969,莴笋菌核病,Sclerotinia sclerotiorum,茎部,Stem,危害部位,InflictHarmPart
+970,莴笋病毒病,Lettuce stem virus,苗期,Seedling stage,危害部位,InflictHarmPart
+971,莴笋病毒病,Lettuce stem virus,成株,Adult plant,危害部位,InflictHarmPart
+972,莴笋褐斑病,Lettuce brown spot,叶片,blade,危害部位,InflictHarmPart
+973,莴笋腐败病,Lettuce rot,叶片,blade,危害部位,InflictHarmPart
+974,生菜褐斑病,Romaine lettuce brown spot,叶片,blade,危害部位,InflictHarmPart
+975,生菜病毒病,Romaine lettuce virus,苗期,Seedling stage,危害部位,InflictHarmPart
+976,生菜病毒病,Romaine lettuce virus,成株,Adult plant,危害部位,InflictHarmPart
+977,苋菜炭疽病,Amaranth anthracnose,叶片,blade,危害部位,InflictHarmPart
+978,苋菜炭疽病,Amaranth anthracnose,茎部,Stem,危害部位,InflictHarmPart
+979,落葵紫斑病,Malabar spinach purple spot,叶片,blade,危害部位,InflictHarmPart
+980,落葵紫斑病,Malabar spinach purple spot,叶柄,Petiole,危害部位,InflictHarmPart
+981,落葵紫斑病,Malabar spinach purple spot,茎杆,Stem,危害部位,InflictHarmPart
+982,落葵根结线虫病,Meloidogyne spp.,叶部,Leaf,危害部位,InflictHarmPart
+983,蕹菜白锈病,Albugo ipomoeae - aquaticae,叶片,blade,危害部位,InflictHarmPart
+984,蕹菜白锈病,Albugo ipomoeae - aquaticae,茎部,Stem,危害部位,InflictHarmPart
+985,蕹菜灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+986,西葫芦绵疫病,Phytophthora capsici,叶片,blade,危害部位,InflictHarmPart
+987,西葫芦绵疫病,Phytophthora capsici,茎蔓,Stem,危害部位,InflictHarmPart
+988,西葫芦绵疫病,Phytophthora capsici,果实,fruit,危害部位,InflictHarmPart
+989,西葫芦银叶病,Zucchini silver leaf,叶片,blade,危害部位,InflictHarmPart
+990,西葫芦银叶病,Zucchini silver leaf,果实,fruit,危害部位,InflictHarmPart
+991,豌豆灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+992,豌豆灰霉病,Botrytis cinerea,果荚,Fruit Pods,危害部位,InflictHarmPart
+993,豌豆根串珠霉根腐病,Pea root rot caused by Thielaviopsis basicola,叶片,blade,危害部位,InflictHarmPart
+994,豌豆黑斑病,Pea black spot,叶片,blade,危害部位,InflictHarmPart
+995,豌豆黑斑病,Pea black spot,叶柄,Petiole,危害部位,InflictHarmPart
+996,豌豆黑斑病,Pea black spot,茎蔓,Stem,危害部位,InflictHarmPart
+997,豌豆黑斑病,Pea black spot,豆荚,pod,危害部位,InflictHarmPart
+998,豌豆芽枯病,Pea bud blight,豆荚,pod,危害部位,InflictHarmPart
+999,葡萄根朽病,Armillaria mellea,根部,Root,危害部位,InflictHarmPart
+1000,葡萄根朽病,Armillaria mellea,植株,Plant,危害部位,InflictHarmPart
+1001,葡萄蔓割病,Botryosphaeria dothidea,枝蔓,Tendrils,危害部位,InflictHarmPart
+1002,葡萄蔓割病,Botryosphaeria dothidea,叶片,blade,危害部位,InflictHarmPart
+1003,葡萄蔓割病,Botryosphaeria dothidea,果实,fruit,危害部位,InflictHarmPart
+1004,甜菜丛根病,Beet rhizomania virus（BRV）,根系,Root system,危害部位,InflictHarmPart
+1005,甜菜丛根病,Beet rhizomania virus（BRV）,叶,leaf,危害部位,InflictHarmPart
+1006,甜菜苗腐病,Pythium spp.,茎基,Stem base,危害部位,InflictHarmPart
+1007,甜菜苗腐病,Pythium spp.,叶片,blade,危害部位,InflictHarmPart
+1008,茶饼病,Exobasidium vexans,叶片,blade,危害部位,InflictHarmPart
+1009,茶圆赤星病,Elsino? leucospila,叶片,blade,危害部位,InflictHarmPart
+1010,茶圆赤星病,Elsino? leucospila,叶,leaf,危害部位,InflictHarmPart
+1011,茶红锈藻病,Cephaleuros parasiticus,枝干,Branches,危害部位,InflictHarmPart
+1012,茶红锈藻病,Cephaleuros parasiticus,叶片,blade,危害部位,InflictHarmPart
+1013,茶白星病,Phyllosticta theaefolia,嫩叶,Young leaves,危害部位,InflictHarmPart
+1014,茶白星病,Phyllosticta theaefolia,叶,leaf,危害部位,InflictHarmPart
+1015,茶白星病,Phyllosticta theaefolia,及嫩,Tender,危害部位,InflictHarmPart
+1016,茶云纹叶枯病,Guignardia camelliae,叶片,blade,危害部位,InflictHarmPart
+1017,茶云纹叶枯病,Guignardia camelliae,枝干,Branches,危害部位,InflictHarmPart
+1018,茶云纹叶枯病,Guignardia camelliae,果实,fruit,危害部位,InflictHarmPart
+1019,茶树苔藓、地衣,Tea tree moss and lichen,苔藓,moss,危害部位,InflictHarmPart
+1020,茶树苔藓、地衣,Tea tree moss and lichen,地衣,Lichen,危害部位,InflictHarmPart
+1021,烟草炭疽病,Colletotrichum nicotianae,叶片,blade,危害部位,InflictHarmPart
+1022,烟草炭疽病,Colletotrichum nicotianae,茎杆,Stem,危害部位,InflictHarmPart
+1023,烟草炭疽病,Colletotrichum nicotianae,花,flower,危害部位,InflictHarmPart
+1024,烟草菌核病,Sclerotinia sclerotiorum,苗期,Seedling stage,危害部位,InflictHarmPart
+1025,烟草低头黑病,Tobacco black shank,苗期,Seedling stage,危害部位,InflictHarmPart
+1026,烟草灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+1027,烟草灰霉病,Botrytis cinerea,叶柄,Petiole,危害部位,InflictHarmPart
+1028,烟草灰霉病,Botrytis cinerea,茎杆,Stem,危害部位,InflictHarmPart
+1029,烟草灰霉病,Botrytis cinerea,花器,Flower vases,危害部位,InflictHarmPart
+1030,烟草斑点病,Tobacco spotting,苗期,Seedling stage,危害部位,InflictHarmPart
+1031,烟草霜霉病,Peronospora tabacina,苗期,Seedling stage,危害部位,InflictHarmPart
+1032,烟草空胫病,Tobacco hollow stem,苗期,Seedling stage,危害部位,InflictHarmPart
+1033,烟草黑胫病,Phytophthora nicotianae,幼苗,seedling,危害部位,InflictHarmPart
+1034,烟草黑胫病,Phytophthora nicotianae,茎杆,Stem,危害部位,InflictHarmPart
+1035,烟草黑胫病,Phytophthora nicotianae,叶片,blade,危害部位,InflictHarmPart
+1036,花生茎腐病,Aspergillus niger,幼苗,seedling,危害部位,InflictHarmPart
+1037,花生茎腐病,Aspergillus niger,成株,Adult plant,危害部位,InflictHarmPart
+1038,花生菌核病,Sclerotinia sclerotiorum,叶片,blade,危害部位,InflictHarmPart
+1039,花生菌核病,Sclerotinia sclerotiorum,茎部,Stem,危害部位,InflictHarmPart
+1040,花生菌核病,Sclerotinia sclerotiorum,荚果,Pods,危害部位,InflictHarmPart
+1041,花生网斑病,Drechslera teres f. sp. arachidis,叶片,blade,危害部位,InflictHarmPart
+1042,花生网斑病,Drechslera teres f. sp. arachidis,叶柄,Petiole,危害部位,InflictHarmPart
+1043,油菜黑胫病,Leptosphaeria biglobosa,幼苗,seedling,危害部位,InflictHarmPart
+1044,油菜黑胫病,Leptosphaeria biglobosa,叶片,blade,危害部位,InflictHarmPart
+1045,油菜黑胫病,Leptosphaeria biglobosa,根、茎,rhizome,危害部位,InflictHarmPart
+1046,油菜黑胫病,Leptosphaeria biglobosa,果荚,Fruit Pods,危害部位,InflictHarmPart
+1047,油菜黑胫病,Leptosphaeria biglobosa,种子,seed,危害部位,InflictHarmPart
+1048,油菜立枯病,Rhizoctonia solani,幼苗,seedling,危害部位,InflictHarmPart
+1049,油菜菌核病,Sclerotinia sclerotiorum,幼苗,seedling,危害部位,InflictHarmPart
+1050,油菜菌核病,Sclerotinia sclerotiorum,叶片,blade,危害部位,InflictHarmPart
+1051,油菜菌核病,Sclerotinia sclerotiorum,茎部,Stem,危害部位,InflictHarmPart
+1052,油菜菌核病,Sclerotinia sclerotiorum,果荚,Fruit Pods,危害部位,InflictHarmPart
+1053,油菜霜霉病,Peronospora parasitica,叶片,blade,危害部位,InflictHarmPart
+1054,油菜霜霉病,Peronospora parasitica,花梗,Pedicels,危害部位,InflictHarmPart
+1055,油菜霜霉病,Peronospora parasitica,果荚,Fruit Pods,危害部位,InflictHarmPart
+1056,油菜炭疽病,Colletotrichum higginsianum,叶片,blade,危害部位,InflictHarmPart
+1057,油菜炭疽病,Colletotrichum higginsianum,果荚,Fruit Pods,危害部位,InflictHarmPart
+1058,油菜黑斑病,Alternaria brassicae,幼苗,seedling,危害部位,InflictHarmPart
+1059,油菜黑斑病,Alternaria brassicae,叶片,blade,危害部位,InflictHarmPart
+1060,油菜黑斑病,Alternaria brassicae,果荚,Fruit Pods,危害部位,InflictHarmPart
+1061,油菜黑腐病,Xanthomonas campestris pv. campestris,叶片,blade,危害部位,InflictHarmPart
+1062,油菜黑腐病,Xanthomonas campestris pv. campestris,果荚,Fruit Pods,危害部位,InflictHarmPart
+1063,油菜软腐病,Erwinia carotovora subsp. carotovora,茎杆,Stem,危害部位,InflictHarmPart
+1064,油菜细菌性黑斑病,Pseudomonas syringae pv. maculicola,叶片,blade,危害部位,InflictHarmPart
+1065,油菜病毒病,Rapeseed virus,甘蓝,Kale,危害部位,InflictHarmPart
+1066,油菜病毒病,Rapeseed virus,白菜,Chinese cabbage,危害部位,InflictHarmPart
+1067,芝麻疫病,Phytophthora nicotianae var. parasitica,叶片,blade,危害部位,InflictHarmPart
+1068,芝麻疫病,Phytophthora nicotianae var. parasitica,茎杆,Stem,危害部位,InflictHarmPart
+1069,芝麻叶枯病,Alternaria sesami,叶片,blade,危害部位,InflictHarmPart
+1070,芝麻叶枯病,Alternaria sesami,茎杆,Stem,危害部位,InflictHarmPart
+1071,芝麻叶斑病,Sesame leaf spot,叶片,blade,危害部位,InflictHarmPart
+1072,芝麻叶斑病,Sesame leaf spot,茎部,Stem,危害部位,InflictHarmPart
+1073,芝麻青枯病,Ralstonia solanacearum,茎杆,Stem,危害部位,InflictHarmPart
+1074,芝麻青枯病,Ralstonia solanacearum,叶片,blade,危害部位,InflictHarmPart
+1075,芝麻细菌性角斑病,Xanthomonas campestris pv. sesami,幼苗,seedling,危害部位,InflictHarmPart
+1076,芝麻细菌性角斑病,Xanthomonas campestris pv. sesami,叶片,blade,危害部位,InflictHarmPart
+1077,芝麻细菌性角斑病,Xanthomonas campestris pv. sesami,茎杆,Stem,危害部位,InflictHarmPart
+1078,向日葵菌核病,Sclerotinia sclerotiorum,根腐,Root rot,危害部位,InflictHarmPart
+1079,向日葵菌核病,Sclerotinia sclerotiorum,茎腐,Stem rot,危害部位,InflictHarmPart
+1080,向日葵菌核病,Sclerotinia sclerotiorum,叶腐,Leaf Rot,危害部位,InflictHarmPart
+1081,向日葵黑斑病,Alternaria helianthi,叶片,blade,危害部位,InflictHarmPart
+1082,向日葵黑斑病,Alternaria helianthi,叶柄,Petiole,危害部位,InflictHarmPart
+1083,向日葵黑斑病,Alternaria helianthi,茎杆,Stem,危害部位,InflictHarmPart
+1084,向日葵黑斑病,Alternaria helianthi,花瓣,petal,危害部位,InflictHarmPart
+1085,甘蔗赤腐病,Colletotrichum falcatum,茎秆,Stem,危害部位,InflictHarmPart
+1086,甘蔗赤腐病,Colletotrichum falcatum,叶片,blade,危害部位,InflictHarmPart
+1087,甘蔗眼斑病,Helminthosporium sacchari,叶片,blade,危害部位,InflictHarmPart
+1088,甜菜立枯病,Rhizoctonia solani,幼苗,seedling,危害部位,InflictHarmPart
+1089,甜菜褐斑病,Cercospora beticola,叶片,blade,危害部位,InflictHarmPart
+1090,甜菜褐斑病,Cercospora beticola,叶,leaf,危害部位,InflictHarmPart
+1091,甜菜褐斑病,Cercospora beticola,和茎部,and stem,危害部位,InflictHarmPart
+1092,亚麻炭疽病,Colletotrichum lini,子叶,Cotyledon,危害部位,InflictHarmPart
+1093,亚麻炭疽病,Colletotrichum lini,叶,leaf,危害部位,InflictHarmPart
+1094,亚麻炭疽病,Colletotrichum lini,及茎部,and stem,危害部位,InflictHarmPart
+1095,红麻炭疽病,Colletotrichum hibisci,幼苗,seedling,危害部位,InflictHarmPart
+1096,红麻炭疽病,Colletotrichum hibisci,叶片,blade,危害部位,InflictHarmPart
+1097,红麻炭疽病,Colletotrichum hibisci,茎杆,Stem,危害部位,InflictHarmPart
+1098,红麻炭疽病,Colletotrichum hibisci,花蕾,bud,危害部位,InflictHarmPart
+1099,红麻斑点病,Kenaf spot,子叶,Cotyledon,危害部位,InflictHarmPart
+1100,红麻斑点病,Kenaf spot,真叶,True leaves,危害部位,InflictHarmPart
+1101,红麻斑点病,Kenaf spot,茎杆,Stem,危害部位,InflictHarmPart
+1102,红麻斑点病,Kenaf spot,蒴果,Capsule,危害部位,InflictHarmPart
+1103,红麻灰霉病,Botrytis cinerea,叶片,blade,危害部位,InflictHarmPart
+1104,红麻灰霉病,Botrytis cinerea,茎杆,Stem,危害部位,InflictHarmPart
+1105,红麻灰霉病,Botrytis cinerea,花蕾,bud,危害部位,InflictHarmPart
+1106,黄麻根腐病,Jute root rot,幼苗,seedling,危害部位,InflictHarmPart
+1107,苎麻炭疽病,Colletotrichum boehmeriae,叶片,blade,危害部位,InflictHarmPart
+1108,苎麻炭疽病,Colletotrichum boehmeriae,叶柄,Petiole,危害部位,InflictHarmPart
+1109,苎麻炭疽病,Colletotrichum boehmeriae,茎杆,Stem,危害部位,InflictHarmPart
+1110,苎麻褐斑病,Ramie brown spot,叶片,blade,危害部位,InflictHarmPart
+1111,苎麻褐斑病,Ramie brown spot,茎杆,Stem,危害部位,InflictHarmPart
+1112,苎麻花叶病,Ramie mosaic,花叶型,Mosaic,危害部位,InflictHarmPart
+1113,大豆霜霉病,Peronospora manshurica,幼苗,seedling,危害部位,InflictHarmPart
+1114,大豆霜霉病,Peronospora manshurica,叶片,blade,危害部位,InflictHarmPart
+1115,大豆霜霉病,Peronospora manshurica,豆荚,pod,危害部位,InflictHarmPart
+1116,大豆枯萎病,Fusarium oxysporum f. sp. glycines,整株,Whole plant,危害部位,InflictHarmPart
+1117,大豆枯萎病,Fusarium oxysporum f. sp. glycines,根系,Root system,危害部位,InflictHarmPart
+1118,大豆枯萎病,Fusarium oxysporum f. sp. glycines,茎部,Stem,危害部位,InflictHarmPart
+1119,大豆紫斑病,Cercospora kikuchii,幼苗,seedling,危害部位,InflictHarmPart
+1120,大豆紫斑病,Cercospora kikuchii,叶片,blade,危害部位,InflictHarmPart
+1121,大豆紫斑病,Cercospora kikuchii,茎杆,Stem,危害部位,InflictHarmPart
+1122,大豆紫斑病,Cercospora kikuchii,豆荚,pod,危害部位,InflictHarmPart
+1123,大豆紫斑病,Cercospora kikuchii,种子,seed,危害部位,InflictHarmPart
+1124,大豆灰斑病,Cercospora sojina,幼苗,seedling,危害部位,InflictHarmPart
+1125,大豆灰斑病,Cercospora sojina,叶片,blade,危害部位,InflictHarmPart
+1126,大豆灰斑病,Cercospora sojina,茎杆,Stem,危害部位,InflictHarmPart
+1127,大豆灰斑病,Cercospora sojina,豆荚,pod,危害部位,InflictHarmPart
+1128,大豆灰斑病,Cercospora sojina,种子,seed,危害部位,InflictHarmPart
+1129,大豆褐斑病,Soybean brown blotch,叶片,blade,危害部位,InflictHarmPart
+1130,大豆褐斑病,Soybean brown blotch,叶柄,Petiole,危害部位,InflictHarmPart
+1131,大豆褐斑病,Soybean brown blotch,豆荚,pod,危害部位,InflictHarmPart
+1132,大豆纹枯病,Rhizoctonia solani,叶片,blade,危害部位,InflictHarmPart
+1133,大豆羞萎病,Soybean shy wilt,幼苗,seedling,危害部位,InflictHarmPart
+1134,大豆轮纹病,Soybean ring pattern,子叶,Cotyledon,危害部位,InflictHarmPart
+1135,大豆轮纹病,Soybean ring pattern,叶片,blade,危害部位,InflictHarmPart
+1136,大豆轮纹病,Soybean ring pattern,叶柄,Petiole,危害部位,InflictHarmPart
+1137,大豆轮纹病,Soybean ring pattern,茎部,Stem,危害部位,InflictHarmPart
+1138,大豆荚枯病,Soybean pod blight,豆荚,pod,危害部位,InflictHarmPart
+1139,大豆疫病,Phytophthora sojae,苗期,Seedling stage,危害部位,InflictHarmPart
+1140,大豆疫病,Phytophthora sojae,成株,Adult plant,危害部位,InflictHarmPart
+1141,大豆疫病,Phytophthora sojae,豆荚,pod,危害部位,InflictHarmPart
+1142,大豆炭疽病,Colletotrichum glycines,幼苗,seedling,危害部位,InflictHarmPart
+1143,大豆炭疽病,Colletotrichum glycines,叶片,blade,危害部位,InflictHarmPart
+1144,大豆炭疽病,Colletotrichum glycines,茎杆,Stem,危害部位,InflictHarmPart
+1145,大豆炭疽病,Colletotrichum glycines,豆荚,pod,危害部位,InflictHarmPart
+1146,大豆黑点病,Soybean black dot,茎秆,Stem,危害部位,InflictHarmPart
+1147,大豆黑点病,Soybean black dot,豆荚,pod,危害部位,InflictHarmPart
+1148,大豆细菌性斑点病,Soybean bacterial spot,幼苗,seedling,危害部位,InflictHarmPart
+1149,大豆细菌性斑点病,Soybean bacterial spot,叶片,blade,危害部位,InflictHarmPart
+1150,大豆细菌性斑点病,Soybean bacterial spot,豆荚,pod,危害部位,InflictHarmPart
+1151,大豆细菌性斑点病,Soybean bacterial spot,籽粒,Grains,危害部位,InflictHarmPart
+1152,大豆细菌性斑疹病,Soybean bacterial pustule,叶片,blade,危害部位,InflictHarmPart
+1153,大豆细菌性斑疹病,Soybean bacterial pustule,豆荚,pod,危害部位,InflictHarmPart
+1154,高粱炭疽病,Colletotrichum sublineolum,幼苗,seedling,危害部位,InflictHarmPart
+1155,高粱炭疽病,Colletotrichum sublineolum,叶片,blade,危害部位,InflictHarmPart
+1156,高粱炭疽病,Colletotrichum sublineolum,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1157,高粱炭疽病,Colletotrichum sublineolum,穗部,Hobe,危害部位,InflictHarmPart
+1158,高粱柱黑粉病,Sphacelotheca reiliana,叶片,blade,危害部位,InflictHarmPart
+1159,高粱柱黑粉病,Sphacelotheca reiliana,茎秆,Stem,危害部位,InflictHarmPart
+1160,高粱柱黑粉病,Sphacelotheca reiliana,穗部,Hobe,危害部位,InflictHarmPart
+1161,高粱镰刀菌穗腐病,Fusarium graminearum,穗部,Hobe,危害部位,InflictHarmPart
+1162,高粱镰刀菌穗腐病,Fusarium graminearum,叶片,blade,危害部位,InflictHarmPart
+1163,高粱镰刀菌穗腐病,Fusarium graminearum,茎秆,Stem,危害部位,InflictHarmPart
+1164,高粱紫斑病,Cercospora sorghi,叶片,blade,危害部位,InflictHarmPart
+1165,高粱紫斑病,Cercospora sorghi,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1166,高粱紫轮病,Sorghum purple ring,叶片,blade,危害部位,InflictHarmPart
+1167,高粱紫轮病,Sorghum purple ring,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1168,粟白发病,Sclerospora graminicola,烂芽,Rotten Buds,危害部位,InflictHarmPart
+1169,粟胡麻斑病,Bipolaris setariae,叶片,blade,危害部位,InflictHarmPart
+1170,粟胡麻斑病,Bipolaris setariae,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1171,粟胡麻斑病,Bipolaris setariae,颖壳,Husk,危害部位,InflictHarmPart
+1172,甘薯疮痂病,Elsino? batatas,叶片,blade,危害部位,InflictHarmPart
+1173,甘薯疮痂病,Elsino? batatas,叶柄,Petiole,危害部位,InflictHarmPart
+1174,甘薯疮痂病,Elsino? batatas,嫩梢,Young shoots,危害部位,InflictHarmPart
+1175,甘薯疮痂病,Elsino? batatas,薯块,Potato Nuggets,危害部位,InflictHarmPart
+1176,甘薯黑斑病,Ceratocystis fimbriata,苗期,Seedling stage,危害部位,InflictHarmPart
+1177,甘薯瘟病,Ralstonia solanacearum,苗期,Seedling stage,危害部位,InflictHarmPart
+1178,甘薯瘟病,Ralstonia solanacearum,薯块,Potato Nuggets,危害部位,InflictHarmPart
+1179,甘薯病毒病,Sweet potato virus,叶片,blade,危害部位,InflictHarmPart
+1180,甘薯病毒病,Sweet potato virus,薯块,Potato Nuggets,危害部位,InflictHarmPart
+1181,甘薯茎线虫病,Ditylenchus destructor,幼苗,seedling,危害部位,InflictHarmPart
+1182,甘薯茎线虫病,Ditylenchus destructor,茎蔓,Stem,危害部位,InflictHarmPart
+1183,甘薯茎线虫病,Ditylenchus destructor,薯块,Potato Nuggets,危害部位,InflictHarmPart
+1184,马铃薯早疫病,Alternaria solani,叶片,blade,危害部位,InflictHarmPart
+1185,马铃薯早疫病,Alternaria solani,块茎,Tuber,危害部位,InflictHarmPart
+1186,马铃薯晚疫病,Phytophthora infestans,叶片,blade,危害部位,InflictHarmPart
+1187,马铃薯晚疫病,Phytophthora infestans,薯块,Potato Nuggets,危害部位,InflictHarmPart
+1188,马铃薯晚疫病,Phytophthora infestans,茎部,Stem,危害部位,InflictHarmPart
+1189,马铃薯黑胫病,Erwinia carotovora subsp. atroseptica,薯块,Potato Nuggets,危害部位,InflictHarmPart
+1190,马铃薯黑胫病,Erwinia carotovora subsp. atroseptica,幼苗,seedling,危害部位,InflictHarmPart
+1191,马铃薯粉痂病,Spongospora subterranea f. sp. subterranea,块茎,Tuber,危害部位,InflictHarmPart
+1192,马铃薯粉痂病,Spongospora subterranea f. sp. subterranea,根部,Root,危害部位,InflictHarmPart
+1193,棉花炭疽病,Colletotrichum gossypii,苗期,Seedling stage,危害部位,InflictHarmPart
+1194,棉花红腐病,Fusarium moniliforme,苗期,Seedling stage,危害部位,InflictHarmPart
+1195,棉花枯萎病,Fusarium oxysporum f. sp. vasinfectum,苗期,Seedling stage,危害部位,InflictHarmPart
+1196,棉花枯萎病,Fusarium oxysporum f. sp. vasinfectum,成株,Adult plant,危害部位,InflictHarmPart
+1197,棉花疫病,Phytophthora boehmeriae,苗期,Seedling stage,危害部位,InflictHarmPart
+1198,棉花疫病,Phytophthora boehmeriae,铃期,Bell period,危害部位,InflictHarmPart
+1199,棉花茎枯病,Cotton stem blight,叶片,blade,危害部位,InflictHarmPart
+1200,棉花茎枯病,Cotton stem blight,叶柄,Petiole,危害部位,InflictHarmPart
+1201,棉花茎枯病,Cotton stem blight,茎杆,Stem,危害部位,InflictHarmPart
+1202,棉花茎枯病,Cotton stem blight,棉铃,Cotton boll,危害部位,InflictHarmPart
+1203,棉花角斑病,Xanthomonas citri pv. malvacearum,幼苗,seedling,危害部位,InflictHarmPart
+1204,棉花角斑病,Xanthomonas citri pv. malvacearum,叶片,blade,危害部位,InflictHarmPart
+1205,棉花角斑病,Xanthomonas citri pv. malvacearum,茎杆,Stem,危害部位,InflictHarmPart
+1206,棉花角斑病,Xanthomonas citri pv. malvacearum,棉铃,Cotton boll,危害部位,InflictHarmPart
+1207,大麦条纹病,Drechslera graminea,苗期,Seedling stage,危害部位,InflictHarmPart
+1208,大麦条纹病,Drechslera graminea,成株,Adult plant,危害部位,InflictHarmPart
+1209,黄麻苗枯病,Jute seedling blight,幼苗,seedling,危害部位,InflictHarmPart
+1210,黄麻黑点炭疽病,Colletotrichum gloeosporioides,幼苗,seedling,危害部位,InflictHarmPart
+1211,黄麻黑点炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+1212,黄麻黑点炭疽病,Colletotrichum gloeosporioides,茎杆,Stem,危害部位,InflictHarmPart
+1213,黄麻叶枯病,Jute leaf blight,叶片,blade,危害部位,InflictHarmPart
+1214,黄麻叶枯病,Jute leaf blight,茎杆,Stem,危害部位,InflictHarmPart
+1215,黄麻茎斑病,Jute stem spot,子叶,Cotyledon,危害部位,InflictHarmPart
+1216,黄麻茎斑病,Jute stem spot,真叶,True leaves,危害部位,InflictHarmPart
+1217,黄麻茎斑病,Jute stem spot,茎杆,Stem,危害部位,InflictHarmPart
+1218,玉米疯顶病,Maize crazy top,苗,Seedling,危害部位,InflictHarmPart
+1219,玉米茎腐病,Fusarium graminearum,根,root,危害部位,InflictHarmPart
+1220,玉米茎腐病,Fusarium graminearum,叶片,blade,危害部位,InflictHarmPart
+1221,玉米圆斑病,Bipolaris zeicola,叶片,blade,危害部位,InflictHarmPart
+1222,玉米圆斑病,Bipolaris zeicola,穗部,Hobe,危害部位,InflictHarmPart
+1223,玉米圆斑病,Bipolaris zeicola,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1224,玉米干腐病,Diplodia maydis,穗部,Hobe,危害部位,InflictHarmPart
+1225,玉米干腐病,Diplodia maydis,茎秆,Stem,危害部位,InflictHarmPart
+1226,玉米干腐病,Diplodia maydis,叶片,blade,危害部位,InflictHarmPart
+1227,玉米丝黑穗病,Sphacelotheca reiliana,叶片,blade,危害部位,InflictHarmPart
+1228,玉米丝黑穗病,Sphacelotheca reiliana,雄穗,Tassel,危害部位,InflictHarmPart
+1229,玉米丝黑穗病,Sphacelotheca reiliana,雌穗,Female ear,危害部位,InflictHarmPart
+1230,黄麻炭疽病,Colletotrichum gloeosporioides,幼苗,seedling,危害部位,InflictHarmPart
+1231,黄麻炭疽病,Colletotrichum gloeosporioides,叶片,blade,危害部位,InflictHarmPart
+1232,黄麻炭疽病,Colletotrichum gloeosporioides,茎杆,Stem,危害部位,InflictHarmPart
+1233,黄麻枯腐病,Jute dry rot,苗期,Seedling stage,危害部位,InflictHarmPart
+1234,黄麻枯腐病,Jute dry rot,叶片,blade,危害部位,InflictHarmPart
+1235,黄麻枯腐病,Jute dry rot,茎部,Stem,危害部位,InflictHarmPart
+1236,黄麻枯腐病,Jute dry rot,根部,Root,危害部位,InflictHarmPart
+1237,向日葵褐斑病,Sunflower brown spot,子叶,Cotyledon,危害部位,InflictHarmPart
+1238,向日葵褐斑病,Sunflower brown spot,叶片,blade,危害部位,InflictHarmPart
+1239,向日葵褐斑病,Sunflower brown spot,叶柄,Petiole,危害部位,InflictHarmPart
+1240,向日葵白粉病,Sunflower powdery mildew,叶片,blade,危害部位,InflictHarmPart
+1241,向日葵白粉病,Sunflower powdery mildew,茎杆,Stem,危害部位,InflictHarmPart
+1242,向日葵霜霉病,Plasmopara halstedii,叶片,blade,危害部位,InflictHarmPart
+1243,向日葵细菌性茎腐病,Erwinia carotovora subsp. carotovora,茎杆,Stem,危害部位,InflictHarmPart
+1244,向日葵细菌性茎腐病,Erwinia carotovora subsp. carotovora,花盘,faceplate,危害部位,InflictHarmPart
+1245,葱炭疽病,Colletotrichum circinans,叶片,blade,危害部位,InflictHarmPart
+1246,葱炭疽病,Colletotrichum circinans,鳞茎,Bulb,危害部位,InflictHarmPart
+1247,葱黄矮病,Onion yellow dwarf,大葱,Green onion,危害部位,InflictHarmPart
+1248,葱黄矮病,Onion yellow dwarf,洋,foreign,危害部位,InflictHarmPart
+1249,大白菜霜霉病,Peronospora parasitica,幼苗,seedling,危害部位,InflictHarmPart
+1250,大白菜霜霉病,Peronospora parasitica,成株,Adult plant,危害部位,InflictHarmPart
+1251,大白菜霜霉病,Peronospora parasitica,种荚,Seed Pods,危害部位,InflictHarmPart
+1252,大白菜黑斑病,Alternaria brassicae,叶片,blade,危害部位,InflictHarmPart
+1253,大白菜黑斑病,Alternaria brassicae,叶柄,Petiole,危害部位,InflictHarmPart
+1254,青花菜黑胫病,Leptosphaeria maculans,苗期,Seedling stage,危害部位,InflictHarmPart
+1255,青花菜黑胫病,Leptosphaeria maculans,成株,Adult plant,危害部位,InflictHarmPart
+1256,玉米条纹矮缩病,Maize stripe dwarf,整株,Whole plant,危害部位,InflictHarmPart
+1257,玉米条纹矮缩病,Maize stripe dwarf,叶片,blade,危害部位,InflictHarmPart
+1258,大白菜黑胫病,Chinese cabbage blackleg,幼苗,seedling,危害部位,InflictHarmPart
+1259,大白菜黑胫病,Chinese cabbage blackleg,成株,Adult plant,危害部位,InflictHarmPart
+1260,青花菜霜霉病,Peronospora parasitica,幼苗,seedling,危害部位,InflictHarmPart
+1261,青花菜霜霉病,Peronospora parasitica,叶片,blade,危害部位,InflictHarmPart
+1262,青花菜霜霉病,Peronospora parasitica,花球,Flower Balls,危害部位,InflictHarmPart
+1263,青花菜灰霉病,Botrytis cinerea,苗期,Seedling stage,危害部位,InflictHarmPart
+1264,青花菜灰霉病,Botrytis cinerea,成株,Adult plant,危害部位,InflictHarmPart
+1265,稻瘟病,Magnaporthe oryzae,苗瘟,Miao plague,危害部位,InflictHarmPart
+1266,稻瘟病,Magnaporthe oryzae,叶瘟,Leaf blight,危害部位,InflictHarmPart
+1267,稻瘟病,Magnaporthe oryzae,谷粒瘟,Grain blight,危害部位,InflictHarmPart
+1268,水稻恶苗病,Fusarium fujikuroi,苗期,Seedling stage,危害部位,InflictHarmPart
+1269,水稻菌核秆腐病,Rice sclerotium stem rot,茎秆,Stem,危害部位,InflictHarmPart
+1270,水稻菌核秆腐病,Rice sclerotium stem rot,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1271,水稻纹枯病,Rhizoctonia solani,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1272,水稻纹枯病,Rhizoctonia solani,叶片,blade,危害部位,InflictHarmPart
+1273,水稻胡麻斑病,Bipolaris oryzae,幼芽,bud,危害部位,InflictHarmPart
+1274,水稻胡麻斑病,Bipolaris oryzae,叶片,blade,危害部位,InflictHarmPart
+1275,水稻胡麻斑病,Bipolaris oryzae,穗部,Hobe,危害部位,InflictHarmPart
+1276,水稻东格鲁病毒病,Rice tungro virus（RTV）,叶片,blade,危害部位,InflictHarmPart
+1277,水稻倒伏,Rice lodging,叶片,blade,危害部位,InflictHarmPart
+1278,水稻霜霉病,Sclerospora graminicola,幼苗,seedling,危害部位,InflictHarmPart
+1279,水稻窄条斑病,Cercospora janseana,叶片,blade,危害部位,InflictHarmPart
+1280,水稻窄条斑病,Cercospora janseana,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1281,水稻窄条斑病,Cercospora janseana,茎秆,Stem,危害部位,InflictHarmPart
+1282,水稻窄条斑病,Cercospora janseana,穗部,Hobe,危害部位,InflictHarmPart
+1283,水稻窄条斑病,Cercospora janseana,谷粒,Grains,危害部位,InflictHarmPart
+1284,水稻叶尖枯病,Rice leaf tip blight,叶片,blade,危害部位,InflictHarmPart
+1285,水稻叶尖枯病,Rice leaf tip blight,谷粒,Grains,危害部位,InflictHarmPart
+1286,水稻白叶枯病,Xanthomonas oryzae pv. oryzae,叶枯,Leaf blight,危害部位,InflictHarmPart
+1287,水稻细菌性褐斑病,Rice bacterial brown spot,叶片,blade,危害部位,InflictHarmPart
+1288,水稻细菌性褐斑病,Rice bacterial brown spot,叶鞘,Leaf sheath,危害部位,InflictHarmPart
+1289,水稻细菌性褐斑病,Rice bacterial brown spot,穗部,Hobe,危害部位,InflictHarmPart
+1290,水稻黑条矮缩病,Rice black - streaked dwarf virus（RBSDV）,根部,Root,危害部位,InflictHarmPart
+1291,水稻黑条矮缩病,Rice black - streaked dwarf virus（RBSDV）,叶,leaf,危害部位,InflictHarmPart
+1292,水稻黑条矮缩病,Rice black - streaked dwarf virus（RBSDV）,穗,ear,危害部位,InflictHarmPart
+1293,水稻根结线虫病,Meloidogyne graminicola,根部,Root,危害部位,InflictHarmPart
+1294,小麦秆枯病,Wheat straw blight,苗期,Seedling stage,危害部位,InflictHarmPart
+1295,小麦全蚀病,Gaeumannomyces graminis var. tritici,苗期,Seedling stage,危害部位,InflictHarmPart
+1296,小麦条锈病,Puccinia striiformis f. sp. tritici,苗期,Seedling stage,危害部位,InflictHarmPart
+1297,小麦霜霉病,Wheat downy mildew,苗期,Seedling stage,危害部位,InflictHarmPart
+1298,小麦霜霉病,Wheat downy mildew,穗期,Heading stage,危害部位,InflictHarmPart
+1299,小麦雪霉叶枯病,Microdochium nivale,芽腐,Bud rot,危害部位,InflictHarmPart
+1300,小麦雪霉叶枯病,Microdochium nivale,基腐,Basal rot,危害部位,InflictHarmPart
+1301,小麦雪霉叶枯病,Microdochium nivale,叶枯,Leaf blight,危害部位,InflictHarmPart
+1302,小麦雪霉叶枯病,Microdochium nivale,穗腐,Ear rot,危害部位,InflictHarmPart
+1303,小麦白秆病,Wheat white stem,叶片,blade,危害部位,InflictHarmPart
+1304,小麦白秆病,Wheat white stem,茎,stem,危害部位,InflictHarmPart
+1305,小麦白秆病,Wheat white stem,穗部,Hobe,危害部位,InflictHarmPart
+1306,小麦根腐病,Bipolaris sorokiniana,幼苗,seedling,危害部位,InflictHarmPart
+1307,小麦根腐病,Bipolaris sorokiniana,根部,Root,危害部位,InflictHarmPart
+1308,小麦根腐病,Bipolaris sorokiniana,叶片,blade,危害部位,InflictHarmPart
+1309,小麦根腐病,Bipolaris sorokiniana,茎节,Stem node,危害部位,InflictHarmPart
+1310,小麦根腐病,Bipolaris sorokiniana,穗部,Hobe,危害部位,InflictHarmPart
+1311,小麦赤霉病,Fusarium graminearum,苗腐,Seedling rot,危害部位,InflictHarmPart
+1312,小麦赤霉病,Fusarium graminearum,茎基腐,Stem base rot,危害部位,InflictHarmPart
+1313,小麦赤霉病,Fusarium graminearum,秆腐,Stalk rot,危害部位,InflictHarmPart
+1314,小麦赤霉病,Fusarium graminearum,穗腐,Ear rot,危害部位,InflictHarmPart
+1315,小麦颖枯病,Septoria nodorum,穗部,Hobe,危害部位,InflictHarmPart
+1316,小麦颖枯病,Septoria nodorum,茎节,Stem node,危害部位,InflictHarmPart
+1317,小麦颖枯病,Septoria nodorum,叶片,blade,危害部位,InflictHarmPart
+1318,小麦黑颖病,Xanthomonas translucens,穗部,Hobe,危害部位,InflictHarmPart
+1319,小麦黑颖病,Xanthomonas translucens,叶片,blade,危害部位,InflictHarmPart
+1320,小麦黑颖病,Xanthomonas translucens,茎秆,Stem,危害部位,InflictHarmPart
+1321,小麦黑颖病,Xanthomonas translucens,穗轴,Cob,危害部位,InflictHarmPart

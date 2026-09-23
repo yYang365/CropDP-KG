@@ -1,0 +1,1563 @@
+number,Chinese entity name,entity binomial scientific name,Chinese region,English region,Chinese relation,English relation
+1,香蕉黑带象甲,Odoiporus longicollis,广东,Guangdong,主要发生地,RegionIs
+2,香蕉黑带象甲,Odoiporus longicollis,广西,Guangxi,主要发生地,RegionIs
+3,香蕉黑带象甲,Odoiporus longicollis,贵州,Guizhou,主要发生地,RegionIs
+4,香蕉黑带象甲,Odoiporus longicollis,福建,Fujian,主要发生地,RegionIs
+5,香蕉黑带象甲,Odoiporus longicollis,台湾,Taiwan,主要发生地,RegionIs
+6,香蕉黑带象甲,Odoiporus longicollis,海南,Hainan,主要发生地,RegionIs
+7,枣壁虱,Eriophyes zizyphagus,河北,Hebei,主要发生地,RegionIs
+8,枣壁虱,Eriophyes zizyphagus,山东,Shandong,主要发生地,RegionIs
+9,柿小叶蝉,Erythroneura sp.,河北,Hebei,主要发生地,RegionIs
+10,柿小叶蝉,Erythroneura sp.,河南,Henan,主要发生地,RegionIs
+11,柿小叶蝉,Erythroneura sp.,山东,Shandong,主要发生地,RegionIs
+12,柿小叶蝉,Erythroneura sp.,山西,Shanxi,主要发生地,RegionIs
+13,柿小叶蝉,Erythroneura sp.,江苏,Jiangsu,主要发生地,RegionIs
+14,柿小叶蝉,Erythroneura sp.,安徽,Anhui,主要发生地,RegionIs
+15,柿小叶蝉,Erythroneura sp.,浙江,Zhejiang,主要发生地,RegionIs
+16,柿小叶蝉,Erythroneura sp.,四川,Sichuan,主要发生地,RegionIs
+17,樗蚕蛾,Philosamia cynthia,东北,Northeast,主要发生地,RegionIs
+18,樗蚕蛾,Philosamia cynthia,中南,Central South,主要发生地,RegionIs
+19,樗蚕蛾,Philosamia cynthia,山东,Shandong,主要发生地,RegionIs
+20,樗蚕蛾,Philosamia cynthia,北京,Beijing,主要发生地,RegionIs
+21,樗蚕蛾,Philosamia cynthia,河北,Hebei,主要发生地,RegionIs
+22,樗蚕蛾,Philosamia cynthia,河南,Henan,主要发生地,RegionIs
+23,樗蚕蛾,Philosamia cynthia,山西,Shanxi,主要发生地,RegionIs
+24,樗蚕蛾,Philosamia cynthia,江苏,Jiangsu,主要发生地,RegionIs
+25,樗蚕蛾,Philosamia cynthia,浙江,Zhejiang,主要发生地,RegionIs
+26,樗蚕蛾,Philosamia cynthia,福建,Fujian,主要发生地,RegionIs
+27,樗蚕蛾,Philosamia cynthia,台湾,Taiwan,主要发生地,RegionIs
+28,樗蚕蛾,Philosamia cynthia,四川,Sichuan,主要发生地,RegionIs
+29,柑橘溃疡病,Xanthomonas citri subsp. citri,福建,Fujian,主要发生地,RegionIs
+30,柑橘溃疡病,Xanthomonas citri subsp. citri,广东,Guangdong,主要发生地,RegionIs
+31,柑橘溃疡病,Xanthomonas citri subsp. citri,广西,Guangxi,主要发生地,RegionIs
+32,柑橘溃疡病,Xanthomonas citri subsp. citri,江西,Jiangxi,主要发生地,RegionIs
+33,柑橘溃疡病,Xanthomonas citri subsp. citri,浙江,Zhejiang,主要发生地,RegionIs
+34,柑橘溃疡病,Xanthomonas citri subsp. citri,湖南,Hunan,主要发生地,RegionIs
+35,柑橘溃疡病,Xanthomonas citri subsp. citri,湖北,Hubei,主要发生地,RegionIs
+36,柑橘溃疡病,Xanthomonas citri subsp. citri,四川,Sichuan,主要发生地,RegionIs
+37,柑橘溃疡病,Xanthomonas citri subsp. citri,贵州,Guizhou,主要发生地,RegionIs
+38,柑橘溃疡病,Xanthomonas citri subsp. citri,台湾,Taiwan,主要发生地,RegionIs
+39,鸟嘴壶夜蛾,Oraesia excavata,陕西,Shaanxi,主要发生地,RegionIs
+40,鸟嘴壶夜蛾,Oraesia excavata,浙江,Zhejiang,主要发生地,RegionIs
+41,鸟嘴壶夜蛾,Oraesia excavata,广东,Guangdong,主要发生地,RegionIs
+42,鸟嘴壶夜蛾,Oraesia excavata,台湾,Taiwan,主要发生地,RegionIs
+43,大绿蝽,Rhynchocoris humeralis,江苏,Jiangsu,主要发生地,RegionIs
+44,大绿蝽,Rhynchocoris humeralis,浙江,Zhejiang,主要发生地,RegionIs
+45,大绿蝽,Rhynchocoris humeralis,湖北,Hubei,主要发生地,RegionIs
+46,大绿蝽,Rhynchocoris humeralis,江西,Jiangxi,主要发生地,RegionIs
+47,大绿蝽,Rhynchocoris humeralis,湖南,Hunan,主要发生地,RegionIs
+48,大绿蝽,Rhynchocoris humeralis,福建,Fujian,主要发生地,RegionIs
+49,大绿蝽,Rhynchocoris humeralis,台湾,Taiwan,主要发生地,RegionIs
+50,大绿蝽,Rhynchocoris humeralis,广东,Guangdong,主要发生地,RegionIs
+51,大绿蝽,Rhynchocoris humeralis,广西,Guangxi,主要发生地,RegionIs
+52,大绿蝽,Rhynchocoris humeralis,贵州,Guizhou,主要发生地,RegionIs
+53,大绿蝽,Rhynchocoris humeralis,四川,Sichuan,主要发生地,RegionIs
+54,柑橘粉虱,Dialeurodes citri,北京,Beijing,主要发生地,RegionIs
+55,柑橘粉虱,Dialeurodes citri,河北,Hebei,主要发生地,RegionIs
+56,柑橘粉虱,Dialeurodes citri,山东,Shandong,主要发生地,RegionIs
+57,柑橘粉虱,Dialeurodes citri,安徽,Anhui,主要发生地,RegionIs
+58,柑橘粉虱,Dialeurodes citri,江苏,Jiangsu,主要发生地,RegionIs
+59,柑橘粉虱,Dialeurodes citri,上海,Shanghai,主要发生地,RegionIs
+60,柑橘粉虱,Dialeurodes citri,浙江,Zhejiang,主要发生地,RegionIs
+61,柑橘粉虱,Dialeurodes citri,湖北,Hubei,主要发生地,RegionIs
+62,柑橘粉虱,Dialeurodes citri,湖南,Hunan,主要发生地,RegionIs
+63,柑橘粉虱,Dialeurodes citri,福建,Fujian,主要发生地,RegionIs
+64,柑橘粉虱,Dialeurodes citri,台湾,Taiwan,主要发生地,RegionIs
+65,柑橘粉虱,Dialeurodes citri,广东,Guangdong,主要发生地,RegionIs
+66,柑橘粉虱,Dialeurodes citri,海南,Hainan,主要发生地,RegionIs
+67,柑橘粉虱,Dialeurodes citri,广西,Guangxi,主要发生地,RegionIs
+68,柑橘粉虱,Dialeurodes citri,云南,Yunnan,主要发生地,RegionIs
+69,柑橘粉虱,Ceroplastes rubens,四川,Sichuan,主要发生地,RegionIs
+70,红蜡蚧,Ceroplastes rubens,浙江,Zhejiang,主要发生地,RegionIs
+71,红蜡蚧,Buzura suppressaria,贵州,Guizhou,主要发生地,RegionIs
+72,油桐尺蛾,Buzura suppressaria,安徽,Anhui,主要发生地,RegionIs
+73,油桐尺蛾,Buzura suppressaria,江苏,Jiangsu,主要发生地,RegionIs
+74,油桐尺蛾,Buzura suppressaria,浙江,Zhejiang,主要发生地,RegionIs
+75,油桐尺蛾,Buzura suppressaria,江西,Jiangxi,主要发生地,RegionIs
+76,油桐尺蛾,Buzura suppressaria,湖北,Hubei,主要发生地,RegionIs
+77,油桐尺蛾,Buzura suppressaria,湖南,Hunan,主要发生地,RegionIs
+78,油桐尺蛾,Buzura suppressaria,四川,Sichuan,主要发生地,RegionIs
+79,油桐尺蛾,Buzura suppressaria,贵州,Guizhou,主要发生地,RegionIs
+80,油桐尺蛾,Buzura suppressaria,广东,Guangdong,主要发生地,RegionIs
+81,油桐尺蛾,Buzura suppressaria,广西,Guangxi,主要发生地,RegionIs
+82,油桐尺蛾,Buzura suppressaria,福建,Fujian,主要发生地,RegionIs
+83,油桐尺蛾,Agrilus auriventris,云南,Yunnan,主要发生地,RegionIs
+84,柑橘溜皮虫,Agrilus auriventris,湖南,Hunan,主要发生地,RegionIs
+85,柑橘溜皮虫,Agrilus auriventris,福建,Fujian,主要发生地,RegionIs
+86,柑橘溜皮虫,Agrilus auriventris,江西,Jiangxi,主要发生地,RegionIs
+87,柑橘溜皮虫,Agrilus auriventris,广东,Guangdong,主要发生地,RegionIs
+88,柑橘溜皮虫,Aceria litchii,广西,Guangxi,主要发生地,RegionIs
+89,荔枝瘿螨,Acrocercops cramerella,广西,Guangxi,主要发生地,RegionIs
+90,爻纹细蛾,Acrocercops cramerella,福建,Fujian,主要发生地,RegionIs
+91,爻纹细蛾,Acrocercops cramerella,台湾,Taiwan,主要发生地,RegionIs
+92,爻纹细蛾,Acrocercops cramerella,广东,Guangdong,主要发生地,RegionIs
+93,爻纹细蛾,Acrocercops cramerella,海南,Hainan,主要发生地,RegionIs
+94,爻纹细蛾,Acrocercops cramerella,广西,Guangxi,主要发生地,RegionIs
+95,爻纹细蛾,Acrocercops cramerella,四川,Sichuan,主要发生地,RegionIs
+96,爻纹细蛾,Achaea janata,浙江,Zhejiang,主要发生地,RegionIs
+97,蓖麻夜蛾,Achaea janata,湖南,Hunan,主要发生地,RegionIs
+98,蓖麻夜蛾,Achaea janata,台湾,Taiwan,主要发生地,RegionIs
+99,蓖麻夜蛾,Achaea janata,云南,Yunnan,主要发生地,RegionIs
+100,蓖麻夜蛾,Achaea janata,广东,Guangdong,主要发生地,RegionIs
+101,蓖麻夜蛾,Achaea janata,广西,Guangxi,主要发生地,RegionIs
+102,蓖麻夜蛾,Rhytidodera bowringii,西藏,Tibet,主要发生地,RegionIs
+103,脊胸天牛,Rhytidodera bowringii,广东,Guangdong,主要发生地,RegionIs
+104,脊胸天牛,Rhytidodera bowringii,广西,Guangxi,主要发生地,RegionIs
+105,脊胸天牛,Idioscopus clypealis,云南,Yunnan,主要发生地,RegionIs
+106,杧果扁喙叶蝉,Idioscopus clypealis,福建,Fujian,主要发生地,RegionIs
+107,杧果扁喙叶蝉,Idioscopus clypealis,广东,Guangdong,主要发生地,RegionIs
+108,杧果扁喙叶蝉,Idioscopus clypealis,广西,Guangxi,主要发生地,RegionIs
+109,杧果扁喙叶蝉,Anoplophora chinensis,云南,Yunnan,主要发生地,RegionIs
+110,黄星天牛,Anoplophora chinensis,河北,Hebei,主要发生地,RegionIs
+111,黄星天牛,Anoplophora chinensis,江苏,Jiangsu,主要发生地,RegionIs
+112,黄星天牛,Anoplophora chinensis,浙江,Zhejiang,主要发生地,RegionIs
+113,黄星天牛,Anoplophora chinensis,安徽,Anhui,主要发生地,RegionIs
+114,黄星天牛,Anoplophora chinensis,江西,Jiangxi,主要发生地,RegionIs
+115,黄星天牛,Anoplophora chinensis,四川,Sichuan,主要发生地,RegionIs
+116,黄星天牛,Anoplophora chinensis,云南,Yunnan,主要发生地,RegionIs
+117,黄星天牛,Anoplophora chinensis,台湾,Taiwan,主要发生地,RegionIs
+118,四纹丽金龟,Popillia quadriguttata,辽宁,Liaoning,主要发生地,RegionIs
+119,四纹丽金龟,Popillia quadriguttata,蒙古,Mongolia,主要发生地,RegionIs
+120,四纹丽金龟,Popillia quadriguttata,宁夏,Ningxia,主要发生地,RegionIs
+121,四纹丽金龟,Popillia quadriguttata,甘肃,Gansu,主要发生地,RegionIs
+122,四纹丽金龟,Popillia quadriguttata,青海,Qinghai,主要发生地,RegionIs
+123,四纹丽金龟,Popillia quadriguttata,陕西,Shaanxi,主要发生地,RegionIs
+124,四纹丽金龟,Popillia quadriguttata,山西,Shanxi,主要发生地,RegionIs
+125,四纹丽金龟,Popillia quadriguttata,北京,Beijing,主要发生地,RegionIs
+126,四纹丽金龟,Popillia quadriguttata,河北,Hebei,主要发生地,RegionIs
+127,四纹丽金龟,Popillia quadriguttata,山东,Shandong,主要发生地,RegionIs
+128,四纹丽金龟,Popillia quadriguttata,江苏,Jiangsu,主要发生地,RegionIs
+129,四纹丽金龟,Popillia quadriguttata,浙江,Zhejiang,主要发生地,RegionIs
+130,四纹丽金龟,Popillia quadriguttata,福建,Fujian,主要发生地,RegionIs
+131,四纹丽金龟,Popillia quadriguttata,台湾,Taiwan,主要发生地,RegionIs
+132,四纹丽金龟,Popillia quadriguttata,湖南,Hunan,主要发生地,RegionIs
+133,四纹丽金龟,Popillia quadriguttata,广西,Guangxi,主要发生地,RegionIs
+134,四纹丽金龟,Popillia quadriguttata,四川,Sichuan,主要发生地,RegionIs
+135,顶芽卷蛾,Spilonota lechriaspis,华北,North China,主要发生地,RegionIs
+136,顶芽卷蛾,Spilonota lechriaspis,华东,East China,主要发生地,RegionIs
+137,顶芽卷蛾,Spilonota lechriaspis,西北,Northwest,主要发生地,RegionIs
+138,李枯叶蛾,Gastropacha quercifolia,东北,Northeast,主要发生地,RegionIs
+139,李枯叶蛾,Gastropacha quercifolia,华北,North China,主要发生地,RegionIs
+140,李枯叶蛾,Gastropacha quercifolia,西北,Northwest,主要发生地,RegionIs
+141,李枯叶蛾,Gastropacha quercifolia,华东,East China,主要发生地,RegionIs
+142,李枯叶蛾,Gastropacha quercifolia,中南,Central South,主要发生地,RegionIs
+143,樱桃实蜂,Hoplocampa fulvicornis,陕西,Shaanxi,主要发生地,RegionIs
+144,杏白带麦蛾,Spilonota albicana,河北,Hebei,主要发生地,RegionIs
+145,杏白带麦蛾,Spilonota albicana,河南,Henan,主要发生地,RegionIs
+146,杏白带麦蛾,Spilonota albicana,山西,Shanxi,主要发生地,RegionIs
+147,杏白带麦蛾,Spilonota albicana,陕西,Shaanxi,主要发生地,RegionIs
+148,樱桃粘叶蜂,Caliroa cerasi,西北,Northwest,主要发生地,RegionIs
+149,樱桃粘叶蜂,Caliroa cerasi,山东,Shandong,主要发生地,RegionIs
+150,樱桃粘叶蜂,Caliroa cerasi,河南,Henan,主要发生地,RegionIs
+151,樱桃粘叶蜂,Caliroa cerasi,山西,Shanxi,主要发生地,RegionIs
+152,樱桃粘叶蜂,Caliroa cerasi,四川,Sichuan,主要发生地,RegionIs
+153,樱桃粘叶蜂,Caliroa cerasi,云南,Yunnan,主要发生地,RegionIs
+154,樱桃粘叶蜂,Caliroa cerasi,江苏,Jiangsu,主要发生地,RegionIs
+155,樱桃卷叶蚜,Myzus cerasi,吉林,Jilin,主要发生地,RegionIs
+156,樱桃瘿瘤头蚜,Myzus cerasi,浙江,Zhejiang,主要发生地,RegionIs
+157,樱桃瘿瘤头蚜,Myzus cerasi,北京,Beijing,主要发生地,RegionIs
+158,樱桃瘿瘤头蚜,Myzus cerasi,河南,Henan,主要发生地,RegionIs
+159,樱桃瘿瘤头蚜,Myzus cerasi,河北,Hebei,主要发生地,RegionIs
+160,葡萄煤点病,Grape sooty blotch,吉林,Jilin,主要发生地,RegionIs
+161,葡萄煤点病,Grape sooty blotch,辽宁,Liaoning,主要发生地,RegionIs
+162,葡萄煤点病,Grape sooty blotch,河北,Hebei,主要发生地,RegionIs
+163,葡萄煤点病,Grape sooty blotch,陕西,Shaanxi,主要发生地,RegionIs
+164,葡萄煤点病,Grape sooty blotch,河南,Henan,主要发生地,RegionIs
+165,葡萄煤点病,Grape sooty blotch,江苏,Jiangsu,主要发生地,RegionIs
+166,葡萄房枯病,Guignardia bidwellii,安徽,Anhui,主要发生地,RegionIs
+167,葡萄房枯病,Guignardia bidwellii,江苏,Jiangsu,主要发生地,RegionIs
+168,葡萄房枯病,Guignardia bidwellii,山东,Shandong,主要发生地,RegionIs
+169,葡萄房枯病,Guignardia bidwellii,河北,Hebei,主要发生地,RegionIs
+170,葡萄房枯病,Guignardia bidwellii,辽宁,Liaoning,主要发生地,RegionIs
+171,葡萄房枯病,Guignardia bidwellii,广东,Guangdong,主要发生地,RegionIs
+172,葡萄大房枯病,Grape large shot - hole,河南,Henan,主要发生地,RegionIs
+173,葡萄大房枯病,Grape large shot - hole,四川,Sichuan,主要发生地,RegionIs
+174,葡萄大房枯病,Grape large shot - hole,广东,Guangdong,主要发生地,RegionIs
+175,葡萄灰霉病,Botrytis cinerea,山东,Shandong,主要发生地,RegionIs
+176,葡萄灰霉病,Botrytis cinerea,四川,Sichuan,主要发生地,RegionIs
+177,葡萄灰霉病,Botrytis cinerea,上海,Shanghai,主要发生地,RegionIs
+178,葡萄灰霉病,Botrytis cinerea,湖南,Hunan,主要发生地,RegionIs
+179,葡萄锈病,Grape rust,广州,Guangzhou,主要发生地,RegionIs
+180,葡萄锈病,Grape rust,广西,Guangxi,主要发生地,RegionIs
+181,葡萄锈病,Grape rust,云南,Yunnan,主要发生地,RegionIs
+182,葡萄锈病,Grape rust,福建,Fujian,主要发生地,RegionIs
+183,葡萄锈病,Grape rust,四川,Sichuan,主要发生地,RegionIs
+184,葡萄锈病,Grape rust,江南,Jiangnan,主要发生地,RegionIs
+185,葡萄根癌病,Agrobacterium tumefaciens,江苏,Jiangsu,主要发生地,RegionIs
+186,葡萄根癌病,Agrobacterium tumefaciens,安徽,Anhui,主要发生地,RegionIs
+187,葡萄根癌病,Agrobacterium tumefaciens,湖南,Hunan,主要发生地,RegionIs
+188,葡萄根癌病,Agrobacterium tumefaciens,江西,Jiangxi,主要发生地,RegionIs
+189,葡萄根癌病,Agrobacterium tumefaciens,辽宁,Liaoning,主要发生地,RegionIs
+190,葡萄根癌病,Agrobacterium tumefaciens,上海,Shanghai,主要发生地,RegionIs
+191,葡萄卷叶病,Grape leaf roll,京,Capital,主要发生地,RegionIs
+192,葡萄卷叶病,Grape leaf roll,北,North,主要发生地,RegionIs
+193,葡萄卷叶病,Grape leaf roll,津,Tianjin,主要发生地,RegionIs
+194,葡萄卷叶病,Grape leaf roll,东,East,主要发生地,RegionIs
+195,葡萄斑点病,Grape spot,郑州,Zhengzhou,主要发生地,RegionIs
+196,葡萄斑点病,Grape spot,沈阳,Shenyang,主要发生地,RegionIs
+197,葡萄瘿蚊,Grape gall midge,陕西,Shaanxi,主要发生地,RegionIs
+198,栗炭疽病,Colletotrichum gloeosporioides,江苏,Jiangsu,主要发生地,RegionIs
+199,栗炭疽病,Colletotrichum gloeosporioides,浙江,Zhejiang,主要发生地,RegionIs
+200,栗炭疽病,Colletotrichum gloeosporioides,江西,Jiangxi,主要发生地,RegionIs
+201,栗炭疽病,Colletotrichum gloeosporioides,福建,Fujian,主要发生地,RegionIs
+202,栗炭疽病,Oligonychus ununguis,广东,Guangdong,主要发生地,RegionIs
+203,栗小爪螨,Oligonychus ununguis,北京,Beijing,主要发生地,RegionIs
+204,栗小爪螨,Oligonychus ununguis,河南,Henan,主要发生地,RegionIs
+205,栗小爪螨,Oligonychus ununguis,山东,Shandong,主要发生地,RegionIs
+206,栗小爪螨,Oligonychus ununguis,江苏,Jiangsu,主要发生地,RegionIs
+207,栗小爪螨,Oligonychus ununguis,安徽,Anhui,主要发生地,RegionIs
+208,栗小爪螨,Oligonychus ununguis,浙江,Zhejiang,主要发生地,RegionIs
+209,栗小爪螨,Aegeria molybdoceps,江西,Jiangxi,主要发生地,RegionIs
+210,栗透翅蛾,Aegeria molybdoceps,山东,Shandong,主要发生地,RegionIs
+211,栗透翅蛾,Xanthomonas arboricola pv. juglandis,江西,Jiangxi,主要发生地,RegionIs
+212,核桃黑斑病,Xanthomonas arboricola pv. juglandis,东北,Northeast,主要发生地,RegionIs
+213,核桃黑斑病,Xanthomonas arboricola pv. juglandis,华北,North China,主要发生地,RegionIs
+214,核桃黑斑病,Marssonina juglandis,西北,Northwest,主要发生地,RegionIs
+215,核桃褐斑病,Marssonina juglandis,陕西,Shaanxi,主要发生地,RegionIs
+216,核桃褐斑病,Marssonina juglandis,河北,Hebei,主要发生地,RegionIs
+217,核桃褐斑病,Marssonina juglandis,吉林,Jilin,主要发生地,RegionIs
+218,核桃褐斑病,Marssonina juglandis,四川,Sichuan,主要发生地,RegionIs
+219,核桃褐斑病,Marssonina juglandis,河南,Henan,主要发生地,RegionIs
+220,核桃褐斑病,Marssonina juglandis,山东,Shandong,主要发生地,RegionIs
+221,云斑天牛,Batocera horsfieldi,华北,North China,主要发生地,RegionIs
+222,云斑天牛,Batocera horsfieldi,东北,Northeast,主要发生地,RegionIs
+223,云斑天牛,Batocera horsfieldi,华中,Central China,主要发生地,RegionIs
+224,云斑天牛,Batocera horsfieldi,华南,South China,主要发生地,RegionIs
+225,木橑尺蠖,Culcula panterinaria,西北,Northwest,主要发生地,RegionIs
+226,木橑尺蠖,Culcula panterinaria,西南,Southwest,主要发生地,RegionIs
+227,木橑尺蠖,Culcula panterinaria,华中,Central China,主要发生地,RegionIs
+228,核桃黑斑蚜,Chromaphis juglandicola,辽宁,Liaoning,主要发生地,RegionIs
+229,枣焦叶病,Jujube leaf scorch disease,河南,Henan,主要发生地,RegionIs
+230,枣焦叶病,Jujube leaf scorch disease,甘肃,Gansu,主要发生地,RegionIs
+231,枣焦叶病,Jujube leaf scorch disease,内蒙,Inner Mongolia,主要发生地,RegionIs
+232,枣焦叶病,Jujube leaf scorch disease,安徽,Anhui,主要发生地,RegionIs
+233,枣焦叶病,Jujube leaf scorch disease,浙江,Zhejiang,主要发生地,RegionIs
+234,枣炭疽病,Colletotrichum gloeosporioides,河南,Henan,主要发生地,RegionIs
+235,枣炭疽病,Colletotrichum gloeosporioides,山西,Shanxi,主要发生地,RegionIs
+236,枣炭疽病,Colletotrichum gloeosporioides,陕西,Shaanxi,主要发生地,RegionIs
+237,枣炭疽病,Colletotrichum gloeosporioides,安徽,Anhui,主要发生地,RegionIs
+238,枣轮纹病,Botryosphaeria dothidea,河南,Henan,主要发生地,RegionIs
+239,枣轮纹病,Botryosphaeria dothidea,河北,Hebei,主要发生地,RegionIs
+240,枣轮纹病,Botryosphaeria dothidea,山东,Shandong,主要发生地,RegionIs
+241,枣轮纹病,Botryosphaeria dothidea,安徽,Anhui,主要发生地,RegionIs
+242,枣灰斑病,Jujube gray spot disease,安徽,Anhui,主要发生地,RegionIs
+243,枣灰斑病,Jujube gray spot disease,河南,Henan,主要发生地,RegionIs
+244,枣飞象,Scythropus yasumatsui,河南,Henan,主要发生地,RegionIs
+245,枣飞象,Scythropus yasumatsui,河北,Hebei,主要发生地,RegionIs
+246,枣飞象,Scythropus yasumatsui,山东,Shandong,主要发生地,RegionIs
+247,枣飞象,Scythropus yasumatsui,陕西,Shaanxi,主要发生地,RegionIs
+248,枣飞象,Scythropus yasumatsui,山西,Shanxi,主要发生地,RegionIs
+249,枣飞象,Scythropus yasumatsui,辽宁,Liaoning,主要发生地,RegionIs
+250,梨叶蜂,Caliroa matsumotonis,山东,Shandong,主要发生地,RegionIs
+251,梨叶蜂,Caliroa matsumotonis,河南,Henan,主要发生地,RegionIs
+252,梨叶蜂,Caliroa matsumotonis,山西,Shanxi,主要发生地,RegionIs
+253,梨叶蜂,Caliroa matsumotonis,四川,Sichuan,主要发生地,RegionIs
+254,梨叶蜂,Caliroa matsumotonis,云南,Yunnan,主要发生地,RegionIs
+255,梨叶蜂,Caliroa matsumotonis,江苏,Jiangsu,主要发生地,RegionIs
+256,梨黄粉蚜,Aphis citricola,辽宁,Liaoning,主要发生地,RegionIs
+257,梨黄粉蚜,Aphis citricola,河北,Hebei,主要发生地,RegionIs
+258,梨黄粉蚜,Aphis citricola,山东,Shandong,主要发生地,RegionIs
+259,梨黄粉蚜,Aphis citricola,江苏,Jiangsu,主要发生地,RegionIs
+260,梨黄粉蚜,Aphis citricola,安徽,Anhui,主要发生地,RegionIs
+261,梨黄粉蚜,Aphis citricola,河南,Henan,主要发生地,RegionIs
+262,梨黄粉蚜,Aphis citricola,陕西,Shaanxi,主要发生地,RegionIs
+263,中国梨木虱,Psylla chinensis,河北,Hebei,主要发生地,RegionIs
+264,中国梨木虱,Psylla chinensis,山东,Shandong,主要发生地,RegionIs
+265,中国梨木虱,Psylla chinensis,山西,Shanxi,主要发生地,RegionIs
+266,中国梨木虱,Psylla chinensis,陕西,Shaanxi,主要发生地,RegionIs
+267,中国梨木虱,Psylla chinensis,宁夏,Ningxia,主要发生地,RegionIs
+268,中国梨木虱,Psylla chinensis,安徽,Anhui,主要发生地,RegionIs
+269,梨潜皮细蛾,Acrocercops astaurota,辽宁,Liaoning,主要发生地,RegionIs
+270,梨潜皮细蛾,Acrocercops astaurota,河北,Hebei,主要发生地,RegionIs
+271,梨潜皮细蛾,Acrocercops astaurota,山东,Shandong,主要发生地,RegionIs
+272,梨潜皮细蛾,Acrocercops astaurota,河南,Henan,主要发生地,RegionIs
+273,梨潜皮细蛾,Acrocercops astaurota,陕西,Shaanxi,主要发生地,RegionIs
+274,梨潜皮细蛾,Acrocercops astaurota,甘肃,Gansu,主要发生地,RegionIs
+275,梨潜皮细蛾,Acrocercops astaurota,四川,Sichuan,主要发生地,RegionIs
+276,梨潜皮细蛾,Acrocercops astaurota,江苏,Jiangsu,主要发生地,RegionIs
+277,梨潜皮细蛾,Acrocercops astaurota,浙江,Zhejiang,主要发生地,RegionIs
+278,梨叶肿瘿螨,Eriophyes pyri,吉林,Jilin,主要发生地,RegionIs
+279,梨叶肿瘿螨,Eriophyes pyri,辽宁,Liaoning,主要发生地,RegionIs
+280,梨叶肿瘿螨,Eriophyes pyri,河北,Hebei,主要发生地,RegionIs
+281,梨叶肿瘿螨,Eriophyes pyri,河南,Henan,主要发生地,RegionIs
+282,梨叶肿瘿螨,Eriophyes pyri,山东,Shandong,主要发生地,RegionIs
+283,梨叶肿瘿螨,Eriophyes pyri,江苏,Jiangsu,主要发生地,RegionIs
+284,梨叶肿瘿螨,Eriophyes pyri,山西,Shanxi,主要发生地,RegionIs
+285,梨叶肿瘿螨,Eriophyes pyri,宁夏,Ningxia,主要发生地,RegionIs
+286,梨叶肿瘿螨,Eriophyes pyri,陕西,Shaanxi,主要发生地,RegionIs
+287,梨叶肿瘿螨,Eriophyes pyri,青海,Qinghai,主要发生地,RegionIs
+288,梨叶肿瘿螨,Eriophyes pyri,新疆,Xinjiang,主要发生地,RegionIs
+289,梨叶肿瘿螨,Eriophyes pyri,四川,Sichuan,主要发生地,RegionIs
+290,果红裙扁身夜蛾,Amyna octo,湖北,Hubei,主要发生地,RegionIs
+291,果红裙扁身夜蛾,Amyna octo,四川,Sichuan,主要发生地,RegionIs
+292,山楂花腐病,Monilinia johnsonii,吉林,Jilin,主要发生地,RegionIs
+293,山楂枯梢病,Hawthorn dieback disease,辽宁,Liaoning,主要发生地,RegionIs
+294,山楂枯梢病,Hawthorn dieback disease,河南,Henan,主要发生地,RegionIs
+295,山楂枯梢病,Hawthorn dieback disease,河北,Hebei,主要发生地,RegionIs
+296,山楂喀木虱,Cacopsylla idiocrataegi,辽宁,Liaoning,主要发生地,RegionIs
+297,山楂喀木虱,Cacopsylla idiocrataegi,河北,Hebei,主要发生地,RegionIs
+298,山楂喀木虱,Cacopsylla idiocrataegi,山西,Shanxi,主要发生地,RegionIs
+299,芽白小卷蛾,Spilonota ocellana,华北,North China,主要发生地,RegionIs
+300,芽白小卷蛾,Spilonota ocellana,华东,East China,主要发生地,RegionIs
+301,芽白小卷蛾,Spilonota ocellana,西北,Northwest,主要发生地,RegionIs
+302,旋纹潜叶蛾,Leucoptera scitella,吉林,Jilin,主要发生地,RegionIs
+303,旋纹潜叶蛾,Leucoptera scitella,辽宁,Liaoning,主要发生地,RegionIs
+304,旋纹潜叶蛾,Leucoptera scitella,河北,Hebei,主要发生地,RegionIs
+305,旋纹潜叶蛾,Leucoptera scitella,山西,Shanxi,主要发生地,RegionIs
+306,旋纹潜叶蛾,Leucoptera scitella,陕西,Shaanxi,主要发生地,RegionIs
+307,旋纹潜叶蛾,Leucoptera scitella,宁夏,Ningxia,主要发生地,RegionIs
+308,旋纹潜叶蛾,Leucoptera scitella,新疆,Xinjiang,主要发生地,RegionIs
+309,旋纹潜叶蛾,Leucoptera scitella,山东,Shandong,主要发生地,RegionIs
+310,旋纹潜叶蛾,Leucoptera scitella,江苏,Jiangsu,主要发生地,RegionIs
+311,旋纹潜叶蛾,Leucoptera scitella,河南,Henan,主要发生地,RegionIs
+312,旋纹潜叶蛾,Leucoptera scitella,四川,Sichuan,主要发生地,RegionIs
+313,旋纹潜叶蛾,Leucoptera scitella,贵州,Guizhou,主要发生地,RegionIs
+314,红棕灰夜蛾,Polia illoba,河北,Hebei,主要发生地,RegionIs
+315,红棕灰夜蛾,Polia illoba,华东,East China,主要发生地,RegionIs
+316,红棕灰夜蛾,Polia illoba,甘肃,Gansu,主要发生地,RegionIs
+317,红棕灰夜蛾,Polia illoba,江西,Jiangxi,主要发生地,RegionIs
+318,东方盔蚧,Parthenolecanium corni,东北,Northeast,主要发生地,RegionIs
+319,东方盔蚧,Parthenolecanium corni,华北,North China,主要发生地,RegionIs
+320,东方盔蚧,Parthenolecanium corni,西北,Northwest,主要发生地,RegionIs
+321,东方盔蚧,Parthenolecanium corni,华东,East China,主要发生地,RegionIs
+322,苹毛虫,Odonestis pruni,华北,North China,主要发生地,RegionIs
+323,苹毛虫,Odonestis pruni,西北,Northwest,主要发生地,RegionIs
+324,苹毛虫,Odonestis pruni,华东,East China,主要发生地,RegionIs
+325,李短尾蚜,Brachycaudus helichrysi,北京,Beijing,主要发生地,RegionIs
+326,李短尾蚜,Brachycaudus helichrysi,山东,Shandong,主要发生地,RegionIs
+327,李短尾蚜,Brachycaudus helichrysi,河南,Henan,主要发生地,RegionIs
+328,李短尾蚜,Brachycaudus helichrysi,新疆,Xinjiang,主要发生地,RegionIs
+329,李短尾蚜,Brachycaudus helichrysi,浙江,Zhejiang,主要发生地,RegionIs
+330,李短尾蚜,Brachycaudus helichrysi,福建,Fujian,主要发生地,RegionIs
+331,李短尾蚜,Brachycaudus helichrysi,台湾,Taiwan,主要发生地,RegionIs
+332,李短尾蚜,Brachycaudus helichrysi,四川,Sichuan,主要发生地,RegionIs
+333,苹果树枝溃疡病,Apple branch canker disease,甘肃,Gansu,主要发生地,RegionIs
+334,苹果树枝溃疡病,Apple branch canker disease,山西,Shanxi,主要发生地,RegionIs
+335,苹果树枝溃疡病,Apple branch canker disease,安徽,Anhui,主要发生地,RegionIs
+336,苹果树枝溃疡病,Apple branch canker disease,江苏,Jiangsu,主要发生地,RegionIs
+337,苹果花腐病,Monilinia mali,陕西,Shaanxi,主要发生地,RegionIs
+338,苹果花腐病,Monilinia mali,云南,Yunnan,主要发生地,RegionIs
+339,苹果花腐病,Monilinia mali,四川,Sichuan,主要发生地,RegionIs
+340,苹果疫腐病,Phytophthora cactorum,北京,Beijing,主要发生地,RegionIs
+341,苹果黑点病,Apple black spot disease,陕西,Shaanxi,主要发生地,RegionIs
+342,苹果黑点病,Apple black spot disease,山西,Shanxi,主要发生地,RegionIs
+343,苹果树赤衣病,Corticium salmonicolor,江西,Jiangxi,主要发生地,RegionIs
+344,苹果树赤衣病,Corticium salmonicolor,湖北,Hubei,主要发生地,RegionIs
+345,苹果树赤衣病,Corticium salmonicolor,陕西,Shaanxi,主要发生地,RegionIs
+346,苹果毛根病,Apple hairy root disease,辽宁,Liaoning,主要发生地,RegionIs
+347,苹果毛根病,Apple hairy root disease,河北,Hebei,主要发生地,RegionIs
+348,苹果毛根病,Apple hairy root disease,山东,Shandong,主要发生地,RegionIs
+349,苹果绿皱果病,Apple green crinkle fruit disease,甘肃,Gansu,主要发生地,RegionIs
+350,苹果绿皱果病,Apple green crinkle fruit disease,陕西,Shaanxi,主要发生地,RegionIs
+351,苹果绿皱果病,Apple green crinkle fruit disease,河南,Henan,主要发生地,RegionIs
+352,苹果绿皱果病,Apple green crinkle fruit disease,辽宁,Liaoning,主要发生地,RegionIs
+353,苹果皱叶病,Apple wrinkled leaf disease,河北,Hebei,主要发生地,RegionIs
+354,苹果皱叶病,Apple wrinkled leaf disease,天津,Tianjin,主要发生地,RegionIs
+355,苹果扁枝病,Apple flat branch disease,陕西,Shaanxi,主要发生地,RegionIs
+356,苹果扁枝病,Apple flat branch disease,河南,Henan,主要发生地,RegionIs
+357,苹果扁枝病,Apple flat branch disease,山西,Shanxi,主要发生地,RegionIs
+358,苹果扁枝病,Apple flat branch disease,辽宁,Liaoning,主要发生地,RegionIs
+359,苹褐卷叶蛾,Pandemis heparana,东北,Northeast,主要发生地,RegionIs
+360,苹褐卷叶蛾,Pandemis heparana,华北,North China,主要发生地,RegionIs
+361,苹褐卷叶蛾,Pandemis heparana,西北,Northwest,主要发生地,RegionIs
+362,苹褐卷叶蛾,Pandemis heparana,华东,East China,主要发生地,RegionIs
+363,苹褐卷叶蛾,Pandemis heparana,华中,Central China,主要发生地,RegionIs
+364,黄斑卷蛾,Acleris fimbriana,吉林,Jilin,主要发生地,RegionIs
+365,黄斑卷蛾,Acleris fimbriana,辽宁,Liaoning,主要发生地,RegionIs
+366,黄斑卷蛾,Acleris fimbriana,北京,Beijing,主要发生地,RegionIs
+367,黄斑卷蛾,Acleris fimbriana,河北,Hebei,主要发生地,RegionIs
+368,黄斑卷蛾,Acleris fimbriana,山西,Shanxi,主要发生地,RegionIs
+369,黄斑卷蛾,Acleris fimbriana,山东,Shandong,主要发生地,RegionIs
+370,黄斑卷蛾,Acleris fimbriana,河南,Henan,主要发生地,RegionIs
+371,黄斑卷蛾,Acleris fimbriana,陕西,Shaanxi,主要发生地,RegionIs
+372,黄斑卷蛾,Acleris fimbriana,甘肃,Gansu,主要发生地,RegionIs
+373,苹果根绵蚜,Eriosoma lanigerum,东北,Northeast,主要发生地,RegionIs
+374,苹果根绵蚜,Eriosoma lanigerum,华北,North China,主要发生地,RegionIs
+375,苹果根绵蚜,Eriosoma lanigerum,西北,Northwest,主要发生地,RegionIs
+376,苹果根绵蚜,Eriosoma lanigerum,河南,Henan,主要发生地,RegionIs
+377,苹果根绵蚜,Eriosoma lanigerum,山东,Shandong,主要发生地,RegionIs
+378,苹果根绵蚜,Eriosoma lanigerum,湖北,Hubei,主要发生地,RegionIs
+379,梨火疫病,Erwinia amylovora,河北,Hebei,主要发生地,RegionIs
+380,梨火疫病,Erwinia amylovora,北京,Beijing,主要发生地,RegionIs
+381,梨火疫病,Erwinia amylovora,天津,Tianjin,主要发生地,RegionIs
+382,梨火疫病,Erwinia amylovora,河南,Henan,主要发生地,RegionIs
+383,梨炭疽病,Colletotrichum gloeosporioides,辽宁,Liaoning,主要发生地,RegionIs
+384,梨炭疽病,Colletotrichum gloeosporioides,河北,Hebei,主要发生地,RegionIs
+385,梨炭疽病,Colletotrichum gloeosporioides,河南,Henan,主要发生地,RegionIs
+386,梨炭疽病,Colletotrichum gloeosporioides,山东,Shandong,主要发生地,RegionIs
+387,梨炭疽病,Colletotrichum gloeosporioides,陕西,Shaanxi,主要发生地,RegionIs
+388,梨炭疽病,Colletotrichum gloeosporioides,云南,Yunnan,主要发生地,RegionIs
+389,梨炭疽病,Colletotrichum gloeosporioides,江西,Jiangxi,主要发生地,RegionIs
+390,梨炭疽病,Colletotrichum gloeosporioides,江苏,Jiangsu,主要发生地,RegionIs
+391,梨炭疽病,Colletotrichum gloeosporioides,浙江,Zhejiang,主要发生地,RegionIs
+392,梨大食心虫,Nephopteryx pirivorella,河北,Hebei,主要发生地,RegionIs
+393,梨大食心虫,Nephopteryx pirivorella,山西,Shanxi,主要发生地,RegionIs
+394,梨大食心虫,Nephopteryx pirivorella,山东,Shandong,主要发生地,RegionIs
+395,梨大食心虫,Nephopteryx pirivorella,河南,Henan,主要发生地,RegionIs
+396,梨大食心虫,Nephopteryx pirivorella,安徽,Anhui,主要发生地,RegionIs
+397,红蜘蛛,Tetranychus urticae,河北,Hebei,主要发生地,RegionIs
+398,红蜘蛛,Tetranychus urticae,北京,Beijing,主要发生地,RegionIs
+399,红蜘蛛,Tetranychus urticae,河南,Henan,主要发生地,RegionIs
+400,红蜘蛛,Tetranychus urticae,辽东,Liaodong,主要发生地,RegionIs
+401,红蜘蛛,Tetranychus urticae,江苏,Jiangsu,主要发生地,RegionIs
+402,红蜘蛛,Tetranychus urticae,广东,Guangdong,主要发生地,RegionIs
+403,红蜘蛛,Tetranychus urticae,广西,Guangxi,主要发生地,RegionIs
+404,瓜绢螟,Diaphania indica,河南,Henan,主要发生地,RegionIs
+405,瓜绢螟,Diaphania indica,湖北,Hubei,主要发生地,RegionIs
+406,瓜绢螟,Diaphania indica,江西,Jiangxi,主要发生地,RegionIs
+407,瓜绢螟,Diaphania indica,贵州,Guizhou,主要发生地,RegionIs
+408,瓜绢螟,Diaphania indica,广西,Guangxi,主要发生地,RegionIs
+409,瓜绢螟,Diaphania indica,云南,Yunnan,主要发生地,RegionIs
+410,瓜绢螟,Diaphania indica,江苏,Jiangsu,主要发生地,RegionIs
+411,瓜绢螟,Diaphania indica,浙江,Zhejiang,主要发生地,RegionIs
+412,瓜绢螟,Diaphania indica,福建,Fujian,主要发生地,RegionIs
+413,瓜绢螟,Diaphania indica,四川,Sichuan,主要发生地,RegionIs
+414,瓜绢螟,Diaphania indica,广东,Guangdong,主要发生地,RegionIs
+415,瓜绢螟,Diaphania indica,台湾,Taiwan,主要发生地,RegionIs
+416,烟青虫,Helicoverpa assulta,山东,Shandong,主要发生地,RegionIs
+417,烟青虫,Helicoverpa assulta,河南,Henan,主要发生地,RegionIs
+418,烟青虫,Helicoverpa assulta,山西,Shanxi,主要发生地,RegionIs
+419,烟青虫,Helicoverpa assulta,陕西,Shaanxi,主要发生地,RegionIs
+420,烟青虫,Helicoverpa assulta,安徽,Anhui,主要发生地,RegionIs
+421,烟青虫,Helicoverpa assulta,江苏,Jiangsu,主要发生地,RegionIs
+422,烟青虫,Helicoverpa assulta,湖北,Hubei,主要发生地,RegionIs
+423,烟青虫,Helicoverpa assulta,浙江,Zhejiang,主要发生地,RegionIs
+424,烟青虫,Helicoverpa assulta,四川,Sichuan,主要发生地,RegionIs
+425,烟青虫,Helicoverpa assulta,云南,Yunnan,主要发生地,RegionIs
+426,瓜实蝇,Bactrocera cucurbitae,江苏,Jiangsu,主要发生地,RegionIs
+427,瓜实蝇,Bactrocera cucurbitae,福建,Fujian,主要发生地,RegionIs
+428,瓜实蝇,Bactrocera cucurbitae,海南,Hainan,主要发生地,RegionIs
+429,瓜实蝇,Bactrocera cucurbitae,广东,Guangdong,主要发生地,RegionIs
+430,瓜实蝇,Bactrocera cucurbitae,广西,Guangxi,主要发生地,RegionIs
+431,瓜实蝇,Bactrocera cucurbitae,贵州,Guizhou,主要发生地,RegionIs
+432,瓜实蝇,Bactrocera cucurbitae,云南,Yunnan,主要发生地,RegionIs
+433,瓜实蝇,Bactrocera cucurbitae,四川,Sichuan,主要发生地,RegionIs
+434,瓜实蝇,Bactrocera cucurbitae,湖南,Hunan,主要发生地,RegionIs
+435,瓜实蝇,Bactrocera cucurbitae,台湾,Taiwan,主要发生地,RegionIs
+436,扁豆夜蛾,Antitype chi,四川,Sichuan,主要发生地,RegionIs
+437,刺足根螨,Rhizoglyphus echinopus,辽宁,Liaoning,主要发生地,RegionIs
+438,刺足根螨,Rhizoglyphus echinopus,吉林,Jilin,主要发生地,RegionIs
+439,刺足根螨,Rhizoglyphus echinopus,江苏,Jiangsu,主要发生地,RegionIs
+440,刺足根螨,Rhizoglyphus echinopus,上海,Shanghai,主要发生地,RegionIs
+441,刺足根螨,Rhizoglyphus echinopus,浙江,Zhejiang,主要发生地,RegionIs
+442,刺足根螨,Rhizoglyphus echinopus,福建,Fujian,主要发生地,RegionIs
+443,刺足根螨,Rhizoglyphus echinopus,四川,Sichuan,主要发生地,RegionIs
+444,枸杞木虱,Paratrioza sinica,宁夏,Ningxia,主要发生地,RegionIs
+445,枸杞木虱,Paratrioza sinica,甘肃,Gansu,主要发生地,RegionIs
+446,枸杞木虱,Paratrioza sinica,新疆,Xinjiang,主要发生地,RegionIs
+447,枸杞木虱,Paratrioza sinica,陕西,Shaanxi,主要发生地,RegionIs
+448,枸杞木虱,Paratrioza sinica,河北,Hebei,主要发生地,RegionIs
+449,枸杞木虱,Paratrioza sinica,内蒙,Inner Mongolia,主要发生地,RegionIs
+450,十四点负泥甲,Crioceris quatuordecimpunctata,吉林,Jilin,主要发生地,RegionIs
+451,十四点负泥甲,Crioceris quatuordecimpunctata,辽宁,Liaoning,主要发生地,RegionIs
+452,十四点负泥甲,Crioceris quatuordecimpunctata,北京,Beijing,主要发生地,RegionIs
+453,十四点负泥甲,Crioceris quatuordecimpunctata,河北,Hebei,主要发生地,RegionIs
+454,十四点负泥甲,Crioceris quatuordecimpunctata,山东,Shandong,主要发生地,RegionIs
+455,十四点负泥甲,Crioceris quatuordecimpunctata,江苏,Jiangsu,主要发生地,RegionIs
+456,十四点负泥甲,Crioceris quatuordecimpunctata,浙江,Zhejiang,主要发生地,RegionIs
+457,十四点负泥甲,Crioceris quatuordecimpunctata,福建,Fujian,主要发生地,RegionIs
+458,十四点负泥甲,Crioceris quatuordecimpunctata,陕西,Shaanxi,主要发生地,RegionIs
+459,十四点负泥甲,Crioceris quatuordecimpunctata,广西,Guangxi,主要发生地,RegionIs
+460,莲潜叶摇蚊,Stenochironomus nelumbus,安徽,Anhui,主要发生地,RegionIs
+461,莲潜叶摇蚊,Stenochironomus nelumbus,湖北,Hubei,主要发生地,RegionIs
+462,茭白锈病,Uromyces coronatus,浙江,Zhejiang,主要发生地,RegionIs
+463,茭白锈病,Uromyces coronatus,江苏,Jiangsu,主要发生地,RegionIs
+464,茭白锈病,Uromyces coronatus,安徽,Anhui,主要发生地,RegionIs
+465,茭白锈病,Uromyces coronatus,湖北,Hubei,主要发生地,RegionIs
+466,茭白锈病,Uromyces coronatus,湖南,Hunan,主要发生地,RegionIs
+467,茭白锈病,Uromyces coronatus,广东,Guangdong,主要发生地,RegionIs
+468,茭白锈病,Uromyces coronatus,广西,Guangxi,主要发生地,RegionIs
+469,茭白锈病,Uromyces coronatus,台湾,Taiwan,主要发生地,RegionIs
+470,茭白锈病,Uromyces coronatus,四川,Sichuan,主要发生地,RegionIs
+471,黄色白禾螟,Scirpophaga nivella,上海,Shanghai,主要发生地,RegionIs
+472,黄色白禾螟,Scirpophaga nivella,江苏,Jiangsu,主要发生地,RegionIs
+473,黄色白禾螟,Scirpophaga nivella,安徽,Anhui,主要发生地,RegionIs
+474,黄色白禾螟,Scirpophaga nivella,浙江,Zhejiang,主要发生地,RegionIs
+475,黄色白禾螟,Scirpophaga nivella,湖南,Hunan,主要发生地,RegionIs
+476,黄色白禾螟,Scirpophaga nivella,福建,Fujian,主要发生地,RegionIs
+477,盗毒蛾,Porthesia similis,华东,East China,主要发生地,RegionIs
+478,白雪灯蛾,Spilosoma niveus,青海,Qinghai,主要发生地,RegionIs
+479,白雪灯蛾,Spilosoma niveus,陕西,Shaanxi,主要发生地,RegionIs
+480,白雪灯蛾,Spilosoma niveus,内蒙古,Inner Mongolia,主要发生地,RegionIs
+481,白雪灯蛾,Spilosoma niveus,河北,Hebei,主要发生地,RegionIs
+482,白雪灯蛾,Spilosoma niveus,河南,Henan,主要发生地,RegionIs
+483,白雪灯蛾,Spilosoma niveus,山东,Shandong,主要发生地,RegionIs
+484,白雪灯蛾,Spilosoma niveus,浙江,Zhejiang,主要发生地,RegionIs
+485,白雪灯蛾,Spilosoma niveus,湖北,Hubei,主要发生地,RegionIs
+486,白雪灯蛾,Spilosoma niveus,江西,Jiangxi,主要发生地,RegionIs
+487,白雪灯蛾,Spilosoma niveus,湖南,Hunan,主要发生地,RegionIs
+488,白雪灯蛾,Spilosoma niveus,福建,Fujian,主要发生地,RegionIs
+489,白雪灯蛾,Spilosoma niveus,广西,Guangxi,主要发生地,RegionIs
+490,白雪灯蛾,Spilosoma niveus,四川,Sichuan,主要发生地,RegionIs
+491,白雪灯蛾,Spilosoma niveus,云南,Yunnan,主要发生地,RegionIs
+492,斑鞘豆叶甲,Colposcelis signata,黑龙江,Heilongjiang,主要发生地,RegionIs
+493,斑鞘豆叶甲,Colposcelis signata,河北,Hebei,主要发生地,RegionIs
+494,斑鞘豆叶甲,Colposcelis signata,陕西,Shaanxi,主要发生地,RegionIs
+495,斑鞘豆叶甲,Colposcelis signata,江苏,Jiangsu,主要发生地,RegionIs
+496,斑鞘豆叶甲,Colposcelis signata,安徽,Anhui,主要发生地,RegionIs
+497,斑鞘豆叶甲,Colposcelis signata,浙江,Zhejiang,主要发生地,RegionIs
+498,斑鞘豆叶甲,Colposcelis signata,福建,Fujian,主要发生地,RegionIs
+499,斑鞘豆叶甲,Colposcelis signata,台湾,Taiwan,主要发生地,RegionIs
+500,斑鞘豆叶甲,Colposcelis signata,广东,Guangdong,主要发生地,RegionIs
+501,斑鞘豆叶甲,Colposcelis signata,广西,Guangxi,主要发生地,RegionIs
+502,斑鞘豆叶甲,Colposcelis signata,四川,Sichuan,主要发生地,RegionIs
+503,斑鞘豆叶甲,Colposcelis signata,云南,Yunnan,主要发生地,RegionIs
+504,豆叶螨,Tetranychus phaselus,浙江,Zhejiang,主要发生地,RegionIs
+505,豆叶螨,Tetranychus phaselus,江苏,Jiangsu,主要发生地,RegionIs
+506,豆叶螨,Tetranychus phaselus,四川,Sichuan,主要发生地,RegionIs
+507,豆叶螨,Tetranychus phaselus,云南,Yunnan,主要发生地,RegionIs
+508,豆叶螨,Tetranychus phaselus,湖北,Hubei,主要发生地,RegionIs
+509,豆叶螨,Tetranychus phaselus,福建,Fujian,主要发生地,RegionIs
+510,豆叶螨,Tetranychus phaselus,台湾,Taiwan,主要发生地,RegionIs
+511,盗毒蛾,Porthesia similis,华南,South China,主要发生地,RegionIs
+512,盗毒蛾,Porthesia similis,西南,Southwest,主要发生地,RegionIs
+513,盗毒蛾,Porthesia similis,东北,Northeast,主要发生地,RegionIs
+514,毛豆叶斑病,Cercospora sojina,河南,Henan,主要发生地,RegionIs
+515,毛豆叶斑病,Cercospora sojina,山东,Shandong,主要发生地,RegionIs
+516,毛豆叶斑病,Cercospora sojina,江苏,Jiangsu,主要发生地,RegionIs
+517,毛豆黑点病,Diaporthe sojae,东北,Northeast,主要发生地,RegionIs
+518,毛豆黑点病,Diaporthe sojae,河南,Henan,主要发生地,RegionIs
+519,毛豆黑点病,Diaporthe sojae,山东,Shandong,主要发生地,RegionIs
+520,毛豆黑点病,Diaporthe sojae,江苏,Jiangsu,主要发生地,RegionIs
+521,毛豆黑点病,Diaporthe sojae,湖北,Hubei,主要发生地,RegionIs
+522,毛豆黑点病,Diaporthe sojae,四川,Sichuan,主要发生地,RegionIs
+523,毛豆黑点病,Diaporthe sojae,云南,Yunnan,主要发生地,RegionIs
+524,毛豆茎枯病,Diaporthe phaseolorum,华北,North China,主要发生地,RegionIs
+525,茄无网蚜,Acyrthosiphon solani,青海,Qinghai,主要发生地,RegionIs
+526,茄无网蚜,Acyrthosiphon solani,河北,Hebei,主要发生地,RegionIs
+527,茄无网蚜,Acyrthosiphon solani,山东,Shandong,主要发生地,RegionIs
+528,茄无网蚜,Acyrthosiphon solani,河南,Henan,主要发生地,RegionIs
+529,茄无网蚜,Acyrthosiphon solani,浙江,Zhejiang,主要发生地,RegionIs
+530,茄无网蚜,Acyrthosiphon solani,四川,Sichuan,主要发生地,RegionIs
+531,黄领麻纹灯蛾,Spilarctia imparilis,湖南,Hunan,主要发生地,RegionIs
+532,黄领麻纹灯蛾,Spilarctia imparilis,云南,Yunnan,主要发生地,RegionIs
+533,黄领麻纹灯蛾,Spilarctia imparilis,贵州,Guizhou,主要发生地,RegionIs
+534,甘薯肖叶甲,Colasposoma dauricum,东北,Northeast,主要发生地,RegionIs
+535,甘薯肖叶甲,Colasposoma dauricum,华北,North China,主要发生地,RegionIs
+536,甘薯肖叶甲,Colasposoma dauricum,西北,Northwest,主要发生地,RegionIs
+537,甘薯肖叶甲,Colasposoma dauricum,华中,Central China,主要发生地,RegionIs
+538,甘薯肖叶甲,Colasposoma dauricum,西南,Southwest,主要发生地,RegionIs
+539,甘薯肖叶甲,Colasposoma dauricum,华东,East China,主要发生地,RegionIs
+540,莴笋锈病,Puccinia lactucae - salicis,广西,Guangxi,主要发生地,RegionIs
+541,莴笋锈病,Puccinia lactucae - salicis,云南,Yunnan,主要发生地,RegionIs
+542,莴苣冬夜蛾,Cucullia fraterna,新疆,Xinjiang,主要发生地,RegionIs
+543,莴苣冬夜蛾,Cucullia fraterna,江西,Jiangxi,主要发生地,RegionIs
+544,莴苣冬夜蛾,Cucullia fraterna,辽宁,Liaoning,主要发生地,RegionIs
+545,莴苣冬夜蛾,Cucullia fraterna,吉林,Jilin,主要发生地,RegionIs
+546,莴苣冬夜蛾,Cucullia fraterna,浙江,Zhejiang,主要发生地,RegionIs
+547,葡萄蔓割病,Botryosphaeria dothidea,山东,Shandong,主要发生地,RegionIs
+548,葡萄叶斑病,Isariopsis clavispora,河北,Hebei,主要发生地,RegionIs
+549,黑额光叶甲,Smaragdina nigrifrons,辽宁,Liaoning,主要发生地,RegionIs
+550,黑额光叶甲,Smaragdina nigrifrons,河北,Hebei,主要发生地,RegionIs
+551,黑额光叶甲,Smaragdina nigrifrons,北京,Beijing,主要发生地,RegionIs
+552,黑额光叶甲,Smaragdina nigrifrons,山西,Shanxi,主要发生地,RegionIs
+553,黑额光叶甲,Smaragdina nigrifrons,陕西,Shaanxi,主要发生地,RegionIs
+554,黑额光叶甲,Smaragdina nigrifrons,山东,Shandong,主要发生地,RegionIs
+555,黑额光叶甲,Smaragdina nigrifrons,河南,Henan,主要发生地,RegionIs
+556,黑额光叶甲,Smaragdina nigrifrons,江苏,Jiangsu,主要发生地,RegionIs
+557,黑额光叶甲,Smaragdina nigrifrons,安徽,Anhui,主要发生地,RegionIs
+558,黑额光叶甲,Smaragdina nigrifrons,浙江,Zhejiang,主要发生地,RegionIs
+559,黑额光叶甲,Smaragdina nigrifrons,湖北,Hubei,主要发生地,RegionIs
+560,黑额光叶甲,Smaragdina nigrifrons,江西,Jiangxi,主要发生地,RegionIs
+561,黑额光叶甲,Smaragdina nigrifrons,湖南,Hunan,主要发生地,RegionIs
+562,黑额光叶甲,Smaragdina nigrifrons,福建,Fujian,主要发生地,RegionIs
+563,黑额光叶甲,Smaragdina nigrifrons,台湾,Taiwan,主要发生地,RegionIs
+564,黑额光叶甲,Smaragdina nigrifrons,广东,Guangdong,主要发生地,RegionIs
+565,黑额光叶甲,Smaragdina nigrifrons,广西,Guangxi,主要发生地,RegionIs
+566,黑额光叶甲,Smaragdina nigrifrons,四川,Sichuan,主要发生地,RegionIs
+567,黑额光叶甲,Smaragdina nigrifrons,贵州,Guizhou,主要发生地,RegionIs
+568,菜叶蜂,Athalia rosae,安徽,Anhui,主要发生地,RegionIs
+569,菜叶蜂,Athalia rosae,浙江,Zhejiang,主要发生地,RegionIs
+570,菜叶蜂,Athalia rosae,江西,Jiangxi,主要发生地,RegionIs
+571,菜叶蜂,Athalia rosae,福建,Fujian,主要发生地,RegionIs
+572,菜叶蜂,Athalia rosae,台湾,Taiwan,主要发生地,RegionIs
+573,菜叶蜂,Athalia rosae,四川,Sichuan,主要发生地,RegionIs
+574,菜叶蜂,Athalia rosae,云南,Yunnan,主要发生地,RegionIs
+575,大猿叶甲,Colaphellus bowringi,东北,Northeast,主要发生地,RegionIs
+576,大猿叶甲,Colaphellus bowringi,甘肃,Gansu,主要发生地,RegionIs
+577,大猿叶甲,Colaphellus bowringi,青海,Qinghai,主要发生地,RegionIs
+578,大猿叶甲,Colaphellus bowringi,河北,Hebei,主要发生地,RegionIs
+579,大猿叶甲,Colaphellus bowringi,山西,Shanxi,主要发生地,RegionIs
+580,大猿叶甲,Colaphellus bowringi,山东,Shandong,主要发生地,RegionIs
+581,大猿叶甲,Colaphellus bowringi,陕西,Shaanxi,主要发生地,RegionIs
+582,大猿叶甲,Colaphellus bowringi,江苏,Jiangsu,主要发生地,RegionIs
+583,大猿叶甲,Colaphellus bowringi,华南,South China,主要发生地,RegionIs
+584,大猿叶甲,Colaphellus bowringi,西南,Southwest,主要发生地,RegionIs
+585,甜菜丛根病,Beet necrotic yellow vein virus,山西,Shanxi,主要发生地,RegionIs
+586,甜菜丛根病,Beet necrotic yellow vein virus,甘肃,Gansu,主要发生地,RegionIs
+587,甜菜丛根病,Beet necrotic yellow vein virus,宁夏,Ningxia,主要发生地,RegionIs
+588,甜菜跳甲,Chaetocnema discreta,湖北,Hubei,主要发生地,RegionIs
+589,甜菜跳甲,Chaetocnema discreta,江西,Jiangxi,主要发生地,RegionIs
+590,甜菜跳甲,Chaetocnema discreta,湖南,Hunan,主要发生地,RegionIs
+591,甜菜跳甲,Chaetocnema discreta,浙江,Zhejiang,主要发生地,RegionIs
+592,甜菜跳甲,Chaetocnema discreta,福建,Fujian,主要发生地,RegionIs
+593,甜菜跳甲,Chaetocnema discreta,广东,Guangdong,主要发生地,RegionIs
+594,甜菜跳甲,Chaetocnema discreta,广西,Guangxi,主要发生地,RegionIs
+595,甜菜跳甲,Chaetocnema discreta,四川,Sichuan,主要发生地,RegionIs
+596,甜菜跳甲,Chaetocnema discreta,贵州,Guizhou,主要发生地,RegionIs
+597,甜菜跳甲,Chaetocnema discreta,黑龙江,Heilongjiang,主要发生地,RegionIs
+598,甜菜白带野螟,Hymenia recurvalis,黑龙江,Heilongjiang,主要发生地,RegionIs
+599,甜菜白带野螟,Hymenia recurvalis,吉林,Jilin,主要发生地,RegionIs
+600,甜菜白带野螟,Hymenia recurvalis,辽宁,Liaoning,主要发生地,RegionIs
+601,甜菜白带野螟,Hymenia recurvalis,内蒙古,Inner Mongolia,主要发生地,RegionIs
+602,甜菜白带野螟,Hymenia recurvalis,宁夏,Ningxia,主要发生地,RegionIs
+603,甜菜白带野螟,Hymenia recurvalis,青海,Qinghai,主要发生地,RegionIs
+604,甜菜白带野螟,Hymenia recurvalis,陕西,Shaanxi,主要发生地,RegionIs
+605,甜菜白带野螟,Hymenia recurvalis,山西,Shanxi,主要发生地,RegionIs
+606,甜菜白带野螟,Hymenia recurvalis,北京,Beijing,主要发生地,RegionIs
+607,甜菜白带野螟,Hymenia recurvalis,河北,Hebei,主要发生地,RegionIs
+608,甜菜白带野螟,Hymenia recurvalis,山东,Shandong,主要发生地,RegionIs
+609,甜菜白带野螟,Hymenia recurvalis,安徽,Anhui,主要发生地,RegionIs
+610,甜菜白带野螟,Hymenia recurvalis,江苏,Jiangsu,主要发生地,RegionIs
+611,甜菜白带野螟,Hymenia recurvalis,上海,Shanghai,主要发生地,RegionIs
+612,甜菜白带野螟,Hymenia recurvalis,浙江,Zhejiang,主要发生地,RegionIs
+613,甜菜白带野螟,Hymenia recurvalis,江西,Jiangxi,主要发生地,RegionIs
+614,甜菜白带野螟,Hymenia recurvalis,福建,Fujian,主要发生地,RegionIs
+615,甜菜白带野螟,Hymenia recurvalis,台湾,Taiwan,主要发生地,RegionIs
+616,甜菜白带野螟,Hymenia recurvalis,湖南,Hunan,主要发生地,RegionIs
+617,甜菜白带野螟,Hymenia recurvalis,湖北,Hubei,主要发生地,RegionIs
+618,甜菜白带野螟,Hymenia recurvalis,广东,Guangdong,主要发生地,RegionIs
+619,甜菜白带野螟,Hymenia recurvalis,广西,Guangxi,主要发生地,RegionIs
+620,甜菜白带野螟,Hymenia recurvalis,贵州,Guizhou,主要发生地,RegionIs
+621,甜菜白带野螟,Hymenia recurvalis,重庆,Chongqing,主要发生地,RegionIs
+622,甜菜白带野螟,Hymenia recurvalis,四川,Sichuan,主要发生地,RegionIs
+623,甜菜白带野螟,Hymenia recurvalis,云南,Yunnan,主要发生地,RegionIs
+624,甜菜白带野螟,Hymenia recurvalis,西藏,Tibet,主要发生地,RegionIs
+625,黄草地螟,Loxostege verticalis,宁夏,Ningxia,主要发生地,RegionIs
+626,黄草地螟,Loxostege verticalis,陕西,Shaanxi,主要发生地,RegionIs
+627,黄草地螟,Loxostege verticalis,新疆,Xinjiang,主要发生地,RegionIs
+628,黄草地螟,Loxostege verticalis,江苏,Jiangsu,主要发生地,RegionIs
+629,黄草地螟,Loxostege verticalis,四川,Sichuan,主要发生地,RegionIs
+630,黄草地螟,Loxostege verticalis,云南,Yunnan,主要发生地,RegionIs
+631,黄草地螟,Loxostege verticalis,山东,Shandong,主要发生地,RegionIs
+632,茶网饼病,Exobasidium reticulatum,安徽,Anhui,主要发生地,RegionIs
+633,茶网饼病,Exobasidium reticulatum,浙江,Zhejiang,主要发生地,RegionIs
+634,茶网饼病,Exobasidium reticulatum,江西,Jiangxi,主要发生地,RegionIs
+635,茶网饼病,Exobasidium reticulatum,福建,Fujian,主要发生地,RegionIs
+636,茶网饼病,Exobasidium reticulatum,广东,Guangdong,主要发生地,RegionIs
+637,茶网饼病,Exobasidium reticulatum,四川,Sichuan,主要发生地,RegionIs
+638,茶网饼病,Exobasidium reticulatum,贵州,Guizhou,主要发生地,RegionIs
+639,茶网饼病,Exobasidium reticulatum,台湾,Taiwan,主要发生地,RegionIs
+640,茶芽枯病,Tea bud blight,分布,Distribution,主要发生地,RegionIs
+641,茶芽枯病,Tea bud blight,安徽,Anhui,主要发生地,RegionIs
+642,茶芽枯病,Tea bud blight,浙江,Zhejiang,主要发生地,RegionIs
+643,茶芽枯病,Tea bud blight,湖南,Hunan,主要发生地,RegionIs
+644,茶芽枯病,Tea bud blight,江苏,Jiangsu,主要发生地,RegionIs
+645,茶芽枯病,Tea bud blight,江西,Jiangxi,主要发生地,RegionIs
+646,茶芽枯病,Tea bud blight,广东,Guangdong,主要发生地,RegionIs
+647,茶红锈藻病,Cephaleuros parasiticus,海南,Hainan,主要发生地,RegionIs
+648,茶红锈藻病,Cephaleuros parasiticus,湖南,Hunan,主要发生地,RegionIs
+649,茶红锈藻病,Cephaleuros parasiticus,浙江,Zhejiang,主要发生地,RegionIs
+650,茶红锈藻病,Cephaleuros parasiticus,安徽,Anhui,主要发生地,RegionIs
+651,茶红锈藻病,Cephaleuros parasiticus,江西,Jiangxi,主要发生地,RegionIs
+652,茶红锈藻病,Cephaleuros parasiticus,湖北,Hubei,主要发生地,RegionIs
+653,茶红锈藻病,Cephaleuros parasiticus,广西,Guangxi,主要发生地,RegionIs
+654,茶红锈藻病,Cephaleuros parasiticus,贵州,Guizhou,主要发生地,RegionIs
+655,茶红锈藻病,Cephaleuros parasiticus,云南,Yunnan,主要发生地,RegionIs
+656,茶红锈藻病,Cephaleuros parasiticus,台湾,Taiwan,主要发生地,RegionIs
+657,茶白星病,Elsino? leucospila,福建,Fujian,主要发生地,RegionIs
+658,茶白星病,Elsino? leucospila,浙江,Zhejiang,主要发生地,RegionIs
+659,茶白星病,Elsino? leucospila,江西,Jiangxi,主要发生地,RegionIs
+660,茶白星病,Elsino? leucospila,湖南,Hunan,主要发生地,RegionIs
+661,茶白星病,Elsino? leucospila,四川,Sichuan,主要发生地,RegionIs
+662,茶白星病,Elsino? leucospila,云南,Yunnan,主要发生地,RegionIs
+663,茶白星病,Elsino? leucospila,贵州,Guizhou,主要发生地,RegionIs
+664,茶褐色叶斑病,Tea brown leaf spot,浙江,Zhejiang,主要发生地,RegionIs
+665,茶褐色叶斑病,Tea brown leaf spot,安徽,Anhui,主要发生地,RegionIs
+666,茶褐色叶斑病,Tea brown leaf spot,江苏,Jiangsu,主要发生地,RegionIs
+667,茶褐色叶斑病,Tea brown leaf spot,湖南,Hunan,主要发生地,RegionIs
+668,茶褐色叶斑病,Tea brown leaf spot,四川,Sichuan,主要发生地,RegionIs
+669,茶褐色叶斑病,Tea brown leaf spot,广东,Guangdong,主要发生地,RegionIs
+670,茶苗白绢病,Sclerotium rolfsii,安徽,Anhui,主要发生地,RegionIs
+671,茶苗白绢病,Sclerotium rolfsii,湖北,Hubei,主要发生地,RegionIs
+672,茶苗白绢病,Sclerotium rolfsii,湖南,Hunan,主要发生地,RegionIs
+673,茶苗白绢病,Sclerotium rolfsii,广东,Guangdong,主要发生地,RegionIs
+674,茶苗白绢病,Sclerotium rolfsii,四川,Sichuan,主要发生地,RegionIs
+675,茶苗白绢病,Sclerotium rolfsii,云南,Yunnan,主要发生地,RegionIs
+676,茶发毛病,Tea hair disease,安徽,Anhui,主要发生地,RegionIs
+677,茶发毛病,Tea hair disease,浙江,Zhejiang,主要发生地,RegionIs
+678,茶发毛病,Tea hair disease,广东,Guangdong,主要发生地,RegionIs
+679,茶发毛病,Tea hair disease,云南,Yunnan,主要发生地,RegionIs
+680,茶发毛病,Tea hair disease,贵州,Guizhou,主要发生地,RegionIs
+681,茶发毛病,Tea hair disease,湖南,Hunan,主要发生地,RegionIs
+682,茶线腐病,Tea thread blight,广西,Guangxi,主要发生地,RegionIs
+683,茶线腐病,Tea thread blight,云南,Yunnan,主要发生地,RegionIs
+684,茶线腐病,Tea thread blight,海南,Hainan,主要发生地,RegionIs
+685,茶苗根结线虫病,Meloidogyne incognita,安徽,Anhui,主要发生地,RegionIs
+686,茶苗根结线虫病,Meloidogyne incognita,福建,Fujian,主要发生地,RegionIs
+687,茶苗根结线虫病,Meloidogyne incognita,湖南,Hunan,主要发生地,RegionIs
+688,茶苗根结线虫病,Meloidogyne incognita,广东,Guangdong,主要发生地,RegionIs
+689,茶苗根结线虫病,Meloidogyne incognita,广西,Guangxi,主要发生地,RegionIs
+690,茶苗根结线虫病,Meloidogyne incognita,云南,Yunnan,主要发生地,RegionIs
+691,茶苗根结线虫病,Meloidogyne incognita,四川,Sichuan,主要发生地,RegionIs
+692,茶苗根结线虫病,Meloidogyne incognita,台湾,Taiwan,主要发生地,RegionIs
+693,茶苗根结线虫病,Meloidogyne incognita,海南,Hainan,主要发生地,RegionIs
+694,茶枝黑痣病,Meloidogyne incognita,安徽,Anhui,主要发生地,RegionIs
+695,茶枝黑痣病,Phyllachora sp.,浙江,Zhejiang,主要发生地,RegionIs
+696,茶枝黑痣病,Phyllachora sp.,湖南,Hunan,主要发生地,RegionIs
+697,茶枝黑痣病,Phyllachora sp.,云南,Yunnan,主要发生地,RegionIs
+698,茶褐蓑蛾,Phyllachora sp.,江苏,Jiangsu,主要发生地,RegionIs
+699,茶褐蓑蛾,Mahasena colona,浙江,Zhejiang,主要发生地,RegionIs
+700,茶褐蓑蛾,Mahasena colona,安徽,Anhui,主要发生地,RegionIs
+701,茶褐蓑蛾,Mahasena colona,江西,Jiangxi,主要发生地,RegionIs
+702,茶褐蓑蛾,Mahasena colona,福建,Fujian,主要发生地,RegionIs
+703,茶褐蓑蛾,Mahasena colona,台湾,Taiwan,主要发生地,RegionIs
+704,茶褐蓑蛾,Mahasena colona,湖南,Hunan,主要发生地,RegionIs
+705,茶褐蓑蛾,Mahasena colona,广东,Guangdong,主要发生地,RegionIs
+706,茶褐蓑蛾,Mahasena colona,四川,Sichuan,主要发生地,RegionIs
+707,茶褐蓑蛾,Mahasena colona,贵州,Guizhou,主要发生地,RegionIs
+708,茶褐蓑蛾,Mahasena colona,云南,Yunnan,主要发生地,RegionIs
+709,茶网蝽,Mahasena colona,广东,Guangdong,主要发生地,RegionIs
+710,茶网蝽,Stephanitis chinensis,贵州,Guizhou,主要发生地,RegionIs
+711,茶网蝽,Stephanitis chinensis,四川,Sichuan,主要发生地,RegionIs
+712,茶网蝽,Stephanitis chinensis,云南,Yunnan,主要发生地,RegionIs
+713,椰圆蚧,Stephanitis chinensis,云南,Yunnan,主要发生地,RegionIs
+714,角蜡蚧,Aspidiotus destructor,河北,Hebei,主要发生地,RegionIs
+715,角蜡蚧,Ceroplastes ceriferus,山东,Shandong,主要发生地,RegionIs
+716,角蜡蚧,Ceroplastes ceriferus,四川,Sichuan,主要发生地,RegionIs
+717,角蜡蚧,Ceroplastes ceriferus,云南,Yunnan,主要发生地,RegionIs
+718,角蜡蚧,Ceroplastes ceriferus,广东,Guangdong,主要发生地,RegionIs
+719,角蜡蚧,Ceroplastes ceriferus,广西,Guangxi,主要发生地,RegionIs
+720,角蜡蚧,Ceroplastes ceriferus,福建,Fujian,主要发生地,RegionIs
+721,角蜡蚧,Ceroplastes ceriferus,浙江,Zhejiang,主要发生地,RegionIs
+722,角蜡蚧,Ceroplastes ceriferus,江苏,Jiangsu,主要发生地,RegionIs
+723,角蜡蚧,Ceroplastes ceriferus,湖北,Hubei,主要发生地,RegionIs
+724,角蜡蚧,Ceroplastes ceriferus,湖南,Hunan,主要发生地,RegionIs
+725,角蜡蚧,Ceroplastes ceriferus,贵州,Guizhou,主要发生地,RegionIs
+726,茶梨蚧,Pinnaspis theae,安徽,Anhui,主要发生地,RegionIs
+727,茶梨蚧,Pinnaspis theae,江苏,Jiangsu,主要发生地,RegionIs
+728,茶梨蚧,Pinnaspis theae,浙江,Zhejiang,主要发生地,RegionIs
+729,茶梨蚧,Pinnaspis theae,广西,Guangxi,主要发生地,RegionIs
+730,茶梨蚧,Pinnaspis theae,广东,Guangdong,主要发生地,RegionIs
+731,茶梨蚧,Pinnaspis theae,福建,Fujian,主要发生地,RegionIs
+732,茶梨蚧,Pinnaspis theae,贵州,Guizhou,主要发生地,RegionIs
+733,茶梨蚧,Pinnaspis theae,台湾,Taiwan,主要发生地,RegionIs
+734,茶牡蛎蚧,Lepidosaphes ume,安徽,Anhui,主要发生地,RegionIs
+735,茶牡蛎蚧,Lepidosaphes ume,浙江,Zhejiang,主要发生地,RegionIs
+736,茶牡蛎蚧,Lepidosaphes ume,上海,Shanghai,主要发生地,RegionIs
+737,茶牡蛎蚧,Lepidosaphes ume,福建,Fujian,主要发生地,RegionIs
+738,茶牡蛎蚧,Lepidosaphes ume,台湾,Taiwan,主要发生地,RegionIs
+739,茶牡蛎蚧,Lepidosaphes ume,广东,Guangdong,主要发生地,RegionIs
+740,茶牡蛎蚧,Lepidosaphes ume,广西,Guangxi,主要发生地,RegionIs
+741,茶牡蛎蚧,Lepidosaphes ume,贵州,Guizhou,主要发生地,RegionIs
+742,茶牡蛎蚧,Lepidosaphes ume,四川,Sichuan,主要发生地,RegionIs
+743,茶牡蛎蚧,Lepidosaphes ume,云南,Yunnan,主要发生地,RegionIs
+744,茶枝镰蛾,Casuarina cunninghamiana,江苏,Jiangsu,主要发生地,RegionIs
+745,茶枝镰蛾,Casuarina cunninghamiana,安徽,Anhui,主要发生地,RegionIs
+746,茶枝镰蛾,Casuarina cunninghamiana,浙江,Zhejiang,主要发生地,RegionIs
+747,茶枝镰蛾,Casuarina cunninghamiana,福建,Fujian,主要发生地,RegionIs
+748,茶枝镰蛾,Casuarina cunninghamiana,江西,Jiangxi,主要发生地,RegionIs
+749,茶枝镰蛾,Casuarina cunninghamiana,河南,Henan,主要发生地,RegionIs
+750,茶枝镰蛾,Casuarina cunninghamiana,湖南,Hunan,主要发生地,RegionIs
+751,茶枝镰蛾,Casuarina cunninghamiana,广东,Guangdong,主要发生地,RegionIs
+752,茶枝镰蛾,Casuarina cunninghamiana,四川,Sichuan,主要发生地,RegionIs
+753,茶枝镰蛾,Casuarina cunninghamiana,贵州,Guizhou,主要发生地,RegionIs
+754,茶枝镰蛾,Casuarina cunninghamiana,云南,Yunnan,主要发生地,RegionIs
+755,茶枝镰蛾,Casuarina cunninghamiana,湖北,Hubei,主要发生地,RegionIs
+756,茶枝镰蛾,Casuarina cunninghamiana,台湾,Taiwan,主要发生地,RegionIs
+757,茶材小蠹,Xyleborus fornicatus,海南,Hainan,主要发生地,RegionIs
+758,茶材小蠹,Xyleborus fornicatus,四川,Sichuan,主要发生地,RegionIs
+759,茶材小蠹,Xyleborus fornicatus,福建,Fujian,主要发生地,RegionIs
+760,茶材小蠹,Xyleborus fornicatus,贵州,Guizhou,主要发生地,RegionIs
+761,茶材小蠹,Xyleborus fornicatus,云南,Yunnan,主要发生地,RegionIs
+762,茶材小蠹,Xyleborus fornicatus,台湾,Taiwan,主要发生地,RegionIs
+763,茶天牛,Aeolesthes induta,江苏,Jiangsu,主要发生地,RegionIs
+764,茶天牛,Aeolesthes induta,安徽,Anhui,主要发生地,RegionIs
+765,茶天牛,Aeolesthes induta,浙江,Zhejiang,主要发生地,RegionIs
+766,茶天牛,Aeolesthes induta,江西,Jiangxi,主要发生地,RegionIs
+767,茶天牛,Aeolesthes induta,福建,Fujian,主要发生地,RegionIs
+768,茶天牛,Aeolesthes induta,湖南,Hunan,主要发生地,RegionIs
+769,茶天牛,Aeolesthes induta,广东,Guangdong,主要发生地,RegionIs
+770,茶天牛,Aeolesthes induta,广西,Guangxi,主要发生地,RegionIs
+771,茶天牛,Aeolesthes induta,台湾,Taiwan,主要发生地,RegionIs
+772,茶天牛,Aeolesthes induta,贵州,Guizhou,主要发生地,RegionIs
+773,茶天牛,Aeolesthes induta,云南,Yunnan,主要发生地,RegionIs
+774,茶角胸叶甲,Basilepta melanopus,赣南,Southern Jiangxi,主要发生地,RegionIs
+775,茶橙瘿螨,Acaphylla theae,山东,Shandong,主要发生地,RegionIs
+776,茶橙瘿螨,Acaphylla theae,江苏,Jiangsu,主要发生地,RegionIs
+777,茶橙瘿螨,Acaphylla theae,安徽,Anhui,主要发生地,RegionIs
+778,茶橙瘿螨,Acaphylla theae,浙江,Zhejiang,主要发生地,RegionIs
+779,茶橙瘿螨,Acaphylla theae,江西,Jiangxi,主要发生地,RegionIs
+780,茶橙瘿螨,Acaphylla theae,湖南,Hunan,主要发生地,RegionIs
+781,茶橙瘿螨,Acaphylla theae,福建,Fujian,主要发生地,RegionIs
+782,茶橙瘿螨,Acaphylla theae,广东,Guangdong,主要发生地,RegionIs
+783,茶橙瘿螨,Acaphylla theae,台湾,Taiwan,主要发生地,RegionIs
+784,茶橙瘿螨,Acaphylla theae,广西,Guangxi,主要发生地,RegionIs
+785,茶橙瘿螨,Acaphylla theae,四川,Sichuan,主要发生地,RegionIs
+786,茶橙瘿螨,Acaphylla theae,贵州,Guizhou,主要发生地,RegionIs
+787,茶叶瘿螨,Calacarus carinatus,江苏,Jiangsu,主要发生地,RegionIs
+788,茶叶瘿螨,Calacarus carinatus,浙江,Zhejiang,主要发生地,RegionIs
+789,茶叶瘿螨,Calacarus carinatus,安徽,Anhui,主要发生地,RegionIs
+790,茶叶瘿螨,Calacarus carinatus,江西,Jiangxi,主要发生地,RegionIs
+791,茶叶瘿螨,Calacarus carinatus,福建,Fujian,主要发生地,RegionIs
+792,茶叶瘿螨,Calacarus carinatus,山东,Shandong,主要发生地,RegionIs
+793,茶叶瘿螨,Calacarus carinatus,湖北,Hubei,主要发生地,RegionIs
+794,茶叶瘿螨,Calacarus carinatus,湖南,Hunan,主要发生地,RegionIs
+795,茶叶瘿螨,Calacarus carinatus,广东,Guangdong,主要发生地,RegionIs
+796,茶叶瘿螨,Calacarus carinatus,贵州,Guizhou,主要发生地,RegionIs
+797,茶叶瘿螨,Calacarus carinatus,台湾,Taiwan,主要发生地,RegionIs
+798,茶红螨,Tetranychus kanzawai,江西,Jiangxi,主要发生地,RegionIs
+799,茶红螨,Tetranychus kanzawai,云南,Yunnan,主要发生地,RegionIs
+800,茶红螨,Tetranychus kanzawai,广东,Guangdong,主要发生地,RegionIs
+801,茶红螨,Tetranychus kanzawai,广西,Guangxi,主要发生地,RegionIs
+802,茶红螨,Tetranychus kanzawai,福建,Fujian,主要发生地,RegionIs
+803,茶红螨,Tetranychus kanzawai,台湾,Taiwan,主要发生地,RegionIs
+804,茶短须螨,Brevipalpus phoenicis,山东,Shandong,主要发生地,RegionIs
+805,茶短须螨,Brevipalpus phoenicis,安徽,Anhui,主要发生地,RegionIs
+806,茶短须螨,Brevipalpus phoenicis,浙江,Zhejiang,主要发生地,RegionIs
+807,茶短须螨,Brevipalpus phoenicis,福建,Fujian,主要发生地,RegionIs
+808,茶短须螨,Brevipalpus phoenicis,台湾,Taiwan,主要发生地,RegionIs
+809,茶短须螨,Brevipalpus phoenicis,湖南,Hunan,主要发生地,RegionIs
+810,茶短须螨,Brevipalpus phoenicis,广东,Guangdong,主要发生地,RegionIs
+811,茶短须螨,Brevipalpus phoenicis,广西,Guangxi,主要发生地,RegionIs
+812,茶棍蓟马,Dendrothrips minowai,广西,Guangxi,主要发生地,RegionIs
+813,茶棍蓟马,Dendrothrips minowai,海南,Hainan,主要发生地,RegionIs
+814,茶棍蓟马,Dendrothrips minowai,贵州,Guizhou,主要发生地,RegionIs
+815,咖啡小爪螨,Oligonychus coffeae,江西,Jiangxi,主要发生地,RegionIs
+816,咖啡小爪螨,Oligonychus coffeae,云南,Yunnan,主要发生地,RegionIs
+817,咖啡小爪螨,Oligonychus coffeae,广东,Guangdong,主要发生地,RegionIs
+818,咖啡小爪螨,Oligonychus coffeae,广西,Guangxi,主要发生地,RegionIs
+819,咖啡小爪螨,Oligonychus coffeae,福建,Fujian,主要发生地,RegionIs
+820,咖啡小爪螨,Oligonychus coffeae,台湾,Taiwan,主要发生地,RegionIs
+821,烟草蛙眼病,Cercospora nicotianae,湖南,Hunan,主要发生地,RegionIs
+822,烟草蛙眼病,Cercospora nicotianae,河南,Henan,主要发生地,RegionIs
+823,烟草蛙眼病,Cercospora nicotianae,云南,Yunnan,主要发生地,RegionIs
+824,烟草根黑腐病,Thielaviopsis basicola,云南,Yunnan,主要发生地,RegionIs
+825,烟草根黑腐病,Thielaviopsis basicola,广西,Guangxi,主要发生地,RegionIs
+826,烟草根黑腐病,Thielaviopsis basicola,贵州,Guizhou,主要发生地,RegionIs
+827,烟草根黑腐病,Thielaviopsis basicola,山东,Shandong,主要发生地,RegionIs
+828,烟草根黑腐病,Thielaviopsis basicola,安徽,Anhui,主要发生地,RegionIs
+829,烟草根黑腐病,Thielaviopsis basicola,湖北,Hubei,主要发生地,RegionIs
+830,烟草根黑腐病,Thielaviopsis basicola,四川,Sichuan,主要发生地,RegionIs
+831,烟草白绢病,Sclerotium rolfsii,贵州,Guizhou,主要发生地,RegionIs
+832,烟草白绢病,Sclerotium rolfsii,湖南,Hunan,主要发生地,RegionIs
+833,烟草白绢病,Sclerotium rolfsii,湖北,Hubei,主要发生地,RegionIs
+834,烟草白绢病,Sclerotium rolfsii,广东,Guangdong,主要发生地,RegionIs
+835,烟草白绢病,Sclerotium rolfsii,广西,Guangxi,主要发生地,RegionIs
+836,烟草白绢病,Sclerotium rolfsii,浙江,Zhejiang,主要发生地,RegionIs
+837,烟草白绢病,Sclerotium rolfsii,安徽,Anhui,主要发生地,RegionIs
+838,烟草白绢病,Sclerotium rolfsii,山东,Shandong,主要发生地,RegionIs
+839,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,湖北,Hubei,主要发生地,RegionIs
+840,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,河南,Henan,主要发生地,RegionIs
+841,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,云南,Yunnan,主要发生地,RegionIs
+842,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,福建,Fujian,主要发生地,RegionIs
+843,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,陕西,Shaanxi,主要发生地,RegionIs
+844,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,辽宁,Liaoning,主要发生地,RegionIs
+845,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,吉林,Jilin,主要发生地,RegionIs
+846,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,黑龙江,Heilongjiang,主要发生地,RegionIs
+847,烟草枯萎病,Fusarium oxysporum f. sp. nicotianae,台湾,Taiwan,主要发生地,RegionIs
+848,烟草斑点病,Tobacco spot disease,福建,Fujian,主要发生地,RegionIs
+849,烟草斑点病,Tobacco spot disease,台湾,Taiwan,主要发生地,RegionIs
+850,烟草斑点病,Tobacco spot disease,云南,Yunnan,主要发生地,RegionIs
+851,烟草斑点病,Tobacco spot disease,广西,Guangxi,主要发生地,RegionIs
+852,烟草斑点病,Tobaco spot disease,贵州,Guizhou,主要发生地,RegionIs
+853,烟草斑点病,Tobacco spot disease,湖南,Hunan,主要发生地,RegionIs
+854,烟草斑点病,Tobacco spot disease,四川,Sichuan,主要发生地,RegionIs
+855,烟草斑点病,Tobacco spot disease,湖北,Hubei,主要发生地,RegionIs
+856,烟草斑点病,Tobacco spot disease,安徽,Anhui,主要发生地,RegionIs
+857,烟草斑点病,Tobacco spot disease,河南,Henan,主要发生地,RegionIs
+858,烟草斑点病,Tobacco spot disease,辽宁,Liaoning,主要发生地,RegionIs
+859,烟草斑点病,Tobacco spot disease,吉林,Jilin,主要发生地,RegionIs
+860,烟草青枯病,Ralstonia solanacearum,广西,Guangxi,主要发生地,RegionIs
+861,烟草青枯病,Ralstonia solanacearum,福建,Fujian,主要发生地,RegionIs
+862,烟草青枯病,Ralstonia solanacearum,湖南,Hunan,主要发生地,RegionIs
+863,烟草青枯病,Ralstonia solanacearum,湖北,Hubei,主要发生地,RegionIs
+864,烟草青枯病,Ralstonia solanacearum,四川,Sichuan,主要发生地,RegionIs
+865,烟草青枯病,Ralstonia solanacearum,浙江,Zhejiang,主要发生地,RegionIs
+866,烟草青枯病,Ralstonia solanacearum,安徽,Anhui,主要发生地,RegionIs
+867,烟草野火病,Pseudomonas syringae pv. tabaci,吉林,Jilin,主要发生地,RegionIs
+868,烟草野火病,Pseudomonas syringae pv. tabaci,辽宁,Liaoning,主要发生地,RegionIs
+869,烟草野火病,Pseudomonas syringae pv. tabaci,山东,Shandong,主要发生地,RegionIs
+870,烟草野火病,Pseudomonas syringae pv. tabaci,四川,Sichuan,主要发生地,RegionIs
+871,烟草野火病,Pseudomonas syringae pv. tabaci,云南,Yunnan,主要发生地,RegionIs
+872,烟草角斑病,Pseudomonas syringae pv. angulata,河南,Henan,主要发生地,RegionIs
+873,烟草角斑病,Pseudomonas syringae pv. angulata,安徽,Anhui,主要发生地,RegionIs
+874,烟草角斑病,Pseudomonas syringae pv. angulata,四川,Sichuan,主要发生地,RegionIs
+875,烟草角斑病,Pseudomonas syringae pv. angulata,贵州,Guizhou,主要发生地,RegionIs
+876,烟草角斑病,Pseudomonas syringae pv. angulata,云南,Yunnan,主要发生地,RegionIs
+877,烟草角斑病,Pseudomonas syringae pv. angulata,浙江,Zhejiang,主要发生地,RegionIs
+878,烟草角斑病,Pseudomonas syringae pv. angulata,陕西,Shaanxi,主要发生地,RegionIs
+879,烟草角斑病,Pseudomonas syringae pv. angulata,广西,Guangxi,主要发生地,RegionIs
+880,烟草角斑病,Pseudomonas syringae pv. angulata,辽宁,Liaoning,主要发生地,RegionIs
+881,烟草角斑病,Pseudomonas syringae pv. angulata,吉林,Jilin,主要发生地,RegionIs
+882,烟草角斑病,Pseudomonas syringae pv. angulata,黑龙江,Heilongjiang,主要发生地,RegionIs
+883,烟草角斑病,Pseudomonas syringae pv. angulata,山东,Shandong,主要发生地,RegionIs
+884,烟草马铃薯Y病毒病,Potato virus Y (PVY),辽宁,Liaoning,主要发生地,RegionIs
+885,烟草马铃薯Y病毒病,Potato virus Y (PVY),河南,Henan,主要发生地,RegionIs
+886,烟草马铃薯Y病毒病,Potato virus Y (PVY),四川,Sichuan,主要发生地,RegionIs
+887,烟草蚀纹病毒病,Tobacco etch virus (TEV),安徽,Anhui,主要发生地,RegionIs
+888,烟草蚀纹病毒病,Tobacco etch virus (TEV),辽宁,Liaoning,主要发生地,RegionIs
+889,烟草蚀纹病毒病,Tobacco etch virus (TEV),广东,Guangdong,主要发生地,RegionIs
+890,烟草蚀纹病毒病,Tobacco etch virus (TEV),贵州,Guizhou,主要发生地,RegionIs
+891,烟草环斑病毒病,Tobacco ringspot virus (TRSV),山东,Shandong,主要发生地,RegionIs
+892,烟草环斑病毒病,Tobacco ringspot virus (TRSV),河南,Henan,主要发生地,RegionIs
+893,烟草环斑病毒病,Tobacco ringspot virus (TRSV),安徽,Anhui,主要发生地,RegionIs
+894,烟草环斑病毒病,Tobacco ringspot virus (TRSV),辽宁,Liaoning,主要发生地,RegionIs
+895,烟草环斑病毒病,Tobacco ringspot virus (TRSV),黑龙江,Heilongjiang,主要发生地,RegionIs
+896,烟草环斑病毒病,Tobacco ringspot virus (TRSV),云南,Yunnan,主要发生地,RegionIs
+897,烟草环斑病毒病,Tobacco ringspot virus (TRSV),贵州,Guizhou,主要发生地,RegionIs
+898,烟草环斑病毒病,Tobacco ringspot virus (TRSV),福建,Fujian,主要发生地,RegionIs
+899,烟草环斑病毒病,Tobacco ringspot virus (TRSV),湖南,Hunan,主要发生地,RegionIs
+900,烟草环斑病毒病,Tobacco ringspot virus (TRSV),湖北,Hubei,主要发生地,RegionIs
+901,烟草环斑病毒病,Tobacco ringspot virus (TRSV),陕西,Shaanxi,主要发生地,RegionIs
+902,烟草环斑病毒病,Tobacco ringspot virus (TRSV),台湾,Taiwan,主要发生地,RegionIs
+903,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),吉林,Jilin,主要发生地,RegionIs
+904,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),辽宁,Liaoning,主要发生地,RegionIs
+905,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),山东,Shandong,主要发生地,RegionIs
+906,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),河南,Henan,主要发生地,RegionIs
+907,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),安徽,Anhui,主要发生地,RegionIs
+908,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),湖北,Hubei,主要发生地,RegionIs
+909,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),四川,Sichuan,主要发生地,RegionIs
+910,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),重庆,Chongqing,主要发生地,RegionIs
+911,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),贵州,Guizhou,主要发生地,RegionIs
+912,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),云南,Yunnan,主要发生地,RegionIs
+913,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),福建,Fujian,主要发生地,RegionIs
+914,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),广东,Guangdong,主要发生地,RegionIs
+915,烟草普通花叶病毒病,Tobacco mosaic virus (TMV),台湾,Taiwan,主要发生地,RegionIs
+916,烟草甜菜曲顶病毒病,Beet curly top virus (BCTV),安徽,Anhui,主要发生地,RegionIs
+917,烟草甜菜曲顶病毒病,Beet curly top virus (BCTV),陕西,Shaanxi,主要发生地,RegionIs
+918,烟草曲叶病毒病,Tobacco leaf curl virus (TLCV),福建,Fujian,主要发生地,RegionIs
+919,烟草曲叶病毒病,Tobacco leaf curl virus (TLCV),台湾,Taiwan,主要发生地,RegionIs
+920,烟草曲叶病毒病,Tobacco leaf curl virus (TLCV),云南,Yunnan,主要发生地,RegionIs
+921,烟草曲叶病毒病,Tobacco leaf curl virus (TLCV),贵州,Guizhou,主要发生地,RegionIs
+922,烟草曲叶病毒病,Tobacco leaf curl virus (TLCV),辽宁,Liaoning,主要发生地,RegionIs
+923,烟草曲叶病毒病,Tobacco leaf curl virus (TLCV),吉林,Jilin,主要发生地,RegionIs
+924,烟草根结线虫病,Meloidogyne spp.,重庆,Chongqing,主要发生地,RegionIs
+925,烟草根结线虫病,Meloidogyne spp.,河南,Henan,主要发生地,RegionIs
+926,烟草根结线虫病,Meloidogyne spp.,云南,Yunnan,主要发生地,RegionIs
+927,烟草根结线虫病,Meloidogyne spp.,广西,Guangxi,主要发生地,RegionIs
+928,烟草根结线虫病,Meloidogyne spp.,湖南,Hunan,主要发生地,RegionIs
+929,烟草根结线虫病,Meloidogyne spp.,湖北,Hubei,主要发生地,RegionIs
+930,烟草气候斑点病,Tobacco weather fleck,河南,Henan,主要发生地,RegionIs
+931,烟草气候斑点病,Tobacco weather fleck,福建,Fujian,主要发生地,RegionIs
+932,烟草气候斑点病,Tobacco weather fleck,广东,Guangdong,主要发生地,RegionIs
+933,烟草气候斑点病,Tobacco weather fleck,山东,Shandong,主要发生地,RegionIs
+934,烟草气候斑点病,Tobacco weather fleck,广西,Guangxi,主要发生地,RegionIs
+935,烟草剑叶病,Tobacco sword leaf disease,在山,On the Mountain,主要发生地,RegionIs
+936,烟草根褐腐线虫病,Tobacco root brown rot nematode disease,陕西,Shaanxi,主要发生地,RegionIs
+937,烟草根褐腐线虫病,Tobacco root brown rot nematode disease,山东,Shandong,主要发生地,RegionIs
+938,烟草根褐腐线虫病,Tobacco root brown rot nematode disease,安徽,Anhui,主要发生地,RegionIs
+939,菟丝子,Cuscuta spp.,河南,Henan,主要发生地,RegionIs
+940,菟丝子,Cuscuta spp.,四川,Sichuan,主要发生地,RegionIs
+941,菟丝子,Cuscuta spp.,山东,Shandong,主要发生地,RegionIs
+942,菟丝子,Cuscuta spp.,安徽,Anhui,主要发生地,RegionIs
+943,菟丝子,Cuscuta spp.,辽宁,Liaoning,主要发生地,RegionIs
+944,菟丝子,Cuscuta spp.,吉林,Jilin,主要发生地,RegionIs
+945,菟丝子,Cuscuta spp.,黑龙江,Heilongjiang,主要发生地,RegionIs
+946,烟草潜叶蛾,Phthorimaea operculella,云南,Yunnan,主要发生地,RegionIs
+947,烟草潜叶蛾,Phthorimaea operculella,广西,Guangxi,主要发生地,RegionIs
+948,烟草潜叶蛾,Phthorimaea operculella,浙江,Zhejiang,主要发生地,RegionIs
+949,烟草蛀茎蛾,Sesamia inferens,云南,Yunnan,主要发生地,RegionIs
+950,烟草蛀茎蛾,Sesamia inferens,海南,Hainan,主要发生地,RegionIs
+951,芝麻天蛾,Acherontia styx,北京,Beijing,主要发生地,RegionIs
+952,芝麻天蛾,Acherontia styx,河北,Hebei,主要发生地,RegionIs
+953,芝麻天蛾,Acherontia styx,河南,Henan,主要发生地,RegionIs
+954,芝麻天蛾,Acherontia styx,山东,Shandong,主要发生地,RegionIs
+955,芝麻天蛾,Acherontia styx,山西,Shanxi,主要发生地,RegionIs
+956,芝麻天蛾,Acherontia styx,陕西,Shaanxi,主要发生地,RegionIs
+957,芝麻天蛾,Acherontia styx,浙江,Zhejiang,主要发生地,RegionIs
+958,芝麻天蛾,Acherontia styx,江西,Jiangxi,主要发生地,RegionIs
+959,芝麻天蛾,Acherontia styx,湖北,Hubei,主要发生地,RegionIs
+960,芝麻天蛾,Acherontia styx,广东,Guangdong,主要发生地,RegionIs
+961,芝麻天蛾,Acherontia styx,广西,Guangxi,主要发生地,RegionIs
+962,芝麻天蛾,Acherontia styx,云南,Yunnan,主要发生地,RegionIs
+963,烟青虫,Helicoverpa assulta,河北,Hebei,主要发生地,RegionIs
+964,花生茎腐病,Aspergillus niger,江苏,Jiangsu,主要发生地,RegionIs
+965,花生茎腐病,Aspergillus niger,河南,Henan,主要发生地,RegionIs
+966,花生茎腐病,Aspergillus niger,河北,Hebei,主要发生地,RegionIs
+967,花生茎腐病,Aspergillus niger,陕西,Shaanxi,主要发生地,RegionIs
+968,花生茎腐病,Aspergillus niger,辽宁,Liaoning,主要发生地,RegionIs
+969,花生茎腐病,Aspergillus niger,安徽,Anhui,主要发生地,RegionIs
+970,花生茎腐病,Aspergillus niger,海南,Hainan,主要发生地,RegionIs
+971,花生茎腐病,Aspergillus niger,广东,Guangdong,主要发生地,RegionIs
+972,花生青枯病,Ralstonia solanacearum,广东,Guangdong,主要发生地,RegionIs
+973,花生青枯病,Ralstonia solanacearum,广西,Guangxi,主要发生地,RegionIs
+974,花生青枯病,Ralstonia solanacearum,福建,Fujian,主要发生地,RegionIs
+975,花生青枯病,Ralstonia solanacearum,江西,Jiangxi,主要发生地,RegionIs
+976,花生青枯病,Ralstonia solanacearum,湖南,Hunan,主要发生地,RegionIs
+977,花生青枯病,Ralstonia solanacearum,湖北,Hubei,主要发生地,RegionIs
+978,花生青枯病,Ralstonia solanacearum,江苏,Jiangsu,主要发生地,RegionIs
+979,花生青枯病,Ralstonia solanacearum,安徽,Anhui,主要发生地,RegionIs
+980,花生青枯病,Ralstonia solanacearum,辽宁,Liaoning,主要发生地,RegionIs
+981,花生青枯病,Ralstonia solanacearum,河北,Hebei,主要发生地,RegionIs
+982,花生普通花叶病,Peanut mosaic virus,河南,Henan,主要发生地,RegionIs
+983,花生普通花叶病,Peanut mosaic virus,河北,Hebei,主要发生地,RegionIs
+984,花生普通花叶病,Peanut mosaic virus,辽宁,Liaoning,主要发生地,RegionIs
+985,花生普通花叶病,Peanut mosaic virus,山东,Shandong,主要发生地,RegionIs
+986,油葫芦,Teleogryllus emma,安徽,Anhui,主要发生地,RegionIs
+987,油葫芦,Teleogryllus emma,江苏,Jiangsu,主要发生地,RegionIs
+988,油葫芦,Teleogryllus emma,浙江,Zhejiang,主要发生地,RegionIs
+989,油葫芦,Teleogryllus emma,江西,Jiangxi,主要发生地,RegionIs
+990,油葫芦,Teleogryllus emma,福建,Fujian,主要发生地,RegionIs
+991,油葫芦,Teleogryllus emma,河北,Hebei,主要发生地,RegionIs
+992,油葫芦,Teleogryllus emma,山东,Shandong,主要发生地,RegionIs
+993,油葫芦,Teleogryllus emma,山西,Shanxi,主要发生地,RegionIs
+994,油葫芦,Teleogryllus emma,广东,Guangdong,主要发生地,RegionIs
+995,油葫芦,Teleogryllus emma,广西,Guangxi,主要发生地,RegionIs
+996,油葫芦,Teleogryllus emma,贵州,Guizhou,主要发生地,RegionIs
+997,油葫芦,Teleogryllus emma,云南,Yunnan,主要发生地,RegionIs
+998,油葫芦,Teleogryllus emma,西藏,Tibet,主要发生地,RegionIs
+999,油葫芦,Teleogryllus emma,海南,Hainan,主要发生地,RegionIs
+1000,油菜黑胫病,Leptosphaeria biglobosa,浙江,Zhejiang,主要发生地,RegionIs
+1001,油菜黑胫病,Leptosphaeria biglobosa,安徽,Anhui,主要发生地,RegionIs
+1002,油菜黑胫病,Leptosphaeria biglobosa,江西,Jiangxi,主要发生地,RegionIs
+1003,油菜黑胫病,Leptosphaeria biglobosa,湖北,Hubei,主要发生地,RegionIs
+1004,油菜黑胫病,Leptosphaeria biglobosa,湖南,Hunan,主要发生地,RegionIs
+1005,油菜黑胫病,Leptosphaeria biglobosa,四川,Sichuan,主要发生地,RegionIs
+1006,油菜细菌性黑斑病,Pseudomonas syringae pv. maculicola,湖北,Hubei,主要发生地,RegionIs
+1007,油菜细菌性黑斑病,Pseudomonas syringae pv. maculicola,湖南,Hunan,主要发生地,RegionIs
+1008,油菜细菌性黑斑病,Pseudomonas syringae pv. maculicola,云南,Yunnan,主要发生地,RegionIs
+1009,油菜细菌性黑斑病,Pseudomonas syringae pv. maculicola,广东,Guangdong,主要发生地,RegionIs
+1010,黑缝油菜叶甲,Entomoscelis suturalis,河北,Hebei,主要发生地,RegionIs
+1011,黑缝油菜叶甲,Entomoscelis suturalis,山西,Shanxi,主要发生地,RegionIs
+1012,黑缝油菜叶甲,Entomoscelis suturalis,陕西,Shaanxi,主要发生地,RegionIs
+1013,黑缝油菜叶甲,Entomoscelis suturalis,甘肃,Gansu,主要发生地,RegionIs
+1014,黑缝油菜叶甲,Entomoscelis suturalis,山东,Shandong,主要发生地,RegionIs
+1015,黑缝油菜叶甲,Entomoscelis suturalis,江苏,Jiangsu,主要发生地,RegionIs
+1016,芝麻疫病,Phytophthora nicotianae var. parasitica,江西,Jiangxi,主要发生地,RegionIs
+1017,芝麻疫病,Phytophthora nicotianae var. parasitica,河南,Henan,主要发生地,RegionIs
+1018,芝麻疫病,Phytophthora nicotianae var. parasitica,山东,Shandong,主要发生地,RegionIs
+1019,芝麻枯萎病,Fusarium oxysporum f. sp. sesami,河南,Henan,主要发生地,RegionIs
+1020,芝麻枯萎病,Fusarium oxysporum f. sp. sesami,湖北,Hubei,主要发生地,RegionIs
+1021,芝麻枯萎病,Fusarium oxysporum f. sp. sesami,江西,Jiangxi,主要发生地,RegionIs
+1022,芝麻枯萎病,Fusarium oxysporum f. sp. sesami,河北,Hebei,主要发生地,RegionIs
+1023,芝麻枯萎病,Fusarium oxysporum f. sp. sesami,山西,Shanxi,主要发生地,RegionIs
+1024,芝麻枯萎病,Fusarium oxysporum f. sp. sesami,陕西,Shaanxi,主要发生地,RegionIs
+1025,芝麻枯萎病,Fusarium oxysporum f. sp. sesami,新疆,Xinjiang,主要发生地,RegionIs
+1026,芝麻枯萎病,Fusarium oxysporum f. sp. sesami,吉林,Jilin,主要发生地,RegionIs
+1027,芝麻白粉病,Erysiphe cichoracearum,吉林,Jilin,主要发生地,RegionIs
+1028,芝麻白粉病,Erysiphe cichoracearum,山东,Shandong,主要发生地,RegionIs
+1029,芝麻白粉病,Erysiphe cichoracearum,河南,Henan,主要发生地,RegionIs
+1030,芝麻白粉病,Erysiphe cichoracearum,山西,Shanxi,主要发生地,RegionIs
+1031,芝麻白粉病,Erysiphe cichoracearum,陕西,Shaanxi,主要发生地,RegionIs
+1032,芝麻白粉病,Erysiphe cichoracearum,湖北,Hubei,主要发生地,RegionIs
+1033,芝麻白粉病,Erysiphe cichoracearum,湖南,Hunan,主要发生地,RegionIs
+1034,芝麻白粉病,Erysiphe cichoracearum,江苏,Jiangsu,主要发生地,RegionIs
+1035,芝麻白粉病,Erysiphe cichoracearum,江西,Jiangxi,主要发生地,RegionIs
+1036,芝麻白粉病,Erysiphe cichoracearum,云南,Yunnan,主要发生地,RegionIs
+1037,芝麻白粉病,Erysiphe cichoracearum,广东,Guangdong,主要发生地,RegionIs
+1038,芝麻黑斑病,Alternaria sesami,河北,Hebei,主要发生地,RegionIs
+1039,芝麻黑斑病,Alternaria sesami,吉林,Jilin,主要发生地,RegionIs
+1040,芝麻黑斑病,Alternaria sesami,辽宁,Liaoning,主要发生地,RegionIs
+1041,芝麻褐斑病,Cercospora sesami,吉林,Jilin,主要发生地,RegionIs
+1042,芝麻褐斑病,Cercospora sesami,河南,Henan,主要发生地,RegionIs
+1043,芝麻褐斑病,Cercospora sesami,四川,Sichuan,主要发生地,RegionIs
+1044,芝麻青枯病,Ralstonia solanacearum,江西,Jiangxi,主要发生地,RegionIs
+1045,芝麻青枯病,Ralstonia solanacearum,广西,Guangxi,主要发生地,RegionIs
+1046,芝麻青枯病,Ralstonia solanacearum,四川,Sichuan,主要发生地,RegionIs
+1047,向日葵叶枯病,Alternaria helianthi,山东,Shandong,主要发生地,RegionIs
+1048,向日葵叶枯病,Alternaria helianthi,湖北,Hubei,主要发生地,RegionIs
+1049,向日葵黑斑病,Alternaria alternata f. sp. helianthi,辽宁,Liaoning,主要发生地,RegionIs
+1050,蓖麻灰斑病,Cercospora ricinella,吉林,Jilin,主要发生地,RegionIs
+1051,蓖麻灰斑病,Cercospora ricinella,辽宁,Liaoning,主要发生地,RegionIs
+1052,蓖麻灰斑病,Cercospora ricinella,河北,Hebei,主要发生地,RegionIs
+1053,蓖麻灰斑病,Cercospora ricinella,河南,Henan,主要发生地,RegionIs
+1054,蓖麻灰斑病,Cercospora ricinella,安徽,Anhui,主要发生地,RegionIs
+1055,蓖麻灰斑病,Cercospora ricinella,江苏,Jiangsu,主要发生地,RegionIs
+1056,蓖麻灰斑病,Cercospora ricinella,四川,Sichuan,主要发生地,RegionIs
+1057,蓖麻灰斑病,Cercospora ricinella,云南,Yunnan,主要发生地,RegionIs
+1058,蓖麻灰斑病,Cercospora ricinella,广西,Guangxi,主要发生地,RegionIs
+1059,蓖麻灰斑病,Cercospora ricinella,广东,Guangdong,主要发生地,RegionIs
+1060,蓖麻灰斑病,Cercospora ricinella,福建,Fujian,主要发生地,RegionIs
+1061,蓖麻灰斑病,Cercospora ricinella,台湾,Taiwan,主要发生地,RegionIs
+1062,蓖麻黑斑病,Alternaria ricini,黑龙江,Heilongjiang,主要发生地,RegionIs
+1063,蓖麻黑斑病,Alternaria ricini,吉林,Jilin,主要发生地,RegionIs
+1064,蓖麻黑斑病,Alternaria ricini,辽宁,Liaoning,主要发生地,RegionIs
+1065,蓖麻黑斑病,Alternaria ricini,河北,Hebei,主要发生地,RegionIs
+1066,蓖麻黑斑病,Alternaria ricini,河南,Henan,主要发生地,RegionIs
+1067,蓖麻黑斑病,Alternaria ricini,山东,Shandong,主要发生地,RegionIs
+1068,蓖麻黑斑病,Alternaria ricini,山西,Shanxi,主要发生地,RegionIs
+1069,蓖麻黑斑病,Alternaria ricini,甘肃,Gansu,主要发生地,RegionIs
+1070,蓖麻黑斑病,Alternaria ricini,四川,Sichuan,主要发生地,RegionIs
+1071,蓖麻黑斑病,Alternaria ricini,湖北,Hubei,主要发生地,RegionIs
+1072,蓖麻黑斑病,Alternaria ricini,广西,Guangxi,主要发生地,RegionIs
+1073,蓖麻黑斑病,Alternaria ricini,台湾,Taiwan,主要发生地,RegionIs
+1074,蓖麻枯萎病,Fusarium oxysporum f. sp. ricini,陕西,Shaanxi,主要发生地,RegionIs
+1075,蓖麻枯萎病,Fusarium oxysporum f. sp. ricini,广西,Guangxi,主要发生地,RegionIs
+1076,甘蔗凤梨病,Ceratocystis paradoxa,广东,Guangdong,主要发生地,RegionIs
+1077,甘蔗凤梨病,Ceratocystis paradoxa,广西,Guangxi,主要发生地,RegionIs
+1078,甘蔗凤梨病,Ceratocystis paradoxa,云南,Yunnan,主要发生地,RegionIs
+1079,甘蔗凤梨病,Ceratocystis paradoxa,四川,Sichuan,主要发生地,RegionIs
+1080,甘蔗凤梨病,Ceratocystis paradoxa,福建,Fujian,主要发生地,RegionIs
+1081,甘蔗凤梨病,Ceratocystis paradoxa,江西,Jiangxi,主要发生地,RegionIs
+1082,甘蔗凤梨病,Ceratocystis paradoxa,台湾,Taiwan,主要发生地,RegionIs
+1083,甘蔗黄斑病,Mycovellosiella koepkei,广东,Guangdong,主要发生地,RegionIs
+1084,甘蔗黄斑病,Mycovellosiella koepkei,广西,Guangxi,主要发生地,RegionIs
+1085,甘蔗黄斑病,Mycovellosiella koepkei,四川,Sichuan,主要发生地,RegionIs
+1086,甘蔗黄斑病,Mycovellosiella koepkei,云南,Yunnan,主要发生地,RegionIs
+1087,甘蔗黄斑病,Mycovellosiella koepkei,福建,Fujian,主要发生地,RegionIs
+1088,甘蔗黄斑病,Mycovellosiella koepkei,浙江,Zhejiang,主要发生地,RegionIs
+1089,甘蔗黄斑病,Mycovellosiella koepkei,江西,Jiangxi,主要发生地,RegionIs
+1090,甘蔗黄斑病,Mycovellosiella koepkei,台湾,Taiwan,主要发生地,RegionIs
+1091,甘蔗眼斑病,Helminthosporium sacchari,江西,Jiangxi,主要发生地,RegionIs
+1092,甘蔗眼斑病,Helminthosporium sacchari,湖南,Hunan,主要发生地,RegionIs
+1093,甘蔗眼斑病,Helminthosporium sacchari,福建,Fujian,主要发生地,RegionIs
+1094,甘蔗眼斑病,Helminthosporium sacchari,台湾,Taiwan,主要发生地,RegionIs
+1095,甘蔗眼斑病,Helminthosporium sacchari,广东,Guangdong,主要发生地,RegionIs
+1096,甘蔗眼斑病,Helminthosporium sacchari,广西,Guangxi,主要发生地,RegionIs
+1097,甘蔗眼斑病,Helminthosporium sacchari,云南,Yunnan,主要发生地,RegionIs
+1098,甘蔗眼斑病,Helminthosporium sacchari,四川,Sichuan,主要发生地,RegionIs
+1099,甘蔗梢腐病,Fusarium moniliforme var. subglutinans,广西,Guangxi,主要发生地,RegionIs
+1100,甘蔗梢腐病,Fusarium moniliforme var. subglutinans,福建,Fujian,主要发生地,RegionIs
+1101,甘蔗梢腐病,Fusarium moniliforme var. subglutinans,台湾,Taiwan,主要发生地,RegionIs
+1102,甘蔗梢腐病,Fusarium moniliforme var. subglutinans,云南,Yunnan,主要发生地,RegionIs
+1103,甘蔗梢腐病,Fusarium moniliforme var. subglutinans,四川,Sichuan,主要发生地,RegionIs
+1104,甘蔗梢腐病,Fusarium moniliforme var. subglutinans,江西,Jiangxi,主要发生地,RegionIs
+1105,甘蔗花叶病,Sugarcane mosaic virus,广东,Guangdong,主要发生地,RegionIs
+1106,甘蔗褪绿条纹病,Sugarcane chlorotic streak virus,广西,Guangxi,主要发生地,RegionIs
+1107,甘蔗褪绿条纹病,Sugarcane chlorotic streak virus,云南,Yunnan,主要发生地,RegionIs
+1108,甘蔗长蝽,Cavelerius saccharivorus,福建,Fujian,主要发生地,RegionIs
+1109,甘蔗长蝽,Cavelerius saccharivorus,江西,Jiangxi,主要发生地,RegionIs
+1110,甘蔗长蝽,Cavelerius saccharivorus,台湾,Taiwan,主要发生地,RegionIs
+1111,甘蔗长蝽,Cavelerius saccharivorus,广东,Guangdong,主要发生地,RegionIs
+1112,甘蔗长蝽,Cavelerius saccharivorus,广西,Guangxi,主要发生地,RegionIs
+1113,甘蔗扁角飞虱,Perkinsiella saccharicida,台湾,Taiwan,主要发生地,RegionIs
+1114,甘蔗扁角飞虱,Perkinsiella saccharicida,云南,Yunnan,主要发生地,RegionIs
+1115,甘蔗扁角飞虱,Perkinsiella saccharicida,贵州,Guizhou,主要发生地,RegionIs
+1116,食根缘齿天牛,Dorysthenes granulosus,广东,Guangdong,主要发生地,RegionIs
+1117,食根缘齿天牛,Dorysthenes granulosus,广西,Guangxi,主要发生地,RegionIs
+1118,食根缘齿天牛,Dorysthenes granulosus,云南,Yunnan,主要发生地,RegionIs
+1119,甘蔗灰粉蚧,Dysmicoccus boninsis,福建,Fujian,主要发生地,RegionIs
+1120,甘蔗灰粉蚧,Dysmicoccus boninsis,四川,Sichuan,主要发生地,RegionIs
+1121,棉双斜卷蛾,Clepsis (Siclobola) strigana,华北,North China,主要发生地,RegionIs
+1122,棉双斜卷蛾,Clepsis (Siclobola) strigana,华东,East China,主要发生地,RegionIs
+1123,棉双斜卷蛾,Clepsis (Siclobola) strigana,中南,Central South,主要发生地,RegionIs
+1124,焦条丽夜蛾,Xanthodes graellsi,山东,Shandong,主要发生地,RegionIs
+1125,焦条丽夜蛾,Xanthodes graellsi,河北,Hebei,主要发生地,RegionIs
+1126,焦条丽夜蛾,Xanthodes graellsi,陕西,Shaanxi,主要发生地,RegionIs
+1127,焦条丽夜蛾,Xanthodes graellsi,台湾,Taiwan,主要发生地,RegionIs
+1128,焦条丽夜蛾,Xanthodes graellsi,广东,Guangdong,主要发生地,RegionIs
+1129,焦条丽夜蛾,Xanthodes graellsi,广西,Guangxi,主要发生地,RegionIs
+1130,焦条丽夜蛾,Xanthodes graellsi,云南,Yunnan,主要发生地,RegionIs
+1131,焦条丽夜蛾,Xanthodes graellsi,西藏,Tibet,主要发生地,RegionIs
+1132,棉红蝽,Dysdercus cingulatus,湖北,Hubei,主要发生地,RegionIs
+1133,棉红蝽,Dysdercus cingulatus,福建,Fujian,主要发生地,RegionIs
+1134,棉红蝽,Dysdercus cingulatus,广东,Guangdong,主要发生地,RegionIs
+1135,棉红蝽,Dysdercus cingulatus,广西,Guangxi,主要发生地,RegionIs
+1136,棉红蝽,Dysdercus cingulatus,云南,Yunnan,主要发生地,RegionIs
+1137,棉红蝽,Dysdercus cingulatus,四川,Sichuan,主要发生地,RegionIs
+1138,棉红蝽,Dysdercus cingulatus,海南,Hainan,主要发生地,RegionIs
+1139,棉红蝽,Dysdercus cingulatus,台湾,Taiwan,主要发生地,RegionIs
+1140,棉小卵象,Calomycterus obconicus,陕西,Shaanxi,主要发生地,RegionIs
+1141,棉小卵象,Calomycterus obconicus,河北,Hebei,主要发生地,RegionIs
+1142,棉小卵象,Calomycterus obconicus,江苏,Jiangsu,主要发生地,RegionIs
+1143,棉小卵象,Calomycterus obconicus,浙江,Zhejiang,主要发生地,RegionIs
+1144,棉小卵象,Calomycterus obconicus,四川,Sichuan,主要发生地,RegionIs
+1145,棉小卵象,Calomycterus obconicus,广东,Guangdong,主要发生地,RegionIs
+1146,棉小卵象,Calomycterus obconicus,福建,Fujian,主要发生地,RegionIs
+1147,棉尖象,Phytoscaphus gossypii,河北,Hebei,主要发生地,RegionIs
+1148,棉尖象,Phytoscaphus gossypii,山西,Shanxi,主要发生地,RegionIs
+1149,棉尖象,Phytoscaphus gossypii,陕西,Shaanxi,主要发生地,RegionIs
+1150,棉尖象,Phytoscaphus gossypii,河南,Henan,主要发生地,RegionIs
+1151,棉尖象,Phytoscaphus gossypii,山东,Shandong,主要发生地,RegionIs
+1152,棉尖象,Phytoscaphus gossypii,江苏,Jiangsu,主要发生地,RegionIs
+1153,棉尖象,Phytoscaphus gossypii,安徽,Anhui,主要发生地,RegionIs
+1154,棉四点叶甲,Monolepta signata,福建,Fujian,主要发生地,RegionIs
+1155,棉四点叶甲,Monolepta signata,云南,Yunnan,主要发生地,RegionIs
+1156,棉四点叶甲,Monolepta signata,广西,Guangxi,主要发生地,RegionIs
+1157,棉四点叶甲,Monolepta signata,广东,Guangdong,主要发生地,RegionIs
+1158,棉四点叶甲,Monolepta signata,四川,Sichuan,主要发生地,RegionIs
+1159,棉四点叶甲,Monolepta signata,西藏,Tibet,主要发生地,RegionIs
+1160,黄肩绿蝽,Nezara viridula f. aurantiaca,河北,Hebei,主要发生地,RegionIs
+1161,黄肩绿蝽,Nezara viridula f. aurantiaca,安徽,Anhui,主要发生地,RegionIs
+1162,黄肩绿蝽,Nezara viridula f. aurantiaca,江西,Jiangxi,主要发生地,RegionIs
+1163,黄肩绿蝽,Nezara viridula f. aurantiaca,湖北,Hubei,主要发生地,RegionIs
+1164,黄肩绿蝽,Nezara viridula f. aurantiaca,湖南,Hunan,主要发生地,RegionIs
+1165,黄肩绿蝽,Nezara viridula f. aurantiaca,四川,Sichuan,主要发生地,RegionIs
+1166,黄肩绿蝽,Nezara viridula f. aurantiaca,福建,Fujian,主要发生地,RegionIs
+1167,黄肩绿蝽,Nezara viridula f. aurantiaca,贵州,Guizhou,主要发生地,RegionIs
+1168,黄肩绿蝽,Nezara viridula f. aurantiaca,云南,Yunnan,主要发生地,RegionIs
+1169,油葫芦,Teleogryllus emma,东北,Northeast,主要发生地,RegionIs
+1170,油葫芦,Teleogryllus emma,河南,Henan,主要发生地,RegionIs
+1171,油葫芦,Teleogryllus emma,四川,Sichuan,主要发生地,RegionIs
+1172,油葫芦,Teleogryllus emma,湖南,Hunan,主要发生地,RegionIs
+1173,油葫芦,Teleogryllus emma,台湾,Taiwan,主要发生地,RegionIs
+1174,亚麻斑点病,Septoria linicola,吉林,Jilin,主要发生地,RegionIs
+1175,亚麻斑点病,Septoria linicola,山西,Shanxi,主要发生地,RegionIs
+1176,亚麻斑点病,Septoria linicola,河北,Hebei,主要发生地,RegionIs
+1177,大麻霜霉病,Peronospora cannabina,华北,North China,主要发生地,RegionIs
+1178,大麻霜霉病,Peronospora cannabina,东北,Northeast,主要发生地,RegionIs
+1179,大麻霜霉病,Peronospora cannabina,云南,Yunnan,主要发生地,RegionIs
+1180,大麻白星病,Cannabis white spot disease,吉林,Jilin,主要发生地,RegionIs
+1181,大麻白星病,Cannabis white spot disease,辽宁,Liaoning,主要发生地,RegionIs
+1182,大麻白星病,Cannabis white spot disease,新疆,Xinjiang,主要发生地,RegionIs
+1183,大麻白星病,Cannabis white spot disease,河北,Hebei,主要发生地,RegionIs
+1184,大麻白星病,Cannabis white spot disease,山东,Shandong,主要发生地,RegionIs
+1185,大麻白星病,Cannabis white spot disease,甘肃,Gansu,主要发生地,RegionIs
+1186,大麻白星病,Cannabis white spot disease,贵州,Guizhou,主要发生地,RegionIs
+1187,大麻白星病,Cannabis white spot disease,台湾,Taiwan,主要发生地,RegionIs
+1188,苎麻角斑病,Cercospora boehmeriae,四川,Sichuan,主要发生地,RegionIs
+1189,苎麻角斑病,Cercospora boehmeriae,广东,Guangdong,主要发生地,RegionIs
+1190,苎麻角斑病,Cercospora boehmeriae,广西,Guangxi,主要发生地,RegionIs
+1191,苎麻角斑病,Cercospora boehmeriae,台湾,Taiwan,主要发生地,RegionIs
+1192,大豆锈病,Phakopsora pachyrhizi,湖北,Hubei,主要发生地,RegionIs
+1193,大豆锈病,Phakopsora pachyrhizi,江西,Jiangxi,主要发生地,RegionIs
+1194,大豆锈病,Phakopsora pachyrhizi,云南,Yunnan,主要发生地,RegionIs
+1195,大豆锈病,Phakopsora pachyrhizi,安徽,Anhui,主要发生地,RegionIs
+1196,大豆锈病,Phakopsora pachyrhizi,江苏,Jiangsu,主要发生地,RegionIs
+1197,大豆锈病,Phakopsora pachyrhizi,福建,Fujian,主要发生地,RegionIs
+1198,大豆锈病,Phakopsora pachyrhizi,台湾,Taiwan,主要发生地,RegionIs
+1199,大豆锈病,Phakopsora pachyrhizi,海南,Hainan,主要发生地,RegionIs
+1200,大豆锈病,Phakopsora pachyrhizi,广西,Guangxi,主要发生地,RegionIs
+1201,大豆褐斑病,Septoria glycines,东北,Northeast,主要发生地,RegionIs
+1202,大豆褐斑病,Septoria glycines,四川,Sichuan,主要发生地,RegionIs
+1203,大豆褐斑病,Septoria glycines,河南,Henan,主要发生地,RegionIs
+1204,大豆褐斑病,Septoria glycines,山东,Shandong,主要发生地,RegionIs
+1205,大豆褐斑病,Septoria glycines,江苏,Jiangsu,主要发生地,RegionIs
+1206,大豆黑点病,Diaporthe phaseolorum,东北,Northeast,主要发生地,RegionIs
+1207,大豆黑点病,Diaporthe phaseolorum,河南,Henan,主要发生地,RegionIs
+1208,大豆黑点病,Diaporthe phaseolorum,山东,Shandong,主要发生地,RegionIs
+1209,大豆黑点病,Diaporthe phaseolorum,江苏,Jiangsu,主要发生地,RegionIs
+1210,大豆黑点病,Diaporthe phaseolorum,湖北,Hubei,主要发生地,RegionIs
+1211,大豆黑点病,Diaporthe phaseolorum,四川,Sichuan,主要发生地,RegionIs
+1212,大豆黑点病,Diaporthe phaseolorum,云南,Yunnan,主要发生地,RegionIs
+1213,大豆叶斑病,Cercospora sojina,四川,Sichuan,主要发生地,RegionIs
+1214,大豆叶斑病,Cercospora sojina,河南,Henan,主要发生地,RegionIs
+1215,大豆叶斑病,Cercospora sojina,山东,Shandong,主要发生地,RegionIs
+1216,大豆叶斑病,Cercospora sojina,江苏,Jiangsu,主要发生地,RegionIs
+1217,大豆褐纹病,Phyllosticta sojaecola,吉林,Jilin,主要发生地,RegionIs
+1218,大豆褐纹病,Phyllosticta sojaecola,辽宁,Liaoning,主要发生地,RegionIs
+1219,大豆褐纹病,Phyllosticta sojaecola,山东,Shandong,主要发生地,RegionIs
+1220,大豆褐纹病,Phyllosticta sojaecola,四川,Sichuan,主要发生地,RegionIs
+1221,大豆褐纹病,Phyllosticta sojaecola,河南,Henan,主要发生地,RegionIs
+1222,大豆褐纹病,Phyllosticta sojaecola,江苏,Jiangsu,主要发生地,RegionIs
+1223,豆秆黑潜蝇,Melanagromyza sojae,河南,Henan,主要发生地,RegionIs
+1224,豆秆黑潜蝇,Melanagromyza sojae,江苏,Jiangsu,主要发生地,RegionIs
+1225,豆秆黑潜蝇,Melanagromyza sojae,安徽,Anhui,主要发生地,RegionIs
+1226,豆秆黑潜蝇,Melanagromyza sojae,浙江,Zhejiang,主要发生地,RegionIs
+1227,豆秆黑潜蝇,Melanagromyza sojae,江西,Jiangxi,主要发生地,RegionIs
+1228,豆秆黑潜蝇,Melanagromyza sojae,湖南,Hunan,主要发生地,RegionIs
+1229,豆秆黑潜蝇,Melanagromyza sojae,贵州,Guizhou,主要发生地,RegionIs
+1230,豆秆黑潜蝇,Melanagromyza sojae,甘肃,Gansu,主要发生地,RegionIs
+1231,豆秆黑潜蝇,Melanagromyza sojae,广西,Guangxi,主要发生地,RegionIs
+1232,豆秆黑潜蝇,Melanagromyza sojae,云南,Yunnan,主要发生地,RegionIs
+1233,豆秆黑潜蝇,Melanagromyza sojae,福建,Fujian,主要发生地,RegionIs
+1234,豆秆黑潜蝇,Melanagromyza sojae,台湾,Taiwan,主要发生地,RegionIs
+1235,豆根蛇潜蝇,Ophiomyia centrosematis,吉林,Jilin,主要发生地,RegionIs
+1236,豆根蛇潜蝇,Ophiomyia centrosematis,辽宁,Liaoning,主要发生地,RegionIs
+1237,豆根蛇潜蝇,Ophiomyia centrosematis,山东,Shandong,主要发生地,RegionIs
+1238,豆根蛇潜蝇,Ophiomyia centrosematis,河北,Hebei,主要发生地,RegionIs
+1239,豆叶东潜蝇,Japanagromyza tristella,北京,Beijing,主要发生地,RegionIs
+1240,豆叶东潜蝇,Japanagromyza tristella,河南,Henan,主要发生地,RegionIs
+1241,豆叶东潜蝇,Japanagromyza tristella,河北,Hebei,主要发生地,RegionIs
+1242,豆叶东潜蝇,Japanagromyza tristella,山东,Shandong,主要发生地,RegionIs
+1243,豆叶东潜蝇,Japanagromyza tristella,江苏,Jiangsu,主要发生地,RegionIs
+1244,豆叶东潜蝇,Japanagromyza tristella,福建,Fujian,主要发生地,RegionIs
+1245,豆叶东潜蝇,Japanagromyza tristella,四川,Sichuan,主要发生地,RegionIs
+1246,豆叶东潜蝇,Japanagromyza tristella,陕西,Shaanxi,主要发生地,RegionIs
+1247,豆叶东潜蝇,Japanagromyza tristella,广东,Guangdong,主要发生地,RegionIs
+1248,豆叶东潜蝇,Japanagromyza tristella,云南,Yunnan,主要发生地,RegionIs
+1249,斑背安缘蝽,Anoplocnemis binotata,山东,Shandong,主要发生地,RegionIs
+1250,斑背安缘蝽,Anoplocnemis binotata,河南,Henan,主要发生地,RegionIs
+1251,斑背安缘蝽,Anoplocnemis binotata,安徽,Anhui,主要发生地,RegionIs
+1252,斑背安缘蝽,Anoplocnemis binotata,江苏,Jiangsu,主要发生地,RegionIs
+1253,斑背安缘蝽,Anoplocnemis binotata,浙江,Zhejiang,主要发生地,RegionIs
+1254,斑背安缘蝽,Anoplocnemis binotata,四川,Sichuan,主要发生地,RegionIs
+1255,斑背安缘蝽,Anoplocnemis binotata,贵州,Guizhou,主要发生地,RegionIs
+1256,斑背安缘蝽,Anoplocnemis binotata,云南,Yunnan,主要发生地,RegionIs
+1257,斑背安缘蝽,Anoplocnemis binotata,福建,Fujian,主要发生地,RegionIs
+1258,斑背安缘蝽,Anoplocnemis binotata,江西,Jiangxi,主要发生地,RegionIs
+1259,斑背安缘蝽,Anoplocnemis binotata,西藏,Tibet,主要发生地,RegionIs
+1260,豆叶螨,Tetranychus phaselus,北京,Beijing,主要发生地,RegionIs
+1261,玉米铁甲,Dactylispa setifera,贵州,Guizhou,主要发生地,RegionIs
+1262,禾蓟马,Frankliniella tenuicornis,蒙古,Mongolia,主要发生地,RegionIs
+1263,禾蓟马,Frankliniella tenuicornis,辽宁,Liaoning,主要发生地,RegionIs
+1264,禾蓟马,Frankliniella tenuicornis,福建,Fujian,主要发生地,RegionIs
+1265,禾蓟马,Frankliniella tenuicornis,广东,Guangdong,主要发生地,RegionIs
+1266,禾蓟马,Frankliniella tenuicornis,广西,Guangxi,主要发生地,RegionIs
+1267,禾蓟马,Frankliniella tenuicornis,四川,Sichuan,主要发生地,RegionIs
+1268,禾蓟马,Frankliniella tenuicornis,云南,Yunnan,主要发生地,RegionIs
+1269,禾蓟马,Frankliniella tenuicornis,西藏,Tibet,主要发生地,RegionIs
+1270,禾蓟马,Frankliniella tenuicornis,陕西,Shaanxi,主要发生地,RegionIs
+1271,禾蓟马,Frankliniella tenuicornis,甘肃,Gansu,主要发生地,RegionIs
+1272,禾蓟马,Frankliniella tenuicornis,青海,Qinghai,主要发生地,RegionIs
+1273,禾蓟马,Frankliniella tenuicornis,宁夏,Ningxia,主要发生地,RegionIs
+1274,禾蓟马,Frankliniella tenuicornis,新疆,Xinjiang,主要发生地,RegionIs
+1275,禾蓟马,Frankliniella tenuicornis,江西,Jiangxi,主要发生地,RegionIs
+1276,禾蓟马,Frankliniella tenuicornis,河南,Henan,主要发生地,RegionIs
+1277,高粱坚黑穗病,Sphacelotheca sorghi,山东,Shandong,主要发生地,RegionIs
+1278,高粱柱黑粉病,Sorosporium reilianum,吉林,Jilin,主要发生地,RegionIs
+1279,高粱柱黑粉病,Sorosporium reilianum,辽宁,Liaoning,主要发生地,RegionIs
+1280,高粱柱黑粉病,Sorosporium reilianum,河北,Hebei,主要发生地,RegionIs
+1281,高粱柱黑粉病,Sorosporium reilianum,甘肃,Gansu,主要发生地,RegionIs
+1282,高粱细菌性条纹病,Xanthomonas campestris pv. holcicola,河北,Hebei,主要发生地,RegionIs
+1283,高粱细菌性条纹病,Xanthomonas campestris pv. holcicola,山西,Shanxi,主要发生地,RegionIs
+1284,高粱细菌性条纹病,Xanthomonas campestris pv. holcicola,山东,Shandong,主要发生地,RegionIs
+1285,高粱细菌性条纹病,Xanthomonas campestris pv. holcicola,河南,Henan,主要发生地,RegionIs
+1286,高粱细菌性条纹病,Xanthomonas campestris pv. holcicola,江苏,Jiangsu,主要发生地,RegionIs
+1287,高粱细菌性红条病,Sorghum bacterial red stripe disease,河南,Henan,主要发生地,RegionIs
+1288,高粱细菌性红条病,Sorghum bacterial red stripe disease,山东,Shandong,主要发生地,RegionIs
+1289,高粱细菌性红条病,Sorghum bacterial red stripe disease,江苏,Jiangsu,主要发生地,RegionIs
+1290,高粱细菌性红条病,Sorghum bacterial red stripe disease,湖北,Hubei,主要发生地,RegionIs
+1291,高粱细菌性斑点病,Xanthomonas campestris pv. sorghum,吉林,Jilin,主要发生地,RegionIs
+1292,高粱细菌性斑点病,Xanthomonas campestris pv. sorghum,湖南,Hunan,主要发生地,RegionIs
+1293,高粱细菌性斑点病,Xanthomonas campestris pv. sorghum,云南,Yunnan,主要发生地,RegionIs
+1294,谷类大蚊,Tipula paludosa,东北,Northeast,主要发生地,RegionIs
+1295,谷类大蚊,Tipula paludosa,华北,North China,主要发生地,RegionIs
+1296,谷类大蚊,Tipula paludosa,西北,Northwest,主要发生地,RegionIs
+1297,粟细菌性褐斑条斑病,Pseudomonas syringae pv. setariae,河北,Hebei,主要发生地,RegionIs
+1298,粟细菌性褐斑条斑病,Pseudomonas syringae pv. setariae,河南,Henan,主要发生地,RegionIs
+1299,粟细菌性褐斑条斑病,Pseudomonas syringae pv. setariae,山东,Shandong,主要发生地,RegionIs
+1300,粟细菌性褐斑条斑病,Pseudomonas syringae pv. setariae,江苏,Jiangsu,主要发生地,RegionIs
+1301,粟细菌性褐斑条斑病,Pseudomonas syringae pv. setariae,湖北,Hubei,主要发生地,RegionIs
+1302,粟墨黑粉病,Ustilago crameri,辽宁,Liaoning,主要发生地,RegionIs
+1303,粟墨黑粉病,Ustilago crameri,河北,Hebei,主要发生地,RegionIs
+1304,粟细菌性条斑病,Xanthomonas campestris pv. oryzae,河北,Hebei,主要发生地,RegionIs
+1305,粟细菌性条斑病,Xanthomonas campestris pv. oryzae,河南,Henan,主要发生地,RegionIs
+1306,粟细菌性条斑病,Xanthomonas campestris pv. oryzae,山东,Shandong,主要发生地,RegionIs
+1307,粟细菌性条斑病,Xanthomonas campestris pv. oryzae,江苏,Jiangsu,主要发生地,RegionIs
+1308,粟细菌性条斑病,Xanthomonas campestris pv. oryzae,湖北,Hubei,主要发生地,RegionIs
+1309,甘薯茎螟,Omphisa anastomosalis,福建,Fujian,主要发生地,RegionIs
+1310,甘薯茎螟,Omphisa anastomosalis,台湾,Taiwan,主要发生地,RegionIs
+1311,甘薯茎螟,Omphisa anastomosalis,广东,Guangdong,主要发生地,RegionIs
+1312,甘薯茎螟,Omphisa anastomosalis,海南,Hainan,主要发生地,RegionIs
+1313,甘薯茎螟,Omphisa anastomosalis,广西,Guangxi,主要发生地,RegionIs
+1314,甘薯茎螟,Omphisa anastomosalis,云南,Yunnan,主要发生地,RegionIs
+1315,甘薯根腐病,Fusarium solani f. sp. batatas,河北,Hebei,主要发生地,RegionIs
+1316,甘薯根腐病,Fusarium solani f. sp. batatas,河南,Henan,主要发生地,RegionIs
+1317,甘薯根腐病,Fusarium solani f. sp. batatas,江苏,Jiangsu,主要发生地,RegionIs
+1318,甘薯根腐病,Fusarium solani f. sp. batatas,安徽,Anhui,主要发生地,RegionIs
+1319,甘薯根腐病,Fusarium solani f. sp. batatas,湖南,Hunan,主要发生地,RegionIs
+1320,甘薯根腐病,Fusarium solani f. sp. batatas,湖北,Hubei,主要发生地,RegionIs
+1321,甘薯根腐病,Fusarium solani f. sp. batatas,陕西,Shaanxi,主要发生地,RegionIs
+1322,甘薯紫纹羽病,Helicobasidium mompa,浙江,Zhejiang,主要发生地,RegionIs
+1323,甘薯紫纹羽病,Helicobasidium mompa,福建,Fujian,主要发生地,RegionIs
+1324,甘薯紫纹羽病,Helicobasidium mompa,江苏,Jiangsu,主要发生地,RegionIs
+1325,甘薯紫纹羽病,Helicobasidium mompa,山东,Shandong,主要发生地,RegionIs
+1326,甘薯紫纹羽病,Helicobasidium mompa,河北,Hebei,主要发生地,RegionIs
+1327,甘薯紫纹羽病,Helicobasidium mompa,河南,Henan,主要发生地,RegionIs
+1328,甘薯蚁象甲,Cylas formicarius,江西,Jiangxi,主要发生地,RegionIs
+1329,甘薯蚁象甲,Cylas formicarius,湖南,Hunan,主要发生地,RegionIs
+1330,甘薯蚁象甲,Cylas formicarius,贵州,Guizhou,主要发生地,RegionIs
+1331,甘薯蚁象甲,Cylas formicarius,台湾,Taiwan,主要发生地,RegionIs
+1332,甘薯蚁象甲,Cylas formicarius,海南,Hainan,主要发生地,RegionIs
+1333,甘薯蚁象甲,Cylas formicarius,广东,Guangdong,主要发生地,RegionIs
+1334,甘薯蚁象甲,Cylas formicarius,广西,Guangxi,主要发生地,RegionIs
+1335,甘薯蚁象甲,Cylas formicarius,云南,Yunnan,主要发生地,RegionIs
+1336,甘薯蚁象甲,Cylas formicarius,福建,Fujian,主要发生地,RegionIs
+1337,甘薯蜡龟甲,Laccoptera quadrimaculata,福建,Fujian,主要发生地,RegionIs
+1338,甘薯蜡龟甲,Laccoptera quadrimaculata,台湾,Taiwan,主要发生地,RegionIs
+1339,甘薯蜡龟甲,Laccoptera quadrimaculata,广东,Guangdong,主要发生地,RegionIs
+1340,甘薯蜡龟甲,Laccoptera quadrimaculata,广西,Guangxi,主要发生地,RegionIs
+1341,甘薯蜡龟甲,Laccoptera quadrimaculata,贵州,Guizhou,主要发生地,RegionIs
+1342,甘薯蜡龟甲,Laccoptera quadrimaculata,四川,Sichuan,主要发生地,RegionIs
+1343,甘薯蜡龟甲,Laccoptera quadrimaculata,湖北,Hubei,主要发生地,RegionIs
+1344,甘薯蜡龟甲,Laccoptera quadrimaculata,浙江,Zhejiang,主要发生地,RegionIs
+1345,甘薯蜡龟甲,Laccoptera quadrimaculata,江苏,Jiangsu,主要发生地,RegionIs
+1346,笨蝗,Haplotropis brunneriana,东北,Northeast,主要发生地,RegionIs
+1347,笨蝗,Haplotropis brunneriana,内蒙,Inner Mongolia,主要发生地,RegionIs
+1348,笨蝗,Haplotropis brunneriana,河北,Hebei,主要发生地,RegionIs
+1349,笨蝗,Haplotropis brunneriana,河南,Henan,主要发生地,RegionIs
+1350,笨蝗,Haplotropis brunneriana,山西,Shanxi,主要发生地,RegionIs
+1351,笨蝗,Haplotropis brunneriana,山东,Shandong,主要发生地,RegionIs
+1352,笨蝗,Haplotropis brunneriana,江苏,Jiangsu,主要发生地,RegionIs
+1353,笨蝗,Haplotropis brunneriana,安徽,Anhui,主要发生地,RegionIs
+1354,笨蝗,Haplotropis brunneriana,宁夏,Ningxia,主要发生地,RegionIs
+1355,笨蝗,Haplotropis brunneriana,陕西,Shaanxi,主要发生地,RegionIs
+1356,笨蝗,Haplotropis brunneriana,武威,Wuwei,主要发生地,RegionIs
+1357,笨蝗,Haplotropis brunneriana,兰州,Lanzhou,主要发生地,RegionIs
+1358,笨蝗,Haplotropis brunneriana,庆阳,Qingyang,主要发生地,RegionIs
+1359,笨蝗,Haplotropis brunneriana,正宁,Zhengning,主要发生地,RegionIs
+1360,笨蝗,Haplotropis brunneriana,平凉,Pingliang,主要发生地,RegionIs
+1361,马铃薯青枯病,Ralstonia solanacearum,四川,Sichuan,主要发生地,RegionIs
+1362,马铃薯青枯病,Ralstonia solanacearum,贵州,Guizhou,主要发生地,RegionIs
+1363,马铃薯青枯病,Ralstonia solanacearum,云南,Yunnan,主要发生地,RegionIs
+1364,马铃薯青枯病,Ralstonia solanacearum,广东,Guangdong,主要发生地,RegionIs
+1365,马铃薯青枯病,Ralstonia solanacearum,福建,Fujian,主要发生地,RegionIs
+1366,马铃薯青枯病,Ralstonia solanacearum,台湾,Taiwan,主要发生地,RegionIs
+1367,马铃薯青枯病,Ralstonia solanacearum,江西,Jiangxi,主要发生地,RegionIs
+1368,马铃薯青枯病,Ralstonia solanacearum,江苏,Jiangsu,主要发生地,RegionIs
+1369,马铃薯青枯病,Ralstonia solanacearum,浙江,Zhejiang,主要发生地,RegionIs
+1370,马铃薯青枯病,Ralstonia solanacearum,上海,Shanghai,主要发生地,RegionIs
+1371,马铃薯青枯病,Ralstonia solanacearum,安徽,Anhui,主要发生地,RegionIs
+1372,马铃薯青枯病,Ralstonia solanacearum,河南,Henan,主要发生地,RegionIs
+1373,马铃薯青枯病,Ralstonia solanacearum,北京,Beijing,主要发生地,RegionIs
+1374,马铃薯青枯病,Ralstonia solanacearum,天津,Tianjin,主要发生地,RegionIs
+1375,马铃薯青枯病,Ralstonia solanacearum,辽宁,Liaoning,主要发生地,RegionIs
+1376,黄胫小车蝗,Oedaleus infernalis,河北,Hebei,主要发生地,RegionIs
+1377,麦穗夜蛾,Apamea sordens,甘肃,Gansu,主要发生地,RegionIs
+1378,麦穗夜蛾,Apamea sordens,青海,Qinghai,主要发生地,RegionIs
+1379,麦茎谷蛾,Ochsenheimeria taurella,山东,Shandong,主要发生地,RegionIs
+1380,麦茎谷蛾,Ochsenheimeria taurella,河北,Hebei,主要发生地,RegionIs
+1381,麦茎谷蛾,Ochsenheimeria taurella,江苏,Jiangsu,主要发生地,RegionIs
+1382,麦茎谷蛾,Ochsenheimeria taurella,甘肃,Gansu,主要发生地,RegionIs
+1383,绿翅脊萤叶甲,Galeruca daurica,四川,Sichuan,主要发生地,RegionIs
+1384,绿翅脊萤叶甲,Galeruca daurica,西藏,Tibet,主要发生地,RegionIs
+1385,玉米褐斑病,Physoderma maydis,山东,Shandong,主要发生地,RegionIs
+1386,玉米褐斑病,Physoderma maydis,安徽,Anhui,主要发生地,RegionIs
+1387,玉米疯顶病,Sclerophthora macrospora,甘肃,Gansu,主要发生地,RegionIs
+1388,玉米疯顶病,Sclerophthora macrospora,新疆,Xinjiang,主要发生地,RegionIs
+1389,玉米疯顶病,Sclerophthora macrospora,四川,Sichuan,主要发生地,RegionIs
+1390,玉米疯顶病,Sclerophthora macrospora,河北,Hebei,主要发生地,RegionIs
+1391,玉米疯顶病,Sclerophthora macrospora,北京,Beijing,主要发生地,RegionIs
+1392,玉米疯顶病,Sclerophthora macrospora,江苏,Jiangsu,主要发生地,RegionIs
+1393,玉米疯顶病,Sclerophthora macrospora,山西,Shanxi,主要发生地,RegionIs
+1394,玉米疯顶病,Sclerophthora macrospora,山东,Shandong,主要发生地,RegionIs
+1395,玉米疯顶病,Sclerophthora macrospora,台湾,Taiwan,主要发生地,RegionIs
+1396,玉米圆斑病,Helminthosporium carbonum,吉林,Jilin,主要发生地,RegionIs
+1397,玉米圆斑病,Helminthosporium carbonum,辽宁,Liaoning,主要发生地,RegionIs
+1398,玉米圆斑病,Helminthosporium carbonum,河北,Hebei,主要发生地,RegionIs
+1399,玉米干腐病,Diplodia maydis,安徽,Anhui,主要发生地,RegionIs
+1400,玉米干腐病,Diplodia maydis,四川,Sichuan,主要发生地,RegionIs
+1401,玉米干腐病,Diplodia maydis,广东,Guangdong,主要发生地,RegionIs
+1402,玉米干腐病,Diplodia maydis,云南,Yunnan,主要发生地,RegionIs
+1403,玉米干腐病,Diplodia maydis,贵州,Guizhou,主要发生地,RegionIs
+1404,玉米干腐病,Diplodia maydis,湖南,Hunan,主要发生地,RegionIs
+1405,玉米干腐病,Diplodia maydis,湖北,Hubei,主要发生地,RegionIs
+1406,玉米干腐病,Diplodia maydis,浙江,Zhejiang,主要发生地,RegionIs
+1407,银锭夜蛾,Macdunnoughia crassisigna,东北,Northeast,主要发生地,RegionIs
+1408,银锭夜蛾,Macdunnoughia crassisigna,华北,North China,主要发生地,RegionIs
+1409,银锭夜蛾,Macdunnoughia crassisigna,华东,East China,主要发生地,RegionIs
+1410,银锭夜蛾,Macdunnoughia crassisigna,西北,Northwest,主要发生地,RegionIs
+1411,向日葵褐斑病,Septoria helianthi,吉林,Jilin,主要发生地,RegionIs
+1412,向日葵褐斑病,Septoria helianthi,辽宁,Liaoning,主要发生地,RegionIs
+1413,向日葵褐斑病,Septoria helianthi,河北,Hebei,主要发生地,RegionIs
+1414,向日葵褐斑病,Septoria helianthi,甘肃,Gansu,主要发生地,RegionIs
+1415,向日葵褐斑病,Septoria helianthi,江西,Jiangxi,主要发生地,RegionIs
+1416,向日葵褐斑病,Septoria helianthi,广西,Guangxi,主要发生地,RegionIs
+1417,向日葵褐斑病,Septoria helianthi,云南,Yunnan,主要发生地,RegionIs
+1418,向日葵细菌性叶斑病,Pseudomonas syringae pv. helianthi,广西,Guangxi,主要发生地,RegionIs
+1419,向日葵细菌性叶斑病,Pseudomonas syringae pv. helianthi,湖北,Hubei,主要发生地,RegionIs
+1420,向日葵细菌性叶斑病,Pseudomonas syringae pv. helianthi,江苏,Jiangsu,主要发生地,RegionIs
+1421,向日葵细菌性叶斑病,Pseudomonas syringae pv. helianthi,山东,Shandong,主要发生地,RegionIs
+1422,向日葵细菌性叶斑病,Pseudomonas syringae pv. helianthi,河南,Henan,主要发生地,RegionIs
+1423,向日葵细菌性叶斑病,Pseudomonas syringae pv. helianthi,河北,Hebei,主要发生地,RegionIs
+1424,向日葵细菌性叶斑病,Pseudomonas syringae pv. helianthi,辽宁,Liaoning,主要发生地,RegionIs
+1425,向日葵细菌性叶斑病,Pseudomonas syringae pv. helianthi,吉林,Jilin,主要发生地,RegionIs
+1426,葱黄寡毛跳甲,Luperomorpha suturalis,吉林,Jilin,主要发生地,RegionIs
+1427,葱黄寡毛跳甲,Luperomorpha suturalis,河北,Hebei,主要发生地,RegionIs
+1428,葱黄寡毛跳甲,Luperomorpha suturalis,山西,Shanxi,主要发生地,RegionIs
+1429,葱黄寡毛跳甲,Luperomorpha suturalis,江苏,Jiangsu,主要发生地,RegionIs
+1430,葱黄寡毛跳甲,Luperomorpha suturalis,安徽,Anhui,主要发生地,RegionIs
+1431,韭菜迟眼蕈蚊,Bradysia odoriphaga,湖北,Hubei,主要发生地,RegionIs
+1432,韭菜迟眼蕈蚊,Bradysia odoriphaga,浙江,Zhejiang,主要发生地,RegionIs
+1433,黄星蝗,Aularches miliaris,海南,Hainan,主要发生地,RegionIs
+1434,黄星蝗,Aularches miliaris,广西,Guangxi,主要发生地,RegionIs
+1435,黄星蝗,Aularches miliaris,贵州,Guizhou,主要发生地,RegionIs
+1436,黄星蝗,Aularches miliaris,云南,Yunnan,主要发生地,RegionIs
+1437,黄星蝗,Aularches miliaris,四川,Sichuan,主要发生地,RegionIs
+1438,水稻云形病,Gerlachia oryzae,广东,Guangdong,主要发生地,RegionIs
+1439,水稻云形病,Gerlachia oryzae,江西,Jiangxi,主要发生地,RegionIs
+1440,水稻云形病,Gerlachia oryzae,湖南,Hunan,主要发生地,RegionIs
+1441,水稻云形病,Gerlachia oryzae,浙江,Zhejiang,主要发生地,RegionIs
+1442,水稻云形病,Gerlachia oryzae,江苏,Jiangsu,主要发生地,RegionIs
+1443,水稻云形病,Gerlachia oryzae,上海,Shanghai,主要发生地,RegionIs
+1444,水稻云形病,Gerlachia oryzae,安徽,Anhui,主要发生地,RegionIs
+1445,水稻紫鞘病,Rice purple sheath disease,广西,Guangxi,主要发生地,RegionIs
+1446,水稻紫鞘病,Rice purple sheath disease,广东,Guangdong,主要发生地,RegionIs
+1447,水稻紫鞘病,Rice purple sheath disease,湖南,Hunan,主要发生地,RegionIs
+1448,水稻紫鞘病,Rice purple sheath disease,湖北,Hubei,主要发生地,RegionIs
+1449,水稻紫鞘病,Rice purple sheath disease,安徽,Anhui,主要发生地,RegionIs
+1450,水稻紫鞘病,Rice purple sheath disease,江苏,Jiangsu,主要发生地,RegionIs
+1451,水稻紫鞘病,Rice purple sheath disease,浙江,Zhejiang,主要发生地,RegionIs
+1452,水稻紫鞘病,Rice purple sheath disease,江西,Jiangxi,主要发生地,RegionIs
+1453,水稻紫鞘病,Rice purple sheath disease,贵州,Guizhou,主要发生地,RegionIs
+1454,水稻细菌性条斑病,Xanthomonas oryzae pv. oryzicola,江苏,Jiangsu,主要发生地,RegionIs
+1455,水稻细菌性条斑病,Xanthomonas oryzae pv. oryzicola,安徽,Anhui,主要发生地,RegionIs
+1456,水稻细菌性条斑病,Xanthomonas oryzae pv. oryzicola,湖南,Hunan,主要发生地,RegionIs
+1457,水稻细菌性条斑病,Xanthomonas oryzae pv. oryzicola,湖北,Hubei,主要发生地,RegionIs
+1458,水稻细菌性条斑病,Xanthomonas oryzae pv. oryzicola,云南,Yunnan,主要发生地,RegionIs
+1459,水稻细菌性条斑病,Xanthomonas oryzae pv. oryzicola,贵州,Guizhou,主要发生地,RegionIs
+1460,水稻根结线虫病,Meloidogyne graminicola,广西,Guangxi,主要发生地,RegionIs
+1461,水稻根结线虫病,Meloidogyne graminicola,海南,Hainan,主要发生地,RegionIs
+1462,水稻根结线虫病,Meloidogyne graminicola,云南,Yunnan,主要发生地,RegionIs
+1463,稻切叶野螟,Herpetogramma licarsisalis,浙江,Zhejiang,主要发生地,RegionIs
+1464,稻切叶野螟,Herpetogramma licarsisalis,福建,Fujian,主要发生地,RegionIs
+1465,稻切叶野螟,Herpetogramma licarsisalis,江西,Jiangxi,主要发生地,RegionIs
+1466,稻切叶野螟,Herpetogramma licarsisalis,湖南,Hunan,主要发生地,RegionIs
+1467,稻切叶野螟,Herpetogramma licarsisalis,湖北,Hubei,主要发生地,RegionIs
+1468,稻切叶野螟,Herpetogramma licarsisalis,广东,Guangdong,主要发生地,RegionIs
+1469,稻切叶野螟,Herpetogramma licarsisalis,广西,Guangxi,主要发生地,RegionIs
+1470,稻潜叶蝇,Agromyza oryzae,东北,Northeast,主要发生地,RegionIs
+1471,稻潜叶蝇,Agromyza oryzae,华北,North China,主要发生地,RegionIs
+1472,稻潜叶蝇,Agromyza oryzae,浙江,Zhejiang,主要发生地,RegionIs
+1473,大稻缘蝽,Leptocorisa acuta,广西,Guangxi,主要发生地,RegionIs
+1474,大稻缘蝽,Leptocorisa acuta,海南,Hainan,主要发生地,RegionIs
+1475,大稻缘蝽,Leptocorisa acuta,云南,Yunnan,主要发生地,RegionIs
+1476,大稻缘蝽,Leptocorisa acuta,台湾,Taiwan,主要发生地,RegionIs
+1477,黑尾叶蝉,Nephotettix cincticeps,江苏,Jiangsu,主要发生地,RegionIs
+1478,黑尾叶蝉,Nephotettix cincticeps,安徽,Anhui,主要发生地,RegionIs
+1479,黑尾叶蝉,Nephotettix cincticeps,浙江,Zhejiang,主要发生地,RegionIs
+1480,黑尾叶蝉,Nephotettix cincticeps,湖南,Hunan,主要发生地,RegionIs
+1481,黑尾叶蝉,Nephotettix cincticeps,湖北,Hubei,主要发生地,RegionIs
+1482,黑尾叶蝉,Nephotettix cincticeps,福建,Fujian,主要发生地,RegionIs
+1483,黑尾叶蝉,Nephotettix cincticeps,广东,Guangdong,主要发生地,RegionIs
+1484,黑尾叶蝉,Nephotettix cincticeps,广西,Guangxi,主要发生地,RegionIs
+1485,黑尾叶蝉,Nephotettix cincticeps,四川,Sichuan,主要发生地,RegionIs
+1486,黑尾叶蝉,Nephotettix cincticeps,贵州,Guizhou,主要发生地,RegionIs
+1487,白翅叶蝉,Erythroneura subrufa,浙江,Zhejiang,主要发生地,RegionIs
+1488,白翅叶蝉,Erythroneura subrufa,江西,Jiangxi,主要发生地,RegionIs
+1489,白翅叶蝉,Erythroneura subrufa,湖南,Hunan,主要发生地,RegionIs
+1490,白翅叶蝉,Erythroneura subrufa,湖北,Hubei,主要发生地,RegionIs
+1491,白翅叶蝉,Erythroneura subrufa,福建,Fujian,主要发生地,RegionIs
+1492,白翅叶蝉,Erythroneura subrufa,台湾,Taiwan,主要发生地,RegionIs
+1493,白翅叶蝉,Erythroneura subrufa,广东,Guangdong,主要发生地,RegionIs
+1494,白翅叶蝉,Erythroneura subrufa,广西,Guangxi,主要发生地,RegionIs
+1495,白翅叶蝉,Erythroneura subrufa,四川,Sichuan,主要发生地,RegionIs
+1496,白翅叶蝉,Erythroneura subrufa,贵州,Guizhou,主要发生地,RegionIs
+1497,白翅叶蝉,Erythroneura subrufa,云南,Yunnan,主要发生地,RegionIs
+1498,稻赤斑沫蝉,Callitettix versicolor,湖北,Hubei,主要发生地,RegionIs
+1499,稻赤斑沫蝉,Callitettix versicolor,江苏,Jiangsu,主要发生地,RegionIs
+1500,稻赤斑沫蝉,Callitettix versicolor,浙江,Zhejiang,主要发生地,RegionIs
+1501,稻筒水螟,Parapoynx stagnalis,福建,Fujian,主要发生地,RegionIs
+1502,稻筒水螟,Parapoynx stagnalis,台湾,Taiwan,主要发生地,RegionIs
+1503,稻筒水螟,Parapoynx stagnalis,广东,Guangdong,主要发生地,RegionIs
+1504,稻筒水螟,Parapoynx stagnalis,广西,Guangxi,主要发生地,RegionIs
+1505,稻筒水螟,Parapoynx stagnalis,四川,Sichuan,主要发生地,RegionIs
+1506,稻筒水螟,Parapoynx stagnalis,云南,Yunnan,主要发生地,RegionIs
+1507,稻筒水螟,Parapoynx stagnalis,河南,Henan,主要发生地,RegionIs
+1508,稻筒水螟,Parapoynx stagnalis,宁夏,Ningxia,主要发生地,RegionIs
+1509,稻筒水螟,Parapoynx stagnalis,贵州,Guizhou,主要发生地,RegionIs
+1510,水稻负泥虫,Oulema oryzae,江西,Jiangxi,主要发生地,RegionIs
+1511,水稻负泥虫,Oulema oryzae,湖北,Hubei,主要发生地,RegionIs
+1512,水稻负泥虫,Oulema oryzae,湖南,Hunan,主要发生地,RegionIs
+1513,水稻负泥虫,Oulema oryzae,台湾,Taiwan,主要发生地,RegionIs
+1514,水稻负泥虫,Oulema oryzae,福建,Fujian,主要发生地,RegionIs
+1515,水稻负泥虫,Oulema oryzae,广东,Guangdong,主要发生地,RegionIs
+1516,水稻负泥虫,Oulema oryzae,广西,Guangxi,主要发生地,RegionIs
+1517,水稻负泥虫,Oulema oryzae,云南,Yunnan,主要发生地,RegionIs
+1518,水稻负泥虫,Oulema oryzae,贵州,Guizhou,主要发生地,RegionIs
+1519,福寿螺,Pomacea canaliculata,广东,Guangdong,主要发生地,RegionIs
+1520,福寿螺,Pomacea canaliculata,广西,Guangxi,主要发生地,RegionIs
+1521,福寿螺,Pomacea canaliculata,福建,Fujian,主要发生地,RegionIs
+1522,福寿螺,Pomacea canaliculata,浙江,Zhejiang,主要发生地,RegionIs
+1523,福寿螺,Pomacea canaliculata,上海,Shanghai,主要发生地,RegionIs
+1524,福寿螺,Pomacea canaliculata,海南,Hainan,主要发生地,RegionIs
+1525,福寿螺,Pomacea canaliculata,台湾,Taiwan,主要发生地,RegionIs
+1526,长肩棘缘蝽,Cletus trigonus,云南,Yunnan,主要发生地,RegionIs
+1527,长肩棘缘蝽,Cletus trigonus,贵州,Guizhou,主要发生地,RegionIs
+1528,小麦雪霉叶枯病,Gerlachia nivalis,陕西,Shaanxi,主要发生地,RegionIs
+1529,小麦雪霉叶枯病,Gerlachia nivalis,甘肃,Gansu,主要发生地,RegionIs
+1530,小麦雪霉叶枯病,Gerlachia nivalis,宁夏,Ningxia,主要发生地,RegionIs
+1531,小麦雪霉叶枯病,Gerlachia nivalis,青海,Qinghai,主要发生地,RegionIs
+1532,小麦雪霉叶枯病,Gerlachia nivalis,新疆,Xinjiang,主要发生地,RegionIs
+1533,小麦雪霉叶枯病,Gerlachia nivalis,四川,Sichuan,主要发生地,RegionIs
+1534,小麦雪霉叶枯病,Gerlachia nivalis,贵州,Guizhou,主要发生地,RegionIs
+1535,小麦雪霉叶枯病,Gerlachia nivalis,西藏,Tibet,主要发生地,RegionIs
+1536,小麦雪霉叶枯病,Gerlachia nivalis,河南,Henan,主要发生地,RegionIs
+1537,小麦土传花叶病毒病,Wheat soil-borne mosaic virus,河南,Henan,主要发生地,RegionIs
+1538,小麦土传花叶病毒病,Wheat soil-borne mosaic virus,江苏,Jiangsu,主要发生地,RegionIs
+1539,小麦土传花叶病毒病,Wheat soil-borne mosaic virus,浙江,Zhejiang,主要发生地,RegionIs
+1540,小麦土传花叶病毒病,Wheat soil-borne mosaic virus,安徽,Anhui,主要发生地,RegionIs
+1541,小麦土传花叶病毒病,Wheat soil-borne mosaic virus,四川,Sichuan,主要发生地,RegionIs
+1542,小麦土传花叶病毒病,Wheat soil-borne mosaic virus,陕西,Shaanxi,主要发生地,RegionIs
+1543,小麦蜜穗病,Clavibacter michiganensis subsp. tesselarius,河北,Hebei,主要发生地,RegionIs
+1544,小麦蜜穗病,Clavibacter michiganensis subsp. tesselarius,山东,Shandong,主要发生地,RegionIs
+1545,小麦蜜穗病,Clavibacter michiganensis subsp. tesselarius,安徽,Anhui,主要发生地,RegionIs
+1546,小麦蜜穗病,Clavibacter michiganensis subsp. tesselarius,江苏,Jiangsu,主要发生地,RegionIs
+1547,小麦蜜穗病,Clavibacter michiganensis subsp. tesselarius,浙江,Zhejiang,主要发生地,RegionIs
+1548,小麦蜜穗病,Clavibacter michiganensis subsp. tesselarius,贵州,Guizhou,主要发生地,RegionIs
+1549,小麦细菌性条斑病,Xanthomonas campestris pv. translucens,西藏,Tibet,主要发生地,RegionIs
+1550,小麦细菌性条斑病,Xanthomonas campestris pv. translucens,山东,Shandong,主要发生地,RegionIs
+1551,小麦细菌性条斑病,Xanthomonas campestris pv. translucens,北京,Beijing,主要发生地,RegionIs
+1552,大麦麦角病,Claviceps purpurea f. sp. hordeina,浙江,Zhejiang,主要发生地,RegionIs
+1553,大麦麦角病,Claviceps purpurea f. sp. hordeina,安徽,Anhui,主要发生地,RegionIs
+1554,大麦麦角病,Claviceps purpurea f. sp. hordeina,山东,Shandong,主要发生地,RegionIs
+1555,大麦麦角病,Claviceps purpurea f. sp. hordeina,广西,Guangxi,主要发生地,RegionIs
+1556,大麦麦角病,Claviceps purpurea f. sp. hordeina,湖南,Hunan,主要发生地,RegionIs
+1557,大麦麦角病,Claviceps purpurea f. sp. hordeina,四川,Sichuan,主要发生地,RegionIs
+1558,大麦麦角病,Claviceps purpurea f. sp. hordeina,甘肃,Gansu,主要发生地,RegionIs
+1559,大麦麦角病,Claviceps purpurea f. sp. hordeina,河北,Hebei,主要发生地,RegionIs
+1560,大麦麦角病,Claviceps purpurea f. sp. hordeina,吉林,Jilin,主要发生地,RegionIs
+1561,大麦麦角病,Claviceps purpurea f. sp. hordeina,黑龙江,Heilongjiang,主要发生地,RegionIs
+1562,大麦麦角病,Claviceps purpurea f. sp. hordeina,新疆,Xinjiang,主要发生地,RegionIs
